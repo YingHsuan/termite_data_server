@@ -1,0 +1,5396 @@
+0 functional 1:5
+1 design 4:184 6:2
+2 present 13:62 2:44 15:35 9:30 10:3
+3 visualisation 10:21
+4 tools 16:74
+5 influence 5:8
+6 explorer 4:5
+7 prosection 17:1
+8 matrix 6:36
+9 specifically 18:17
+10 created 16:11
+11 support 12:38 14:20 0:17
+12 engineering 10:4
+13 artifact 19:3
+14 similar 8:25
+15 tasks 5:85 12:3
+16 set 13:107 18:6 8:1
+17 parameter 0:10
+18 values 10:48 19:1 16:1
+19 chosen 3:4
+20 lead 5:10
+21 acceptable 16:2
+22 performance 5:30 1:23
+23 combine 19:12
+24 concepts 19:7 4:5
+25 interactive 0:90 11:58
+26 virtually 10:2 13:1
+27 responsive 13:1
+28 display 18:79 10:20 1:10 7:4 14:2
+29 data 15:678 10:253
+30 manner 13:16
+31 conducive 1:1
+32 acquisition 11:5
+33 insight 11:24
+34 involving 3:7 17:5
+35 precalculation 6:1
+36 samples 14:2
+37 facilitates 0:12
+38 smooth 1:17
+39 exploration 7:112 6:15 13:1
+40 optimisation 5:1
+41 leading 10:6
+42 decision 4:22
+43 anticipated 3:1
+44 benefits 5:21
+45 illustrated 8:4 0:1
+46 electronic 10:9
+47 circuit 14:1
+48 full 11:8 15:4
+49 account 3:11
+50 uncertainties 4:1
+51 arising 16:1
+52 inevitable 16:1
+53 variations 10:3
+54 manufacturing 6:1
+55 process 16:59 7:6
+56 generative 16:3
+57 theory 4:17
+58 diagram 6:17 13:8
+59 describe 9:51 6:32
+60 theoretical 4:7 13:1
+61 background 18:3
+62 ave 16:1
+63 automatic 0:24 18:5
+64 visualization 12:349 4:246 15:113 19:95
+65 engine 11:3
+66 semantic 17:20 1:15
+67 networks 6:78
+68 notion 12:8 14:1
+69 aesthetics 9:6 5:1
+70 understand 18:24 10:10
+71 meaningfulness 6:1
+72 central 16:5
+73 issue 17:5
+74 information 19:504
+75 implies 11:2
+76 diagrams 6:40
+77 communicate 11:9 10:2
+78 characteristics 11:22
+79 effectively 11:28 10:1
+80 include 18:30 0:1
+81 characterization 4:6
+82 systematic 12:7
+83 graphical 12:53 17:4
+84 means 1:13
+85 expression 16:20
+86 combination 14:12 0:2 11:1
+87 giving 18:3
+88 introduction 15:2 10:2
+89 application 1:51 8:22
+90 scenario 12:5 3:3
+91 discuss 4:51
+92 aspects 9:20
+93 detail 1:50
+94 finally 17:14 4:11
+95 model 8:81 16:16
+96 sketched 17:1
+97 directions 11:10
+98 research 12:40 3:24 2:3
+99 outlined 9:2
+100 report 19:10 0:5
+101 animation 6:29 12:5
+102 applications 9:53 1:1
+103 capital 12:1 6:1
+104 markets 9:1
+105 computer 16:17 18:1
+106 graphics 18:37
+107 extremely 11:10 18:1 2:1
+108 expressive 12:3 17:1
+109 entire 19:25
+110 securities 2:2 0:1
+111 market 19:13
+112 500 9:3 2:1
+113 single 1:39
+114 screen 18:22 3:15
+115 correct 18:5 5:1
+116 approach 17:91 13:44 10:30
+117 visual 7:366
+118 layout 2:163
+119 massive 2:5
+120 amounts 18:11
+121 quickly 2:19
+122 easily 19:28 14:1 1:1
+123 comprehended 5:1
+124 human 4:23 2:6 10:1
+125 observer 5:3
+126 motion 3:6 14:3 18:1
+127 animated 1:12 8:10
+128 interaction 4:102 12:4 13:3
+129 reliable 9:1
+130 accurate 5:16
+131 precise 12:5 11:1
+132 tool 16:82
+133 suited 2:9
+134 industry 10:6 16:1
+135 find 11:21 6:12 5:5 15:4
+136 huge 6:13
+137 declines 13:1
+138 rapidly 12:16
+139 time 14:166 10:4
+140 critical 16:13
+141 decisions 16:13
+142 made 16:18
+143 short 19:7 18:2
+144 periods 16:2 9:1
+145 technology 9:10
+146 important 14:45 13:8
+147 people 19:20 13:8
+148 making 7:19 9:7 12:2
+149 loop 9:2
+150 suffering 9:1
+151 overload 0:6
+152 examples 9:28
+153 discussed 11:11
+154 including 2:22 5:8 3:2
+155 equity 9:2
+156 trading 19:1 16:1
+157 analytics 18:4
+158 fixed 19:5
+159 income 16:3
+160 risk 14:4
+161 viewing 19:24
+162 improving 18:4 9:3 19:1
+163 browsing 19:25 0:2
+164 representations 5:39 14:18 4:12
+165 helpful 3:3 9:1
+166 browse 0:14
+167 graph 2:188
+168 structured 0:18
+169 promising 16:6 4:2 8:1
+170 requires 6:17
+171 capability 2:3
+172 system 0:161 16:39
+173 tedious 5:2 8:1
+174 consuming 8:2
+175 task 5:50 4:3 17:1 15:1
+176 manual 3:5 6:4
+177 leads 6:10
+178 rejection 6:1
+179 user 0:193 1:56 7:4 17:2
+180 split 17:2
+181 retrieving 0:2
+182 phases 2:2
+183 orientation 11:17
+184 network 6:79
+185 reading 1:1
+186 visited 14:4
+187 algorithms 2:75
+188 benefit 5:3 4:3 9:1
+189 flexible 15:37
+190 adaptable 11:1
+191 individual 14:20 5:14
+192 requests 14:5
+193 ensure 10:6
+194 topological 14:4 8:2
+195 consistency 2:3
+196 stability 2:8
+197 topology 6:12
+198 sequence 16:27
+199 layouts 2:55
+200 results 5:140
+201 show 3:47 5:44
+202 possibility 19:2 4:1
+203 assist 6:5 12:1
+204 essentially 10:1
+205 maintaining 2:13
+206 malleable 15:1
+207 selective 9:4
+208 dynamic 17:77
+209 manipulation 0:15
+210 sdm 2:1
+211 paradigm 0:15
+212 interacting 0:13
+213 objects 12:37 13:8
+214 visualizations 12:236
+215 methods 11:48 5:20
+216 offer 17:12
+217 high 10:95
+218 degree 3:19
+219 selectivity 10:1
+220 choosing 11:5
+221 object 17:13
+222 sets 10:68 13:48
+223 selection 17:41
+224 techniques 7:156 9:91
+225 properties 12:29
+226 affect 12:11
+227 action 4:4 19:2 13:1
+228 affects 19:5 0:1
+229 goal 4:23 18:5
+230 provide 9:68 18:19
+231 feedback 9:27
+232 mechanisms 0:10 16:2 10:1
+233 enable 15:24
+234 users 0:185
+235 move 7:5 15:2
+236 transform 7:4 19:1
+237 appearance 3:3
+238 perform 9:12 2:1
+239 variety 17:41
+240 analysis 14:209 16:12
+241 mural 19:2
+242 technique 13:160
+243 displaying 19:18 15:6
+244 navigating 19:8
+245 large 18:160 10:76
+246 spaces 19:24 3:5
+247 depict 19:9
+248 context 3:117 14:1
+249 navigation 9:52
+250 limited 18:22
+251 size 18:30
+252 makes 1:21
+253 creating 18:19
+254 effective 18:66
+255 global 11:26
+256 views 1:76
+257 difficult 18:22 11:8 4:6 16:3 13:1
+258 developed 9:52 19:7 14:1
+259 key 1:25
+260 concept 17:13 15:11
+261 dimensional 10:92
+262 reduced 1:9 15:1
+263 representation 16:64 7:18
+264 space 3:150 14:1
+265 fits 11:1 14:1
+266 completely 17:2
+267 window 19:5
+268 murals 19:3
+269 grayscale 4:3
+270 shading 18:8
+271 color 5:62
+272 anti 1:1
+273 aliasing 1:1
+274 create 16:38
+275 miniature 1:1
+276 version 11:10
+277 incorporating 11:4
+278 navigational 10:5
+279 capabilities 1:18
+280 view 1:70
+281 detailed 1:23
+282 informational 13:2
+283 displays 9:71
+284 utilized 19:3
+285 software 16:40 17:8 9:1
+286 execution 1:14
+287 oriented 11:11 4:3
+288 programs 16:5
+289 general 11:23 2:22 19:1
+290 spatial 3:74 15:1
+291 text 19:55
+292 documents 19:41
+293 paper 11:71 17:59 7:45 1:42 14:10
+294 describes 19:35
+295 involves 19:5
+296 spatializing 19:1
+297 content 19:24 16:1
+298 enhanced 3:9
+299 arena 17:1
+300 document 19:35
+301 corpora 19:7
+302 digital 3:18
+303 libraries 19:4
+304 regulations 17:1
+305 procedures 17:3
+306 archived 1:1
+307 reports 9:5
+308 basic 19:11 6:4 10:1
+309 idea 7:6
+310 sources 2:12
+311 transformed 7:6
+312 preserves 19:6
+313 visually 14:38
+314 browsed 9:1
+315 analyzed 2:8 9:2
+316 ways 4:23 13:2
+317 avoid 11:11
+318 language 12:17
+319 processing 7:11 8:1
+320 reduce 8:21
+321 analysts 14:24
+322 mental 19:10
+323 workload 7:2
+324 result 17:28 15:1
+325 resembles 18:2
+326 perception 11:14 3:6
+327 natural 8:13
+328 world 10:45
+329 abstractions 16:5
+330 written 12:3
+331 web 0:60
+332 access 19:16 17:5
+333 virtual 0:10
+334 environment 19:31
+335 reality 0:2
+336 aid 8:8 19:2
+337 designing 4:10 19:2
+338 complex 17:62 9:1 8:1
+339 structures 6:53
+340 ships 18:1
+341 skyscrapers 1:1
+342 factories 3:1
+343 aircraft 17:2 12:1
+344 realize 19:2
+345 potential 19:11 9:8 15:7
+346 solve 3:10
+347 number 10:64 3:33
+348 problems 3:17 4:8
+349 interact 0:6
+350 geometric 18:8 6:3
+351 examined 5:5
+352 realeyes 0:1
+353 scale 18:59
+354 geometry 8:7
+355 reasonable 8:1
+356 frame 19:5
+357 rates 11:3
+358 allowing 0:28
+359 navigate 0:13
+360 person 0:5
+361 perspective 19:6 11:6
+362 includes 0:10 1:2 5:1
+363 schematics 15:1
+364 electrical 4:3
+365 hydraulic 19:1
+366 plumbing 4:1
+367 systems 12:93
+368 describing 3:4 19:2
+369 materials 0:2
+370 processes 16:17
+371 descriptive 0:1
+372 textual 19:9 8:2 7:1
+373 types 15:44 11:6 5:1
+374 researchers 4:17
+375 wealth 13:1
+376 presenting 0:7 12:2
+377 flat 19:4
+378 recently 14:4 12:1
+379 naturally 8:6
+380 make 4:24 7:7 18:4
+381 implemented 0:23
+382 mosaic 0:5
+383 functions 11:24
+384 fully 0:8 18:7
+385 immersive 19:3
+386 vrmosaic 0:2
+387 extensible 17:5
+388 seamless 3:7 19:1
+389 integration 0:20
+390 specialized 19:3 16:1
+391 forms 1:16 12:1
+392 capable 19:9 13:1
+393 interviews 19:3 0:2
+394 extensions 18:7 17:1
+395 nee 9:1
+396 creation 12:10
+397 queries 17:40 3:2 13:1
+398 ivee 9:4
+399 imports 9:1
+400 database 9:11 17:8
+401 relations 8:27 15:2
+402 automatically 11:18 18:8
+403 creates 9:3
+404 environments 4:8
+405 holding 1:1
+406 query 17:33
+407 devices 9:12
+408 offers 12:5 6:5
+409 multiple 14:120 15:1
+410 maps 13:62
+411 starfields 12:1
+412 sliders 17:9
+413 alphasliders 13:1
+414 toggles 12:1
+415 arbitrary 2:10 8:7
+416 attached 0:1
+417 active 1:3 17:2
+418 simultaneously 14:17
+419 interactively 0:22 10:8
+420 lay 9:1 8:1 17:1
+421 change 14:20
+422 retrieve 9:2 5:1
+423 details 9:18 1:4
+424 demand 13:6 17:3
+425 clicking 4:1 15:1
+426 html 3:2
+427 file 1:9
+428 provided 18:13 5:5
+429 presented 8:28 12:5 18:4
+430 presentation 0:31
+431 multimedia 9:2 17:1
+432 clients 0:3 5:1
+433 running 9:7
+434 separate 16:7 18:5
+435 workstations 10:2
+436 letting 1:2
+437 actions 12:6 18:1
+438 client 0:6
+439 hierarchies 6:28
+440 cone 6:12
+441 trees 6:66
+442 implementation 17:18 2:17 14:1
+443 visualizing 6:45 9:20 16:10
+444 preliminary 9:9
+445 empirical 5:19
+446 evaluation 4:49
+447 efficacy 16:6
+448 existing 7:52 15:1
+449 break 5:1
+450 hierarchy 6:54
+451 displayed 6:28 16:2
+452 exceeds 2:3
+453 roughly 17:1
+454 1000 3:3
+455 nodes 6:82
+456 due 9:11
+457 increasing 3:11
+458 clutter 7:38
+459 called 0:37 9:8
+460 fsviz 3:2
+461 visualizes 19:8
+462 arbitrarily 1:2
+463 retaining 18:3
+464 control 17:28
+465 accomplished 7:2 0:1
+466 augmenting 9:3
+467 usage 0:13
+468 based 8:123 13:52 2:34 0:21 9:13
+469 filtering 18:19 8:2
+470 zooming 1:21
+471 hand 7:7 6:2
+472 coupled 7:9
+473 rotation 19:5
+474 fish 0:6
+475 eye 6:13
+476 coalescing 5:1
+477 distant 18:3
+478 texturing 11:1
+479 colour 3:9
+480 depth 2:13
+481 cueing 6:1
+482 improves 13:5 8:1
+483 earlier 5:4
+484 tree 6:102 7:1
+485 elaborate 19:2 14:2
+486 node 6:88
+487 algorithm 2:77 8:7
+488 enhances 3:4
+489 usefulness 0:20
+490 eliminating 6:2 2:1
+491 dataspace 9:4
+492 databases 9:25
+493 utilizes 0:5 4:4 16:1
+494 placing 5:2 19:1
+495 panels 2:2
+496 possibly 5:4
+497 generated 2:20
+498 providing 9:26 16:5
+499 continuous 1:18 0:7 7:2
+500 facilities 10:4
+501 rearrangements 9:4
+502 transparency 17:4 0:2
+503 occlusion 13:17
+504 compare 11:31 15:1
+505 merge 9:1
+506 images 8:18
+507 line 14:18 18:11
+508 graphs 2:117
+509 scatter 7:15
+510 plots 18:22
+511 aligned 11:2
+512 stacked 18:5
+513 prototype 0:30
+514 supporting 9:21
+515 graphic 9:11
+516 operations 12:18
+517 zoom 1:13
+518 translation 18:4
+519 illustrative 5:3
+520 current 9:30
+521 rendering 2:21
+522 steps 16:5
+523 required 12:16
+524 issues 19:21
+525 study 5:70 4:37 14:11
+526 narcissus 16:1
+527 visualising 10:8
+528 increasingly 18:12
+529 dealing 11:8 15:1
+530 driven 17:14 5:3
+531 growing 16:11
+532 domains 12:30
+533 requirement 19:3 15:1
+534 manipulate 12:8
+535 complexity 10:14 11:6
+536 pressures 13:1
+537 efficiently 10:13
+538 paradigmatic 19:1
+539 wide 17:33
+540 concurrent 9:1
+541 sophisticated 11:6 2:4
+542 form 4:31 7:2 2:1
+543 intuitive 3:24 9:8
+544 understanding 16:43 4:15
+545 structure 8:78 6:43
+546 behaviour 14:2 3:2
+547 domain 15:44 4:6
+548 implements 9:3
+549 cyberspace 4:1
+550 harmony 0:5
+551 internet 0:25
+552 browser 0:10
+553 explosive 0:2
+554 growth 10:6
+555 demonstrated 19:7
+556 organise 2:1
+557 filter 14:12
+558 cope 13:3
+559 sheer 19:2
+560 quantities 0:3
+561 scope 7:1
+562 gopher 9:1
+563 www 0:14
+564 restricted 10:3
+565 limitations 13:12
+566 respective 3:2 4:1
+567 models 16:27 19:1
+568 richer 0:5
+569 supported 4:10 10:2
+570 hyper 0:4
+571 exploited 9:3
+572 tightly 0:5 14:4
+573 location 13:13
+574 alleviate 18:2
+575 disorientation 18:1
+576 fishing 3:1
+577 continues 0:2
+578 grow 6:2
+579 amount 13:19
+580 accessible 17:4 1:1 8:1
+581 vast 19:6
+582 search 0:49
+583 exist 13:10 17:1
+584 relevant 1:13 0:9
+585 produce 19:13 14:1
+586 hard 11:6 19:2
+587 ferret 3:1
+588 highest 8:1
+589 quality 8:39
+590 addition 0:33
+591 lose 16:3
+592 valuable 11:7
+593 hierarchically 8:7 18:2
+594 managing 3:7
+595 forager 0:1
+596 super 4:2
+597 highway 10:1
+598 visualize 13:54
+599 returned 0:2
+600 rectangles 18:7
+601 order 1:41 10:7 6:3
+602 indentation 3:1
+603 denote 4:3
+604 score 0:1
+605 respect 3:12 0:1 1:1
+606 attributes 15:38 4:1
+607 probing 0:1
+608 refinement 19:5
+609 viewpoint 11:7
+610 scientific 4:13
+611 epa 8:1
+612 case 10:24 14:19 1:2
+613 transfer 9:4
+614 examines 10:1 18:1
+615 environmental 16:7 12:3
+616 scientists 16:7
+617 policy 0:1
+618 makers 16:1
+619 personal 9:10
+620 computers 15:6
+621 pcs 9:1
+622 desktops 8:1
+623 disseminating 15:1
+624 knowledge 4:32 12:2
+625 intelligent 0:3
+626 unix 0:1
+627 investigation 7:6 5:2
+628 thumbnail 0:2
+629 image 8:36 10:1
+630 recognition 5:5 11:1
+631 thumbnails 18:4 11:1
+632 miniatures 0:1
+633 interface 0:48
+634 searching 0:10 14:1
+635 naming 14:2
+636 policies 8:2
+637 treating 17:2
+638 parent 6:5
+639 prior 0:7
+640 reduction 7:18
+641 edge 8:48
+642 detecting 15:3 16:1
+643 smoothing 1:2
+644 lossy 14:1
+645 compression 16:3 12:3
+646 static 5:21
+647 codebook 0:1
+648 resulted 17:4
+649 distortion 3:21
+650 caused 18:2
+651 lessened 5:1
+652 experiment 5:35
+653 assessing 4:5 1:1
+654 found 5:30
+655 resulting 8:19
+656 recognised 18:1
+657 accurately 5:7
+658 treatment 5:5
+659 pretreatment 11:1
+660 offered 17:1
+661 improvement 2:7
+662 resources 17:13
+663 improve 18:21
+664 ability 14:16 12:2 4:2
+665 walks 18:1
+666 life 4:7
+667 interests 19:1 14:1
+668 distributed 9:13
+669 starts 16:2
+670 digesting 0:1
+671 assimilating 16:1
+672 pieces 19:2
+673 terminates 13:1
+674 generation 17:12
+675 begins 7:2
+676 anew 10:1
+677 pre 19:7
+678 centric 16:9
+679 taking 0:2
+680 contained 5:2 19:1
+681 arrays 7:1
+682 integral 17:3
+683 part 16:19 1:2
+684 covered 10:1
+685 related 8:42 10:1
+686 categories 9:6
+687 methodology 4:8
+688 hyperspace 19:4
+689 lost 16:4 17:2
+690 hierarchical 3:71
+691 category 19:4
+692 overcoming 7:2
+693 rigidity 17:1
+694 construct 12:14 8:3
+695 linking 7:8
+696 problem 11:67 16:2
+697 experience 0:10 12:2
+698 culture 0:3
+699 thinking 19:5
+700 discovery 9:8 7:7
+701 relationships 14:64 9:3
+702 retrieved 0:4
+703 aggregating 18:3
+704 representing 18:15
+705 traffic 2:11
+706 communications 17:2
+707 highlighted 2:5
+708 traditional 6:28 0:28
+709 link 6:56
+710 work 17:78
+711 small 1:49 10:8 3:4
+712 datasets 10:59
+713 cluttered 10:5
+714 uninterpretable 13:1
+715 metaphor 19:25
+716 position 5:16 17:2
+717 globe 10:3
+718 draw 4:11
+719 arcs 0:9
+720 coding 0:2
+721 advantages 6:9 3:7
+722 reduces 9:6
+723 crossing 13:5
+724 indication 14:1
+725 retains 6:2
+726 geographic 13:31
+727 coupling 6:1 1:1
+728 strengths 3:6
+729 surface 19:8
+730 translucency 13:1
+731 arc 18:10
+732 heights 10:1
+733 illustrates 18:2 11:1
+734 class 2:9 12:8
+735 exploring 1:22 15:5
+736 visage 0:8
+737 analyzing 14:31
+738 represents 18:3 1:2
+739 coordinating 19:4
+740 intensive 14:4
+741 strives 8:1
+742 eliminate 4:3
+743 impediments 17:1
+744 direct 0:12
+745 consists 17:13
+746 generating 13:10 0:1
+747 sage 16:1
+748 briefing 0:1
+749 supports 12:31
+750 conversion 19:1
+751 slides 19:1
+752 presents 17:38
+753 components 12:18 5:7
+754 styles 11:4
+755 heterogeneous 4:9
+756 automated 13:9
+757 presentations 14:4 10:1
+758 quantitative 13:13 3:1
+759 qualitative 4:9
+760 building 16:14
+761 specific 17:33
+762 define 15:17 18:4
+763 taxonomy 4:20
+764 characterize 4:9
+765 capturing 12:1 19:1
+766 takes 19:5 13:1 4:1
+767 seeking 17:3 2:1
+768 goals 4:8 12:3
+769 interpretation 4:13
+770 preferences 17:4
+771 demonstrate 8:34 17:30
+772 coverage 13:1
+773 proposed 3:32
+774 utility 14:13 1:1
+775 selecting 17:17
+776 prototyping 12:5
+777 vanish 12:6
+778 discusses 9:8
+779 rapid 17:9 15:1
+780 special 13:9 15:1
+781 purpose 17:9 1:2
+782 vapl 3:1
+783 programming 2:9
+784 tailored 12:4
+785 architecture 9:15
+786 insulates 6:1
+787 code 16:26
+788 visualized 1:18 9:1
+789 toolkit 12:11
+790 reuse 12:2
+791 generality 16:5 2:1
+792 established 10:4
+793 showing 8:22 5:2
+794 standard 17:10 6:8 2:3
+795 shown 6:17 17:6
+796 extended 17:13
+797 build 12:14
+798 alternatives 6:3
+799 semantics 8:7
+800 powerful 15:20
+801 manipulating 17:7
+802 analyze 8:23 1:1 0:1
+803 acquire 2:1
+804 true 17:5
+805 introduced 15:12
+806 combined 14:21
+807 address 11:20 3:2
+808 framework 12:71
+809 classifying 3:2
+810 develop 11:20 19:3 1:1
+811 toolkits 9:3
+812 assembling 8:1
+813 interfaces 9:23 15:1
+814 linear 13:16
+815 magnification 17:14
+816 transformations 15:11
+817 efficient 17:39
+818 implementing 8:3
+819 combining 13:7
+820 magnifications 17:3
+821 constraining 13:1
+822 smoothly 11:5 2:2
+823 interpolating 7:1
+824 magnified 9:1
+825 normal 6:1 16:1
+826 piecewise 18:1
+827 greater 5:10 3:1
+828 efficiency 12:11 16:4
+829 expressiveness 11:9
+830 counterparts 3:3
+831 prevalent 19:1 5:1
+832 grows 19:2
+833 developing 11:5 14:1
+834 examine 6:9 19:2
+835 extension 17:7
+836 explore 11:46
+837 encountered 3:5
+838 accessing 9:5
+839 internal 19:8
+840 regions 13:46
+841 solution 11:13
+842 function 13:16
+843 clear 11:6 5:1
+844 sight 18:3
+845 focus 3:84
+846 revealing 6:5 3:2
+847 sections 19:2
+848 previously 19:10 13:8
+849 obscured 10:4
+850 symmetric 3:1
+851 integrated 1:28 2:1
+852 back 11:5 14:1
+853 original 11:13 5:4 12:2
+854 interesting 11:19 15:2
+855 rich 17:20
+856 features 11:37
+857 immediately 1:2
+858 recognizable 11:6
+859 discover 11:7 0:3
+860 highlighting 7:23
+861 patterns 15:89
+862 element 15:2
+863 subset 18:5
+864 operation 1:6
+865 needed 11:15
+866 linked 7:10 14:9 1:6
+867 drill 1:14
+868 common 5:37 14:9
+869 ubiquitous 17:2
+870 icons 13:6 18:2
+871 desktop 12:7
+872 gui 6:3
+873 surprising 7:1
+874 note 9:5
+875 addresses 10:4 13:2
+876 omission 1:1
+877 discussing 18:2
+878 interactions 14:23
+879 branches 6:7
+880 suggestion 12:2
+881 524 9:1
+882 288 19:1
+883 systems2 1:1
+884 memory 9:8 17:1
+885 memoryless 4:1
+886 dependent 14:12
+887 independent 7:11
+888 brush 9:5
+889 lasso 14:2
+890 fun 6:2
+891 choices 9:8
+892 state 1:33
+893 art 4:9
+894 historical 14:5
+895 antecedents 19:2
+896 metadata 0:9
+897 querying 0:5
+898 java 12:9 0:3
+899 applets 9:2
+900 master 9:1
+901 library 17:4
+902 mel 0:2
+903 conform 0:1
+904 federal 10:1
+905 committee 17:1
+906 fgdc 0:1
+907 standards 17:2
+908 geospatial 13:14
+909 possess 17:1
+910 functionality 7:9
+911 hypertext 0:3
+912 markup 5:1
+913 manage 13:3 19:1
+914 list 9:7
+915 real 10:46 11:8 0:4
+916 interest 3:31 4:5
+917 mbone 16:7
+918 multicast 16:3
+919 backbone 0:2
+920 distributing 4:1
+921 sender 1:1
+922 receivers 16:1
+923 minimal 16:3 12:1
+924 packet 4:2
+925 duplication 5:5
+926 initially 16:2 2:1
+927 deployed 17:3
+928 community 16:15
+929 popular 11:23
+930 transmission 1:3
+931 video 16:18
+932 audio 16:2
+933 streams 9:6 1:1
+934 conferences 9:1
+935 meetings 19:1
+936 congressional 14:1
+937 sessions 4:1 9:1
+938 nasa 13:1
+939 shuttle 7:1
+940 launches 8:1
+941 grew 0:1
+942 exponentially 13:1 6:1
+943 authority 15:1
+944 suboptimal 16:3
+945 concern 9:1 14:1
+946 providers 2:2 0:1
+947 tunnel 9:1
+948 resolving 0:2
+949 latitude 6:1
+950 longitude 9:1
+951 routers 13:1
+952 permit 19:1
+953 unavailable 2:1
+954 lines 13:13
+955 hostnames 16:1
+956 grouping 2:8
+957 thresholding 14:2
+958 distribute 19:2
+959 vrml 12:4
+960 format 0:5
+961 maintainers 1:1
+962 pictures 16:1 0:1
+963 videos 16:2
+964 usability 4:22
+965 log 16:3 14:1
+966 testing 3:3
+967 logging 19:1
+968 logs 0:6
+969 capture 15:4
+970 press 1:1
+971 mouse 8:5
+972 click 3:2
+973 level 1:44 8:33
+974 raw 1:4
+975 voluminous 12:1
+976 analyst 14:10
+977 buried 19:2
+978 call 16:11
+979 custom 12:6
+980 contextual 19:8
+981 meaning 8:3
+982 elements 13:39 7:3
+983 collected 13:5 4:1
+984 organizing 13:7
+985 expect 12:1
+986 type 8:33
+987 easier 15:5 12:3
+988 faster 6:15
+989 charts 18:24 14:6 4:2
+990 hope 15:5
+991 finding 6:14
+992 inspire 9:2
+993 apparently 16:1
+994 inherent 15:5
+995 evaluated 7:9
+996 vectors 19:5
+997 hnc 4:1
+998 built 9:9
+999 neural 10:6
+1000 methodologies 2:3
+1001 cvs 0:1
+1002 encode 13:9
+1003 entities 4:3 19:2
+1004 represent 14:15 3:14 11:1
+1005 soms 10:1
+1006 transforming 6:2
+1007 input 0:17
+1008 signal 10:9
+1009 lower 3:3
+1010 output 0:10
+1011 intervention 10:1
+1012 external 19:9
+1013 base 18:5
+1014 identify 1:25 15:3 10:1
+1015 themes 4:5
+1016 corpus 19:10
+1017 tennis 19:4
+1018 match 19:10
+1019 competition 1:2 6:1 13:1
+1020 organize 1:8
+1021 top 19:8
+1022 nesting 19:2
+1023 layered 6:8
+1024 translucent 3:1
+1025 colored 17:2
+1026 layers 4:7
+1027 iconic 8:1
+1028 athletic 19:1
+1029 events 14:21
+1030 applying 6:10 8:7 18:1
+1031 magic 18:1
+1032 lens 13:12
+1033 filters 14:6 17:2
+1034 nature 5:13 13:10
+1035 depicted 3:4 18:2
+1036 varying 14:20
+1037 sports 6:2
+1038 property 14:7 12:2
+1039 landscapes 9:14
+1040 server 0:5
+1041 landscape 9:12
+1042 visualises 0:2
+1043 plane 3:6 1:4
+1044 map 13:63
+1045 selectively 3:3 16:2
+1046 superimposing 3:1
+1047 hyperlink 17:2
+1048 vertical 19:2 9:1
+1049 dimension 7:22
+1050 plotted 18:1 19:1
+1051 indicating 14:5
+1052 whereabouts 17:1
+1053 broader 17:3
+1054 engines 0:3
+1055 lots 16:1
+1056 records 10:18
+1057 listing 9:2
+1058 friendly 7:1
+1059 fly 5:4
+1060 volumetric 19:3
+1061 minimally 0:3
+1062 sfa 0:2
+1063 glyph 13:3
+1064 volume 10:9
+1065 enabling 4:13
+1066 handed 14:1
+1067 stereoscopic 7:7
+1068 capitalizing 19:2
+1069 attentive 2:1
+1070 learning 12:7 5:4 1:1
+1071 similarity 10:29
+1072 multivariate 15:57
+1073 quantity 19:3
+1074 clarity 1:4 17:1
+1075 conveyed 13:1
+1076 compared 5:23
+1077 multiway 15:1
+1078 tables 15:11
+1079 business 18:8
+1080 involve 15:3
+1081 dozens 13:2
+1082 fields 3:17
+1083 millions 9:5
+1084 rows 10:2 16:1
+1085 involved 2:7
+1086 method 8:82 3:53 14:1
+1087 summarizing 16:4
+1088 illustrate 15:28
+1089 billing 2:1
+1090 financial 0:13
+1091 spreadsheet 19:20
+1092 outline 8:5
+1093 permits 0:4
+1094 arithmetic 4:2
+1095 cells 19:10
+1096 primitives 19:2
+1097 numbers 10:13
+1098 intended 4:9 0:1
+1099 familiar 6:7 18:3
+1100 flexibility 15:19
+1101 afforded 0:1
+1102 stream 18:3
+1103 track 11:2 19:1
+1104 changing 1:14 8:2
+1105 trends 14:30
+1106 dimensions 10:66
+1107 multidimensional 10:57 1:2
+1108 scaling 10:18
+1109 mds 10:10
+1110 iterative 16:13
+1111 projecting 7:4
+1112 enhance 13:12
+1113 stochastic 6:1 8:1
+1114 perturbation 8:1
+1115 flow 13:35
+1116 multiresolution 12:5
+1117 hyperslice 4:2
+1118 physical 4:9
+1119 resolution 18:22 10:1
+1120 logical 1:3
+1121 projection 11:12
+1122 wavelets 4:1
+1123 laying 6:3
+1124 directed 2:25
+1125 hyperbolic 2:8
+1126 drawing 2:32
+1127 larger 3:10 2:2
+1128 handled 14:2
+1129 assume 3:4
+1130 impose 2:3
+1131 spanning 6:8
+1132 links 3:19
+1133 drawn 13:11 12:1
+1134 request 6:1
+1135 increases 16:10 15:4
+1136 opposed 8:2
+1137 increase 9:8 18:2
+1138 euclidean 3:5
+1139 exploit 10:2
+1140 exponential 6:1
+1141 room 19:2
+1142 computing 18:5 2:5 5:2
+1143 metric 8:16
+1144 optimize 2:10
+1145 children 6:2
+1146 hemisphere 6:1
+1147 mouth 10:1
+1148 perimeter 2:1
+1149 affords 2:1 11:1
+1150 successfully 5:5 6:1
+1151 laid 2:3
+1152 000 3:5
+1153 accommodates 17:2
+1154 rendered 3:4
+1155 explicitly 7:9 10:2
+1156 prune 2:1
+1157 expand 6:6
+1158 subtrees 6:4
+1159 sphere 8:2
+1160 units 12:4
+1161 spherical 0:2
+1162 employed 3:9
+1163 banking 18:5
+1164 stock 14:6
+1165 prediction 8:4
+1166 quantification 11:3
+1167 governs 12:1
+1168 parameters 0:14
+1169 mass 8:2
+1170 spring 2:8
+1171 unlike 12:3
+1172 approaches 11:40
+1173 initialize 3:1
+1174 concentric 2:1
+1175 spheres 15:1
+1176 attach 15:1
+1177 springs 15:1
+1178 outer 15:1
+1179 stiffnesses 19:1
+1180 correspond 15:2 12:1
+1181 computed 10:6
+1182 measures 10:15 5:2
+1183 converges 12:1
+1184 energy 9:14 15:1
+1185 minimum 8:4 17:2
+1186 reveals 10:5
+1187 adjacencies 15:1
+1188 terms 3:20
+1189 neighborhoods 3:1
+1190 depending 8:3
+1191 arrangements 10:3
+1192 propose 10:31 4:26
+1193 blobby 10:1
+1194 clustering 8:51
+1195 mechanism 7:14
+1196 enables 11:24
+1197 encapsulation 0:1
+1198 implicit 17:6 1:1
+1199 shapes 13:13 3:3
+1200 underlying 2:17 13:3
+1201 ivory 0:5
+1202 versatility 2:4
+1203 service 2:5 12:1
+1204 require 15:18
+1205 numerical 10:5
+1206 spreadsheets 0:6 18:1
+1207 store 15:3
+1208 simple 18:26 17:7 19:2
+1209 formulas 11:1
+1210 cell 19:10
+1211 hold 15:1
+1212 criteria 16:8 2:1
+1213 specifications 12:9
+1214 fledged 15:1
+1215 similarly 15:4
+1216 inter 10:9
+1217 stretching 12:1
+1218 string 19:3
+1219 encompass 2:3
+1220 range 17:35
+1221 operators 12:7
+1222 experts 15:10
+1223 incorporate 19:5 3:3
+1224 viewpoints 11:3 9:2
+1225 introduce 17:27 14:17 6:1
+1226 adaptive 9:5 10:1
+1227 hypermedia 0:2 16:1
+1228 cvi 0:3
+1229 select 10:15
+1230 reflecting 7:1
+1231 adaptively 10:2 17:1
+1232 organizes 10:4
+1233 structural 6:6 18:2 8:1
+1234 relationship 13:10
+1235 highly 11:10 12:7
+1236 projects 16:7
+1237 challenging 15:9 7:7
+1238 requiring 10:7
+1239 tracking 6:7 11:1
+1240 scheduling 15:2
+1241 technologies 16:8
+1242 collect 14:1
+1243 project 16:13
+1244 lack 1:8 3:1
+1245 glyphs 7:17 6:3
+1246 simplifying 6:2
+1247 apply 4:12 11:11
+1248 statistics 14:14
+1249 multi 2:52
+1250 million 2:10 13:5
+1251 management 7:13 16:1
+1252 volumes 17:3 6:1 19:1
+1253 diverse 17:12
+1254 correspondence 14:1
+1255 integrating 16:7
+1256 shrimp 16:3
+1257 seamlessly 7:2
+1258 source 16:22
+1259 assisting 6:3
+1260 hybrid 6:18
+1261 program 16:15
+1262 comprehension 5:9
+1263 strategies 3:12
+1264 integrates 12:8 6:1
+1265 pan 1:5
+1266 fisheye 1:7 3:3
+1267 nested 12:9
+1268 handles 3:4
+1269 focal 8:4 16:3
+1270 points 10:39
+1271 examining 19:4 13:1
+1272 subsystems 13:1
+1273 mutual 9:5
+1274 interconnections 8:1
+1275 embedding 1:9
+1276 fragments 16:2
+1277 finer 17:1
+1278 connections 3:4
+1279 represented 3:17
+1280 navigated 6:1
+1281 combines 7:12
+1282 panning 1:3 2:1
+1283 motions 10:1
+1284 cues 3:5
+1285 studies 16:25 14:10
+1286 observations 12:5
+1287 performing 12:5
+1288 front 12:3
+1289 end 17:12
+1290 foundation 12:4
+1291 meaningful 12:4
+1292 universal 16:2
+1293 relation 17:7 10:3
+1294 definition 12:5 6:1
+1295 contents 17:2
+1296 geared 12:2
+1297 easy 18:7 6:5
+1298 defined 8:24
+1299 resource 16:9
+1300 files 16:9
+1301 demonstration 19:2
+1302 year 11:9
+1303 2000 19:1
+1304 nonlinear 17:4
+1305 abstract 9:14 12:3 2:1
+1306 converting 17:2
+1307 transformation 15:23
+1308 routines 17:1
+1309 vice 12:3
+1310 versa 8:3
+1311 ease 9:4
+1312 power 0:20
+1313 removing 15:2
+1314 restrictions 13:2
+1315 explicit 2:9
+1316 foci 3:10
+1317 specification 12:11
+1318 achieve 11:10
+1319 effects 8:10
+1320 expressing 17:1
+1321 subtle 15:1
+1322 brushing 17:25
+1323 intrinsic 17:3
+1324 levels 4:18 1:10
+1325 table 4:15
+1326 100 1:5
+1327 times 9:11 5:5
+1328 exploratory 14:28
+1329 area 18:28 0:1
+1330 pixel 13:17
+1331 row 3:3
+1332 approximately 5:4
+1333 cases 13:18
+1334 variables 7:37
+1335 columns 7:2 0:1
+1336 individually 16:3
+1337 raises 13:2
+1338 challenges 9:14
+1339 preserving 14:7 15:5
+1340 enhancements 1:2
+1341 introducing 13:4
+1342 raised 1:1 19:1
+1343 declarative 12:7
+1344 discrete 10:6 4:4
+1345 force 2:19
+1346 dataset 10:41
+1347 previous 17:29 19:2
+1348 recreate 12:1
+1349 architectural 0:3 5:2
+1350 hook 1:1
+1351 overhead 16:5
+1352 vqe 15:1
+1353 express 4:2
+1354 complicated 15:3 18:1 7:1
+1355 updated 14:1
+1356 maintain 3:9
+1357 bead 1:2
+1358 adapting 10:2
+1359 institution 0:3
+1360 employs 10:4
+1361 fast 11:21
+1362 low 18:30 10:11
+1363 added 12:9
+1364 imageability 0:2 2:1
+1365 recent 12:17
+1366 generalization 17:5
+1367 ubs 17:1
+1368 ubiquity 8:1
+1369 medium 0:5
+1370 led 2:5
+1371 extend 15:14
+1372 handle 10:10 9:3
+1373 generic 2:12 11:1
+1374 metrics 7:27
+1375 give 9:14
+1376 trades 8:1
+1377 conservatism 17:1
+1378 scepticism 8:1
+1379 regard 2:3
+1380 widely 8:11 19:3
+1381 browsers 9:7
+1382 development 16:19
+1383 refinements 19:1 7:1
+1384 incremental 2:6 1:6
+1385 dqi 14:3
+1386 formulation 17:4
+1387 shows 18:26
+1388 dqis 7:1
+1389 elegant 15:1
+1390 applied 9:32 2:5
+1391 slow 4:4
+1392 crawl 14:1
+1393 updates 17:5
+1394 practice 16:6
+1395 relational 15:13
+1396 dense 2:12 11:1
+1397 scatterplots 7:14
+1398 plotting 13:8
+1399 difficulties 12:12
+1400 arise 13:3 10:2
+1401 categorical 10:13
+1402 axis 11:8
+1403 unknown 10:4
+1404 addressed 10:6 16:1
+1405 plot 15:23
+1406 voxelized 10:1
+1407 binning 10:5
+1408 storage 10:5
+1409 wasted 13:1 17:1
+1410 opacity 8:3 17:1
+1411 voxel 10:2
+1412 bin 10:3
+1413 derived 15:13
+1414 averaging 10:1
+1415 fall 17:3
+1416 mapped 10:6
+1417 dragger 13:1
+1418 inside 13:4
+1419 reached 5:2
+1420 point 11:29
+1421 successful 11:8 4:3
+1422 designs 4:10 3:1
+1423 discovered 7:1
+1424 portions 1:4 13:1
+1425 differences 3:16 5:1
+1426 suggest 5:17 13:4
+1427 possibilities 9:7
+1428 proposes 11:15
+1429 organization 8:18
+1430 literature 10:3 3:1
+1431 series 14:65
+1432 detective 12:2
+1433 parallel 7:65 10:2
+1434 coordinates 7:41
+1435 transforms 16:6
+1436 pattern 11:14
+1437 basis 7:3
+1438 mining 18:24 7:11 4:1
+1439 guidelines 18:10
+1440 production 18:1
+1441 vlsi 8:1
+1442 chip 8:1
+1443 strength 8:7
+1444 modeling 16:11
+1445 simplified 7:2
+1446 economic 7:4
+1447 constructed 16:2 5:1
+1448 sectors 6:2
+1449 country 17:1
+1450 interelationship 18:1
+1451 dependencies 0:5
+1452 circumstances 4:1
+1453 feasible 10:3
+1454 trade 8:7
+1455 analyses 4:7 6:2 9:1
+1456 sensitivities 8:1
+1457 approximate 17:1
+1458 optimization 11:18 3:1
+1459 monitor 3:7
+1460 designers 4:15 17:5
+1461 evaluate 4:27
+1462 density 13:31
+1463 cognitive 19:20
+1464 percentage 19:4
+1465 reference 6:11 4:2 11:1 8:1
+1466 identifiable 4:2
+1467 history 0:19
+1468 pages 7:3
+1469 additionally 3:9
+1470 visualise 0:1
+1471 readily 7:4
+1472 sites 13:3 11:1
+1473 attained 15:1
+1474 teach 19:1
+1475 alongside 13:1
+1476 flexibly 6:4
+1477 tailorable 6:1
+1478 debuggers 1:3
+1479 translating 16:3
+1480 animations 8:10
+1481 typically 14:18
+1482 rely 12:2 19:1
+1483 augmented 9:2 12:1
+1484 symbolic 12:1
+1485 target 1:8 18:2
+1486 produced 16:9
+1487 inferior 3:1
+1488 higher 1:18 3:1
+1489 informative 12:2
+1490 debugger 16:3
+1491 traversal 12:3
+1492 traverses 6:1
+1493 supplied 1:1
+1494 parts 3:8 2:1
+1495 alternatively 16:2
+1496 modification 1:2 11:1
+1497 reflected 8:2 3:1
+1498 disc 6:7
+1499 rdt 6:5
+1500 reconfigurable 6:2
+1501 disadvantages 3:5
+1502 significantly 6:15 5:13
+1503 discs 6:3
+1504 cones 7:1
+1505 shape 11:24
+1506 significant 5:30 17:1
+1507 occluded 1:2
+1508 region 13:19 18:2
+1509 sharp 12:1
+1510 overlapping 13:12 7:1
+1511 greatly 0:5
+1512 dynamically 1:10
+1513 foreground 12:1
+1514 compact 13:14
+1515 visit 6:1
+1516 reconfiguration 6:2 2:2
+1517 classes 2:4 4:3
+1518 radical 14:1
+1519 filling 3:22
+1520 recursive 6:4 11:1
+1521 division 6:1
+1522 rectangular 18:11 13:2
+1523 items 3:43
+1524 consideration 13:2
+1525 cluster 8:24
+1526 additional 4:8
+1527 perturbed 18:1
+1528 clusters 8:33 17:1
+1529 aggregation 18:27
+1530 circular 0:4 7:3
+1531 spatially 13:6 11:2
+1532 aggregates 18:1
+1533 maintenance 3:1
+1534 aggregate 3:7
+1535 generalized 2:5 19:1
+1536 fundamental 17:7
+1537 importance 2:15
+1538 tied 18:2
+1539 discontinuity 11:1
+1540 arrangement 10:10 1:1
+1541 variates 7:1
+1542 crucial 7:6
+1543 effectiveness 15:26 11:4 2:1
+1544 arrange 12:4
+1545 rearrange 12:1
+1546 behavior 14:18
+1547 positioned 7:4
+1548 determine 5:10
+1549 partial 5:2
+1550 optimal 8:7 5:6 11:2
+1551 considerations 9:2 1:2
+1552 surprisingly 18:3
+1553 complete 3:9
+1554 heuristic 6:2
+1555 impact 5:22
+1556 operator 16:2 11:2
+1557 encounters 15:1
+1558 realized 16:1
+1559 requirements 11:18
+1560 dramatically 16:2
+1561 semiology 13:1
+1562 evaluating 5:12
+1563 helps 7:12 10:5
+1564 investigates 18:2
+1565 conceptual 5:7
+1566 vade 2:3
+1567 realizes 2:1
+1568 asynchronous 9:2
+1569 knowing 8:1
+1570 generate 10:13
+1571 consistent 13:10
+1572 designed 7:30 12:10 5:8 4:4
+1573 runs 3:2
+1574 machines 9:1
+1575 executed 1:2
+1576 page 6:2
+1577 machine 4:7
+1578 programmers 2:1
+1579 write 9:1
+1580 assistance 2:1 12:1
+1581 physics 0:6
+1582 newly 7:2
+1583 platform 12:3
+1584 setup 2:1
+1585 run 10:6
+1586 thin 16:1
+1587 exports 15:1
+1588 viewed 16:10
+1589 plugged 12:1
+1590 metaphors 19:13
+1591 invoked 7:1
+1592 advanced 9:6 4:2
+1593 plug 7:5
+1594 ins 18:1
+1595 experienced 11:4 3:1
+1596 configuration 9:3
+1597 script 0:2
+1598 ivml 0:1
+1599 haptic 13:1
+1600 manipulable 19:2
+1601 temporally 14:6
+1602 georeferenced 19:4
+1603 cartographic 19:6
+1604 principles 14:11
+1605 cartography 4:2
+1606 gis 7:4
+1607 eda 15:3
+1608 generally 9:7
+1609 assessment 7:7 10:1
+1610 facilitate 7:24
+1611 synthesis 7:2
+1612 authors 4:13
+1613 component 3:9 2:5
+1614 gvis 19:2
+1615 health 14:5
+1616 emphasis 8:8 9:2
+1617 noticing 19:2
+1618 hypothesis 5:3 4:1
+1619 extremes 18:2
+1620 examination 14:1
+1621 verbal 15:3
+1622 protocols 19:1
+1623 transaction 14:5
+1624 evidence 5:15 14:5
+1625 highlights 17:4
+1626 attribute 15:27
+1627 focusing 5:5
+1628 success 4:2
+1629 spatiotemporal 14:4
+1630 slices 3:5
+1631 cascading 19:1
+1632 semi 0:11
+1633 progress 6:3 3:1
+1634 compactly 4:1
+1635 early 4:4 0:2
+1636 visualiser 0:1
+1637 intentions 4:2
+1638 realizing 18:1
+1639 communicative 4:3 0:1
+1640 mediates 0:1
+1641 intent 4:2
+1642 isolating 1:2
+1643 assertions 17:1 18:1
+1644 presentable 15:1
+1645 mapping 13:24
+1646 reader 18:2
+1647 redesigning 18:1
+1648 argument 7:1
+1649 rhetorical 4:4
+1650 employing 4:6
+1651 classifiers 3:5
+1652 nets 2:4
+1653 classification 3:10 18:3
+1654 induced 4:1
+1655 entry 11:1
+1656 broken 8:1
+1657 pair 1:2
+1658 stacking 11:4
+1659 understood 14:9
+1660 unfamiliar 15:4
+1661 protein 18:11
+1662 alignments 18:2
+1663 fold 9:4
+1664 threading 9:3
+1665 predictions 11:3 16:1
+1666 effort 12:9
+1667 rotate 18:2
+1668 amino 16:2 11:1
+1669 acid 18:3
+1670 side 18:10 5:8 19:1
+1671 chains 2:1
+1672 orientations 18:8
+1673 recognize 10:7
+1674 family 18:5 4:1 1:1
+1675 member 2:1
+1676 closely 8:4 4:1
+1677 alignment 18:6 8:2
+1678 complement 4:4 11:1
+1679 molecular 8:1 7:1
+1680 chain 6:3
+1681 residues 9:1
+1682 lego 2:1
+1683 blocks 8:4 14:2
+1684 borrow 9:1
+1685 comparative 16:14
+1686 streamline 8:1
+1687 clean 10:1
+1688 depictions 6:10
+1689 double 10:2
+1690 possesses 16:1
+1691 advantage 2:9 17:2
+1692 distracting 18:2 8:2
+1693 misleading 18:1
+1694 contract 12:1
+1695 wins 12:1
+1696 losses 15:2
+1697 fitting 3:1
+1698 noisy 10:2
+1699 inquiries 6:1
+1700 subsets 15:12
+1701 average 9:6
+1702 aggregations 15:5
+1703 united 13:2
+1704 states 1:10
+1705 census 1:4
+1706 lists 14:4
+1707 author 9:4
+1708 lensbar 18:2
+1709 scroll 0:1
+1710 slider 16:1
+1711 conventional 0:6
+1712 handling 8:5
+1713 shakespeare 13:1
+1714 surfaces 6:2
+1715 focuses 4:5
+1716 free 8:5 5:3
+1717 inherently 16:2
+1718 explores 1:4
+1719 comparing 5:20
+1720 similarities 7:6 15:1
+1721 noted 7:1
+1722 arranged 6:7
+1723 scoring 19:1
+1724 deemed 3:2
+1725 blend 17:1
+1726 connected 2:4
+1727 collection 19:12 7:2 17:1
+1728 reflect 10:5
+1729 meta 10:4 12:2
+1730 transparent 12:3
+1731 enclosing 13:1
+1732 local 13:31
+1733 bibliomapper 13:2
+1734 cisi 8:1
+1735 collections 19:14
+1736 bibliographic 11:2
+1737 major 17:12 2:1
+1738 assembles 8:1
+1739 assess 3:9
+1740 comprises 19:1
+1741 interoperable 19:1
+1742 paradigms 19:7
+1743 gain 14:11
+1744 facets 19:6
+1745 sample 1:9
+1746 insights 14:9
+1747 conclude 16:9 0:2
+1748 sufficient 2:4
+1749 analytical 8:6
+1750 suite 19:4
+1751 analytic 5:14
+1752 today 14:3
+1753 emerging 12:6
+1754 equally 9:1
+1755 calendar 1:3
+1756 univariate 17:1
+1757 scales 14:19
+1758 days 14:4 8:1 0:1
+1759 weeks 11:1
+1760 seasons 14:1
+1761 daily 17:2
+1762 quick 5:6
+1763 exceptional 13:1
+1764 employees 12:1
+1765 consumption 9:4
+1766 superscalar 1:3
+1767 processors 1:3
+1768 advent 1:1
+1769 utilizing 1:6
+1770 processor 1:3
+1771 adapt 17:3
+1772 overview 1:52
+1773 timeline 16:6
+1774 pipeline 1:11
+1775 utilization 1:6
+1776 poor 1:3
+1777 instruction 1:1
+1778 throughput 16:4
+1779 hundreds 11:6 15:2
+1780 cycles 19:2
+1781 cycle 17:3 9:1 4:1
+1782 instructions 1:2
+1783 reordered 7:2
+1784 correlate 2:2
+1785 root 14:2 8:1
+1786 configured 1:2
+1787 configurations 1:3
+1788 mxs 3:1
+1789 mmix 1:1
+1790 evolving 17:14
+1791 workers 19:1
+1792 sense 19:8
+1793 sensemaking 19:2
+1794 operating 6:3
+1795 site 0:11
+1796 concrete 2:2
+1797 disk 18:1
+1798 conclusions 13:4
+1799 animating 13:1 1:1
+1800 reconstruct 0:1
+1801 penalty 7:1
+1802 strong 6:2
+1803 adding 9:2
+1804 transitions 1:21
+1805 navigates 3:1
+1806 close 12:4
+1807 carrying 5:4
+1808 experiments 5:21 2:4
+1809 initial 4:13
+1810 considered 11:7 9:2
+1811 photograph 10:1
+1812 randomly 5:2
+1813 grid 15:3
+1814 subjects 5:11 13:1
+1815 post 10:1 14:1
+1816 preferred 8:3 14:2
+1817 regularity 15:2
+1818 centered 4:7
+1819 dadv 12:1 0:1
+1820 investigating 14:4 1:1
+1821 viseio 1:1
+1822 lca 14:1 15:1
+1823 products 2:8
+1824 stages 4:5 13:1
+1825 formatting 5:2
+1826 producing 2:8
+1827 usable 15:2
+1828 test 16:16
+1829 bed 11:1
+1830 aims 7:6
+1831 aim 3:5 12:1
+1832 orders 11:5
+1833 formal 11:5
+1834 constructing 11:9 17:1
+1835 brushes 2:1
+1836 isolate 16:2
+1837 deleting 7:1
+1838 focussed 17:2
+1839 traditionally 10:2 6:1
+1840 performed 5:18 17:2
+1841 extents 11:1
+1842 proximity 14:4 17:1
+1843 coloring 8:7
+1844 colors 3:10 8:1
+1845 convey 7:17
+1846 anomalies 14:7
+1847 validate 6:7
+1848 distinct 8:9 16:2
+1849 underlie 19:1
+1850 organizations 4:1
+1851 embed 2:1
+1852 significance 0:2 1:1 15:1
+1853 utilize 6:5
+1854 innovative 19:3 6:1
+1855 definitions 19:1 1:1
+1856 construction 14:6
+1857 treemaps 18:43
+1858 directory 18:5
+1859 cushion 0:3
+1860 inherit 19:1
+1861 elegance 16:1
+1862 subdivision 8:2
+1863 pro 3:1
+1864 vide 3:1
+1865 ridges 3:1
+1866 rectangle 5:2 3:1
+1867 cushions 3:1
+1868 implement 9:3 8:2 12:1
+1869 applicability 3:6
+1870 firstly 7:1
+1871 draws 2:5
+1872 interrelated 0:4
+1873 lift 13:1
+1874 ameliorate 18:1
+1875 lifts 4:1
+1876 focused 18:6 14:2
+1877 lifted 13:1
+1878 hidden 0:3
+1879 dataflow 3:1
+1880 intelligible 5:1
+1881 aimed 5:6
+1882 calculation 19:1 4:1
+1883 appearances 0:1
+1884 outputs 7:2
+1885 invisible 7:1
+1886 obvious 19:3
+1887 ordinary 14:2
+1888 histograms 17:11
+1889 satisfying 1:1
+1890 separately 3:3
+1891 houses 10:1
+1892 owners 9:3
+1893 instance 12:4
+1894 primary 3:12
+1895 height 11:5
+1896 histogram 17:8
+1897 bar 18:19
+1898 count 11:2
+1899 selected 10:18
+1900 falls 12:2
+1901 overcount 18:1
+1902 house 9:1
+1903 probability 10:3
+1904 approximates 15:2
+1905 counts 12:2
+1906 towers 13:2
+1907 sensitive 0:3
+1908 decluttering 12:1
+1909 markers 0:2
+1910 symbols 13:4
+1911 accommodate 13:2
+1912 remains 12:6
+1913 uncluttered 10:2
+1914 implicitly 18:2
+1915 generates 11:4
+1916 visageweb 9:3
+1917 traces 14:3
+1918 motivate 11:2
+1919 copes 10:1
+1920 automation 10:1
+1921 arrived 7:1
+1922 geometrically 10:1
+1923 motivated 14:4
+1924 classifier 18:2 5:2
+1925 training 9:4
+1926 error 5:5 4:1
+1927 computational 11:15
+1928 contrasted 14:2
+1929 unstated 4:2
+1930 rule 14:4
+1931 derivation 5:1
+1932 conditions 5:21
+1933 comprehensible 3:5
+1934 rules 8:11
+1935 black 3:1
+1936 boxes 11:2
+1937 dimensionality 7:7
+1938 principal 11:7
+1939 separation 2:8
+1940 designated 17:1
+1941 solves 18:2
+1942 pesky 11:1
+1943 ordering 10:19
+1944 instructive 19:1
+1945 longer 11:1 7:1
+1946 association 13:9
+1947 implication 13:2
+1948 antecedent 8:2
+1949 consequent 0:1
+1950 item 10:6
+1951 years 4:6 16:4
+1952 tackle 8:2 18:1
+1953 swapping 4:1
+1954 infrastructure 9:7 2:1
+1955 kdd 17:1
+1956 hot 19:1
+1957 topics 17:9
+1958 telecom 9:1 6:1
+1959 phone 7:4
+1960 switches 9:1
+1961 feel 9:3
+1962 confused 9:1
+1963 overwhelmed 11:1
+1964 vismine 10:1
+1965 uncluttering 6:1
+1966 simultaneous 18:4
+1967 expanding 0:5 7:1
+1968 topic 17:10
+1969 trouble 9:1
+1970 shooting 15:1
+1971 switch 0:5
+1972 sunflower 19:3
+1973 introduces 17:11
+1974 alternative 5:20
+1975 employ 7:6
+1976 motivation 18:2
+1977 factors 7:8
+1978 driver 7:1
+1979 linguistic 2:1
+1980 mindnet 2:3
+1981 constellation 17:1 6:1
+1982 targeted 17:1
+1983 helping 3:5
+1984 creators 0:1
+1985 refine 8:7
+1986 exploits 13:2
+1987 connectivity 6:3 17:1
+1988 prioritizes 12:2
+1989 plausibility 10:2
+1990 minimizing 13:5
+1991 crossings 8:10
+1992 careful 0:4
+1993 perceptual 8:21
+1994 channels 2:1
+1995 minimize 2:7 7:2
+1996 emphasize 18:7
+1997 constellations 6:1
+1998 edges 8:37
+1999 warehousing 18:1
+2000 place 0:14
+2001 demands 13:5
+2002 pursue 10:2
+2003 experimentation 1:2
+2004 polaris 10:2
+2005 extends 4:9
+2006 pivot 8:2 14:1 7:1
+2007 incrementally 9:5
+2008 portals 4:5
+2009 behave 19:2
+2010 permitting 17:2
+2011 windows 14:3
+2012 canvas 15:2
+2013 fashion 17:2
+2014 hundred 14:2
+2015 portal 4:3
+2016 exhibit 15:8 2:1
+2017 behaviors 4:11
+2018 confusing 4:2
+2019 inappropriate 4:2
+2020 setting 8:6
+2021 desirable 11:5
+2022 recommendations 4:8
+2023 decide 15:2
+2024 programmable 4:2
+2025 follow 4:5
+2026 scalable 2:14 7:3
+2027 heterogenous 9:1
+2028 suitable 10:8
+2029 preprocessing 11:3
+2030 illustration 16:1
+2031 computation 10:15
+2032 controlled 1:14 5:2
+2033 unstructured 13:3
+2034 digraphs 10:1 2:1
+2035 mgv 2:6
+2036 digraph 1:4
+2037 assumption 10:2
+2038 vertex 2:5
+2039 corresponds 13:6
+2040 leaves 6:5
+2041 predetermined 11:1
+2042 builds 9:7 1:1
+2043 core 8:5
+2044 slice 2:1
+2045 response 16:6
+2046 incorporates 16:4
+2047 statistical 15:30 16:1
+2048 zoomable 9:6
+2049 label 11:15
+2050 highlight 9:13
+2051 main 17:13 1:10 19:1
+2052 algorithmic 2:6 10:1
+2053 scenarios 13:12 2:1
+2054 sizes 13:10
+2055 ranging 14:9 7:2
+2056 250 1:2
+2057 vertices 2:13
+2058 partitioning 17:10 6:1
+2059 assignment 8:1
+2060 divisive 18:2
+2061 assign 7:4
+2062 partition 4:7
+2063 evenly 2:2
+2064 populated 8:2
+2065 assuming 8:1
+2066 uniform 5:6
+2067 distribution 10:13 18:3
+2068 undesired 6:1
+2069 empty 13:4
+2070 succeed 2:1
+2071 enhancing 9:1
+2072 radial 6:28
+2073 depicting 19:3 8:3
+2074 suffer 3:4
+2075 peripheral 12:1
+2076 distinguish 16:2 5:1
+2077 viewers 13:4
+2078 attempted 9:1
+2079 taxonomies 0:3 1:1 18:1
+2080 compatible 9:2
+2081 implementers 4:3
+2082 taxonomize 2:1
+2083 chi 1:1
+2084 reidl 7:1
+2085 1998 14:2
+2086 fact 13:1
+2087 taxonomic 13:3
+2088 share 16:8
+2089 reused 11:1
+2090 broadly 7:1
+2091 modular 4:4
+2092 novice 18:1
+2093 expertise 0:3
+2094 tough 4:1
+2095 comprehend 10:2
+2096 embedded 9:9 18:1
+2097 great 5:2 10:1
+2098 gadget 4:3
+2099 guidance 4:7
+2100 1997 13:1
+2101 mve 0:1
+2102 prototypes 4:9
+2103 expressed 15:6
+2104 wehrend 4:2
+2105 lewis 4:1
+2106 1990 19:2 16:1
+2107 named 0:3
+2108 frequency 10:16
+2109 diversity 12:14
+2110 mobile 3:5 13:4
+2111 phones 17:1
+2112 pdas 12:2
+2113 raise 3:1
+2114 questions 5:21
+2115 flip 17:1
+2116 changed 9:1
+2117 situation 8:5
+2118 fit 9:5
+2119 areas 3:23
+2120 enrich 13:1
+2121 perspectives 16:12
+2122 virtue 9:1
+2123 spatio 14:5
+2124 abilities 5:9
+2125 humans 13:3
+2126 meaningfully 8:1
+2127 dominance 13:1
+2128 realization 3:1
+2129 skills 16:2
+2130 routinely 19:1
+2131 field 9:14 4:3
+2132 noticeable 6:1
+2133 apparent 9:2 5:2
+2134 problematic 11:3
+2135 feature 11:15
+2136 labeling 11:18
+2137 outlook 11:1
+2138 notions 11:2
+2139 projections 11:9
+2140 measure 8:11
+2141 shannon 5:1
+2142 communication 16:11 17:1
+2143 quantify 16:7
+2144 relative 5:13
+2145 sequential 15:16
+2146 finite 9:1
+2147 abcd 2:1
+2148 frequently 16:8
+2149 happen 19:1
+2150 extract 7:9
+2151 mine 7:1
+2152 bigger 2:3
+2153 obtain 13:6
+2154 thousands 14:10
+2155 argue 4:9
+2156 subsequently 10:1
+2157 augment 13:5
+2158 learn 4:4
+2159 theme 16:2
+2160 themerivertm 13:1
+2161 thematic 13:5
+2162 river 19:3
+2163 flows 13:10
+2164 left 13:3
+2165 width 18:2
+2166 currents 13:1
+2167 flowing 14:2
+2168 narrow 13:3
+2169 widen 7:1
+2170 decreases 19:1
+2171 group 5:21
+2172 lighthouse 0:1
+2173 retrieval 18:3
+2174 accepts 0:2
+2175 collects 14:1
+2176 ranked 18:4
+2177 adjusts 16:1
+2178 electric 0:3
+2179 confronted 18:1
+2180 tens 14:3
+2181 buses 12:1
+2182 challenge 7:11
+2183 actual 8:4
+2184 scheduled 14:1
+2185 capacity 14:6 10:3
+2186 restructuring 12:1
+2187 entity 4:4
+2188 pool 12:1
+2189 operate 7:6
+2190 acute 11:1
+2191 contouring 18:1
+2192 bus 19:2
+2193 shared 16:15 1:1
+2194 collaborative 4:9 17:1
+2195 geovisualization 16:7
+2196 groups 1:31
+2197 distance 8:10 18:2
+2198 science 16:10
+2199 mediated 0:1
+2200 addressing 15:5
+2201 step 7:17
+2202 modeled 6:6
+2203 gabbard 5:1
+2204 1999 0:2
+2205 delineate 5:3
+2206 expert 16:4 8:1
+2207 guideline 16:2
+2208 formative 6:3
+2209 summative 17:1
+2210 solving 16:7
+2211 comind 19:1
+2212 industrial 10:2
+2213 solutions 15:8 9:7
+2214 kaleidoscope 0:1
+2215 lattice 7:2
+2216 externalize 13:1
+2217 tradeoffs 19:2
+2218 period 19:9
+2219 tactics 16:1 4:1
+2220 speed 9:6 13:3
+2221 serve 16:2 9:1
+2222 intelligence 12:1
+2223 collaboration 16:10
+2224 faces 10:1
+2225 agree 7:1
+2226 trivial 5:5
+2227 modify 16:7
+2228 camera 6:3
+2229 frequent 17:1
+2230 movements 9:2
+2231 restart 5:1
+2232 beginning 16:2
+2233 cybernet 10:1
+2234 principle 16:2
+2235 schemes 16:3 14:1
+2236 precision 8:4 10:1
+2237 ethnographic 12:2
+2238 architects 9:2
+2239 workspace 19:5
+2240 configure 12:2 11:1
+2241 save 16:2
+2242 maintained 8:4
+2243 ongoing 4:4
+2244 live 16:4
+2245 studio 16:2
+2246 detect 14:4
+2247 plagiarism 6:2
+2248 commonality 10:1
+2249 compares 14:5
+2250 explained 11:1
+2251 spirals 13:3 1:1
+2252 classical 8:3
+2253 spiral 13:7
+2254 identification 1:8
+2255 periodic 15:2
+2256 nominal 7:11
+2257 identication 13:1
+2258 blindness 3:4
+2259 occurs 10:3
+2260 notice 3:1 14:1
+2261 visible 10:4 8:2
+2262 scene 15:7
+2263 partitioned 8:4
+2264 stamps 4:1
+2265 impossible 15:4
+2266 minor 16:2
+2267 theories 4:3
+2268 phenomenon 0:3
+2269 dot 9:8
+2270 spire 14:1
+2271 galaxies 14:1
+2272 themeview 12:1
+2273 noise 8:3
+2274 ordination 8:3
+2275 microarray 16:10
+2276 yeast 1:1
+2277 6000 5:1
+2278 genes 16:4
+2279 experimental 5:16
+2280 measurements 8:3
+2281 gene 16:13 3:1
+2282 practical 2:10
+2283 assigning 12:1
+2284 coordinate 7:17
+2285 stable 2:8
+2286 random 11:3
+2287 starting 16:4
+2288 perturbations 7:1
+2289 estimates 16:1
+2290 locate 14:2 0:1
+2291 versus 9:3 4:2
+2292 occasional 16:1
+2293 displacements 16:1
+2294 interpreting 7:4
+2295 extra 16:3
+2296 reported 8:7
+2297 accepted 16:1
+2298 believed 7:1
+2299 practices 9:1
+2300 encoding 3:16 17:1
+2301 faults 3:1
+2302 suites 16:1
+2303 errors 5:11
+2304 interpret 5:6
+2305 manually 16:7
+2306 tarantula 10:1
+2307 encodes 15:1
+2308 principled 13:1
+2309 act 16:2 11:1
+2310 passed 6:1
+2311 failed 16:4
+2312 tests 16:5
+2313 composition 9:2 0:2
+2314 composed 16:2 11:2
+2315 treemap 3:40 18:1
+2316 wellknown 15:1
+2317 determined 8:1
+2318 contribution 4:10
+2319 transition 1:18
+2320 linearly 10:1
+2321 interpolates 19:1
+2322 polar 6:2
+2323 enforcing 16:1
+2324 constraints 2:13
+2325 social 6:47
+2326 gnutella 4:1
+2327 sharing 5:7 17:3
+2328 informal 1:4
+2329 orthogonal 6:8
+2330 improved 5:10 10:1
+2331 aesthetic 9:7
+2332 attain 2:1
+2333 forming 1:1
+2334 symmetry 16:1
+2335 relate 15:4
+2336 sketches 9:7
+2337 thought 17:3
+2338 indices 9:1
+2339 guide 9:8
+2340 adhere 10:1
+2341 mantra 11:2
+2342 incorporated 5:3 12:2
+2343 receiving 2:1
+2344 attention 4:14
+2345 controlling 10:1
+2346 aspect 18:26
+2347 ratios 18:6
+2348 visibility 17:4
+2349 instability 13:1
+2350 fail 15:3
+2351 preserve 1:6
+2352 ordered 3:6
+2353 shortcomings 10:3
+2354 ensures 1:2
+2355 monte 1:1
+2356 carlo 17:1
+2357 trials 3:1
+2358 favorable 1:1 2:1
+2359 constituent 5:1
+2360 cylindrical 1:2 11:1
+2361 sized 19:1 13:1
+2362 collapsible 15:1
+2363 cct 3:4
+2364 child 6:6
+2365 rotating 3:1
+2366 cylinders 13:1
+2367 balance 0:6
+2368 threedimensional 1:1
+2369 reach 15:2
+2370 implementations 10:4
+2371 observation 12:3 9:2
+2372 botanical 6:3
+2373 strand 17:1
+2374 holton 8:1
+2375 convert 10:2
+2376 leaf 5:5
+2377 subbranches 15:1
+2378 naive 8:2
+2379 unsatisfactory 2:1
+2380 suit 19:3
+2381 purposes 6:2
+2382 continuing 6:1
+2383 emphasized 4:1
+2384 long 14:11
+2385 contracted 6:1
+2386 fruit 16:1
+2387 directories 6:2
+2388 extracted 6:6
+2389 keywords 3:2
+2390 strands 8:1
+2391 phyllotaxis 13:1
+2392 sdof 9:4
+2393 andcontext 17:1
+2394 photography 9:1
+2395 cinematography 2:1
+2396 offield 8:1
+2397 effect 5:10
+2398 blur 2:1
+2399 dependence 15:1
+2400 relevance 13:1 19:1
+2401 locations 5:4 9:1
+2402 sharply 18:1
+2403 blurred 4:2
+2404 adopted 15:2 7:1
+2405 pros 9:1
+2406 cons 16:1
+2407 combinations 7:14
+2408 matches 16:4 10:1
+2409 progressively 17:4
+2410 aggregated 15:6
+2411 overlap 13:12
+2412 occlude 7:2
+2413 portion 18:2
+2414 pixels 14:2 0:1
+2415 bars 18:2 3:1
+2416 retain 10:3
+2417 intuitiveness 7:2
+2418 placement 11:17 10:1
+2419 commerce 1:3
+2420 comparison 5:27
+2421 commercial 0:9
+2422 ecologically 18:1
+2423 turned 6:2
+2424 supply 4:1
+2425 answers 5:4
+2426 reasons 5:2
+2427 studied 5:10 8:1
+2428 chart 18:11 17:1
+2429 icicle 8:2 6:1
+2430 ring 11:2 4:1 18:1
+2431 equivalent 7:2
+2432 implications 5:11 12:6
+2433 entered 4:1
+2434 encoded 5:5
+2435 fidelity 4:2
+2436 fitness 3:1
+2437 direction 11:8
+2438 amplified 19:1
+2439 extent 11:5
+2440 empirically 10:3
+2441 investigate 16:13
+2442 instances 13:4 18:1
+2443 performances 5:1
+2444 smaller 1:5 15:2
+2445 segments 18:5 16:1 14:1
+2446 diagnostic 15:3
+2447 emtree 6:1
+2448 viewer 1:4
+2449 diagnosis 5:6 0:1 16:1
+2450 revealed 5:6 12:1
+2451 churn 7:1
+2452 telecommunications 5:2
+2453 clickstream 11:2
+2454 segmenting 12:1
+2455 demographic 3:6
+2456 purchase 14:3
+2457 picture 1:3
+2458 ultimately 5:2
+2459 deeper 0:6
+2460 arcview 0:1
+2461 mortality 15:4
+2462 cancers 14:1
+2463 socioeconomic 11:1
+2464 tested 5:4
+2465 scatterplot 7:21
+2466 assessments 3:1
+2467 suggests 5:8 7:3
+2468 cardiovascular 7:3
+2469 disciplinary 14:2
+2470 physiological 1:1
+2471 clinicians 2:1
+2472 respond 7:1
+2473 communicates 17:1
+2474 patients 16:1 11:1
+2475 detection 9:5
+2476 event 14:16
+2477 cubes 1:2
+2478 start 9:2
+2479 gradually 6:1
+2480 refining 2:1
+2481 multiscale 1:13 17:1
+2482 directly 1:9
+2483 overviews 18:9 3:1
+2484 abstraction 12:21
+2485 limit 6:5
+2486 path 6:11
+2487 formalism 6:1 15:1
+2488 independently 1:6
+2489 traversing 15:1
+2490 schemas 15:6
+2491 infinite 15:1
+2492 enabled 14:4
+2493 unique 9:10
+2494 pace 12:1
+2495 snap 1:1
+2496 analogous 16:1
+2497 customized 15:5
+2498 depends 15:4
+2499 schema 15:5
+2500 analogy 4:1
+2501 contributions 17:7 7:1
+2502 scheme 7:6
+2503 uniformly 8:2
+2504 brings 8:1
+2505 icon 8:3
+2506 inconclusive 19:1
+2507 conflicting 4:1
+2508 indicative 3:1
+2509 illusion 3:1
+2510 perceived 5:10
+2511 body 10:2
+2512 vision 16:7
+2513 distorted 11:3 14:1
+2514 affine 12:2 1:2
+2515 reaching 13:1
+2516 attempts 3:5
+2517 expected 2:3
+2518 distances 5:5
+2519 ineffective 11:1
+2520 concentrates 11:1
+2521 twofold 13:2
+2522 findings 5:19
+2523 generalize 3:3
+2524 evolution 17:16
+2525 adds 0:1
+2526 rescaling 10:1
+2527 optimized 8:4
+2528 movement 13:4
+2529 preview 19:1
+2530 expanded 6:5
+2531 reflects 10:3
+2532 emerged 6:2
+2533 showed 5:5
+2534 estimation 5:2
+2535 rsf 6:4
+2536 conveying 10:3 5:3
+2537 date 4:2 10:1
+2538 degrees 15:5
+2539 interring 3:2
+2540 extensive 13:4 2:1
+2541 distortions 3:3 13:2
+2542 efforts 13:3
+2543 strategy 1:18
+2544 geometrical 1:3
+2545 maximize 2:2
+2546 enclosure 4:1
+2547 assigned 8:3
+2548 modified 11:6
+2549 zoomed 19:3
+2550 beamtrees 3:2
+2551 beams 3:2
+2552 calculated 18:3
+2553 variation 18:5
+2554 extraction 19:5
+2555 biosequence 9:1 10:1
+2556 texture 5:16
+2557 sequences 14:13 15:4 1:1
+2558 predominantly 8:1
+2559 blending 5:8
+2560 obtained 2:2 18:1
+2561 discovering 15:4
+2562 strings 7:3
+2563 repetition 2:1
+2564 dotplots 18:1
+2565 subsequence 3:1 16:1
+2566 music 9:5
+2567 compiled 4:1
+2568 thousand 19:2
+2569 article 17:4 10:1 13:1
+2570 manageable 14:2 0:2
+2571 hardware 2:6 18:1
+2572 newer 3:2
+2573 cards 18:3
+2574 stereovision 19:1
+2575 eigenvectors 2:2
+2576 term 4:9
+2577 ace 2:4
+2578 algebraic 11:3
+2579 multigrid 7:2
+2580 exhibits 8:1
+2581 magnitude 2:5 1:3
+2582 fastest 2:2
+2583 aware 5:6
+2584 minute 2:1 1:1
+2585 finds 3:2
+2586 quadratic 2:4
+2587 minimization 2:2
+2588 eigenvalue 2:2
+2589 solved 11:2
+2590 appears 9:1 11:1
+2591 applicable 13:8 11:1
+2592 unrolling 16:1 1:1
+2593 discourse 1:3
+2594 intermediate 17:3
+2595 conveys 8:3
+2596 dynamics 14:5 15:1
+2597 layer 9:2 5:1
+2598 stack 9:1
+2599 driving 19:1
+2600 structuring 2:2
+2601 inspired 7:8 5:1
+2602 contemporary 16:1
+2603 sampling 7:10
+2604 interpolation 15:1
+2605 chalmers 16:2
+2606 1996 1:1 15:1
+2607 benchmark 16:3
+2608 synthetic 10:5
+2609 executes 10:2
+2610 whilst 8:1 9:1
+2611 superior 8:5
+2612 reducing 8:5
+2613 infeasible 15:1
+2614 solid 13:2
+2615 cartogram 13:6
+2616 cartograms 13:7
+2617 geography 3:5 2:1
+2618 population 3:9 1:1
+2619 demographics 11:1
+2620 epidemiological 12:2
+2621 distort 18:2
+2622 resizing 16:1
+2623 deal 13:11
+2624 strictly 2:1
+2625 mesh 8:5
+2626 relocation 2:1
+2627 scanlines 7:1
+2628 gridfit 10:1
+2629 quadtree 15:1
+2630 bounded 15:4
+2631 uncertainty 7:14 5:6
+2632 presence 15:4
+2633 danger 4:1
+2634 falsely 5:1
+2635 interpreted 9:2
+2636 potentially 3:4
+2637 inaccurate 15:2
+2638 denoting 9:1
+2639 statistically 5:11
+2640 systematically 7:5
+2641 interestingly 14:1
+2642 exact 15:2
+2643 angular 9:3
+2644 rational 1:1
+2645 separable 12:1
+2646 depend 17:2
+2647 nonbinary 5:1
+2648 briefly 19:2
+2649 cfd 7:1
+2650 tuple 0:2
+2651 polyarchies 1:1
+2652 tabular 3:1 1:1
+2653 decomposing 17:1
+2654 breakdown 10:2
+2655 guided 9:3 13:1 17:1
+2656 polyarchical 1:1
+2657 organizational 1:1 2:1
+2658 sport 14:2
+2659 fix 5:1
+2660 monitoring 19:7 14:1
+2661 instruments 19:9 12:1
+2662 past 9:6
+2663 inversely 3:2
+2664 proportional 13:3
+2665 anchoring 18:1 2:1
+2666 attachment 6:1
+2667 positions 13:10 2:1
+2668 collision 15:1
+2669 avoidance 19:1
+2670 physically 2:1
+2671 prevents 19:1
+2672 loosing 6:1
+2673 evolutionary 11:2
+2674 biologist 11:2 8:2
+2675 hypothetical 6:3
+2676 hypotheses 16:3 14:3
+2677 species 16:8
+2678 organisms 16:2
+2679 evolved 6:1 5:1
+2680 consensus 6:4
+2681 venture 18:2
+2682 investing 17:1 12:1
+2683 crash 11:1
+2684 coms 7:1
+2685 investors 13:1
+2686 lot 19:3
+2687 money 6:2
+2688 capitalists 17:1
+2689 vcs 17:1
+2690 startups 18:2
+2691 continually 17:1
+2692 update 19:2 11:1
+2693 investment 1:2
+2694 timeticker 1:1
+2695 decomposed 6:3
+2696 subproblems 10:1
+2697 works 17:7
+2698 exposes 16:1
+2699 services 14:10
+2700 lets 13:3
+2701 modes 12:2
+2702 ups 10:1
+2703 inspect 18:1 1:1
+2704 literally 3:1
+2705 estimate 0:1
+2706 velocity 19:1
+2707 translated 0:1
+2708 calculate 17:3
+2709 good 16:7 5:2
+2710 premise 13:1
+2711 resolutions 18:4
+2712 returns 19:1 3:1
+2713 captures 5:2
+2714 demonstrating 6:3 18:2
+2715 description 9:4
+2716 promise 9:2
+2717 validated 2:1 14:1
+2718 multiform 15:4
+2719 matrices 6:19
+2720 multiples 14:9
+2721 leverages 12:2
+2722 geovista 14:1
+2723 multiview 1:3
+2724 generically 10:1
+2725 coordinated 16:12 12:4
+2726 ideas 16:5
+2727 bivariate 14:4
+2728 complementary 17:2
+2729 conditional 6:2
+2730 entropy 7:1
+2731 default 15:2 10:1
+2732 add 7:7
+2733 conditioning 19:2 11:2
+2734 kind 15:6 19:3
+2735 supplementary 10:1
+2736 undisplayed 1:1
+2737 constrain 15:1
+2738 removed 14:3
+2739 remaining 3:3
+2740 cancer 1:5
+2741 covariates 16:2
+2742 architecting 1:2
+2743 faced 16:4
+2744 discussion 9:5
+2745 rivet 1:2
+2746 decodings 3:1
+2747 tradeoff 11:2
+2748 simplicity 1:2 7:1
+2749 contest 17:1
+2750 esthetics 9:1
+2751 moma 4:1
+2752 wall 16:1
+2753 street 9:1
+2754 dinner 5:1
+2755 talk 1:2
+2756 dessert 4:1
+2757 explorations 14:3
+2758 put 9:4
+2759 twenty 6:3
+2760 practicing 17:1
+2761 designer 1:3
+2762 artist 19:3
+2763 reacted 12:1
+2764 strongly 5:8
+2765 partly 1:4
+2766 soothe 17:1
+2767 entertain 5:1
+2768 hopes 5:1
+2769 attendees 1:1
+2770 checklist 9:1 18:1
+2771 guiding 12:1
+2772 students 9:2 1:1
+2773 intellectual 6:5 4:1
+2774 tie 4:1
+2775 sensation 19:1
+2776 decode 16:1
+2777 vocabulary 12:3
+2778 audience 13:5
+2779 absorbed 7:1
+2780 manipulated 7:3
+2781 engagement 18:3
+2782 congestion 6:2
+2783 telecommunication 10:1
+2784 airline 14:2
+2785 routes 18:1
+2786 interconnected 4:3
+2787 obscure 0:2
+2788 beneath 2:1
+2789 edgelens 2:4
+2790 curves 10:10
+2791 opens 18:1
+2792 disambiguate 4:1
+2793 subsequent 18:2 11:1
+2794 lenses 15:4
+2795 communicating 12:6
+2796 situations 8:7
+2797 moiregraphs 11:2
+2798 secondary 18:1
+2799 pathfinder 6:2
+2800 citation 6:5
+2801 publications 6:2
+2802 msts 10:1
+2803 pfnets 19:1
+2804 weaknesses 17:3 3:2
+2805 fulfilling 12:1
+2806 dynamical 3:2
+2807 botulinum 6:1
+2808 toxin 3:1
+2809 span 5:2 18:1
+2810 1945 6:1
+2811 2002 16:2 11:2
+2812 dominate 6:1
+2813 mst 5:1 3:1
+2814 inadequate 5:1
+2815 essence 12:1 17:1
+2816 evolves 3:2
+2817 removes 8:1
+2818 shortest 5:1
+2819 paths 6:9
+2820 contrast 18:11
+2821 pfnet 8:1
+2822 superiority 6:1
+2823 cohesiveness 3:2
+2824 pivotal 7:1
+2825 turn 5:3
+2826 predictable 17:2
+2827 interpretable 6:1
+2828 appeared 1:1
+2829 reverse 12:1
+2830 biology 1:3
+2831 weakest 6:1
+2832 cost 1:5 10:3
+2833 procedure 10:4 18:1
+2834 breaks 17:1
+2835 subgroups 6:4
+2836 actors 6:7 8:1
+2837 infovis 12:31
+2838 computationally 18:3
+2839 stage 10:3 9:1
+2840 nearest 8:2
+2841 neighbour 5:1
+2842 phase 16:4 9:1
+2843 discretised 11:1
+2844 constant 8:5
+2845 bottleneck 6:2
+2846 n54 11:1
+2847 documenting 10:1
+2848 108000 9:1
+2849 considerable 14:4
+2850 negative 12:1
+2851 distinguished 17:1
+2852 variable 8:7 19:4 3:1
+2853 imposes 16:1
+2854 choice 3:3 7:1
+2855 feasibility 3:1 9:1
+2856 transient 8:3
+2857 newswires 3:1
+2858 remote 8:4
+2859 sensing 8:3
+2860 imagery 13:4
+2861 unpredictable 17:1
+2862 unbounded 8:1
+2863 overwhelm 19:1
+2864 stratification 19:3
+2865 ingest 8:1
+2866 influx 19:1
+2867 rate 10:4
+2868 fusion 19:2
+2869 subspace 4:2
+2870 spanned 19:1
+2871 singular 9:1
+2872 processed 8:2
+2873 neighboring 13:3
+2874 ultimate 19:1
+2875 leverage 4:1
+2876 legacy 4:1
+2877 newswire 13:1
+2878 spacing 7:8
+2879 reveal 15:15
+2880 star 7:6
+2881 hides 7:2
+2882 dosfa 7:2
+2883 tractable 7:1
+2884 settings 0:4
+2885 200 7:3 19:2
+2886 cardinality 7:2
+2887 explored 7:13 3:3
+2888 numeric 7:2
+2889 importing 7:1
+2890 simplistic 3:2
+2891 classing 17:2
+2892 dqc 7:2
+2893 imported 7:1
+2894 grouped 17:3
+2895 xmdvtool 18:1 8:1
+2896 package 15:2
+2897 labeled 7:4
+2898 optimally 15:1
+2899 pca 8:1
+2900 fisher 7:2
+2901 lda 16:1
+2902 members 5:5
+2903 pairwise 6:1
+2904 dissimilarities 7:1
+2905 decomposition 8:2
+2906 embeddings 13:1
+2907 intra 6:1
+2908 kinds 3:3 10:1
+2909 properly 15:1 14:1
+2910 ambiguities 2:1
+2911 ambiguity 8:1 7:1
+2912 lessen 13:1
+2913 remapped 0:1
+2914 jittered 6:1
+2915 portrays 17:1
+2916 crowding 10:1
+2917 fails 13:1
+2918 intelligibly 16:1
+2919 overlapped 1:1 2:1
+2920 smart 11:1
+2921 jittering 16:1
+2922 radviz 2:1
+2923 informedia 13:2
+2924 summarizes 13:2
+2925 collage 12:1
+2926 representative 17:4
+2927 keyframes 12:1
+2928 keyframe 9:1
+2929 whitespace 12:1
+2930 minimized 14:1
+2931 tend 13:5
+2932 considers 16:4
+2933 avoids 4:1
+2934 altogether 13:1
+2935 concerns 13:1
+2936 summaries 14:8
+2937 shots 8:1
+2938 posting 9:1
+2939 greedy 4:1
+2940 datamaps 4:2
+2941 trend 14:10
+2942 participants 5:26
+2943 searches 5:1
+2944 categorization 4:1
+2945 judgments 18:5
+2946 interested 5:2
+2947 gaining 11:3
+2948 ideal 15:1 12:1
+2949 curving 5:1
+2950 comprehensive 5:5
+2951 yield 5:3
+2952 question 11:2
+2953 accuracy 5:16
+2954 observers 8:3
+2955 elliptical 11:1
+2956 convex 13:5 16:1
+2957 concave 5:3 11:1
+2958 boundary 11:1 17:1
+2959 masked 17:1
+2960 quadric 5:1
+2961 patches 8:2
+2962 isotropic 19:1
+2963 anisotropic 7:2
+2964 orthographic 7:1
+2965 head 11:1
+2966 oblique 15:1
+2967 confirm 17:2
+2968 facilitated 19:2
+2969 correctly 5:3
+2970 identified 5:11
+2971 textured 5:1
+2972 condition 5:6
+2973 markings 15:1
+2974 yielded 13:1
+2975 poorer 11:1
+2976 microarrays 16:3
+2977 biological 16:15
+2978 phenomena 8:3
+2979 micro 14:1
+2980 product 18:6
+2981 subject 15:3
+2982 proper 14:1
+2983 prevention 5:2 14:1
+2984 diseases 8:1
+2985 unable 14:2
+2986 uncover 14:2
+2987 formulate 14:9
+2988 measurable 17:1
+2989 reversible 0:1
+2990 compound 6:6
+2991 higraphs 8:1
+2992 device 4:1 12:1
+2993 renderer 19:1
+2994 polygons 16:7
+2995 causal 8:13
+2996 coded 16:2
+2997 hasse 6:5
+2998 deducing 13:1
+2999 executions 8:1
+3000 correctness 6:2 5:2
+3001 causality 10:1
+3002 subjective 5:8
+3003 ratings 1:1
+3004 rank 14:6 11:2 19:1
+3005 enjoyability 1:1
+3006 customer 9:9
+3007 satisfaction 5:9
+3008 surveys 10:3 19:2
+3009 measurement 10:5 18:1
+3010 consist 3:1
+3011 numerous 7:6
+3012 sides 5:1
+3013 asked 5:7
+3014 received 5:4
+3015 turns 13:1
+3016 interleaved 7:1
+3017 cross 14:12
+3018 diversification 9:4
+3019 fund 9:4
+3020 portfolios 12:2
+3021 instrument 9:1
+3022 invests 9:1
+3023 stocks 9:8
+3024 funds 12:2
+3025 partially 17:2
+3026 invest 9:1
+3027 portfolio 9:3 0:1 13:1
+3028 spreading 9:3
+3029 informing 4:2
+3030 held 13:1
+3031 invested 9:2
+3032 waste 19:1
+3033 estate 6:1 1:1
+3034 fundexplorer 10:2
+3035 email 0:7
+3036 thread 0:8
+3037 threads 0:2
+3038 chronology 5:1
+3039 messages 9:2
+3040 branching 2:2 8:1
+3041 conversational 5:1
+3042 mixed 5:6
+3043 venolia 2:1
+3044 neustaedter 6:1
+3045 2003 7:4
+3046 scanning 0:1
+3047 conversations 18:4
+3048 proved 0:2
+3049 excellent 5:2
+3050 qualities 0:2
+3051 wanted 5:1
+3052 bard 16:4
+3053 began 2:1
+3054 wattenberg 8:5
+3055 blast 19:1
+3056 altschul 18:1
+3057 separating 7:3
+3058 matching 8:3 0:1
+3059 inexact 5:1
+3060 complemented 19:2
+3061 palindrome 9:1
+3062 renders 10:2
+3063 distinctly 4:1
+3064 pathogenic 14:1
+3065 fungi 14:1
+3066 cryptococcus 15:1
+3067 neoformans 18:1
+3068 multilevel 6:2
+3069 prime 16:2
+3070 architectures 2:3
+3071 aids 12:1
+3072 crisp 10:1
+3073 philips 16:1
+3074 medical 5:3 17:1
+3075 ambient 9:8
+3076 reside 12:1
+3077 public 9:16
+3078 places 8:3
+3079 appealing 0:2 18:1
+3080 attractive 4:4
+3081 strike 17:1
+3082 aesthetical 10:1
+3083 appeal 12:1
+3084 departure 4:1
+3085 300 10:2
+3086 inspiration 9:1
+3087 modern 17:4
+3088 passes 19:1
+3089 prospective 19:1 8:1
+3090 final 4:4 13:2
+3091 lessons 0:3
+3092 learned 19:3
+3093 constraint 2:5
+3094 lighting 18:3
+3095 motivating 16:1
+3096 iterations 13:1
+3097 fieldwork 17:1
+3098 fine 16:2
+3099 grained 11:1
+3100 positive 4:5
+3101 buildings 15:3
+3102 sciences 6:2
+3103 biologists 16:15
+3104 face 4:1
+3105 dilemma 8:2
+3106 seek 5:4 14:1
+3107 ideally 16:1
+3108 maximum 3:2
+3109 baseline 5:2
+3110 relating 6:1
+3111 completion 5:6
+3112 measured 5:2
+3113 recordings 4:2
+3114 conducted 5:17 7:1
+3115 observed 11:8
+3116 future 4:6
+3117 readability 6:9 10:1
+3118 aiming 2:1
+3119 bears 17:1
+3120 performs 5:3
+3121 consistently 4:2
+3122 favor 13:1
+3123 objective 5:5
+3124 interconnectedness 1:1
+3125 activities 1:11
+3126 temporal 14:39
+3127 demonstratable 13:1
+3128 geotime 14:1
+3129 evaluations 4:2
+3130 military 14:1
+3131 government 3:5
+3132 approximations 14:1
+3133 referenced 8:3
+3134 nowadays 13:2
+3135 nonuniform 3:1
+3136 impacts 18:3
+3137 cartographers 13:3
+3138 geographers 2:1
+3139 recmap 1:1
+3140 produces 11:2 19:1
+3141 correlations 18:6 1:5
+3142 peer 7:6
+3143 ezel 12:1
+3144 identifying 4:14
+3145 transferred 9:1
+3146 servers 16:1
+3147 faded 10:1
+3148 cushioning 17:1
+3149 expose 3:1
+3150 stance 10:1
+3151 vdm 7:3
+3152 frameworks 4:6 11:1
+3153 redoing 0:1
+3154 unit 15:1
+3155 progressive 10:3
+3156 mdsteer 10:1
+3157 steerable 2:1
+3158 computes 3:3
+3159 steer 7:2
+3160 iteratively 1:3
+3161 alternates 8:1
+3162 subselection 8:1
+3163 affected 4:1 16:1
+3164 iteration 18:1
+3165 unplaced 10:1
+3166 onscreen 11:1
+3167 bins 17:1
+3168 dimensionalities 0:1
+3169 cardinalities 17:1
+3170 unsupervised 11:1
+3171 difficulty 14:1
+3172 comprehending 19:1
+3173 moore 17:1
+3174 choose 7:2
+3175 ranking 1:5
+3176 criterion 11:4 1:1
+3177 sort 7:1
+3178 prism 5:1
+3179 triangular 6:1
+3180 guides 10:2
+3181 desired 5:2
+3182 boxplot 10:1
+3183 coordination 1:13
+3184 traverse 13:1
+3185 var 10:5
+3186 grasp 3:1
+3187 associations 10:2
+3188 condensed 16:1
+3189 crowded 12:1
+3190 marker 18:1
+3191 severely 4:1
+3192 hampers 7:2
+3193 observe 11:3 1:3 19:1
+3194 reordering 0:2
+3195 denotes 2:1
+3196 disordered 15:1
+3197 interferes 19:1
+3198 modifying 6:4
+3199 constitutes 16:1
+3200 minimizes 10:1
+3201 flocking 14:6
+3202 boids 7:1
+3203 demonstrates 14:4 3:1
+3204 simulation 12:7
+3205 evolutions 11:2
+3206 extending 1:2
+3207 originally 8:1 11:1
+3208 proctor 14:1
+3209 winter 15:1
+3210 continuously 11:4
+3211 controls 8:1 2:1
+3212 reoccurring 14:2
+3213 distinguishable 11:1
+3214 emerge 14:1 15:1
+3215 notably 14:2
+3216 alteration 14:1
+3217 cue 14:1
+3218 streaming 10:1
+3219 prove 13:1
+3220 quote 11:1
+3221 price 15:2
+3222 era 0:2
+3223 evocative 15:1
+3224 souvenir 16:2
+3225 artifacts 18:4
+3226 installation 13:4
+3227 geological 19:1
+3228 piece 13:3
+3229 museum 19:6
+3230 constructs 4:3
+3231 impressionistic 6:1
+3232 chose 16:3
+3233 reactions 5:2
+3234 media 13:5 11:1
+3235 contexts 3:5
+3236 archives 11:1
+3237 newsgroups 2:1
+3238 mixing 3:2
+3239 compositing 8:3
+3240 multiattribute 5:1
+3241 understandable 5:2
+3242 paint 2:1
+3243 ryb 16:1
+3244 subregions 3:1
+3245 pure 3:2
+3246 collapsed 9:1
+3247 expansion 6:1
+3248 ahead 1:4
+3249 fill 3:1 15:1
+3250 viewport 9:1
+3251 skipping 0:1
+3252 differs 6:3 17:1
+3253 repositories 9:4
+3254 infosky 4:3
+3255 telescope 8:1
+3256 planar 2:3
+3257 stars 11:3
+3258 visualised 4:1
+3259 bounding 11:2
+3260 prevented 11:1
+3261 exploiting 16:1
+3262 blurring 15:2
+3263 segmentation 7:1
+3264 subnetworks 6:1
+3265 explain 9:4 5:1
+3266 interpretations 4:4
+3267 descend 13:1
+3268 unpack 4:1
+3269 matter 9:1
+3270 serendipity 19:1
+3271 intentional 19:1
+3272 gaps 9:1
+3273 obstacles 13:2
+3274 facilitating 15:3
+3275 bridging 12:2
+3276 gap 12:2 14:1
+3277 classifies 0:2
+3278 categorized 4:1
+3279 assumptions 4:4 18:1
+3280 emphasizing 10:2
+3281 classified 5:4
+3282 chooses 10:1
+3283 spatialization 9:5
+3284 timing 12:4
+3285 divisions 7:1
+3286 relates 9:2
+3287 improvise 12:4
+3288 alter 18:1
+3289 swing 4:1
+3290 coherent 14:4 17:2
+3291 simplifies 17:2
+3292 adjacency 6:8
+3293 acceleration 17:1
+3294 agile2d 17:1
+3295 api 15:2
+3296 opengl 18:1
+3297 achieving 6:2
+3298 speedups 4:1
+3299 enriching 7:1
+3300 negate 0:1
+3301 satisfactory 2:2
+3302 precomputation 5:1
+3303 coarsened 1:1
+3304 renderings 8:1
+3305 subgraphs 0:5
+3306 accessed 13:2
+3307 calling 2:2
+3308 disease 5:11
+3309 profiles 0:1
+3310 desire 19:1
+3311 formation 9:4
+3312 contention 0:1
+3313 spread 15:4
+3314 ram 7:2
+3315 parameterized 13:2
+3316 threshold 0:1
+3317 achieved 1:6
+3318 essential 1:5
+3319 incidence 1:1
+3320 clustered 8:11
+3321 online 9:24
+3322 modifications 8:2
+3323 measuring 14:4
+3324 diameter 11:1
+3325 references 2:1 6:1
+3326 pleasing 9:1
+3327 semantical 18:1
+3328 embedder 2:2
+3329 artists 5:1
+3330 embedders 3:1
+3331 riemannian 2:1
+3332 relies 2:2
+3333 angle 0:2
+3334 noneuclidean 13:1
+3335 geometries 13:3
+3336 appropriately 15:1
+3337 tangent 11:1
+3338 formally 9:1
+3339 calculations 14:2
+3340 names 3:3 16:1
+3341 voyager 16:1
+3342 baby 14:1
+3343 proven 16:2
+3344 remarkably 1:1
+3345 lesson 4:1
+3346 hypothesized 4:2
+3347 fruitfully 7:1
+3348 words 16:7
+3349 sky 6:2 1:1
+3350 dome 11:1
+3351 astronomical 11:2
+3352 ancient 17:1
+3353 temples 8:1
+3354 cardinal 2:1
+3355 horizon 1:3
+3356 sun 11:2
+3357 moon 10:2
+3358 rise 9:1
+3359 decades 14:1
+3360 archaeologists 14:1
+3361 older 13:1
+3362 soil 7:1
+3363 doorways 19:1
+3364 archaeological 6:1
+3365 folded 10:1
+3366 flattened 13:1
+3367 brighter 11:1
+3368 groupings 0:2
+3369 sunrise 13:1
+3370 sunset 8:1
+3371 evidently 8:1
+3372 mark 1:4
+3373 agricultural 19:1
+3374 middle 19:1
+3375 neolithic 18:1
+3376 genealogical 6:6 0:1
+3377 theoretic 12:2
+3378 identifies 18:2
+3379 motivates 0:1
+3380 dual 18:10 10:1
+3381 subgraph 16:2
+3382 formed 11:3
+3383 union 6:1
+3384 indented 12:1
+3385 style 11:6
+3386 multitrees 6:1
+3387 transitioning 18:1
+3388 framing 4:4
+3389 collapsing 18:1
+3390 drag 0:3
+3391 navigator 16:3
+3392 toolset 16:2
+3393 syntactic 1:3
+3394 symbol 13:6
+3395 compilation 1:2
+3396 signatures 5:1
+3397 namespaces 16:1
+3398 versions 15:2 14:1
+3399 lifetime 7:1
+3400 syntax 18:2
+3401 render 10:4 5:1
+3402 shaded 18:1
+3403 answer 16:6
+3404 clicks 8:1
+3405 vtk 3:1
+3406 witnessed 11:2
+3407 dramatic 15:4
+3408 popularity 12:5
+3409 networking 6:1
+3410 publicly 9:2
+3411 articulate 12:1
+3412 friendship 15:1
+3413 communities 6:9
+3414 playful 5:1
+3415 contribute 12:10
+3416 engaged 8:1
+3417 activity 11:7
+3418 accordion 2:2
+3419 prisad 9:3
+3420 rubber 16:2
+3421 sheet 2:1
+3422 guaranteed 2:1
+3423 marked 3:2
+3424 incorrect 19:1
+3425 overculling 9:2
+3426 inefficiencies 10:1
+3427 overdrawing 0:2
+3428 guarantees 2:2
+3429 tight 2:1
+3430 bounds 3:1
+3431 pritree 2:4
+3432 priseq 2:3
+3433 treejuxtaposer 9:1
+3434 sequencejuxtaposer 2:1
+3435 culling 2:1
+3436 marking 10:1
+3437 improvements 16:7
+3438 realworld 9:1
+3439 fifteen 17:1
+3440 attributed 14:1
+3441 ratio 18:15
+3442 voronoi 4:1
+3443 eliminates 18:1
+3444 subdivisions 8:1
+3445 triangles 3:1
+3446 circles 3:1
+3447 adaptation 10:2
+3448 wider 4:5
+3449 elastic 18:2 3:2
+3450 depiction 6:7
+3451 mixture 6:3
+3452 interleaving 4:1
+3453 banding 16:1
+3454 concludes 3:2
+3455 suggestions 1:3
+3456 constrained 2:5
+3457 fdp 10:2
+3458 symmetries 3:2
+3459 preservation 3:2
+3460 retained 10:1
+3461 identi 6:1
+3462 fies 3:1
+3463 undirected 10:1 0:1
+3464 directional 6:3 2:2
+3465 dmds 3:2
+3466 deals 10:1 8:1
+3467 chronological 16:1
+3468 axes 7:17
+3469 labels 11:16
+3470 lengths 5:4
+3471 phrase 19:4
+3472 sentence 17:1
+3473 paragraph 13:1
+3474 tackling 19:1
+3475 intractability 13:1
+3476 reallocate 16:1
+3477 mode 4:2
+3478 drilling 8:1
+3479 successive 5:2
+3480 opening 1:1
+3481 quicker 9:2
+3482 locating 12:2
+3483 targets 8:4 14:3
+3484 evaluates 6:3
+3485 bucket 19:1
+3486 pipe 15:1
+3487 professional 19:1
+3488 moving 17:5
+3489 constantly 4:2
+3490 aging 4:1
+3491 technical 9:3
+3492 correlation 2:6
+3493 situational 17:3
+3494 awareness 17:4 0:3
+3495 concise 0:4
+3496 anticipating 16:1
+3497 intrusion 12:1
+3498 w3premise 14:1
+3499 conflict 14:5
+3500 summary 14:3
+3501 bilateral 1:1
+3502 embodied 9:1
+3503 stamped 2:1
+3504 news 14:5 9:1
+3505 dossiers 14:1
+3506 political 3:5
+3507 conflicts 1:2
+3508 opponents 16:1
+3509 facilitation 19:1
+3510 ten 0:2
+3511 largely 1:3
+3512 totally 15:1
+3513 posed 11:2
+3514 substrate 14:1
+3515 suggesting 7:4
+3516 imprecise 8:1
+3517 lind 6:1
+3518 characterized 17:5
+3519 invariant 11:3
+3520 identical 12:1
+3521 accidental 4:1
+3522 naps 17:1
+3523 lowe 14:1
+3524 1984 8:1
+3525 geons 7:1
+3526 biederman 7:1
+3527 1987 2:1
+3528 sign 1:1
+3529 curvature 7:1
+3530 investigated 14:1 7:1
+3531 analysed 15:1
+3532 hiding 9:1
+3533 constitute 2:2
+3534 textures 8:2
+3535 analysing 3:1
+3536 translate 15:2
+3537 adopts 18:1
+3538 substitutes 6:1
+3539 abstracted 10:2
+3540 carefully 3:4
+3541 ficient 14:1
+3542 crm 8:1 15:1
+3543 eases 5:1
+3544 crystallization 0:1
+3545 simplify 1:4
+3546 losing 9:1
+3547 variability 6:1
+3548 answering 12:1
+3549 read 3:3 4:1
+3550 impression 15:2
+3551 readings 3:1
+3552 offset 7:1
+3553 role 4:6 2:1
+3554 stepped 3:1
+3555 adjacent 7:4
+3556 scagnostics 1:2
+3557 tukey 11:2
+3558 situ 12:5
+3559 conceptualizing 1:1
+3560 metavisualization 1:3
+3561 visualizable 0:1
+3562 outlines 13:2
+3563 pseudo 10:3
+3564 indispensable 4:1
+3565 excessive 8:2
+3566 switching 7:4
+3567 precisely 18:2
+3568 scalar 1:2 3:1
+3569 painting 4:1
+3570 meteorological 8:1
+3571 train 7:1
+3572 convenience 8:1
+3573 connection 2:6
+3574 mathematics 3:1
+3575 nonrectangular 2:1
+3576 enjoy 3:2
+3577 continuity 13:3
+3578 legibility 8:3
+3579 unbalanced 13:1
+3580 multimodal 2:1
+3581 conversation 17:4
+3582 tailor 19:1
+3583 automate 8:3
+3584 responses 8:1 3:1 5:1
+3585 spoken 11:1
+3586 requested 11:1
+3587 unanticipated 17:2
+3588 heuristics 7:4
+3589 walkthrough 4:2
+3590 kdviz 4:4
+3591 assessed 11:2
+3592 inspection 16:5 8:2
+3593 typical 15:8
+3594 achievement 11:2
+3595 adapted 4:7
+3596 citespace 1:2
+3597 bibliometric 16:1
+3598 literatures 19:1
+3599 fronts 16:1
+3600 monitored 11:1
+3601 comparability 14:1
+3602 obey 15:1
+3603 hierarchyand 19:1
+3604 regular 14:2
+3605 sales 15:4
+3606 variant 2:2
+3607 planning 3:6
+3608 geo 9:7
+3609 allocation 10:1
+3610 schools 18:1
+3611 emergency 16:1
+3612 care 4:2
+3613 costs 4:12 17:1
+3614 incurred 17:1
+3615 deploying 3:2
+3616 distributions 16:6
+3617 wedges 4:1
+3618 rings 4:1
+3619 maximizing 0:1
+3620 plan 10:1
+3621 partitions 9:1
+3622 informed 3:3 4:1
+3623 migration 13:4
+3624 goods 18:2
+3625 traded 13:1
+3626 packets 2:1
+3627 merging 13:2
+3628 timeseries 14:4
+3629 overlay 6:1
+3630 timepoint 2:3
+3631 animate 0:1
+3632 timepoints 2:4 11:1
+3633 overlaid 5:2
+3634 ordinates 1:1
+3635 options 5:1
+3636 predefined 2:2 0:1
+3637 overlaying 2:2
+3638 comparisons 14:7 18:5 8:4
+3639 outlier 10:2
+3640 rest 10:1
+3641 sankey 4:2
+3642 tracing 0:2
+3643 city 1:7
+3644 serves 1:2
+3645 heat 5:4
+3646 electricity 0:1
+3647 graphview 18:2
+3648 weighted 13:4
+3649 lowering 13:1
+3650 interactivity 3:4 13:1
+3651 substantially 18:1
+3652 allowed 8:2 15:1
+3653 annotation 18:2
+3654 matrixexplorer 6:3
+3655 formalized 6:1
+3656 participatory 0:2
+3657 session 17:1
+3658 commonly 1:6
+3659 reorder 9:1
+3660 annotate 6:1
+3661 clusterings 6:1
+3662 remain 11:5
+3663 convenient 9:1 8:1
+3664 publish 9:1
+3665 synchronized 6:3
+3666 facility 14:1
+3667 wafer 15:1
+3668 stepper 10:1
+3669 043 14:1
+3670 289 6:1
+3671 443 10:1
+3672 sna 6:2
+3673 medley 11:1
+3674 overwhelming 1:1
+3675 uncertain 10:4
+3676 orderly 12:1
+3677 opportunistic 12:1
+3678 socialaction 6:2
+3679 iterate 6:1
+3680 outliers 10:8
+3681 cohesive 7:1
+3682 untangle 18:1
+3683 opportunism 0:1
+3684 william 7:2
+3685 cleveland 18:2
+3686 absolute 6:1
+3687 equal 18:2
+3688 45deg 7:1 16:1
+3689 discriminability 3:1
+3690 revisit 11:1
+3691 classic 11:3
+3692 alternate 18:2
+3693 segment 16:2
+3694 spectral 7:2
+3695 banked 11:1
+3696 unaware 10:1
+3697 reliability 12:1
+3698 gleaned 12:1
+3699 difference 1:4 4:1
+3700 neighbor 10:3
+3701 adjusting 19:2
+3702 conducting 16:2
+3703 meets 12:1
+3704 estimating 18:2
+3705 intersecting 13:5
+3706 adjust 15:2
+3707 probabilistic 10:3
+3708 expensive 11:4
+3709 prefix 17:2
+3710 propagation 17:3
+3711 prefixes 9:1
+3712 topographic 8:1
+3713 isps 15:1
+3714 routing 2:2 17:1
+3715 bgplay 0:1
+3716 isp 2:2
+3717 substrates 17:3
+3718 remained 1:1
+3719 comprehensibility 15:1
+3720 destination 2:2
+3721 scalability 1:12
+3722 nvss 3:1
+3723 legal 17:3
+3724 precedent 15:1
+3725 1122 1:1
+3726 court 17:1
+3727 7645 1:1
+3728 citations 17:1 6:1
+3729 bundles 8:8
+3730 bundling 8:13
+3731 bend 4:1
+3732 spline 0:1
+3733 curve 13:5
+3734 polyline 8:1
+3735 inclusion 7:1
+3736 conjunction 3:3
+3737 indexed 13:2
+3738 pixelmaps 13:2
+3739 loss 6:3
+3740 overplotting 17:4
+3741 cities 10:3
+3742 regional 11:1 4:1
+3743 boundaries 15:2
+3744 obtaining 7:1
+3745 worldmapper 13:2
+3746 broad 19:5
+3747 countries 15:1
+3748 territories 9:1
+3749 outset 9:1
+3750 considerably 13:2 0:2
+3751 commenting 11:1
+3752 published 16:2 15:1
+3753 things 16:1
+3754 newspaper 8:2
+3755 articles 4:1 0:1
+3756 circulated 4:1
+3757 lydia 2:1
+3758 biases 11:1
+3759 surrounding 13:3
+3760 popping 19:1
+3761 confusion 11:1
+3762 interrupt 4:1
+3763 formulations 10:1
+3764 approximation 13:2 0:1
+3765 desiderata 0:2 17:1
+3766 achieves 18:3
+3767 priorities 1:1
+3768 versatile 5:3 11:1
+3769 placements 11:3
+3770 vis 2:1 16:1
+3771 continental 17:1
+3772 usa 11:1
+3773 demo 13:1
+3774 barrier 16:6
+3775 rna 16:2 1:1
+3776 molecules 1:1
+3777 validity 0:4
+3778 folding 6:4
+3779 molecule 3:2
+3780 salient 1:2 0:1
+3781 encapsulated 0:1
+3782 minima 7:1
+3783 connecting 13:4
+3784 saddle 12:1
+3785 length 18:9
+3786 exists 19:1
+3787 foresight 1:1
+3788 tolerance 6:1
+3789 supergraph 11:2
+3790 mimic 17:1
+3791 squarified 3:3
+3792 borders 18:1
+3793 pie 18:4
+3794 chars 3:1
+3795 dominant 11:1
+3796 stores 0:3
+3797 scrollable 17:1
+3798 opportunity 6:1
+3799 facetmap 0:3
+3800 generalizable 0:1
+3801 sparse 17:3
+3802 tangled 8:1
+3803 impractical 16:2
+3804 incoherent 2:1
+3805 convoluted 8:1
+3806 2005 8:1
+3807 uncovering 19:1 4:1
+3808 sector 2:1
+3809 interrelationship 3:1
+3810 peacocks 2:1
+3811 quasi 6:2
+3812 biconnected 2:4
+3813 bioinformatics 13:3
+3814 spf 17:2
+3815 skeleton 4:1
+3816 gracefully 13:1
+3817 overlaps 11:2
+3818 drawings 2:3
+3819 commensurate 17:1
+3820 enforce 13:1
+3821 horizontal 2:2
+3822 pairs 18:4
+3823 satisfy 18:1
+3824 stress 13:3
+3825 majorization 2:2
+3826 treated 2:1
+3827 gradient 10:1
+3828 comparable 16:3
+3829 unconstrained 13:1
+3830 activation 1:2
+3831 terrorist 2:1
+3832 screens 3:3
+3833 assistants 1:1
+3834 book 8:1
+3835 7500 3:2
+3836 pen 14:1 11:1
+3837 wacom 15:1
+3838 board 13:1
+3839 simulating 10:3
+3840 pda 14:1
+3841 majority 7:1
+3842 rating 3:1
+3843 preference 4:1
+3844 contradict 5:2
+3845 hitting 5:1
+3846 limits 5:3
+3847 scaled 18:4
+3848 tiled 5:2
+3849 twelve 9:1
+3850 college 16:2 11:1
+3851 megapixel 4:1
+3852 geospatially 5:1
+3853 perceptually 5:3
+3854 decrease 18:2 16:1
+3855 normalized 5:1
+3856 logarithmic 13:4
+3857 enlarge 3:3
+3858 shrink 1:1
+3859 logarithm 4:1
+3860 mappings 3:3
+3861 conformal 11:1
+3862 locally 17:2
+3863 keeping 18:2
+3864 intact 13:1
+3865 surroundings 16:1 8:1
+3866 descriptions 16:1 1:1
+3867 review 4:4
+3868 experiences 16:3
+3869 interrelations 11:1
+3870 reusable 7:1
+3871 developer 16:2
+3872 education 16:4
+3873 security 3:4
+3874 threats 4:2
+3875 wild 15:1 12:1
+3876 malicious 1:1
+3877 botnets 6:1
+3878 ready 6:1
+3879 attack 15:2
+3880 incidents 10:1
+3881 overwhelms 6:1
+3882 provider 2:2
+3883 superimpose 10:1
+3884 suitability 3:1
+3885 variants 3:2
+3886 eliding 3:1
+3887 tournament 11:7
+3888 brackets 12:1 15:1
+3889 pick 11:4
+3890 games 11:2
+3891 ncaa 2:1
+3892 basketball 10:1
+3893 march 13:1
+3894 madness 1:1
+3895 players 11:3
+3896 bracket 11:3
+3897 defines 15:2
+3898 competitors 11:2
+3899 play 3:2
+3900 proceed 10:1
+3901 champion 7:1
+3902 additive 11:1
+3903 winner 1:1
+3904 rewritten 17:1
+3905 round 1:1
+3906 progresses 11:2
+3907 adaptivitree 11:3
+3908 deforms 4:2
+3909 outcome 5:3
+3910 overlays 3:2
+3911 lab 15:3
+3912 deployment 12:6
+3913 eyes 19:3
+3914 upload 10:1
+3915 carry 4:1
+3916 discussions 11:4
+3917 fostering 0:2
+3918 individuals 13:2 9:2 4:1
+3919 spur 13:1
+3920 widgets 9:6
+3921 scented 7:1 11:1
+3922 radio 9:1
+3923 buttons 16:1
+3924 combo 9:1
+3925 discoveries 8:3
+3926 imbued 18:1
+3927 equalize 9:1
+3928 familiarity 11:2
+3929 commands 0:6
+3930 defaults 0:2
+3931 tableau 0:5
+3932 vizql 5:1
+3933 command 0:1
+3934 optional 9:1
+3935 everyday 19:3
+3936 deep 9:1
+3937 populations 12:4
+3938 amplifying 0:1
+3939 cognition 4:7
+3940 subdomain 0:1
+3941 complements 19:1
+3942 analytically 12:1
+3943 casual 12:5
+3944 lend 8:1
+3945 novices 12:5
+3946 investigations 19:1
+3947 subfield 12:2
+3948 skog 12:1
+3949 artistic 9:5
+3950 viegas 8:1
+3951 2007 9:1
+3952 agendas 16:1
+3953 enumerate 16:1
+3954 blurry 4:1
+3955 putative 9:1
+3956 monolithic 16:1
+3957 audiences 11:1
+3958 living 16:3
+3959 cameras 16:5
+3960 sensors 3:4
+3961 commonplace 10:1
+3962 practically 17:1
+3963 office 16:4
+3964 slowly 10:1
+3965 violates 11:1
+3966 privacy 14:10
+3967 conscious 17:1
+3968 215 18:1
+3969 square 3:2
+3970 meter 12:1
+3971 occupied 10:2
+3972 recorded 12:2
+3973 managers 16:2 14:1
+3974 occupants 13:2
+3975 intrusive 18:1
+3976 geographically 3:4
+3977 geowigs 14:2
+3978 choropleth 9:2
+3979 boxplots 3:1
+3980 scalograms 14:1
+3981 concurrently 13:2
+3982 impement 0:1
+3983 encourage 1:1
+3984 geographies 16:1
+3985 guerry 8:1
+3986 moral 13:1
+3987 casting 14:1
+3988 doubt 13:1
+3989 synthesising 1:1
+3990 urban 16:11
+3991 layering 16:1
+3992 diminishing 9:1
+3993 legible 7:1
+3994 disparate 1:1
+3995 cognitively 0:1
+3996 glance 14:1
+3997 backgrounds 1:1
+3998 confirmed 10:1 12:1
+3999 reflections 4:3
+4000 mashup 16:2
+4001 multifaceted 19:6
+4002 encodings 3:4 18:1
+4003 geographical 3:7
+4004 mashups 13:2
+4005 freely 7:2
+4006 loosely 7:1
+4007 facto 8:1
+4008 exchange 13:2
+4009 mysql 11:1
+4010 php 12:1
+4011 landserf 14:1
+4012 google 7:1
+4013 earth 14:1
+4014 kml 13:1
+4015 tag 14:17
+4016 clouds 14:11
+4017 dials 14:1
+4018 informally 9:1 15:1
+4019 beneficial 2:1
+4020 multifarious 4:2
+4021 teams 4:1
+4022 concentrate 0:3
+4023 insufficient 16:1
+4024 simply 8:3
+4025 urls 1:1
+4026 hotmap 19:3 13:1
+4027 pyramid 1:1
+4028 superpose 10:1
+4029 heatmap 19:1
+4030 saturation 16:1
+4031 tuning 2:1
+4032 infrequently 13:1
+4033 vislink 9:2
+4034 generalizes 17:1
+4035 empowers 18:1
+4036 representational 12:2
+4037 planes 10:2
+4038 favoured 3:1
+4039 rdf 6:1
+4040 maya 1:1
+4041 roles 12:1
+4042 inhibits 16:1
+4043 costly 4:2
+4044 template 12:3
+4045 valued 9:1
+4046 frequencies 15:1
+4047 grams 15:1
+4048 converts 14:1
+4049 ignores 10:1
+4050 unsuitable 6:1
+4051 embeds 15:2
+4052 multinomial 6:1
+4053 simplex 16:1
+4054 progression 9:3
+4055 dedicated 16:1
+4056 skewed 0:1
+4057 visualisations 16:2
+4058 adopt 7:1
+4059 overcrowded 0:1
+4060 brought 10:1
+4061 importantly 8:3
+4062 critique 1:1
+4063 garnered 16:1
+4064 reconfigure 16:1
+4065 connect 9:3 11:1
+4066 organized 9:4
+4067 located 17:4
+4068 increased 19:5
+4069 innovation 16:1 7:1
+4070 team 19:1
+4071 negotiate 18:1
+4072 poses 16:3
+4073 collaborating 4:1
+4074 tabletop 2:2
+4075 dynavis 13:1
+4076 featuring 3:2
+4077 paid 13:1
+4078 ztms 9:2
+4079 hybridization 18:1
+4080 700 18:1
+4081 dispatched 10:1
+4082 michotte 8:3
+4083 ampliation 8:2
+4084 amplification 2:1
+4085 dampening 11:1
+4086 multiplicity 17:1
+4087 recall 5:5
+4088 passages 18:1
+4089 recalling 13:1
+4090 112 8:1
+4091 statements 2:1 4:1
+4092 spatializations 9:8
+4093 spatialized 3:1
+4094 primarily 16:1
+4095 hue 15:2
+4096 grey 10:1
+4097 lightness 11:1
+4098 redundantly 16:1
+4099 greyscale 9:3
+4100 capacities 5:2
+4101 establish 3:1
+4102 weaving 5:6
+4103 begin 15:4
+4104 fills 3:1
+4105 clarify 12:1
+4106 infer 5:1
+4107 blended 5:1
+4108 subtended 14:1
+4109 minutes 5:1
+4110 hues 5:2
+4111 thatare 8:1
+4112 separated 5:1
+4113 indications 4:1
+4114 opponent 1:1
+4115 vir 18:7 7:2
+4116 sacrifice 15:1
+4117 virs 1:1
+4118 perceivability 5:1
+4119 looked 9:1
+4120 reliably 12:1
+4121 spans 18:2
+4122 exclusively 7:1
+4123 conjecture 18:2
+4124 load 18:5 0:1
+4125 evolve 14:5
+4126 prevent 17:1
+4127 abrupt 3:3
+4128 prominent 3:1
+4129 snapshots 17:1
+4130 dag 3:4
+4131 acyclic 3:3
+4132 saving 18:2
+4133 augmentations 16:1
+4134 barycenter 6:1
+4135 parents 8:1
+4136 clearer 15:1
+4137 ancestor 6:2
+4138 sibling 14:1
+4139 satisfactorily 13:1
+4140 resolve 6:1
+4141 readable 13:1
+4142 nodetrix 6:5
+4143 dragging 12:2
+4144 selections 6:1
+4145 2004 6:1
+4146 authorship 6:1
+4147 gpu 2:8
+4148 compute 8:5
+4149 proposing 2:1
+4150 devising 7:1
+4151 balanced 2:2
+4152 manages 2:1
+4153 fraction 5:2
+4154 topologies 13:1
+4155 dice 11:2
+4156 rotations 12:1
+4157 akin 17:1
+4158 rolling 3:1
+4159 sculpting 7:1
+4160 refined 3:1
+4161 effortless 3:1
+4162 poorly 4:1
+4163 factor 11:1
+4164 normanpsilas 7:1
+4165 484 4:1
+4166 papers 4:6
+4167 execute 4:2
+4168 cluttering 14:2
+4169 perceive 4:2
+4170 suggested 5:7
+4171 gulfs 4:1
+4172 gulf 14:1
+4173 inspecting 3:3
+4174 balloon 3:4
+4175 served 15:1
+4176 enlarged 17:3
+4177 preserved 3:1
+4178 enlarges 3:1
+4179 positional 3:1
+4180 govern 9:1
+4181 probes 16:1
+4182 restrict 14:1
+4183 suppressed 13:1
+4184 probe 13:3
+4185 empower 10:1
+4186 simulations 2:1
+4187 localities 11:2
+4188 agent 11:1
+4189 expands 13:1
+4190 scopes 0:1
+4191 matured 9:1
+4192 acknowledged 14:1
+4193 lacks 3:1
+4194 encompassing 19:1
+4195 substantiate 12:2
+4196 emergent 4:2
+4197 mind 4:1
+4198 reductionist 12:1
+4199 isolated 14:1
+4200 minds 0:1
+4201 agenda 12:1
+4202 bringing 11:1 4:1
+4203 museums 10:1
+4204 galleries 7:1
+4205 emdialog 19:3
+4206 emily 10:1
+4207 carr 5:1
+4208 exhibition 2:1
+4209 glenbow 10:1
+4210 calgary 4:1
+4211 faceted 4:3
+4212 canadian 9:1
+4213 inform 10:3 2:1
+4214 provoke 4:1
+4215 interplay 9:3 12:1
+4216 observational 13:2
+4217 visitors 12:1 14:1
+4218 approached 12:1
+4219 interacted 3:1
+4220 sufficiently 5:2
+4221 rewarding 17:1
+4222 passive 1:1
+4223 histories 9:10
+4224 undo 8:1
+4225 redo 5:1
+4226 timelines 14:1
+4227 offs 4:3
+4228 record 16:1
+4229 exporting 8:1
+4230 userspsila 10:1
+4231 votes 5:3
+4232 opinion 18:3
+4233 polls 18:1
+4234 months 1:2
+4235 preceding 0:1
+4236 election 18:2
+4237 poll 19:1
+4238 fundamentally 8:1
+4239 noninteractive 15:1
+4240 lowers 15:1
+4241 topical 7:2
+4242 easing 6:1
+4243 visgets 0:3
+4244 seeker 3:1
+4245 rss 4:1
+4246 feeds 16:1
+4247 wikipedia 0:5
+4248 vispedia 11:2
+4249 integrate 13:5
+4250 dbpedia 12:1
+4251 export 15:1
+4252 tail 15:1
+4253 word 19:4
+4254 concordance 19:1
+4255 keyword 0:2
+4256 bodies 3:1
+4257 shortcoming 10:1
+4258 lends 1:1
+4259 obscuring 7:1
+4260 representatives 19:1
+4261 pflp 10:1 11:1
+4262 respects 12:2
+4263 particle 11:1
+4264 favorably 9:1
+4265 esthetic 11:1
+4266 complies 3:1
+4267 occluding 16:1
+4268 february 13:1
+4269 2008 16:2 18:1
+4270 york 5:1
+4271 unusual 16:1
+4272 box 18:1
+4273 revenues 18:1
+4274 movies 18:1
+4275 listening 9:8
+4276 reaction 19:1
+4277 mathematical 10:1
+4278 themeriver 11:1
+4279 optimizing 18:3
+4280 ldquoenergy 13:1
+4281 functionrdquo 17:1
+4282 gained 16:2
+4283 packages 16:1
+4284 meet 9:2 10:1
+4285 immunologist 18:1
+4286 collaborators 16:5
+4287 immunologists 2:1
+4288 cerebral 2:3
+4289 biologically 2:1
+4290 procedural 8:1
+4291 programmer 18:1
+4292 reasoning 4:4
+4293 resides 8:1
+4294 opportunities 17:1
+4295 behavioral 16:1
+4296 occupancy 15:1
+4297 overwhelmingly 1:1
+4298 open 16:9
+4299 shaping 0:1
+4300 lie 10:1
+4301 claim 5:2
+4302 answered 19:1
+4303 worded 5:1
+4304 incompatible 4:1
+4305 participant 14:3
+4306 derives 16:1
+4307 correlated 8:1 6:1
+4308 illuminating 3:2
+4309 forcing 5:1
+4310 pass 5:1
+4311 enhancement 8:3
+4312 law 19:1
+4313 sociology 0:1
+4314 connectedness 19:1
+4315 cliques 14:2
+4316 networkpsilas 17:1
+4317 pathways 8:1
+4318 simplification 2:1 0:1
+4319 deterministically 11:1
+4320 crisscrossing 18:1
+4321 array 6:1
+4322 cooperative 16:1
+4323 centred 3:2 10:1
+4324 customisable 9:1
+4325 ensured 1:1
+4326 slower 6:2
+4327 innovations 5:1
+4328 uml 2:1
+4329 arises 2:2
+4330 colocation 10:1
+4331 colocated 4:1
+4332 satisfies 18:1
+4333 preparing 7:1
+4334 assesses 18:1
+4335 vary 4:1
+4336 belonging 13:2
+4337 belong 6:3
+4338 duplicating 6:2
+4339 duplications 6:2
+4340 interfere 4:1
+4341 deciding 2:1
+4342 duplicate 6:1
+4343 candidates 5:7
+4344 prominence 17:1
+4345 gapminder 5:1
+4346 trendalyzer 14:2
+4347 engaging 5:2
+4348 presenter 6:1
+4349 enjoyable 2:1
+4350 exciting 5:1
+4351 felt 8:1
+4352 captured 9:1
+4353 uniformity 8:1
+4354 interior 11:1
+4355 ldquomaskedrdquo 2:1
+4356 extraneous 0:2
+4357 observerspsila 5:1
+4358 sensitivity 15:3
+4359 existence 8:1
+4360 recover 8:1
+4361 tendency 8:1
+4362 typed 13:2 5:1
+4363 usual 3:1
+4364 ngt 3:1
+4365 setpsilaopsilagram 14:1
+4366 dozen 14:1
+4367 questionnaire 18:1
+4368 shopping 14:1
+4369 habits 7:1
+4370 90000 17:1
+4371 inconsistent 14:1
+4372 mismatch 3:2
+4373 inconsistency 11:1
+4374 tessellated 8:1
+4375 locational 11:1
+4376 cielab 3:1
+4377 displacement 7:1
+4378 vector 12:2 2:1
+4379 tagged 12:1
+4380 photographs 9:1
+4381 flickr 10:1
+4382 incomplete 4:1
+4383 raters 1:4
+4384 worse 19:1
+4385 rankings 0:1
+4386 overcomes 17:1
+4387 dissimilarity 8:1
+4388 voting 18:1 3:1
+4389 jokes 5:1
+4390 movie 8:1
+4391 genome 16:11
+4392 assemblies 11:1
+4393 sequencing 16:3
+4394 reconstructing 15:1
+4395 subsequences 11:1
+4396 assembly 16:3
+4397 inevitably 4:3
+4398 inconsistencies 11:1
+4399 aided 16:1
+4400 abyss 11:1
+4401 emphasizes 16:1
+4402 replaces 12:2
+4403 touch 2:3
+4404 dna 3:3
+4405 dendrogram 1:8
+4406 orderable 1:2
+4407 dendrograms 1:2
+4408 ldquoskeletonrdquo 3:1
+4409 alleviation 15:1
+4410 ldquoimportancerdquo 12:1
+4411 county 13:2 18:1
+4412 cervical 1:1
+4413 synteny 19:1 3:1
+4414 genomics 12:1
+4415 genomic 14:7
+4416 genomes 16:3
+4417 conserve 17:1
+4418 dsyntenic 5:1
+4419 accordance 14:1
+4420 chromosome 15:1
+4421 block 5:7
+4422 conservation 16:6
+4423 mizbee 5:2
+4424 anecdotal 16:3
+4425 syntenic 5:1
+4426 widespread 18:1 3:1
+4427 biomedical 18:2
+4428 hinders 9:1
+4429 responding 1:1
+4430 entitled 2:1
+4431 geneshelf 16:4
+4432 http 0:1
+4433 cnmcresearch 4:1
+4434 org 16:1
+4435 expandable 15:1
+4436 largest 18:1
+4437 recovery 15:1
+4438 injuries 16:1
+4439 spinal 9:1
+4440 cord 9:1
+4441 mice 10:3
+4442 rats 0:1
+4443 sensor 13:5
+4444 facts 1:1
+4445 occur 11:3
+4446 spent 15:1
+4447 intensity 13:2
+4448 indicator 11:1
+4449 healthy 5:2
+4450 alzheimer 11:1
+4451 transgenic 13:1
+4452 male 13:1
+4453 female 14:1
+4454 animal 6:1
+4455 validation 4:2
+4456 upstream 4:2
+4457 cascades 2:1
+4458 downstream 12:1
+4459 prescriptive 3:1
+4460 determining 9:1
+4461 claiming 7:1
+4462 venues 8:1
+4463 accept 4:1
+4464 extracting 10:4
+4465 coordinations 3:1
+4466 ended 9:1
+4467 missing 19:1
+4468 formalization 7:1
+4469 expressible 1:2
+4470 conjunctive 3:2
+4471 boolean 16:1
+4472 logic 7:2
+4473 predicts 3:1
+4474 compositional 0:1
+4475 conjecturing 15:1
+4476 neighbourhood 17:1
+4477 radius 6:1
+4478 menu 0:2
+4479 hotbox 0:1
+4480 transiently 6:2
+4481 popped 2:2
+4482 arguments 0:1
+4483 button 7:1
+4484 keyboard 7:1
+4485 gestural 4:1
+4486 society 10:1
+4487 occurrence 11:2
+4488 overlooking 14:1
+4489 infrequent 2:1
+4490 negligible 17:1
+4491 diary 2:1
+4492 disciplines 14:1
+4493 advocate 8:1
+4494 remotely 3:1
+4495 furnas 11:1
+4496 datapoints 0:1
+4497 van 8:2
+4498 ham 0:1
+4499 unsuccessful 0:1
+4500 participating 1:1
+4501 consecutive 16:1
+4502 curved 13:1
+4503 bundled 8:6
+4504 thick 13:1
+4505 splines 1:1
+4506 thickness 10:2
+4507 survey 5:5
+4508 cyclic 10:1
+4509 crucially 9:1
+4510 london 10:2
+4511 notation 2:1
+4512 hive 7:1
+4513 reconfiguring 5:1
+4514 photos 1:10
+4515 eliciting 4:5
+4516 indexing 16:3 3:1
+4517 parties 19:1 11:1
+4518 index 16:1
+4519 drop 6:4
+4520 necessity 6:1
+4521 galois 4:1
+4522 maintains 7:1
+4523 indexation 10:1
+4524 personalised 7:1
+4525 albums 16:1
+4526 weight 18:3
+4527 supplying 15:1
+4528 orderings 7:3 16:1
+4529 scattering 7:1
+4530 sppc 11:1
+4531 occupies 10:1
+4532 subplot 1:1
+4533 polylines 10:2
+4534 accelerated 12:2
+4535 dimds 7:1
+4536 isocontours 8:2
+4537 bubble 13:2
+4538 semantically 4:1 19:1
+4539 membership 13:3
+4540 necessarily 14:2 17:1
+4541 rights 2:1
+4542 adjustment 18:1
+4543 isocontour 2:1
+4544 disrupting 15:1
+4545 optimizations 12:3
+4546 speeds 13:1
+4547 trajectories 7:5 15:2 2:2
+4548 spoiled 9:1
+4549 tangle 16:1
+4550 trails 7:2
+4551 erroneous 1:1
+4552 fromdady 1:2
+4553 trajectory 3:1 6:1
+4554 tackles 13:1
+4555 juxtaposed 1:2
+4556 bertin 18:1
+4557 brushed 10:1
+4558 repeat 12:1
+4559 formulating 17:1
+4560 selltrend 14:3
+4561 travel 4:1
+4562 variate 6:1
+4563 chief 19:1
+4564 company 14:2
+4565 confirms 14:1
+4566 hills 9:1
+4567 afford 1:1
+4568 remember 16:1
+4569 densities 5:5
+4570 remembering 5:1
+4571 denser 2:1
+4572 theseresults 17:1
+4573 contemplating 9:1
+4574 counties 6:1
+4575 migrants 13:1
+4576 age 18:1
+4577 occupations 15:1
+4578 prevalence 14:2
+4579 gather 9:1
+4580 align 17:1
+4581 arf 14:1
+4582 accentuate 12:1
+4583 occurrences 2:1
+4584 granularities 5:1
+4585 month 14:3
+4586 week 3:1
+4587 day 8:1
+4588 hour 10:1 16:1
+4589 spotting 16:1
+4590 affordances 17:1
+4591 academic 14:1
+4592 leveraged 18:1
+4593 resultmaps 5:2
+4594 resultsmap 10:1
+4595 ancillary 14:1
+4596 repository 5:2
+4597 resultmap 5:2
+4598 indirect 13:2
+4599 concert 1:1 0:1
+4600 lark 0:2
+4601 workspaces 1:1
+4602 scoped 1:1
+4603 freedom 1:1 9:1
+4604 synchronous 5:3
+4605 extensively 7:1
+4606 rigorously 5:1
+4607 situated 5:1
+4608 131 16:1
+4609 total 14:2 0:2 16:1
+4610 working 15:6
+4611 facilitator 14:1
+4612 populate 4:1
+4613 outcomes 4:2
+4614 productivity 19:1
+4615 gains 6:2
+4616 participation 5:1
+4617 functionalities 4:1
+4618 ecosystem 9:1
+4619 wiki 19:2
+4620 dashboards 2:1 13:1
+4621 dashiki 2:1
+4622 website 12:1
+4623 collaboratively 1:1
+4624 editors 15:1
+4625 participate 18:1
+4626 ecology 16:3
+4627 tighter 15:2
+4628 editing 6:1
+4629 dashboard 0:1
+4630 launch 15:1
+4631 authoring 0:2
+4632 catalogs 6:1
+4633 educational 2:1 3:1
+4634 personalized 2:1
+4635 spicynodes 6:3
+4636 successively 16:2
+4637 ldquohomerdquo 2:1
+4638 succession 9:1
+4639 xml 2:1
+4640 inviting 19:1
+4641 organic 8:4
+4642 code_swarm 13:3
+4643 shortly 19:1
+4644 swarm 5:1
+4645 comprising 1:1
+4646 developers 16:2 8:1
+4647 gathering 17:1
+4648 comments 18:2
+4649 released 13:1
+4650 gpus 18:2
+4651 floating 19:1
+4652 shader 10:1
+4653 languages 18:3
+4654 remedy 18:1
+4655 amenable 1:1
+4656 shaders 10:3
+4657 sampled 3:3
+4658 concretize 18:1
+4659 entries 9:3
+4660 responsiveness 12:1
+4661 cancelled 9:1
+4662 previews 12:1
+4663 avoiding 18:2
+4664 pitfalls 6:1
+4665 synchronization 15:1
+4666 ore 3:1
+4667 instantiations 17:1
+4668 myriad 19:1
+4669 notational 12:2
+4670 accessibility 9:2 11:1
+4671 inflexible 12:1
+4672 foreign 8:1
+4673 apis 12:1
+4674 protovis 12:4
+4675 composing 1:1
+4676 marks 5:5
+4677 serial 19:1
+4678 profiling 12:1
+4679 induce 7:2
+4680 delays 7:2
+4681 detrimental 16:1
+4682 summarize 18:2
+4683 gantt 12:1
+4684 exceed 18:1
+4685 384 16:1
+4686 wordle 5:10
+4687 ldquowordle 9:1
+4688 rdquo 12:1
+4689 cloud 9:3
+4690 typography 0:2
+4691 distinctive 5:1
+4692 spontaneous 9:1
+4693 wordles 2:1
+4694 ldquoparticipatory 2:1
+4695 culturerdquo 0:1
+4696 arisen 2:1
+4697 trumps 18:2
+4698 game 18:1
+4699 captions 6:2
+4700 weighting 19:1
+4701 ieee 19:1
+4702 publication 5:1
+4703 cited 14:2
+4704 routine 6:1
+4705 knit 6:2
+4706 sloan 14:1
+4707 sdss 0:1
+4708 incredible 19:1
+4709 exemplar 8:1
+4710 advances 17:1
+4711 sound 2:1
+4712 proportion 4:1
+4713 exemplars 2:2
+4714 neatly 2:1
+4715 net 5:2
+4716 lexical 17:1
+4717 globally 18:1
+4718 overcome 10:1
+4719 necklace 13:8
+4720 projected 13:1
+4721 intervals 13:1
+4722 surrounds 9:1
+4723 interval 13:1
+4724 comparatively 15:2
+4725 disjoint 14:1
+4726 necklaces 13:1
+4727 weaker 11:1
+4728 strengthen 18:1
+4729 legends 4:5 6:1
+4730 ofguidelines 2:1
+4731 legend 4:5
+4732 theseare 19:1
+4733 cartographicliterature 2:1
+4734 liaison 18:1
+4735 edina 4:2
+4736 tertiary 10:1
+4737 tolegend 4:1
+4738 dynamismand 7:1
+4739 ground 17:1
+4740 truth 4:1
+4741 graphicand 10:1
+4742 specificneeds 4:1
+4743 rethink 4:1
+4744 offact 5:1
+4745 acquired 14:1
+4746 funding 17:1
+4747 consequence 1:2
+4748 ofthis 3:1
+4749 applies 4:1
+4750 keys 0:1
+4751 ultra 15:1
+4752 vastly 15:1
+4753 signals 10:1
+4754 109 17:1
+4755 signallens 10:1
+4756 trace 10:2
+4757 tracks 10:3
+4758 detected 6:1
+4759 organism 16:1
+4760 genetic 7:1
+4761 tissue 16:2
+4762 fruitfly 3:1
+4763 embryos 15:1
+4764 subspecies 14:1
+4765 drosophila 6:1
+4766 worked 16:2
+4767 multeesum 16:3
+4768 curation 9:1
+4769 computations 5:1
+4770 mix 17:1
+4771 justify 16:2
+4772 rearrangement 9:4
+4773 gremlin 14:2
+4774 circos 17:1
+4775 playfair 0:1
+4776 1759 18:1
+4777 1823 14:1
+4778 realistic 7:1
+4779 slope 2:1
+4780 discrimination 2:1
+4781 intuition 5:1
+4782 foundations 6:1
+4783 cartesian 12:2 5:2
+4784 memorizing 17:1
+4785 674 15:1
+4786 spectrum 7:1
+4787 complementing 14:1
+4788 fewer 5:3
+4789 outperform 5:2 3:1
+4790 nonetheless 19:1
+4791 laboratory 9:1
+4792 fictitious 1:1
+4793 mediator 16:1
+4794 barriers 19:2
+4795 uncovered 12:1 6:1
+4796 explanations 12:1
+4797 fixation 6:2
+4798 eseetrack 17:4
+4799 gaze 6:4
+4800 fixations 7:3
+4801 embody 12:1
+4802 duration 6:2
+4803 surgical 14:1
+4804 retail 0:1
+4805 queried 5:1
+4806 graphically 13:1
+4807 finance 4:1
+4808 varied 5:2
+4809 stimuli 13:1
+4810 consisted 19:1
+4811 white 5:1
+4812 red 18:1
+4813 monthly 17:1
+4814 temperature 7:2
+4815 included 6:1 16:1
+4816 exert 7:1
+4817 loads 2:1
+4818 patch 10:1
+4819 cie 18:1
+4820 rgb 16:1
+4821 bands 7:1
+4822 inference 7:2
+4823 falling 13:1
+4824 trap 8:1
+4825 apophenia 12:1
+4826 concerned 9:1
+4827 preventing 14:2
+4828 spurious 12:2
+4829 pull 14:1
+4830 opposing 2:1
+4831 poles 14:1
+4832 closer 3:2 5:1
+4833 rigorous 12:2
+4834 rorschach 14:1
+4835 calibrate 17:1
+4836 protocol 11:2
+4837 protecting 3:1
+4838 saliency 5:3
+4839 confidence 14:1
+4840 untrustworthy 13:1
+4841 preattentively 14:1
+4842 certainty 13:1
+4843 brain 12:1
+4844 tumors 15:1
+4845 magnetic 11:1
+4846 resonance 13:1
+4847 spectroscopy 19:1
+4848 ensemble 15:1
+4849 luminance 18:2
+4850 conduct 5:2
+4851 suffers 18:1
+4852 extreme 18:2
+4853 squares 18:3
+4854 contrary 18:2
+4855 judgment 18:1
+4856 par 18:1
+4857 detailing 4:1
+4858 foraging 2:1
+4859 offloading 1:1
+4860 attraction 5:6
+4861 forces 13:2
+4862 pressing 2:1
+4863 reads 10:1
+4864 metaphorically 14:1
+4865 suggestive 13:1
+4866 implied 3:1
+4867 psychology 4:2
+4868 gravity 2:1
+4869 acting 12:1
+4870 influenced 5:2
+4871 predicted 5:1
+4872 intuitions 19:1
+4873 relatedness 13:1
+4874 pointing 5:1
+4875 entails 4:1
+4876 pargnostics 12:1 18:1
+4877 diagnostics 18:1
+4878 inversions 3:1
+4879 angles 18:2
+4880 convergence 8:1
+4881 picking 18:1
+4882 replicates 5:1
+4883 priori 16:1
+4884 fragment 16:1
+4885 matchmaker 2:1
+4886 reminiscent 8:1
+4887 ribbons 16:1
+4888 downs 1:1
+4889 strains 14:1
+4890 liver 5:1
+4891 wilkinson 14:2
+4892 positioning 13:1
+4893 tick 6:2
+4894 robust 11:3
+4895 featured 8:1
+4896 labeler 17:1
+4897 labelings 9:1
+4898 nice 5:1
+4899 degrading 11:1
+4900 font 11:2
+4901 revised 6:1
+4902 forced 19:1
+4903 ties 19:1
+4904 heatmaps 6:1
+4905 kernel 18:1
+4906 deficiencies 10:1
+4907 biased 11:1
+4908 downward 6:1
+4909 brightnesshave 6:1
+4910 ranges 9:2
+4911 toindividual 10:1
+4912 admissions 18:1
+4913 holistic 13:1
+4914 attempt 18:1
+4915 formalize 12:2
+4916 worth 5:1
+4917 judge 11:1
+4918 pedigree 11:1
+4919 ancestors 13:3
+4920 justifies 0:1
+4921 leaving 6:2
+4922 generations 18:2
+4923 ancestral 17:1
+4924 displayable 11:1
+4925 nicely 18:1
+4926 symmetrical 9:1
+4927 fractal 10:1
+4928 accounts 19:1
+4929 acceptance 1:1
+4930 genealogies 18:3
+4931 geneaquilts 18:2
+4932 diagonally 4:1
+4933 filled 0:1
+4934 nuclear 18:1
+4935 families 15:1
+4936 genealogy 9:1
+4937 bring 12:1
+4938 slide 6:1
+4939 fluid 9:1 17:1
+4940 binary 8:1
+4941 substructures 2:1
+4942 archambault 12:1
+4943 topolayout 2:2
+4944 homogeneous 3:1
+4945 aestetic 2:1
+4946 euler 13:2
+4947 logically 7:1
+4948 venn 19:1
+4949 intersect 6:1
+4950 intersection 6:1
+4951 strict 5:1
+4952 figure 13:1
+4953 attempting 17:1
+4954 intersections 11:2
+4955 flowvizmenu 6:3
+4956 gestures 7:1
+4957 causing 2:1
+4958 splom 6:2
+4959 staircase 2:1
+4960 splos 6:1
+4961 hotel 9:5
+4962 customers 16:1
+4963 opinions 9:7
+4964 opinionseer 9:3
+4965 reviews 16:1
+4966 faithfully 17:1
+4967 lives 5:1
+4968 expressions 5:3 15:1
+4969 taste 4:1
+4970 character 15:1
+4971 storing 9:1
+4972 musical 9:2
+4973 lasthistory 9:2
+4974 genre 9:1
+4975 reminiscing 4:1
+4976 rationale 9:3
+4977 laband 9:1
+4978 lifelogging 16:1
+4979 resonant 9:1
+4980 enthusiastic 9:1
+4981 stimulate 10:1
+4982 developments 5:1
+4983 backchannel 13:2 2:1
+4984 microblogging 2:1
+4985 twitter 6:1 3:1
+4986 backchannels 0:1
+4987 timely 4:1
+4988 impressions 17:1
+4989 speeches 10:1
+4990 competitions 14:1
+4991 disasters 17:1
+4992 paced 16:1
+4993 moment 16:1
+4994 updating 14:1
+4995 happening 1:1
+4996 happened 6:1
+4997 adjustable 18:1
+4998 mutually 9:1
+4999 telling 17:1
+5000 stories 4:3
+5001 regularly 12:1
+5002 promoted 8:1
+5003 differ 4:1
+5004 storytelling 15:2
+5005 storytellers 12:1
+5006 journalists 15:1
+5007 narratives 15:1
+5008 story 4:4
+5009 genres 0:1
+5010 narrative 4:9
+5011 messaging 3:2
+5012 imposed 4:1
+5013 journalistic 0:1
+5014 unobtrusive 1:1
+5015 retargeting 11:1
+5016 platforms 12:1
+5017 statically 0:1
+5018 infrastructures 14:1
+5019 decoupled 4:1
+5020 runtime 12:2
+5021 retarget 1:1
+5022 parallelized 14:1
+5023 exceeding 11:1
+5024 multiplatform 0:1
+5025 rebuild 2:1
+5026 webcharts 18:1
+5027 hosting 17:1
+5028 javascript 11:1
+5029 interchange 9:1
+5030 behaviorism 12:1
+5031 ontological 12:1
+5032 unified 15:1
+5033 ecological 16:4
+5034 symptom 19:1
+5035 prognosis 9:1
+5036 facetatlas 15:3 19:1
+5037 patient 12:2
+5038 proliferated 14:1
+5039 decade 8:2
+5040 texts 14:1
+5041 perceiving 14:1
+5042 sparkclouds 14:3
+5043 sparklines 14:1 4:1
+5044 favourably 14:1
+5045 clouding 5:2
+5046 stands 13:1
+5047 emergence 12:1
+5048 creations 11:1
+5049 maniwordle 14:4
+5050 revamps 5:1
+5051 manipulations 9:1
+5052 tweaking 4:1
+5053 harnessing 16:1
+5054 systematization 8:3
+5055 demanding 3:1
+5056 remarkable 1:1
+5057 derive 5:1
+5058 discriminating 4:1
+5059 reworked 4:1
+5060 decorative 11:1
+5061 chartjunk 4:1
+5062 avoided 7:1 5:1
+5063 subfields 4:1
+5064 synthesize 5:1
+5065 counterpoint 13:1
+5066 practitioners 14:1
+5067 proportions 0:1
+5068 probabilities 6:1
+5069 alluding 11:1
+5070 joint 8:2
+5071 marginal 3:2
+5072 fluctuation 16:1
+5073 rhetoric 4:4
+5074 conventions 4:2
+5075 prioritize 12:1
+5076 literary 4:1
+5077 semiotics 17:1
+5078 journalism 4:1
+5079 additions 3:1
+5080 omissions 4:1
+5081 8722 4:2
+5082 annotations 7:1
+5083 connote 4:1
+5084 codes 11:1
+5085 shed 4:1
+5086 light 14:1
+5087 inquiry 4:2
+5088 unrestricted 19:1
+5089 protection 5:1
+5090 corporate 18:1
+5091 identifiers 18:1
+5092 sanitized 5:2
+5093 publishing 9:1 0:1
+5094 drawback 6:1
+5095 guarantee 19:2
+5096 preser 5:1
+5097 vation 17:1
+5098 breaching 15:1
+5099 adapts 2:2
+5100 invasive 5:2
+5101 fulfill 5:1
+5102 stand 14:1
+5103 interference 2:1
+5104 altered 1:1
+5105 plain 7:1
+5106 linesets 13:4
+5107 parse 4:1
+5108 consisting 17:3
+5109 advantageous 1:1
+5110 quilts 6:7
+5111 weakness 6:1
+5112 skip 6:2
+5113 succeeding 2:1
+5114 secs 6:6
+5115 recommend 0:1
+5116 parameterization 19:1
+5117 inputs 18:3
+5118 compromise 11:1
+5119 contour 18:1
+5120 longitudinal 0:2
+5121 gestaltlines 8:1
+5122 tufte 0:1
+5123 gestalt 8:1
+5124 dyadic 15:1
+5125 persistent 19:1
+5126 expense 17:1
+5127 sectional 16:1
+5128 linkages 17:1
+5129 inhomogeneous 8:1
+5130 inhomogeneities 15:2
+5131 vertically 1:1
+5132 horizontally 15:1
+5133 scattered 1:1
+5134 visbricks 15:4
+5135 acknowledges 15:1
+5136 inhomogeneity 4:1
+5137 patched 12:1
+5138 visbrick 4:1 9:1
+5139 interdependent 12:1
+5140 biomedicine 15:1
+5141 hide 13:1
+5142 scenegraph 0:1
+5143 native 15:1
+5144 dom 15:1
+5145 bind 9:1
+5146 offering 6:2
+5147 debugging 0:1
+5148 radar 11:1
+5149 pcps 17:2
+5150 hyperboxes 15:1
+5151 timewheels 15:1
+5152 composite 9:1
+5153 varies 3:3
+5154 weather 17:1
+5155 scripts 7:1
+5156 grounding 0:1
+5157 stereo 14:1
+5158 magnify 8:1
+5159 resorting 5:1
+5160 reserved 15:1
+5161 juxtaposing 0:1
+5162 correspondingly 5:1
+5163 ran 17:1
+5164 outperformed 13:1
+5165 bot 3:1
+5166 justified 7:1
+5167 rarely 1:1
+5168 cover 7:1
+5169 switched 1:1
+5170 shifts 0:1
+5171 8211 3:7
+5172 specifics 7:1
+5173 versioning 7:1
+5174 wireless 2:1
+5175 splatting 2:2
+5176 byside 2:1
+5177 stripes 0:2
+5178 perpendicular 19:1
+5179 bound 11:1
+5180 releases 12:1
+5181 junit 18:1
+5182 bibliography 8:1
+5183 titles 19:1
+5184 title 17:1
+5185 venerable 13:1
+5186 holten 8:1
+5187 wijk 6:1
+5188 proximal 6:1
+5189 divided 2:2
+5190 lanes 8:1
+5191 bundle 13:3
+5192 weights 2:2
+5193 medial 19:1
+5194 skeletons 8:1
+5195 skeletonization 19:1
+5196 attracting 8:1
+5197 centerlines 9:1
+5198 bird 16:4
+5199 birds 16:1
+5200 unrivaled 16:1
+5201 biotic 14:1
+5202 indicators 12:2
+5203 determinants 12:1
+5204 crowdsourcing 9:1
+5205 ebird 14:1
+5206 collecting 11:1
+5207 climate 16:1
+5208 habitat 16:2
+5209 vegetation 0:1
+5210 phenology 13:1
+5211 educators 15:1
+5212 land 16:1
+5213 ornithologists 9:2
+5214 associating 19:1
+5215 predictive 16:1
+5216 harness 15:1
+5217 predicting 16:1
+5218 inferences 16:1
+5219 spatialtemporal 14:1
+5220 programmed 12:1
+5221 statisticians 6:1
+5222 birdvis 16:2 2:1
+5223 interdependencies 15:1
+5224 helped 9:1
+5225 bias 5:6
+5226 alphabetically 4:1
+5227 ballot 5:5
+5228 vote 12:1
+5229 5000 5:1
+5230 2010 5:1
+5231 elections 3:2
+5232 candidate 5:3
+5233 influences 3:2
+5234 electoral 5:3
+5235 wards 5:1
+5236 elected 5:1
+5237 liberal 5:1
+5238 democrat 5:1
+5239 ethnicity 3:2
+5240 alphabetic 5:2
+5241 fair 5:1
+5242 surveyor 7:3
+5243 leveraging 13:1
+5244 elucidate 15:1
+5245 embodies 16:1
+5246 bacterial 16:1
+5247 incurs 0:1
+5248 initialization 0:1
+5249 cellprofiler 0:1
+5250 paramorama 0:1
+5251 devoted 15:1
+5252 textflow 4:2
+5253 chronolenses 14:3
+5254 devised 14:1
+5255 deriving 19:1
+5256 pipelines 19:1
+5257 episodes 9:1
+5258 atomic 19:1
+5259 incoming 6:1
+5260 decay 14:1
+5261 fade 13:1
+5262 magnifying 19:1
+5263 coming 7:1
+5264 frames 2:1
+5265 saccades 13:1
+5266 checked 12:1
+5267 affiliations 6:1
+5268 treenet 6:5
+5269 treenetviz 6:3
+5270 circle 12:1
+5271 joining 18:1 11:1
+5272 promoting 6:1
+5273 accelerates 10:1
+5274 impacting 1:1
+5275 experimentally 19:1
+5276 elementary 3:1
+5277 cut 13:1
+5278 collocated 17:1
+5279 superimposed 18:1
+5280 artery 5:4
+5281 heart 5:3
+5282 killer 14:1
+5283 coronary 5:3
+5284 endothelial 17:1
+5285 shear 1:1
+5286 ess 6:4
+5287 lesion 12:1
+5288 arteries 13:1
+5289 vital 13:1
+5290 cardiologist 15:1
+5291 hemodynamics 5:1
+5292 hemovis 5:1
+5293 mistakes 0:1
+5294 rainbow 5:1
+5295 residential 16:2
+5296 home 9:4
+5297 pervasive 9:1
+5298 domestic 11:1
+5299 pragmatic 16:1
+5300 viability 1:1
+5301 viable 13:1
+5302 specialists 18:2
+5303 iso13407 9:1
+5304 covering 4:1
+5305 undertaken 15:1
+5306 repeating 14:1
+5307 elicit 19:1
+5308 adequate 4:1
+5309 geovis 11:4
+5310 trust 11:1
+5311 supplemented 2:1
+5312 wireframe 3:1
+5313 specialist 4:1
+5314 prompting 4:1
+5315 unconsidered 4:1
+5316 administer 2:1
+5317 autoethnography 15:1
+5318 advise 19:1
+5319 artefacts 17:1
+5320 wireframes 9:1
+5321 whiteboards 0:2 16:1
+5322 taskdriven 16:1
+5323 visuals 16:2 19:1
+5324 arrive 12:1
+5325 spontaneously 4:1
+5326 brainstorming 4:1
+5327 interviewing 19:1
+5328 affinity 18:1
+5329 diagramming 7:1
+5330 diagrammatic 15:1
+5331 occurred 16:1
+5332 scheepens 6:1
+5333 filtered 18:1
+5334 compose 18:1
+5335 maritime 5:1
+5336 metro 2:3
+5337 route 3:4
+5338 arrival 18:1
+5339 trains 3:1
+5340 stations 3:3
+5341 octilinear 5:1
+5342 transportation 11:1
+5343 station 4:1
+5344 passenger 7:1
+5345 occlusions 9:1
+5346 consistencies 11:1
+5347 cuts 3:1
+5348 instant 3:1
+5349 edgebundling 16:1
+5350 steiner 13:1
+5351 geodemographics 10:1
+5352 geodemographic 1:1 8:1
+5353 characterise 3:1
+5354 categorising 1:1
+5355 lifestyle 9:1
+5356 characterising 9:1
+5357 heterogeneity 14:1
+5358 marketing 18:1
+5359 delve 7:1
+5360 oac 1:3
+5361 complexities 3:1
+5362 subtleties 3:1
+5363 provoking 18:1
+5364 exercise 16:1
+5365 confirming 9:2
+5366 organisations 4:1
+5367 road 8:4
+5368 compensated 10:1
+5369 distorting 18:1
+5370 roads 13:2
+5371 preferably 9:1
+5372 sum 0:1
+5373 cqp 13:1
+5374 cqps 13:1
+5375 polynomial 1:1
+5376 inequalities 0:1
+5377 forbid 0:1
+5378 lamp 5:3
+5379 seeks 8:1
+5380 hampered 0:1
+5381 slopes 17:1
+5382 dicon 8:2
+5383 conveniently 10:1
+5384 healthcare 8:1
+5385 jointly 18:1
+5386 moleview 9:1
+5387 selects 4:1
+5388 unchanged 17:1
+5389 deformations 8:1
+5390 repulsion 8:1
+5391 deforming 6:1
+5392 straight 7:1
+5393 zones 17:1
+5394 air 17:1
+5395 imaging 17:1

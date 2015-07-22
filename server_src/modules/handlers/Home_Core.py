@@ -158,6 +158,10 @@ class Home_Core(object):
 					'value' : 'ScatterPlot1',
 					'name'  : 'Scatter Plot 1.0'
 				})
+				visualizations.append({
+					'value' : 'DocTopicMatrix',
+					'name'  : 'DocTopicMatrix'
+				})
 			if 'bow' in models and 'lda' in models and 'itm' in models:
 				visualizations.append({
 					'value' : 'GroupInBox',

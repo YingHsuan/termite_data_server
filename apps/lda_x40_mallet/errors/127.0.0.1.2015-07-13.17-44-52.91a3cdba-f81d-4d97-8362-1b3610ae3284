@@ -1,0 +1,478 @@
+(dp1
+S'output'
+p2
+S"<type 'exceptions.TypeError'> unsupported operand type(s) for +: 'dict' and 'int'"
+p3
+sS'layer'
+p4
+S'/Users/ying-hsuanlin/termite-data-server/web2py/applications/lda_x40_mallet/controllers/DocTopicMatrix.py'
+p5
+sS'code'
+p6
+S"#!/usr/bin/env python\n# -*- coding: utf-8 -*-\n\nimport json\nfrom db.BOW_DB import BOW_DB\nfrom db.LDA_DB import LDA_DB\nfrom vis.DocTopicMatrix import DocTopicMatrix\n\ndef index():\n\twith BOW_DB() as bow_db:\n\t\twith LDA_DB() as lda_db:\n\t\t\thandler = DocTopicMatrix(request, response, bow_db, lda_db)\n\treturn handler.GenerateResponse()\n\ndef StateModel():\n\twith BOW_DB() as bow_db:\n\t\twith LDA_DB() as lda_db:\n\t\t\thandler = DocTopicMatrix(request, response, bow_db, lda_db)\n\t\t\tdata = handler.GetStateModel()\n\tdataStr = json.dumps(data, encoding='utf-8', indent=2, sort_keys=True)\n\tresponse.headers['Content-Type'] = 'application/json'\n\treturn dataStr\n\ndef SeriatedTermTopicProbabilityModel():\n\twith BOW_DB() as bow_db:\n\t\twith LDA_DB() as lda_db:\n\t\t\thandler = DocTopicMatrix(request, response, bow_db, lda_db)\n\t\t\tdata = handler.GetSeriatedTermTopicProbabilityModel()\n\tdataStr = json.dumps(data, encoding='utf-8', indent=2, sort_keys=True)\n\tresponse.headers['Content-Type'] = 'application/json'\n\treturn dataStr\n\ndef FilteredTermTopicProbabilityModel():\n\twith BOW_DB() as bow_db:\n\t\twith LDA_DB() as lda_db:\n\t\t\thandler = DocTopicMatrix(request, response, bow_db, lda_db)\n\tdata = handler.GetFilteredTermTopicProbabilityModel()\n\tdataStr = json.dumps(data, encoding='utf-8', indent=2, sort_keys=True)\n\tresponse.headers['Content-Type'] = 'application/json'\n\treturn dataStr\n\ndef TermFrequencyModel():\n\twith BOW_DB() as bow_db:\n\t\twith LDA_DB() as lda_db:\n\t\t\thandler = DocTopicMatrix(request, response, bow_db, lda_db)\n\t\t\tdata = handler.GetTermFrequencyModel()\n\tdataStr = json.dumps(data, encoding='utf-8', indent=2, sort_keys=True)\n\tresponse.headers['Content-Type'] = 'application/json'\n\treturn dataStr\n\nresponse._vars=response._caller(TermFrequencyModel)\n"
+p7
+sS'snapshot'
+p8
+(dp9
+S'exception'
+p10
+(dp11
+S'__hash__'
+p12
+S"<method-wrapper '__hash__' of exceptions.TypeError object>"
+p13
+sS'__setattr__'
+p14
+S"<method-wrapper '__setattr__' of exceptions.TypeError object>"
+p15
+sS'__reduce_ex__'
+p16
+S'<built-in method __reduce_ex__ of exceptions.TypeError object>'
+p17
+sS'__getslice__'
+p18
+S"<method-wrapper '__getslice__' of exceptions.TypeError object>"
+p19
+sS'__getitem__'
+p20
+S"<method-wrapper '__getitem__' of exceptions.TypeError object>"
+p21
+sS'__setstate__'
+p22
+S'<built-in method __setstate__ of exceptions.TypeError object>'
+p23
+sS'args'
+p24
+S'("unsupported operand type(s) for +: \'dict\' and \'int\'",)'
+p25
+sS'__reduce__'
+p26
+S'<built-in method __reduce__ of exceptions.TypeError object>'
+p27
+sS'__str__'
+p28
+S"<method-wrapper '__str__' of exceptions.TypeError object>"
+p29
+sS'__format__'
+p30
+S'<built-in method __format__ of exceptions.TypeError object>'
+p31
+sS'__getattribute__'
+p32
+S"<method-wrapper '__getattribute__' of exceptions.TypeError object>"
+p33
+sS'__class__'
+p34
+S"<type 'exceptions.TypeError'>"
+p35
+sS'__unicode__'
+p36
+S'<built-in method __unicode__ of exceptions.TypeError object>'
+p37
+sS'__delattr__'
+p38
+S"<method-wrapper '__delattr__' of exceptions.TypeError object>"
+p39
+sS'__subclasshook__'
+p40
+S'<built-in method __subclasshook__ of type object>'
+p41
+sS'__repr__'
+p42
+S"<method-wrapper '__repr__' of exceptions.TypeError object>"
+p43
+sS'__dict__'
+p44
+S'{}'
+p45
+sS'__sizeof__'
+p46
+S'<built-in method __sizeof__ of exceptions.TypeError object>'
+p47
+sS'__doc__'
+p48
+S"'Inappropriate argument type.'"
+p49
+sS'__init__'
+p50
+S"<method-wrapper '__init__' of exceptions.TypeError object>"
+p51
+sS'__new__'
+p52
+S'<built-in method __new__ of type object>'
+p53
+ssS'evalue'
+p54
+S"unsupported operand type(s) for +: 'dict' and 'int'"
+p55
+sS'request'
+p56
+cgluon.html
+XML_unpickle
+p57
+(S'sP^\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">ajax</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">application</td><td style="vertical-align:top;">:</td><td><div>lda_x40_mallet</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">args</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cid</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">client</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">controller</td><td style="vertical-align:top;">:</td><td><div>DocTopicMatrix</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cookies</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">session_id_admin</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-903fb486-227b-4e0d-8418-02a9d767186d<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_init</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-4a173cae-860d-4cfb-82b6-1bfadbc37867<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_lda_x40_mallet</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-9010a9ef-1e18-4a56-ac2b-737dafc32ffe<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">env</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT</td><td style="vertical-align:top;">:</td><td><div>application/json, text/javascript, */*; q=0.01</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT_ENCODING</td><td style="vertical-align:top;">:</td><td><div>gzip, deflate, sdch</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT_LANGUAGE</td><td style="vertical-align:top;">:</td><td><div>zh-TW,zh;q=0.8,en-US;q=0.6,en;q=0.4,zh-CN;q=0.2,et;q=0.2</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_CONNECTION</td><td style="vertical-align:top;">:</td><td><div>keep-alive</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_COOKIE</td><td style="vertical-align:top;">:</td><td><div>session_id_init=127.0.0.1-4a173cae-860d-4cfb-82b6-1bfadbc37867; session_id_admin=127.0.0.1-903fb486-227b-4e0d-8418-02a9d767186d; session_id_lda_x40_mallet=127.0.0.1-9010a9ef-1e18-4a56-ac2b-737dafc32ffe</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_HOST</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1:8075</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_REFERER</td><td style="vertical-align:top;">:</td><td><div>http://127.0.0.1:8075/lda_x40_mallet/DocTopicMatrix</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_USER_AGENT</td><td style="vertical-align:top;">:</td><td><div>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.132 Safari/537.36</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_X_REQUESTED_WITH</td><td style="vertical-align:top;">:</td><td><div>XMLHttpRequest</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">PATH_INFO</td><td style="vertical-align:top;">:</td><td><div>/lda_x40_mallet/DocTopicMatrix/TermFrequencyModel</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">QUERY_STRING</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REMOTE_ADDR</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REMOTE_PORT</td><td style="vertical-align:top;">:</td><td><div>50660</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REQUEST_METHOD</td><td style="vertical-align:top;">:</td><td><div>GET</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SCRIPT_NAME</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_NAME</td><td style="vertical-align:top;">:</td><td><div>Ying-Hsuan.local</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_PORT</td><td style="vertical-align:top;">:</td><td><div>8075</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_PROTOCOL</td><td style="vertical-align:top;">:</td><td><div>HTTP/1.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_SOFTWARE</td><td style="vertical-align:top;">:</td><td><div>Rocket 1.2.6</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">app_folders</td><td style="vertical-align:top;">:</td><td><div>set([&#x27;/Users/ying-hsuanlin/termite-data-server/web2py/applications/admin/&#x27;, &#x27;/Users/ying-hsuanlin/termite-data-server/web2py/applications/init/&#x27;, &#x27;/Users/ying-hsuanlin/termite-data-server/web2py/applications/lda_x40_mallet/&#x27;])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">applications_parent</td><td style="vertical-align:top;">:</td><td><div>/Users/ying-hsuanlin/termite-data-server/web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_args</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_options</td><td style="vertical-align:top;">:</td><td><div>&lt;Values at 0x10eaaeef0: {&#x27;verbose&#x27;: False, &#x27;ip&#x27;: &#x27;127.0.0.1&#x27;, &#x27;debuglevel&#x27;: 30, &#x27;with_scheduler&#x27;: False, &#x27;ips&#x27;: [&#x27;192.168.11.8&#x27;, &#x27;fe80::7ed1:c3ff:fe93:8428%en1&#x27;], &#x27;shutdown_timeout&#x27;: 5, &#x27;taskbar&#x27;: False, &#x27;with_coverage&#x27;: False, &#x27;port&#x27;: 8075, &#x27;maxthreads&#x27;: None, &#x27;softcron&#x27;: False, &#x27;server_name&#x27;: &#x27;Ying-Hsuan.local&#x27;, &#x27;bpython&#x27;: False, &#x27;nogui&#x27;: False, &#x27;pid_filename&#x27;: &#x27;httpserver.pid&#x27;, &#x27;extcron&#x27;: False, &#x27;runcron&#x27;: False, &#x27;run_system_tests&#x27;: False, &#x27;test&#x27;: None, &#x27;folder&#x27;: &#x27;/Users/ying-hsuanlin/termite-data-server/web2py&#x27;, &#x27;config&#x27;: &#x27;&#x27;, &#x27;minthreads&#x27;: None, &#x27;shell&#x27;: None, &#x27;run&#x27;: &#x27;&#x27;, &#x27;log_filename&#x27;: &#x27;httpserver.log&#x27;, &#x27;profiler_dir&#x27;: None, &#x27;args&#x27;: [&#x27;&#x27;], &#x27;socket_timeout&#x27;: 5, &#x27;ssl_ca_certificate&#x27;: None, &#x27;scheduler&#x27;: None, &#x27;interfaces&#x27;: None, &#x27;ssl_private_key&#x27;: &#x27;&#x27;, &#x27;scheduler_groups&#x27;: None, &#x27;password&#x27;: &#x27;&lt;ask&gt;&#x27;, &#x27;request_queue_size&#x27;: 5, &#x27;ssl_certificate&#x27;: &#x27;&#x27;, &#x27;cronjob&#x27;: False, &#x27;numthreads&#x27;: None, &#x27;quiet&#x27;: False, &#x27;import_models&#x27;: False, &#x27;timeout&#x27;: 10, &#x27;plain&#x27;: False, &#x27;nobanner&#x27;: False}&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">db_sessions</td><td style="vertical-align:top;">:</td><td><div>set([])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">debugging</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">gluon_parent</td><td style="vertical-align:top;">:</td><td><div>/Users/ying-hsuanlin/termite-data-server/web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept</td><td style="vertical-align:top;">:</td><td><div>application/json, text/javascript, */*; q=0.01</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept_encoding</td><td style="vertical-align:top;">:</td><td><div>gzip, deflate, sdch</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept_language</td><td style="vertical-align:top;">:</td><td><div>zh-TW,zh;q=0.8,en-US;q=0.6,en;q=0.4,zh-CN;q=0.2,et;q=0.2</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_connection</td><td style="vertical-align:top;">:</td><td><div>keep-alive</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_cookie</td><td style="vertical-align:top;">:</td><td><div>session_id_init=127.0.0.1-4a173cae-860d-4cfb-82b6-1bfadbc37867; session_id_admin=127.0.0.1-903fb486-227b-4e0d-8418-02a9d767186d; session_id_lda_x40_mallet=127.0.0.1-9010a9ef-1e18-4a56-ac2b-737dafc32ffe</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_host</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1:8075</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_referer</td><td style="vertical-align:top;">:</td><td><div>http://127.0.0.1:8075/lda_x40_mallet/DocTopicMatrix</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_user_agent</td><td style="vertical-align:top;">:</td><td><div>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.132 Safari/537.36</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_x_requested_with</td><td style="vertical-align:top;">:</td><td><div>XMLHttpRequest</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_jython</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_pypy</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_source</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">local_hosts</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>fe80::7ed1:c3ff:fe93:8428%en1</div></td></tr><tr><td><div>192.168.11.8</div></td></tr><tr><td><div>::ffff:127.0.0.1</div></td></tr><tr><td><div>::1</div></td></tr><tr><td><div>Ying-Hsuan.local</div></td></tr><tr><td><div>127.0.0.1</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path_info</td><td style="vertical-align:top;">:</td><td><div>/lda_x40_mallet/DocTopicMatrix/TermFrequencyModel</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">query_string</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remote_addr</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remote_port</td><td style="vertical-align:top;">:</td><td><div>50660</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">request_method</td><td style="vertical-align:top;">:</td><td><div>GET</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">request_uri</td><td style="vertical-align:top;">:</td><td><div>/lda_x40_mallet/DocTopicMatrix/TermFrequencyModel</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">script_name</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_name</td><td style="vertical-align:top;">:</td><td><div>Ying-Hsuan.local</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_port</td><td style="vertical-align:top;">:</td><td><div>8075</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_protocol</td><td style="vertical-align:top;">:</td><td><div>HTTP/1.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_software</td><td style="vertical-align:top;">:</td><td><div>Rocket 1.2.6</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_path</td><td style="vertical-align:top;">:</td><td><div>/Users/ying-hsuanlin/termite-data-server/web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_version</td><td style="vertical-align:top;">:</td><td><div>2.9.5-stable+timestamp.2014.03.16.02.35.39</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.errors</td><td style="vertical-align:top;">:</td><td><div>&lt;open file &#x27;&lt;stderr&gt;&#x27;, mode &#x27;w&#x27; at 0x10dbce1e0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.file_wrapper</td><td style="vertical-align:top;">:</td><td><div>&lt;class wsgiref.util.FileWrapper at 0x10e80c598&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.input</td><td style="vertical-align:top;">:</td><td><div>&lt;socket._fileobject object at 0x114f16bd0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.multiprocess</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.multithread</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.run_once</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.url_scheme</td><td style="vertical-align:top;">:</td><td><div>http</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.version</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>1</div></td></tr><tr><td><div>0</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_errors</td><td style="vertical-align:top;">:</td><td><div>&lt;open file &#x27;&lt;stderr&gt;&#x27;, mode &#x27;w&#x27; at 0x10dbce1e0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_file_wrapper</td><td style="vertical-align:top;">:</td><td><div>&lt;class wsgiref.util.FileWrapper at 0x10e80c598&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_input</td><td style="vertical-align:top;">:</td><td><div>&lt;socket._fileobject object at 0x114f16bd0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_multiprocess</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_multithread</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_run_once</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_url_scheme</td><td style="vertical-align:top;">:</td><td><div>http</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_version</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>1</div></td></tr><tr><td><div>0</div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">extension</td><td style="vertical-align:top;">:</td><td><div>html</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">folder</td><td style="vertical-align:top;">:</td><td><div>/Users/ying-hsuanlin/termite-data-server/web2py/applications/lda_x40_mallet/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">function</td><td style="vertical-align:top;">:</td><td><div>TermFrequencyModel</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">global_settings</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">app_folders</td><td style="vertical-align:top;">:</td><td><div>set([&#x27;/Users/ying-hsuanlin/termite-data-server/web2py/applications/admin/&#x27;, &#x27;/Users/ying-hsuanlin/termite-data-server/web2py/applications/init/&#x27;, &#x27;/Users/ying-hsuanlin/termite-data-server/web2py/applications/lda_x40_mallet/&#x27;])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">applications_parent</td><td style="vertical-align:top;">:</td><td><div>/Users/ying-hsuanlin/termite-data-server/web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_args</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_options</td><td style="vertical-align:top;">:</td><td><div>&lt;Values at 0x10eaaeef0: {&#x27;verbose&#x27;: False, &#x27;ip&#x27;: &#x27;127.0.0.1&#x27;, &#x27;debuglevel&#x27;: 30, &#x27;with_scheduler&#x27;: False, &#x27;ips&#x27;: [&#x27;192.168.11.8&#x27;, &#x27;fe80::7ed1:c3ff:fe93:8428%en1&#x27;], &#x27;shutdown_timeout&#x27;: 5, &#x27;taskbar&#x27;: False, &#x27;with_coverage&#x27;: False, &#x27;port&#x27;: 8075, &#x27;maxthreads&#x27;: None, &#x27;softcron&#x27;: False, &#x27;server_name&#x27;: &#x27;Ying-Hsuan.local&#x27;, &#x27;bpython&#x27;: False, &#x27;nogui&#x27;: False, &#x27;pid_filename&#x27;: &#x27;httpserver.pid&#x27;, &#x27;extcron&#x27;: False, &#x27;runcron&#x27;: False, &#x27;run_system_tests&#x27;: False, &#x27;test&#x27;: None, &#x27;folder&#x27;: &#x27;/Users/ying-hsuanlin/termite-data-server/web2py&#x27;, &#x27;config&#x27;: &#x27;&#x27;, &#x27;minthreads&#x27;: None, &#x27;shell&#x27;: None, &#x27;run&#x27;: &#x27;&#x27;, &#x27;log_filename&#x27;: &#x27;httpserver.log&#x27;, &#x27;profiler_dir&#x27;: None, &#x27;args&#x27;: [&#x27;&#x27;], &#x27;socket_timeout&#x27;: 5, &#x27;ssl_ca_certificate&#x27;: None, &#x27;scheduler&#x27;: None, &#x27;interfaces&#x27;: None, &#x27;ssl_private_key&#x27;: &#x27;&#x27;, &#x27;scheduler_groups&#x27;: None, &#x27;password&#x27;: &#x27;&lt;ask&gt;&#x27;, &#x27;request_queue_size&#x27;: 5, &#x27;ssl_certificate&#x27;: &#x27;&#x27;, &#x27;cronjob&#x27;: False, &#x27;numthreads&#x27;: None, &#x27;quiet&#x27;: False, &#x27;import_models&#x27;: False, &#x27;timeout&#x27;: 10, &#x27;plain&#x27;: False, &#x27;nobanner&#x27;: False}&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">db_sessions</td><td style="vertical-align:top;">:</td><td><div>set([])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">debugging</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">gluon_parent</td><td style="vertical-align:top;">:</td><td><div>/Users/ying-hsuanlin/termite-data-server/web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_jython</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_pypy</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_source</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">local_hosts</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>fe80::7ed1:c3ff:fe93:8428%en1</div></td></tr><tr><td><div>192.168.11.8</div></td></tr><tr><td><div>::ffff:127.0.0.1</div></td></tr><tr><td><div>::1</div></td></tr><tr><td><div>Ying-Hsuan.local</div></td></tr><tr><td><div>127.0.0.1</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_version</td><td style="vertical-align:top;">:</td><td><div>2.9.5-stable+timestamp.2014.03.16.02.35.39</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_https</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_local</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_restful</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">now</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2015, 7, 13, 17, 44, 52, 464760)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">raw_args</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">raw_extension</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">url</td><td style="vertical-align:top;">:</td><td><div>/lda_x40_mallet/DocTopicMatrix/TermFrequencyModel</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">utcnow</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2015, 7, 13, 9, 44, 52, 464773)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">uuid</td><td style="vertical-align:top;">:</td><td><div>lda_x40_mallet/127.0.0.1.2015-07-13.17-44-52.91a3cdba-f81d-4d97-8362-1b3610ae3284</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi</td><td style="vertical-align:top;">:</td><td><div>&lt;gluon.main.LazyWSGI object at 0x10eabb850&gt;</div></td></tr></table></div>'
+tRp58
+sS'frames'
+p59
+(lp60
+(dp61
+S'file'
+p62
+S'/Users/ying-hsuanlin/termite-data-server/web2py/gluon/restricted.py'
+p63
+sS'dump'
+p64
+(dp65
+S'environment'
+p66
+S"{'A': <class 'gluon.html.A'>, 'ANY_OF': <class 'gluon.validators.ANY_OF'>, 'B': <class 'gluon.html.B'>, 'BEAUTIFY': <class 'gluon.html.BEAUTIFY'>, 'BODY': <class 'gluon.html.BODY'>, 'BOW_DB': <class applications.lda_x40_mallet.modules.db.BOW_DB.BOW_DB>, 'BR': <class 'gluon.html.BR'>, 'BUTTON': <class 'gluon.html.BUTTON'>, 'CAT': <class 'gluon.html.CAT'>, 'CENTER': <class 'gluon.html.CENTER'>, ...}"
+p67
+sS'ccode'
+p68
+S'<code object <module> at 0x113393930, file "/Use...40_mallet/controllers/DocTopicMatrix.py", line 4>'
+p69
+ssS'lnum'
+p70
+I220
+sS'lines'
+p71
+(dp72
+I224
+S'        # do not encapsulate (obfuscate) the original RestrictedError'
+p73
+sI215
+S'    try:'
+p74
+sI216
+S'        if isinstance(code, types.CodeType):'
+p75
+sI217
+S'            ccode = code'
+p76
+sI218
+S'        else:'
+p77
+sI219
+S'            ccode = compile2(code, layer)'
+p78
+sI220
+S'        exec ccode in environment'
+p79
+sI221
+S'    except HTTP:'
+p80
+sI222
+S'        raise'
+p81
+sI223
+S'    except RestrictedError:'
+p82
+ssS'call'
+p83
+S"(code='#!/usr/bin/env python\\n# -*- coding: utf-8 -*-\\n\\ni...ponse._vars=response._caller(TermFrequencyModel)\\n', environment={'A': <class 'gluon.html.A'>, 'ANY_OF': <class 'gluon.validators.ANY_OF'>, 'B': <class 'gluon.html.B'>, 'BEAUTIFY': <class 'gluon.html.BEAUTIFY'>, 'BODY': <class 'gluon.html.BODY'>, 'BOW_DB': <class applications.lda_x40_mallet.modules.db.BOW_DB.BOW_DB>, 'BR': <class 'gluon.html.BR'>, 'BUTTON': <class 'gluon.html.BUTTON'>, 'CAT': <class 'gluon.html.CAT'>, 'CENTER': <class 'gluon.html.CENTER'>, ...}, layer='/Users/ying-hsuanlin/termite-data-server/web2py/...ions/lda_x40_mallet/controllers/DocTopicMatrix.py')"
+p84
+sS'func'
+p85
+S'restricted'
+p86
+sa(dp87
+g62
+S'/Users/ying-hsuanlin/termite-data-server/web2py/applications/lda_x40_mallet/controllers/DocTopicMatrix.py'
+p88
+sg64
+(dp89
+sg70
+I51
+sg71
+(dp90
+I40
+S'\treturn dataStr'
+p91
+sI41
+S''
+sI42
+S'def TermFrequencyModel():'
+p92
+sI43
+S'\twith BOW_DB() as bow_db:'
+p93
+sI44
+S'\t\twith LDA_DB() as lda_db:'
+p94
+sI45
+S'\t\t\thandler = DocTopicMatrix(request, response, bow_db, lda_db)'
+p95
+sI46
+S'\t\t\tdata = handler.GetTermFrequencyModel()'
+p96
+sI47
+S"\tdataStr = json.dumps(data, encoding='utf-8', indent=2, sort_keys=True)"
+p97
+sI48
+S"\tresponse.headers['Content-Type'] = 'application/json'"
+p98
+sI49
+S'\treturn dataStr'
+p99
+ssg83
+S'()'
+p100
+sg85
+S'<module>'
+p101
+sa(dp102
+g62
+S'/Users/ying-hsuanlin/termite-data-server/web2py/gluon/globals.py'
+p103
+sg64
+(dp104
+S'self'
+p105
+S'undefined'
+p106
+sS'f'
+S'<function TermFrequencyModel>'
+p107
+ssg70
+I385
+sg71
+(dp108
+I384
+S'        self._vars = None'
+p109
+sI385
+S'        self._caller = lambda f: f()'
+p110
+sI386
+S'        self._view_environment = None'
+p111
+sI387
+S'        self._custom_commit = None'
+p112
+sI388
+S'        self._custom_rollback = None'
+p113
+sI389
+S''
+sI380
+S'        self.menu = []             # used by the default view layout'
+p114
+sI381
+S'        self.files = []            # used by web2py_ajax.html'
+p115
+sI382
+S'        self.generic_patterns = []  # patterns to allow generic views'
+p116
+sI383
+S"        self.delimiters = ('{{', '}}')"
+p117
+ssg83
+S'(f=<function TermFrequencyModel>)'
+p118
+sg85
+S'<lambda>'
+p119
+sa(dp120
+g62
+S'/Users/ying-hsuanlin/termite-data-server/web2py/applications/lda_x40_mallet/controllers/DocTopicMatrix.py'
+p121
+sg64
+(dp122
+S'handler.GetTermFrequencyModel'
+p123
+S'<bound method DocTopicMatrix.GetTermFrequencyMod...odules.vis.DocTopicMatrix.DocTopicMatrix object>>'
+p124
+sS'handler'
+p125
+S'<applications.lda_x40_mallet.modules.vis.DocTopicMatrix.DocTopicMatrix object>'
+p126
+sS'data'
+p127
+g106
+ssg70
+I46
+sg71
+(dp128
+I40
+S'\treturn dataStr'
+p129
+sI41
+S''
+sI42
+S'def TermFrequencyModel():'
+p130
+sI43
+S'\twith BOW_DB() as bow_db:'
+p131
+sI44
+S'\t\twith LDA_DB() as lda_db:'
+p132
+sI45
+S'\t\t\thandler = DocTopicMatrix(request, response, bow_db, lda_db)'
+p133
+sI46
+S'\t\t\tdata = handler.GetTermFrequencyModel()'
+p134
+sI47
+S"\tdataStr = json.dumps(data, encoding='utf-8', indent=2, sort_keys=True)"
+p135
+sI48
+S"\tresponse.headers['Content-Type'] = 'application/json'"
+p136
+sI49
+S'\treturn dataStr'
+p137
+ssg83
+S'()'
+p138
+sg85
+S'TermFrequencyModel'
+p139
+sa(dp140
+g62
+S'/Users/ying-hsuanlin/termite-data-server/web2py/applications/lda_x40_mallet/modules/vis/DocTopicMatrix.py'
+p141
+sg64
+(dp142
+sg70
+I232
+sg71
+(dp143
+I227
+S''
+sI228
+S'\t\tfinal = [[0.0] * 1 for i in range(40)]'
+p144
+sI229
+S''
+sI230
+S'\t\tfor row in Apples:'
+p145
+sI231
+S'\t\t\tfor column in Bananas:'
+p146
+sI232
+S"\t\t\t\tif row['topic_index'] == column+1:"
+p147
+sI233
+S"\t\t\t\t\tfinal[row][0] = column['term_text']"
+p148
+sI234
+S''
+sI235
+S"\t\tdata['final'] = final"
+p149
+sI236
+S''
+ssg83
+S'(self=<applications.lda_x40_mallet.modules.vis.DocTopicMatrix.DocTopicMatrix object>)'
+p150
+sg85
+S'GetTermFrequencyModel'
+p151
+sasS'pyver'
+p152
+S'Python 2.7.6: /usr/bin/python (prefix: /System/Library/Frameworks/Python.framework/Versions/2.7)'
+p153
+sS'session'
+p154
+g57
+(S's\x1a\x00\x00\x00<div><table></table></div>'
+tRp155
+sS'etype'
+p156
+S"<type 'exceptions.TypeError'>"
+p157
+sS'date'
+p158
+S'Mon Jul 13 17:44:52 2015'
+p159
+sS'response'
+p160
+g57
+(S's\xea\x15\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">body</td><td style="vertical-align:top;">:</td><td><div>&lt;cStringIO.StringO object at 0x10eac64c8&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cookies</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">session_id_lda_x40_mallet</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-186de92f-e817-425a-be8e-a1216ed75383<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">delimiters</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>{{</div></td></tr><tr><td><div>}}</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">files</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">flash</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">generic_patterns</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">headers</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">X-Powered-By</td><td style="vertical-align:top;">:</td><td><div>web2py</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">menu</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">meta</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">models_to_run</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>^\\w+\\.py$</div></td></tr><tr><td><div>^DocTopicMatrix/\\w+\\.py$</div></td></tr><tr><td><div>^DocTopicMatrix/TermFrequencyModel/\\w+\\.py$</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">postprocessing</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_client</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_cookie_compression_level</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_cookie_expires</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_cookie_key</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_data_name</td><td style="vertical-align:top;">:</td><td><div>session_data_lda_x40_mallet</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_file</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_filename</td><td style="vertical-align:top;">:</td><td><div>/Users/ying-hsuanlin/termite-data-server/web2py/applications/lda_x40_mallet/sessions/127.0.0.1-186de92f-e817-425a-be8e-a1216ed75383</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_hash</td><td style="vertical-align:top;">:</td><td><div>106f4c22ca06cc343e42b73a0d8492f6</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-186de92f-e817-425a-be8e-a1216ed75383</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_name</td><td style="vertical-align:top;">:</td><td><div>session_id_lda_x40_mallet</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_masterapp</td><td style="vertical-align:top;">:</td><td><div>lda_x40_mallet</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_new</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_storage_type</td><td style="vertical-align:top;">:</td><td><div>file</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">status</td><td style="vertical-align:top;">:</td><td><div>200</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">view</td><td style="vertical-align:top;">:</td><td><div>DocTopicMatrix/TermFrequencyModel.html</div></td></tr></table></div>'
+tRp161
+sS'locals'
+p162
+(dp163
+S'termLimit'
+p164
+S'500'
+p165
+sS'rows'
+p166
+S'<Rows (10)>'
+p167
+sS'apple'
+p168
+S"'SELECT a.doc_index AS doc_index, MAX(a.value) As...OM doc_topic_matrix AS a \\n\\t\\t\\tGROUP BY a.doc_index'"
+p169
+sS'Bananas'
+p170
+S"[{'term_index': 6, 'term_text': u'cloud', 'topic_index': 0, 'value': 734.01}, {'term_index': 2646, 'term_text': u'erp', 'topic_index': 1, 'value': 606.01}, {'term_index': 264, 'term_text': u'system', 'topic_index': 2, 'value': 279.01}, {'term_index': 390, 'term_text': u'data', 'topic_index': 3, 'value': 586.01}, {'term_index': 5, 'term_text': u'base', 'topic_index': 4, 'value': 311.01}, {'term_index': 11, 'term_text': u'inform', 'topic_index': 5, 'value': 556.01}, {'term_index': 2264, 'term_text': u'judgment', 'topic_index': 6, 'value': 315.01}, {'term_index': 71, 'term_text': u'process', 'topic_index': 7, 'value': 302.01}, {'term_index': 15, 'term_text': u'univers', 'topic_index': 8, 'value': 1413.01}, {'term_index': 3872, 'term_text': u'imag', 'topic_index': 9, 'value': 760.01}]"
+p171
+sS'column'
+p172
+S"{'term_index': 6, 'term_text': u'cloud', 'topic_index': 0, 'value': 734.01}"
+p173
+sS'ref'
+p174
+S'<Table term_topic_matrix (id,term_index,topic_index,value,rank)>'
+p175
+sS'self'
+p176
+S'<applications.lda_x40_mallet.modules.vis.DocTopicMatrix.DocTopicMatrix object>'
+p177
+sS'n'
+S'9'
+sS'i'
+S'39'
+p178
+sS'final'
+p179
+S'[[0.0], [0.0], [0.0], [0.0], [0.0], [0.0], [0.0], [0.0], [0.0], [0.0], [0.0], [0.0], [0.0], [0.0], [0.0], [0.0], [0.0], [0.0], [0.0], [0.0], ...]'
+p180
+sS'tableterm'
+p181
+S'<Table terms (id,term_index,term_text,term_freq,rank)>'
+p182
+sS'Apples'
+p183
+S"[{'doc_index': 0, 'topic_index': 0, 'value': 0.8379028379028379}, {'doc_index': 1, 'topic_index': 3, 'value': 0.4484149855907781}, {'doc_index': 2, 'topic_index': 0, 'value': 0.665686994856723}, {'doc_index': 3, 'topic_index': 0, 'value': 0.749352667011911}, {'doc_index': 4, 'topic_index': 3, 'value': 0.6903176716758608}, {'doc_index': 5, 'topic_index': 6, 'value': 0.5379050015728216}, {'doc_index': 6, 'topic_index': 0, 'value': 0.4882533197139939}, {'doc_index': 7, 'topic_index': 2, 'value': 0.6782136894824707}, {'doc_index': 8, 'topic_index': 0, 'value': 0.7102244389027431}, {'doc_index': 9, 'topic_index': 0, 'value': 0.5684277530235519}, {'doc_index': 10, 'topic_index': 1, 'value': 0.6913456728364182}, {'doc_index': 11, 'topic_index': 1, 'value': 0.6038709677419355}, {'doc_index': 12, 'topic_index': 3, 'value': 0.703155818540434}, {'doc_index': 13, 'topic_index': 1, 'value': 0.793265465935787}, {'doc_index': 14, 'topic_index': 2, 'value': 0.579874928936896}, {'doc_index': 15, 'topic_index': 1, 'value': 0.6518082422203533}, {'doc_index': 16, 'topic_index': 1, 'value': 0.49086479902557856}, {'doc_index': 17, 'topic_index': 1, 'value': 0.655217965653897}, {'doc_index': 18, 'topic_index': 1, 'value': 0.7321516494337764}, {'doc_index': 19, 'topic_index': 1, 'value': 0.6236286919831223}, ...]"
+p184
+sS'tabledoc'
+p185
+S'<Table docs (id,doc_index,doc_id,doc_freq,rank)>'
+p186
+sS'query'
+p187
+S"'SELECT topic_index, topic_label FROM topics\\n\\t\\tORDER BY topic_index'"
+p188
+sS'topicCount'
+p189
+S'10'
+p190
+sS'table'
+p191
+S'<Table doc_topic_matrix (id,doc_index,topic_index,value,rank)>'
+p192
+sS'data'
+p193
+S"{'Doc->Topic': [0, 3, 0, 0, 3, 6, 0, 2, 0, 0, 1, 1, 3, 1, 2, 1, 1, 1, 1, 1, ...], 'Topic->Term': [u'cloud', u'erp', u'system', u'data', u'base', u'inform', u'judgment', u'process', u'univers', u'imag'], 'docFreqMap': {u'doc1': 1.0, u'doc10': 1.0, u'doc11': 0.9999999999999999, u'doc12': 1.0, u'doc13': 1.0, u'doc14': 1.0, u'doc15': 1.0, u'doc16': 1.0, u'doc17': 1.0, u'doc18': 1.0, ...}, 'docIndex': [u'doc26', u'doc28', u'doc29', u'doc35', u'doc36', u'doc38', u'doc1', u'doc2', u'doc4', u'doc5', u'doc9', u'doc10', u'doc12', u'doc13', u'doc14', u'doc15', u'doc16', u'doc17', u'doc18', u'doc19', ...], 'topicIndex': ['Topic 1', 'Topic 2', 'Topic 3', 'Topic 4', 'Topic 5', 'Topic 6', 'Topic 7', 'Topic 8', 'Topic 9', 'Topic 10'], 'topicMapping': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]}"
+p194
+sS'banana'
+p195
+S"'SELECT b.term_index AS term_index, MAX(b.value) ...rm_index = b.term_index\\n\\t\\t\\tGROUP BY b.topic_index'"
+p196
+sS'_'
+S"<Row {'topic_label': 'imag, process, parallel', 'topic_index': 9L}>"
+p197
+sS'row'
+p198
+S"{'doc_index': 0, 'topic_index': 0, 'value': 0.8379028379028379}"
+p199
+sssS'traceback'
+p200
+S'Traceback (most recent call last):\n  File "/Users/ying-hsuanlin/termite-data-server/web2py/gluon/restricted.py", line 220, in restricted\n    exec ccode in environment\n  File "/Users/ying-hsuanlin/termite-data-server/web2py/applications/lda_x40_mallet/controllers/DocTopicMatrix.py", line 51, in <module>\n  File "/Users/ying-hsuanlin/termite-data-server/web2py/gluon/globals.py", line 385, in <lambda>\n    self._caller = lambda f: f()\n  File "/Users/ying-hsuanlin/termite-data-server/web2py/applications/lda_x40_mallet/controllers/DocTopicMatrix.py", line 46, in TermFrequencyModel\n    data = handler.GetTermFrequencyModel()\n  File "applications/lda_x40_mallet/modules/vis/DocTopicMatrix.py", line 232, in GetTermFrequencyModel\n    if row[\'topic_index\'] == column+1:\nTypeError: unsupported operand type(s) for +: \'dict\' and \'int\'\n'
+p201
+s.

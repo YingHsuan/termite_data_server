@@ -1,0 +1,169 @@
+timestamp: 2015-06-01T02:28:38.660649
+CREATE TABLE options(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    key CHAR(512) UNIQUE,
+    value CHAR(512)
+);
+success!
+timestamp: 2015-06-01T02:28:38.736058
+CREATE TABLE term_texts(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    term_index INTEGER UNIQUE,
+    term_text CHAR(512) UNIQUE
+);
+success!
+timestamp: 2015-06-01T02:28:38.741103
+CREATE TABLE term_freqs(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    term_index INTEGER UNIQUE,
+    value DOUBLE,
+    rank INTEGER
+);
+success!
+timestamp: 2015-06-01T02:28:38.752082
+CREATE TABLE term_probs(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    term_index INTEGER UNIQUE,
+    value DOUBLE,
+    rank INTEGER
+);
+success!
+timestamp: 2015-06-01T02:28:38.759966
+CREATE TABLE term_doc_freqs(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    term_index INTEGER UNIQUE,
+    value DOUBLE,
+    rank INTEGER
+);
+success!
+timestamp: 2015-06-01T02:28:38.766774
+CREATE TABLE term_co_freqs(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    first_term_index INTEGER,
+    second_term_index INTEGER,
+    value DOUBLE,
+    rank INTEGER
+);
+success!
+timestamp: 2015-06-01T02:28:38.777108
+CREATE TABLE term_co_probs(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    first_term_index INTEGER,
+    second_term_index INTEGER,
+    value DOUBLE,
+    rank INTEGER
+);
+success!
+timestamp: 2015-06-01T02:28:38.786733
+CREATE TABLE term_g2(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    first_term_index INTEGER,
+    second_term_index INTEGER,
+    value DOUBLE,
+    rank INTEGER
+);
+success!
+timestamp: 2015-06-01T02:28:38.797378
+CREATE TABLE sentences_co_freqs(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    first_term_index INTEGER,
+    second_term_index INTEGER,
+    value DOUBLE,
+    rank INTEGER
+);
+success!
+timestamp: 2015-06-01T02:28:38.806255
+CREATE TABLE sentences_co_probs(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    first_term_index INTEGER,
+    second_term_index INTEGER,
+    value DOUBLE,
+    rank INTEGER
+);
+success!
+timestamp: 2015-06-01T02:28:38.815885
+CREATE TABLE sentences_g2(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    first_term_index INTEGER,
+    second_term_index INTEGER,
+    value DOUBLE,
+    rank INTEGER
+);
+success!
+timestamp: 2015-06-01T02:28:38.825151
+CREATE TABLE vocab(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    term_index INTEGER UNIQUE,
+    term_text CHAR(512)
+);
+success!
+timestamp: 2015-06-01T02:28:38.828189
+CREATE TABLE vocab_text(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    term_text CHAR(512) UNIQUE
+);
+success!
+timestamp: 2015-06-01T02:30:12.278849
+CREATE TABLE options(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    key CHAR(512) UNIQUE,
+    value CHAR(512)
+);
+success!
+timestamp: 2015-06-01T02:30:12.286276
+CREATE TABLE terms(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    term_index INTEGER UNIQUE,
+    term_text CHAR(512) UNIQUE,
+    term_freq DOUBLE,
+    rank INTEGER
+);
+success!
+timestamp: 2015-06-01T02:30:12.299247
+CREATE TABLE docs(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    doc_index INTEGER UNIQUE,
+    doc_id CHAR(512) UNIQUE,
+    doc_freq DOUBLE,
+    rank INTEGER
+);
+success!
+timestamp: 2015-06-01T02:30:12.310616
+CREATE TABLE topics(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    topic_index INTEGER UNIQUE,
+    topic_freq DOUBLE,
+    topic_label CHAR(512),
+    topic_desc CHAR(512),
+    top_terms TEXT,
+    top_docs TEXT,
+    rank INTEGER
+);
+success!
+timestamp: 2015-06-01T02:30:12.320610
+CREATE TABLE term_topic_matrix(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    term_index INTEGER,
+    topic_index INTEGER,
+    value DOUBLE,
+    rank INTEGER
+);
+success!
+timestamp: 2015-06-01T02:30:12.343035
+CREATE TABLE doc_topic_matrix(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    doc_index INTEGER,
+    topic_index INTEGER,
+    value DOUBLE,
+    rank INTEGER
+);
+success!
+timestamp: 2015-06-01T02:30:12.369502
+CREATE TABLE topic_covariance(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    first_topic_index INTEGER,
+    second_topic_index INTEGER,
+    value DOUBLE,
+    rank INTEGER
+);
+success!

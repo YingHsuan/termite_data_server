@@ -31,7 +31,7 @@ def main():
 	parser.add_argument( 'corpus_path'  , type = str                         , help = 'Input folder containing the text corpus as "corpus.txt"' )
 	parser.add_argument( 'model_path'   , type = str                         , help = 'Output model folder' )
 	parser.add_argument( '--token-regex', type = str   , default = r'\w{3,}' , help = 'Tokenization', dest = 'token_regex' )
-	parser.add_argument( '--topics'     , type = int   , default = 20        , help = 'Number of topics' )
+	parser.add_argument( '--topics'     , type = int   , default = 10        , help = 'Number of topics' )
 	parser.add_argument( '--iters'      , type = int   , default = 1000      , help = 'Number of iterations' )
 	parser.add_argument( '--quiet'      , const = True , default = False     , help = 'Show fewer debugging messages', action = 'store_const' )
 	parser.add_argument( '--overwrite'  , const = True , default = False     , help = 'Overwrite any existing model', action = 'store_const' )

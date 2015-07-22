@@ -1,0 +1,10 @@
+0	5	cloud servic comput resourc server client provid applic time base model file user figur load request manag risk environ 
+1	5	erp system manag enterpris busi implement perform inform plan mainten product technolog print compani process resourc industri custom integr 
+2	5	system file block user time item network size group node tag topic set recommend distribut capac similar model number 
+3	5	data rfid comput item transact tag secur store storag model architectur reader locat case public scheme signatur retail client 
+4	5	base code research model detect china center adapt color laboratori applic featur method retriev germani textur corpor robust iii 
+5	5	inform analysi technolog knowledg data patent entropi analyz base mine document attack kei domain function estim power visual author 
+6	5	judgment autom human learn predict phase util measur particip memori train cpu judg vol perform model pattern design achiev 
+7	5	process imag vector neighborhood filter direct plan problem oper space decomposit matrix set goal perform gvdf correct ieee output 
+8	5	univers usa vol imag video japan technolog institut franc segment unit wavelet nation kingdom motion object algorithm compress greec 
+9	5	imag process parallel system data distribut comput oper applic design base program architectur figur standard memori jpeg object commun 

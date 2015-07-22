@@ -1,0 +1,105 @@
+timestamp: 2015-06-01T12:42:36.374135
+CREATE TABLE options(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    key CHAR(512) UNIQUE,
+    value CHAR(512)
+);
+success!
+timestamp: 2015-06-01T12:42:36.477521
+CREATE TABLE term_texts(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    term_index INTEGER UNIQUE,
+    term_text CHAR(512) UNIQUE
+);
+success!
+timestamp: 2015-06-01T12:42:36.484339
+CREATE TABLE term_freqs(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    term_index INTEGER UNIQUE,
+    value DOUBLE,
+    rank INTEGER
+);
+success!
+timestamp: 2015-06-01T12:42:36.490618
+CREATE TABLE term_probs(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    term_index INTEGER UNIQUE,
+    value DOUBLE,
+    rank INTEGER
+);
+success!
+timestamp: 2015-06-01T12:42:36.499507
+CREATE TABLE term_doc_freqs(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    term_index INTEGER UNIQUE,
+    value DOUBLE,
+    rank INTEGER
+);
+success!
+timestamp: 2015-06-01T12:42:36.506871
+CREATE TABLE term_co_freqs(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    first_term_index INTEGER,
+    second_term_index INTEGER,
+    value DOUBLE,
+    rank INTEGER
+);
+success!
+timestamp: 2015-06-01T12:42:36.516179
+CREATE TABLE term_co_probs(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    first_term_index INTEGER,
+    second_term_index INTEGER,
+    value DOUBLE,
+    rank INTEGER
+);
+success!
+timestamp: 2015-06-01T12:42:36.525495
+CREATE TABLE term_g2(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    first_term_index INTEGER,
+    second_term_index INTEGER,
+    value DOUBLE,
+    rank INTEGER
+);
+success!
+timestamp: 2015-06-01T12:42:36.534311
+CREATE TABLE sentences_co_freqs(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    first_term_index INTEGER,
+    second_term_index INTEGER,
+    value DOUBLE,
+    rank INTEGER
+);
+success!
+timestamp: 2015-06-01T12:42:36.542931
+CREATE TABLE sentences_co_probs(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    first_term_index INTEGER,
+    second_term_index INTEGER,
+    value DOUBLE,
+    rank INTEGER
+);
+success!
+timestamp: 2015-06-01T12:42:36.552810
+CREATE TABLE sentences_g2(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    first_term_index INTEGER,
+    second_term_index INTEGER,
+    value DOUBLE,
+    rank INTEGER
+);
+success!
+timestamp: 2015-06-01T12:42:36.563270
+CREATE TABLE vocab(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    term_index INTEGER UNIQUE,
+    term_text CHAR(512)
+);
+success!
+timestamp: 2015-06-01T12:42:36.566635
+CREATE TABLE vocab_text(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    term_text CHAR(512) UNIQUE
+);
+success!
