@@ -63,7 +63,8 @@ class DocTopicMatrix(Home_Core):
 		tabledoc = self.lda.docs #c
 		tableterm = self.lda.terms #d
 		
-		#2015/07/14 try to mix 
+		#2015/07/14 try to mix (v)
+		'''
 		apple = """SELECT a.doc_index AS doc_index, MAX(a.value) As value, a.topic_index As topic_index, d.term_text As term_text 
 			FROM {TABLE} AS a 
 			INNER JOIN {REF} AS b on b.topic_index = a.topic_index
@@ -74,6 +75,7 @@ class DocTopicMatrix(Home_Core):
 		Apples = self.lda.executesql(apple, as_dict=True)
 		data['Doc->Topic'] = [ row['topic_index'] for row in Apples ]
 		data['docTerm'] = [ row['term_text'] for row in Apples]
+		'''
 
 		return data
 
@@ -122,6 +124,7 @@ class DocTopicMatrix(Home_Core):
 	def GetTermFrequencyModel(self):
 		
 		data = {}
+		test = []
 
 		### display doc_topic_matrix(V)
 		'''
@@ -220,8 +223,9 @@ class DocTopicMatrix(Home_Core):
 		#data['docFreqMap'] = { row['topic_index'] : row['topic_index'] for row in Apples }
 		'''
 		
-		#2015/07/14 try to mix 
-		apple = """SELECT a.doc_index AS doc_index, MAX(a.value) As value, a.topic_index As topic_index, d.term_text As term_text 
+		'''
+		#2015/07/14 try to mix (v)
+		apple = """SELECT a.doc_index AS doc_index, Max(a.value) As value, a.topic_index As topic_index, d.term_text As term_text 
 			FROM {TABLE} AS a 
 			INNER JOIN {REF} AS b on b.topic_index = a.topic_index
 			INNER JOIN {TABLEDOC} As c on c.doc_index = a.doc_index
@@ -231,6 +235,45 @@ class DocTopicMatrix(Home_Core):
 		Apples = self.lda.executesql(apple, as_dict=True)
 		data['Doc->Topic'] = [ row['topic_index'] for row in Apples ]
 		data['docTerm'] = [ row['term_text'] for row in Apples]
+		'''
+
+		#2015/07/22 try to display 3 terms.
+
+		#2015/07/23 get top 3 term (v)
+		for i in range(10):
+			dog = """SELECT d.term_index as term_index, d.term_text as term_text, b.topic_index as topic_index
+				FROM {REF} As b
+				LEFT JOIN {TABLETERM} As d on d.term_index = b.term_index
+				where b.topic_index = {i}
+				order by value desc
+				limit 3 """.format(TABLE = table, TABLEDOC = tabledoc, REF = ref, TABLETERM = tableterm, i = i)
+			Dogs = self.lda.executesql(dog, as_dict=True)
+			data[i] = [ row['term_text'] for row in Dogs]
+			data[i] = ", ".join(data[i]) #(v)
+
+		'''
+		cat = """SELECT f.term_index as term_index
+			FROM {REF} As e
+			LEFT JOIN {DOG} As f on f.term_index = e.term_index
+			""".format(TABLE = table, TABLEDOC = tabledoc, REF = ref, TABLETERM = tableterm, DOG = Dogs)
+		Cats = self.lda.executesql(cat, as_dict=True)
+		data['cat'] = [ row['term_index'] for row in Cats ]
+		'''
+
+		apple = """SELECT a.doc_index AS doc_index, Max(a.value) As value, a.topic_index As topic_index, d.term_text As term_text 
+			FROM {TABLE} AS a 
+			INNER JOIN {REF} AS b on b.topic_index = a.topic_index
+			INNER JOIN {TABLEDOC} As c on c.doc_index = a.doc_index
+			LEFT JOIN {TABLETERM} As d on b.term_index = d.term_index
+			GROUP BY a.doc_index
+			ORDER BY c.rank""".format(TABLE = table, TABLEDOC = tabledoc, REF = ref, TABLETERM = tableterm)
+		Apples = self.lda.executesql(apple, as_dict=True)
+		data['Doc->Topic'] = [ row['topic_index'] for row in Apples ]
+		#data['docTerm'] =[ row['term_text'] for row in Apples ]
+
+		#for i in range(40):
+		Eggs = [ data[row['topic_index']] for row in Apples]
+		data['docTerm'] = [ row for row in Eggs]
 		
 
 		#get term_topic_matrix MAX(value)(V)

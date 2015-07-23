@@ -34,10 +34,10 @@ var HISTOGRAM_ENCODING_PARAMETERS = {
 var HISTORGRAM_CONTAINER_PADDING = {
 	left_separation: 10,
 	top: 60,
-	left: 130, 
-	right: 20,
+	left: 50, 
+	right: 50,
 	bottom: 60,
-	width: 150,
+	width: 300,
 	fullWidth : function() { return this.left + this.right + this.width },
 	fullHeight : function( numTopics, numTerms ) { return this.top + this.bottom + HISTOGRAM_ENCODING_PARAMETERS.packing() * numTerms }
 };
@@ -234,11 +234,10 @@ TermFrequencyView.prototype.renderUpdate = function() {
 
 	this.svgTerm1.selectAll( "text" ).data( term1 ).exit().remove();
 	this.svgTerm1.selectAll( "text" ).data( term1 ).enter().append( "svg:text" )
-		.on( "mouseout", function() { this.trigger( "mouseout:term", "" ) }.bind(this))
-		.attr( "x", 50)
+		.attr( "x", 0)
 		.attr( "y", 3 )
 	this.svgTerm1.selectAll( "text" ).data( term1 )	
-		.attr( "class", function(d) { return ["termLabel", "HISTnormal", getTermClassTag(d)].join(" ") })
+		.attr( "class", function(d) { return ["", "HISTnormal", getTermClassTag(d)].join(" ") })
 		.attr( "transform", function(d,i) { return "translate(0," + this.ys(i+0.5) + ")" }.bind(this) )
 		.on( "mouseover", function(d) { this.trigger( "mouseover:term", d ) }.bind(this))
 		.text( function(d) { return d } );
