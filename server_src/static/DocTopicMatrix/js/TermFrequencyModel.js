@@ -161,8 +161,8 @@ TermFrequencyModel.prototype.getTopicalsForTopic = function( topic ) {
 	var frequencies = [];
 	var terms = this.get("docIndex");
 	for( var i = 0; i < terms.length; i++){
-		var termIndex = this.originalTermIndex.indexOf(terms[i]);
-		frequencies.push(this.originalMatrix[termIndex][topic]);
+		//var termIndex = this.originalTermIndex.indexOf(terms[i]);
+		//frequencies.push(this.originalMatrix[termIndex][topic]);
 	}
 	return frequencies;
 };
