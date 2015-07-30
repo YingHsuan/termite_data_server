@@ -119,6 +119,40 @@ class DocTopicMatrix(Home_Core):
 				termSaliency[termText] = termFreqs[termText] * value
 		data['termDistinctivenessMap'] = termDistinctiveness
 		data['termSaliencyMap'] = termSaliency
+
+
+		table = self.lda.doc_topic_matrix #a
+		ref = self.lda.term_topic_matrix  #b
+		tabledoc = self.lda.docs #c
+		tableterm = self.lda.terms #d
+
+		for i in range(10):
+			dog = """SELECT d.term_index as term_index, d.term_text as term_text, b.topic_index as topic_index
+				FROM {REF} As b
+				LEFT JOIN {TABLETERM} As d on d.term_index = b.term_index
+				where b.topic_index = {i}
+				order by value desc
+				limit 3 """.format(TABLE = table, TABLEDOC = tabledoc, REF = ref, TABLETERM = tableterm, i = i)
+			Dogs = self.lda.executesql(dog, as_dict=True)
+			data[i] = [ row['term_text'] for row in Dogs]
+			data[i] = ", ".join(data[i]) #(v)
+
+		apple = """SELECT a.doc_index AS doc_index, Max(a.value) As value, a.topic_index As topic_index, d.term_text As term_text 
+			FROM {TABLE} AS a 
+			INNER JOIN {REF} AS b on b.topic_index = a.topic_index
+			INNER JOIN {TABLEDOC} As c on c.doc_index = a.doc_index
+			LEFT JOIN {TABLETERM} As d on b.term_index = d.term_index
+			GROUP BY a.doc_index
+			ORDER BY c.rank""".format(TABLE = table, TABLEDOC = tabledoc, REF = ref, TABLETERM = tableterm)
+		Apples = self.lda.executesql(apple, as_dict=True)
+		data['Doc->Topic'] = [ row['topic_index'] for row in Apples ]
+		#data['docTerm'] =[ row['term_text'] for row in Apples ]
+
+		#for i in range(40):
+		Eggs = [ data[row['topic_index']] for row in Apples]
+		data['docTerm'] = [ row for row in Eggs]
+
+
 		return data
 
 	def GetTermFrequencyModel(self):
