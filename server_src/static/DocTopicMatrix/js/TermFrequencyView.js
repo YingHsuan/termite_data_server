@@ -190,15 +190,15 @@ TermFrequencyView.prototype.renderInit = function() {
 	this.svgTerm1 = this.svg.append( "svg:g" )
 		.attr( "class", "termLabelLayer" )
 		.attr( "transform", "translate(" + HISTORGRAM_CONTAINER_PADDING.left + "," + HISTORGRAM_CONTAINER_PADDING.top + ")" );
-	/*this.svgTermBarLayer = this.svg.append( "svg:g" )
+	this.svgTermBarLayer = this.svg.append( "svg:g" )
 		.attr( "class", "termBarLayer" )
-		.attr( "transform", "translate(" + HISTORGRAM_CONTAINER_PADDING.left + "," + HISTORGRAM_CONTAINER_PADDING.top + ")" );*/
+		.attr( "transform", "translate(" + HISTORGRAM_CONTAINER_PADDING.left + "," + HISTORGRAM_CONTAINER_PADDING.top + ")" );
 	this.overlayLayer = this.svg.append( "svg:g" )
 		.attr( "class", "overlayLayer")
 		.attr( "transform", "translate(" + HISTORGRAM_CONTAINER_PADDING.left + "," + HISTORGRAM_CONTAINER_PADDING.top + ")" );
-	/*this.svgTopicalBarLayer = this.svg.append( "svg:g" )
+	this.svgTopicalBarLayer = this.svg.append( "svg:g" )
 		.attr( "class", "topicalBarLayer" )
-		.attr( "transform", "translate(" + HISTORGRAM_CONTAINER_PADDING.left + "," + HISTORGRAM_CONTAINER_PADDING.top + ")" );*/
+		.attr( "transform", "translate(" + HISTORGRAM_CONTAINER_PADDING.left + "," + HISTORGRAM_CONTAINER_PADDING.top + ")" );
 	this.svgTermHighlightLayer = this.svg.append( "svg:g" )
 		.attr( "class", "termHighlightLayer" )
 		.attr( "transform", "translate(" + HISTORGRAM_CONTAINER_PADDING.left + "," + HISTORGRAM_CONTAINER_PADDING.top + ")" );
