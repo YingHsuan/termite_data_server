@@ -219,6 +219,12 @@ TermTopicMatrixView.prototype.updateMatrixView = function(){
 	var normMatrix = this.parentModel.get("normalizedSparseMatrix");
 	var termIndex = this.parentModel.get("docIndex");
 
+	//for (i=0; i<9; i++)
+		//"data"+ i = this.parentModel.get("0");
+		//data0 = this.parentModel.get("0");
+
+	//var data0 = this.parentModel.get('1');
+
 	var topicIndex= this.stateModel.get("topicIndex");
 	var topicMapping = _.object(_.map(this.stateModel.get("topicIndex"), function(item){ return [item.id, item] }));
 	//d.topicIndex === topic id
@@ -232,6 +238,7 @@ TermTopicMatrixView.prototype.updateMatrixView = function(){
 	this.matrixLayer.selectAll( "circle" ).data( matrix )	
 		.attr( "class", function(d) { return [ "matrixElement", this.colorMap(topicMapping[d.topicIndex].color), getTopicClassTag(d.topicIndex.toString()), getTermClassTag(d.term) ].join(" ") }.bind(this))
 		.on( "mouseover", function(d) { this.trigger( "mouseover:term", d.term); this.trigger( "mouseover:topic", d.topicIndex); }.bind(this) )
+		.on( "mouseover", function(d) { console.log( d.topicIndex, d.term, this.parentModel.get(d.topicIndex) ); }.bind(this) ) //2015/07/30 use this to catch mouse point
 		.on( "click", function (d) { this.trigger( "click:topic", d.topicIndex ) }.bind(this)) 
 		.attr( "cx", function(d) { return this.xs(topicMapping[d.topicIndex].position+0.5) }.bind(this) )
 		.attr( "cy", function(d) { return this.ys(d.termIndex+0.5) }.bind(this) )

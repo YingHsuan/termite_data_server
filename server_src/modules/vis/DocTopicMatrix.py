@@ -62,6 +62,17 @@ class DocTopicMatrix(Home_Core):
 		ref = self.lda.term_topic_matrix  #b
 		tabledoc = self.lda.docs #c
 		tableterm = self.lda.terms #d
+
+		for i in range(10):
+			dog = """SELECT d.term_index as term_index, d.term_text as term_text, b.topic_index as topic_index
+				FROM {REF} As b
+				LEFT JOIN {TABLETERM} As d on d.term_index = b.term_index
+				where b.topic_index = {i}
+				order by value desc
+				limit 3 """.format(TABLE = table, TABLEDOC = tabledoc, REF = ref, TABLETERM = tableterm, i = i)
+			Dogs = self.lda.executesql(dog, as_dict=True)
+			data[i] = [ row['term_text'] for row in Dogs]
+			data[i] = ", ".join(data[i]) #(v)
 		
 		#2015/07/14 try to mix (v)
 		'''
