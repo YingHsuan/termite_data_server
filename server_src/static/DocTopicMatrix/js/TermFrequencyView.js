@@ -190,15 +190,15 @@ TermFrequencyView.prototype.renderInit = function() {
 	this.svgTerm1 = this.svg.append( "svg:g" )
 		.attr( "class", "termLabelLayer" )
 		.attr( "transform", "translate(" + HISTORGRAM_CONTAINER_PADDING.left + "," + HISTORGRAM_CONTAINER_PADDING.top + ")" );
-	this.svgTermBarLayer = this.svg.append( "svg:g" )
+	/*this.svgTermBarLayer = this.svg.append( "svg:g" )
 		.attr( "class", "termBarLayer" )
-		.attr( "transform", "translate(" + HISTORGRAM_CONTAINER_PADDING.left + "," + HISTORGRAM_CONTAINER_PADDING.top + ")" );
+		.attr( "transform", "translate(" + HISTORGRAM_CONTAINER_PADDING.left + "," + HISTORGRAM_CONTAINER_PADDING.top + ")" );*/
 	this.overlayLayer = this.svg.append( "svg:g" )
 		.attr( "class", "overlayLayer")
 		.attr( "transform", "translate(" + HISTORGRAM_CONTAINER_PADDING.left + "," + HISTORGRAM_CONTAINER_PADDING.top + ")" );
-	this.svgTopicalBarLayer = this.svg.append( "svg:g" )
+	/*this.svgTopicalBarLayer = this.svg.append( "svg:g" )
 		.attr( "class", "topicalBarLayer" )
-		.attr( "transform", "translate(" + HISTORGRAM_CONTAINER_PADDING.left + "," + HISTORGRAM_CONTAINER_PADDING.top + ")" );
+		.attr( "transform", "translate(" + HISTORGRAM_CONTAINER_PADDING.left + "," + HISTORGRAM_CONTAINER_PADDING.top + ")" );*/
 	this.svgTermHighlightLayer = this.svg.append( "svg:g" )
 		.attr( "class", "termHighlightLayer" )
 		.attr( "transform", "translate(" + HISTORGRAM_CONTAINER_PADDING.left + "," + HISTORGRAM_CONTAINER_PADDING.top + ")" );
@@ -283,10 +283,11 @@ TermFrequencyView.prototype.renderUpdate = function() {
 		.attr( "y2", 0 )
 		.attr( "x1", this.line_length(0) )
 		.attr( "x2", this.line_length(0) )
+	/*
 	this.svgTopicalBarLayer.selectAll("line").data(termIndex)
 		.attr( "transform", function(d,i) { return "translate(0," + this.ys(i+0.5) + ")" }.bind(this) )
 		.attr( "class", function(d,i) { return ["topicalFreqBar", getTermClassTag(d)].join(" ") })
-		.on( "mouseover", function(d) { this.trigger( "mouseover:term", d ) }.bind(this) )
+		.on( "mouseover", function(d) { this.trigger( "mouseover:term", d ) }.bind(this) ) */
 			
 	this.svgTermHighlightLayer.selectAll("line").data(termIndex).exit().remove();
 	this.svgTermHighlightLayer.selectAll("line").data(termIndex).enter().append("svg:line")
@@ -295,11 +296,12 @@ TermFrequencyView.prototype.renderUpdate = function() {
 		.attr( "y2", 0 )
 		.attr( "x1", this.line_length(0) )
 		.style( "fill" , "none")
+	/*
 	this.svgTermHighlightLayer.selectAll("line").data( termIndex )
 		.attr( "transform", function(d,i) { return "translate(0," + this.ys(i+0.5) + ")" }.bind(this) )
 		.attr( "class", function(d,i) { return ["termHighlightBar", getTermClassTag(d)].join(" ") })
 		.on( "mouseover", function(d) { this.trigger( "mouseover:term", d ) }.bind(this) )
-		.attr( "x2", function(d) { return this.line_length(termFreq[d]) }.bind(this) )
+		.attr( "x2", function(d) { return this.line_length(termFreq[d]) }.bind(this) ) */
 };
 
 // interactions
