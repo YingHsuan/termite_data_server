@@ -3,6 +3,8 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title>Termite | Term-topic matrix visualization</title>
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 	<link rel="stylesheet" href="{{=URL('static','css/font-awesome.min.css')}}" />
 	<link rel="stylesheet" href="{{=URL('static','css/common.css')}}" />
 	<link rel="stylesheet" href="{{=URL('static/DocTopicMatrix','css/termite.css')}}"/>
@@ -12,7 +14,9 @@
 	<script type="text/javascript">
 {{include 'js_functions.js'}}
 	</script>
-	<script type="text/javascript" src="{{=URL('static','js/jquery.js')}}"></script>
+	<script type="text/javascript" src="{{=URL('static','js/jquery-2.0.3.js')}}"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.js"></script>
 	<script type="text/javascript" src="{{=URL('static','js/underscore.js')}}"></script>
 	<script type="text/javascript" src="{{=URL('static','js/backbone.js')}}"></script>
 	<script type="text/javascript" src="{{=URL('static','js/d3.js')}}"></script>
@@ -30,8 +34,15 @@
 	<script type="text/javascript" src="{{=URL('static/DocTopicMatrix','js/StateModel.js')}}"></script>
 	<script type="text/javascript" src="{{=URL('static/DocTopicMatrix','js/html5slider.js')}}"></script>
 	<script type="text/javascript" src="{{=URL('static/DocTopicMatrix','js/QueryString.js')}}"></script>
+	<script type="text/javascript" src="{{=URL('static/DocTopicMatrix','js/tooltip.js')}}"></script>
 
 <script type="text/javascript">
+
+$(document).ready(function(){
+	$('[data-toggle="tooltip"]').tooltip();
+	$('.myTooltip').popover();
+});
+
 
 /**
  * Generates a descending sorted sparse matrix representation of a full matrix. 
@@ -251,6 +262,8 @@ function init()
 				<table id="layoutTable">
 					<tr>
 						<td id="controls" valign="baseline">
+							<a href="#" data-toggle="tooltip" title="Hooray!">Hover over me</a>
+							<button type="button" class="btn btn-default" data-toggle="tooltip" data-placement="right" title="Tooltip on top">Tooltip on top</button>
 							<div id="pageLogo" class="headerObject">
 								<span class="title">Termite</span><span class="subtitle"><br/>Topic Model Visualization 0.1</span><br/>
 								<span class="credits">Visualization by Jason Chuang, Ashley Jin<br/>Stanford Vis Group</span><br/>

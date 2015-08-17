@@ -193,7 +193,7 @@ TermTopicMatrixView.prototype.renderUpdate = function( options ){
 	this.svg
 		.style( "width", MATRIX_CONTAINER_PADDING.fullWidth( topicIndex.length ) + "px" )
 		.style( "height", MATRIX_CONTAINER_PADDING.fullHeight( topicIndex.length, termIndex.length ) + "px" )
-	
+
 	this.updateMatrixView();
 	this.updateTopLabelView();
 	this.updateLeftLabelView();
@@ -235,11 +235,13 @@ TermTopicMatrixView.prototype.updateMatrixView = function(){
 	this.matrixLayer.selectAll( "circle" ).data( matrix ).exit().remove();
 	this.matrixLayer.selectAll( "circle" ).data( matrix ).enter().append( "svg:circle" )
 		.on( "mouseout", function() { this.trigger( "mouseout:term", ""); this.trigger( "mouseout:topic", null); }.bind(this) )
-	this.matrixLayer.selectAll( "circle" ).data( matrix )	
+	this.matrixLayer.selectAll( "circle" ).data( matrix )
 		.attr( "class", function(d) { return [ "matrixElement", this.colorMap(topicMapping[d.topicIndex].color), getTopicClassTag(d.topicIndex.toString()), getTermClassTag(d.term) ].join(" ") }.bind(this))
 		.on( "mouseover", function(d) { this.trigger( "mouseover:term", d.term); this.trigger( "mouseover:topic", d.topicIndex); }.bind(this) )
-		.on( "mouseover", function(d) { console.log( d.topicIndex, d.term, this.parentModel.get(d.topicIndex) ); }.bind(this) ) //2015/07/30 use this to catch mouse point
-		.on( "click", function (d) { this.trigger( "click:topic", d.topicIndex ) }.bind(this)) 
+		//.on( "mouseover", function(d) { console.log( d.topicIndex, d.term, this.parentModel.get(d.topicIndex) ); }.bind(this) ) //2015/07/30 use this to catch mouse point
+		//.on( "mouseover", function(d) { console.log(d);}.bind(this) )
+		.on( "click", function(d) { this.trigger( "click:topic", d.topicIndex ) }.bind(this)) 
+		//.on( "click", function(d) { alert(this.parentModel.get(d.topicIndex)); }.bind(this)) 
 		.attr( "cx", function(d) { return this.xs(topicMapping[d.topicIndex].position+0.5) }.bind(this) )
 		.attr( "cy", function(d) { return this.ys(d.termIndex+0.5) }.bind(this) )
 		.attr( "r", function(d) { 
@@ -248,6 +250,9 @@ TermTopicMatrixView.prototype.updateMatrixView = function(){
 			else
 				return this.rs(d.value) 
 		}.bind(this) )
+		.attr( "data-toggle", "tooltip")
+		.attr( "title", function(d) { return this.parentModel.get(d.topicIndex); }.bind(this))
+		.attr( "data-placement", "right")
 		
 	this.xGridlineLayer.selectAll( "line" ).data( termIndex ).exit().remove();
 	this.xGridlineLayer.selectAll( "line" ).data( termIndex ).enter().append( "svg:line" )
@@ -266,6 +271,9 @@ TermTopicMatrixView.prototype.updateMatrixView = function(){
 		.attr( "x1", function(d,i){ return this.xs(i+0.5) }.bind(this) )
 		.attr( "x2", function(d,i){ return this.xs(i+0.5) }.bind(this) )
 		.attr( "y2", this.ys(termIndex.length-0.5) )
+
+	$('[data-toggle="tooltip"]').tooltip();
+	$('.myTooltip').popover();
 };
 TermTopicMatrixView.prototype.initTopLabelView = function(){
 	this.topLabelLayer = this.svg.append( "svg:g" )
