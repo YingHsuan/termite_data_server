@@ -40,7 +40,6 @@
 
 $(document).ready(function(){
 	$('[data-toggle="tooltip"]').tooltip();
-	$('.myTooltip').popover();
 });
 
 
@@ -241,7 +240,7 @@ function init()
 	
 	eventData = null;
 	$('#multi-select').chosen().change( function(event, data){ multiSelectTermsBox.trigger("change"); });
-
+	$('[data-toggle="tooltip"]').tooltip();
 	// begin loading process
 	stateModel.load();
 }
@@ -262,8 +261,6 @@ function init()
 				<table id="layoutTable">
 					<tr>
 						<td id="controls" valign="baseline">
-							<a href="#" data-toggle="tooltip" title="Hooray!">Hover over me</a>
-							<button type="button" class="btn btn-default" data-toggle="tooltip" data-placement="right" title="Tooltip on top">Tooltip on top</button>
 							<div id="pageLogo" class="headerObject">
 								<span class="title">Termite</span><span class="subtitle"><br/>Topic Model Visualization 0.1</span><br/>
 								<span class="credits">Visualization by Jason Chuang, Ashley Jin<br/>Stanford Vis Group</span><br/>
