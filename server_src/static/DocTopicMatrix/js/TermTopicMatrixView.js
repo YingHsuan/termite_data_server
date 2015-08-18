@@ -250,9 +250,8 @@ TermTopicMatrixView.prototype.updateMatrixView = function(){
 			else
 				return this.rs(d.value) 
 		}.bind(this) )
-		.attr( "data-toggle", "tooltip")
-		.attr( "title", function(d) { return this.parentModel.get(d.topicIndex); }.bind(this))
-		.attr( "data-placement", "right")
+		.append( "svg:title")
+		.text(function(d) { return this.parentModel.get(d.topicIndex); }.bind(this))
 		
 	this.xGridlineLayer.selectAll( "line" ).data( termIndex ).exit().remove();
 	this.xGridlineLayer.selectAll( "line" ).data( termIndex ).enter().append( "svg:line" )
@@ -273,7 +272,7 @@ TermTopicMatrixView.prototype.updateMatrixView = function(){
 		.attr( "y2", this.ys(termIndex.length-0.5) )
 
 	$('[data-toggle="tooltip"]').tooltip();
-	$('.myTooltip').popover();
+	$('.myTooltip').tooltip();
 };
 TermTopicMatrixView.prototype.initTopLabelView = function(){
 	this.topLabelLayer = this.svg.append( "svg:g" )
