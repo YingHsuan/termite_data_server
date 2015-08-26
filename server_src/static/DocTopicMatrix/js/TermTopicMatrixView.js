@@ -420,6 +420,7 @@ TermTopicMatrixView.prototype.highlight = function( term, topicId ) {
 		this.highlightedTerm = term;
 		this.svg.selectAll("." + getTermClassTag(term))
 			.classed(HIGHLIGHT, true)
+
 	} 
 	
 	if( topicId !== null ){
@@ -431,6 +432,7 @@ TermTopicMatrixView.prototype.highlight = function( term, topicId ) {
 			.classed(HIGHLIGHT, true)	
 			
 		// highlight term labels
+		/***
 		for( var i = 0; i < termIndex.length; i++){
 			var term = termIndex[i];
 			if( matrix[i][topicId] > THRESHHOLD ){
@@ -438,6 +440,7 @@ TermTopicMatrixView.prototype.highlight = function( term, topicId ) {
 					.classed(HIGHLIGHT, true)
 			}
 		}
+		***/
 	}
 };
 /** 
@@ -462,6 +465,7 @@ TermTopicMatrixView.prototype.unhighlight = function( term, topic ) {
 			.classed(HIGHLIGHT, false)
 		
 		// unhighlight labels
+		/***
 		for( var i = 0; i < termIndex.length; i++){
 			var term = termIndex[i];
 			if( matrix[i][topicNo] > THRESHHOLD ){
@@ -469,6 +473,7 @@ TermTopicMatrixView.prototype.unhighlight = function( term, topic ) {
 					.classed(HIGHLIGHT, false)
 			}
 		}
+		***/
 		
 		this.highlightedTopic = null;
 	}
