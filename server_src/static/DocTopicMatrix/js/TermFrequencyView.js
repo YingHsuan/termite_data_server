@@ -238,7 +238,8 @@ TermFrequencyView.prototype.renderUpdate = function() {
 		.attr( "x", 0)
 		.attr( "y", 3 )
 	this.svgTerm1.selectAll( "text" ).data( term1 )	
-		.attr( "class", function(d) { return ["", "HISTnormal", getTermClassTag(d)].join(" ") })
+		//設定docTerm的class=index
+		.attr( "class", function(d,i) { return ["docTermLabel_"+i, "HISTnormal"].join(" ") })
 		.attr( "transform", function(d,i) { return "translate(0," + this.ys(i+0.5) + ")" }.bind(this) )
 		.on( "mouseover", function(d) { this.trigger( "mouseover:term", d ) }.bind(this))
 		.text( function(d) { return d } );
@@ -345,12 +346,18 @@ TermFrequencyView.prototype.onHighlightTermChanged = function( model, value ) {
 TermFrequencyView.prototype.unhighlight = function( term, topic ) {
 	// unhighlight term
 	if( term ){
+		var termIndex = this.parentModel.get("docIndex");
+		var index = 0;
+		for ( var i = 0; i< termIndex.length; i++){
+			if(termIndex[i] != term)
+			{				
+				this.svgTerm1.selectAll(".docTermLabel_"+i)
+				.classed(this.colorClassPrefix + HIGHLIGHT, false)
+			}
+		}
 		term = this.highlightedTerm;
 		this.highlightedTerm = null;
 		this.svgTermLabelLayer.selectAll("." + getTermClassTag(term))
-			.classed(this.colorClassPrefix + HIGHLIGHT, false)
-
-		this.svgTerm1.selectAll("." + getTermClassTag(term))
 			.classed(this.colorClassPrefix + HIGHLIGHT, false)
 			
 		this.svgTermHighlightLayer.selectAll("." + getTermClassTag(term))
@@ -363,17 +370,12 @@ TermFrequencyView.prototype.unhighlight = function( term, topic ) {
 		var termIndex = this.parentModel.get("docIndex");
 		var topicals = this.parentModel.getTopicalsForTopic(topic);
 		this.highlightedTopic = null;
-
-		var term1 = this.parentModel.get("docTerm");
 		
 		// highlight labels
 		for( var i = 0; i < termIndex.length; i++){
 			var term = termIndex[i];
 			if( topicals[i]> THRESHHOLD ){
 				this.svgTermLabelLayer.selectAll("." + getTermClassTag(term))	
-					.classed(this.colorClassPrefix + HIGHLIGHT, false)
-
-				this.svgTerm1.selectAll("." + getTermClassTag(term))	
 					.classed(this.colorClassPrefix + HIGHLIGHT, false)
 			
 				if( this.useOffset ){
@@ -412,11 +414,20 @@ TermFrequencyView.prototype.unhighlight = function( term, topic ) {
 TermFrequencyView.prototype.highlight = function( term, topic ) {
 	// highlight term
 	if( term !== null ){
+		var term1 = this.parentModel.get("docTerm");
+		var termIndex = this.parentModel.get("docIndex");
+		var index = 0;
+		for ( var i = 0; i< termIndex.length; i++){
+			if(termIndex[i] == term)
+			{
+				index = i;
+			}
+		}
 		this.highlightedTerm = term;
 		this.svgTermLabelLayer.selectAll("." + getTermClassTag(term))
 			.classed(this.colorClassPrefix + HIGHLIGHT, true)
 
-		this.svgTerm1.selectAll("." + getTermClassTag(term))
+		this.svgTerm1.selectAll(".docTermLabel_"+index)
 			.classed(this.colorClassPrefix + HIGHLIGHT, true)
 			
 		this.svgTermHighlightLayer.selectAll("." + getTermClassTag(term))
@@ -458,9 +469,6 @@ TermFrequencyView.prototype.highlight = function( term, topic ) {
 			var term = termIndex[i];
 			if( topicals[i]> THRESHHOLD ){
 				this.svgTermLabelLayer.selectAll("." + getTermClassTag(term))	
-					.classed(this.colorClassPrefix + HIGHLIGHT, true)
-
-				this.svgTerm1.selectAll("." + getTermClassTag(term))	
 					.classed(this.colorClassPrefix + HIGHLIGHT, true)
 				
 				// highlight bars
