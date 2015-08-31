@@ -416,7 +416,7 @@ TermFrequencyView.prototype.highlight = function( term, topic ) {
 	if( term !== null ){
 		var term1 = this.parentModel.get("docTerm");
 		var termIndex = this.parentModel.get("docIndex");
-		var index = 0;
+		var index = -1;
 		for ( var i = 0; i< termIndex.length; i++){
 			if(termIndex[i] == term)
 			{
