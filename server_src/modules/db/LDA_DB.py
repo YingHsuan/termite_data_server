@@ -75,6 +75,7 @@ class LDA_DB():
 		self.db.define_table( 'docs',
 			Field( 'doc_index', 'integer', required = True, unique = True, default = -1 ),
 			Field( 'doc_id'   , 'string' , required = True, unique = True ),
+			Field( 'doc_title', 'string', required = True ), 
 			Field( 'doc_freq' , 'double' , required = True ),
 			Field( 'rank'     , 'integer', required = True ),
 			migrate = self.isInit
@@ -82,6 +83,7 @@ class LDA_DB():
 		if self.isInit:
 			self.db.executesql( 'CREATE UNIQUE INDEX IF NOT EXISTS docs_index ON docs (doc_index);' )
 			self.db.executesql( 'CREATE UNIQUE INDEX IF NOT EXISTS docs_id    ON docs (doc_id);' )
+			self.db.executesql( 'CREATE 	   INDEX IF NOT EXISTS docs_title ON docs (doc_title);')
 			self.db.executesql( 'CREATE        INDEX IF NOT EXISTS docs_freq  ON docs (doc_freq);' )
 			self.db.executesql( 'CREATE        INDEX IF NOT EXISTS docs_rank  ON docs (rank);' )
 			
