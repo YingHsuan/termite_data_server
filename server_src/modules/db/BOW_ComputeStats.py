@@ -46,8 +46,8 @@ class BOW_ComputeStats():
 			
 	def LoadStopwords(self, filename):
 		stopwords = []
-		with open( filename, 'r' ) as f:
-			stopwords = f.read().decode('utf-8', 'ignore').splitlines()
+		#with open( filename, 'r' ) as f:
+			#stopwords = f.read().decode('utf-8', 'ignore').splitlines()
 		return frozenset(stopwords)
 	
 	def ReadCorpus(self, filename):
