@@ -34,7 +34,7 @@ var HISTOGRAM_ENCODING_PARAMETERS = {
 var HISTORGRAM_CONTAINER_PADDING = {
 	left_separation: 10,
 	top: 60,
-	left: 50, 
+	left: 0, 
 	right: 50,
 	bottom: 60,
 	width: 300,
