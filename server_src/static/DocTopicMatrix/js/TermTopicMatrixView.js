@@ -13,7 +13,7 @@
 var MATRIX_CONTAINER_PADDING = {
 	left_separation: 8,
 	top_separation: 12,
-	left: 110,
+	left: 630,
 	right: 20,
 	top: 60,
 	bottom: 60,
