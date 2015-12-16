@@ -5,6 +5,7 @@ import glob
 import re
 from gluon.sql import DAL, Field
 from utils.UnicodeIO import UnicodeReader, UnicodeWriter
+import logging
 
 class Corpus_DB():
 	FILENAME = 'corpus.db'
@@ -154,15 +155,17 @@ class Corpus_DB():
 		filename = A plain-text file (utf-8 encoded) containing one document per line
 		"""
 		def ReadFile():
+			print 'ImportFromFile...........'
 			with open(filename, 'r') as f:
 				for index, line in enumerate(f):
 					doc_index = index
-					values = line.decode('utf-8', 'ignore').rstrip('\n').split('\t')
+					values = line.decode('utf-8', 'ignore').rstrip('\n').split(".pdf")
 					if len(values) == 1:
 						doc_id = 'doc{}'.format(doc_index+1)
 						doc_content = values[0]
 					else:
-						doc_id = values[0]
+						#doc_id = values[0]
+						doc_id = values[0].replace("-", " ")
 						doc_content = values[1]
 					yield {
 						'doc_index' : doc_index,
@@ -176,6 +179,7 @@ class Corpus_DB():
 		glob_pattern = A folder of files or a glob pattern for list of files (utf-8 encoded, one document per file)
 		"""
 		def ReadFolder():
+			print 'ImportFromForder...........'
 			filenames = sorted(glob.glob(glob_pattern))
 			for index, filename in enumerate(filenames):
 				doc_index = index
