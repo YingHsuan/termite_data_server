@@ -13,7 +13,7 @@
 var MATRIX_CONTAINER_PADDING = {
 	left_separation: 8,
 	top_separation: 12,
-	left: 630,
+	left: 110,
 	right: 20,
 	top: 60,
 	bottom: 60,
@@ -352,7 +352,9 @@ TermTopicMatrixView.prototype.updateLeftLabelView = function(){
 		.attr( "class", function(d) { return ["leftLabel", this.normalColor, getTermClassTag(d)].join(" ") }.bind(this))
 		.on( "mouseover", function(d) { this.trigger( "mouseover:term", d ) }.bind(this))
 		.attr( "transform", function(d,i) { return "translate(" + (this.xs(0)-MATRIX_CONTAINER_PADDING.left_separation) + "," + this.ys(i+0.5) + ")" }.bind(this) )
-		.text( function(d) { return d } )
+		.text( function(d, i) { return "doc"+i; } )
+		.append( "svg:title")
+		.text(function(d) { return d; }.bind(this))
 };
 
 
