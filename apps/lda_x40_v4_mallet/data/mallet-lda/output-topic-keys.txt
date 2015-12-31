@@ -1,0 +1,10 @@
+0	5	judgment autom learn human predict util phase memori particip measur result interact train cpu system model judg pattern initi 
+1	5	system erp manag enterpris busi perform implement plan mainten resourc integr print process product capac custom research softwar oper 
+2	5	vector entropi filter inform space attack estim fig direct kei process signal bit ieee measur log set function power 
+3	5	data rfid item transact tag store applic model locat product reader architectur case retail pallet manufactur requir time fig 
+4	5	inform technolog analysi data knowledg base patent research develop document time analyz area relat paper import mine author domain 
+5	5	imag process parallel system distribut oper data comput base neighborhood program applic figur pixel plan architectur jpeg standard memori 
+6	5	data secur user comput tag model item system topic dynam public recommend time client scheme similar block storag signatur 
+7	5	vol univers unit algorithm greec germani center color transform featur nation track recognit state laboratori retriev match analysi method 
+8	5	univers usa imag base video technolog japan institut franc code research segment wavelet model kingdom detect motion compress adapt 
+9	5	cloud servic comput file resourc block server applic client provid time web user size model base storag number load 

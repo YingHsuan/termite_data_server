@@ -1,0 +1,10337 @@
+0 level 9:87 5:38 1:28 4:26 3:21 8:19 0:15
+1 agreement 9:30 0:3
+2 resourc 9:382 1:123
+3 transact 3:177 9:13
+4 risk 9:90
+5 base 8:288 4:143 5:117 9:106 6:74 1:40 2:27
+6 cloud 9:677 6:57
+7 bank 9:86 8:8
+8 model 6:138 8:130 9:111 3:104 0:97 1:79 2:22
+9 mojun 9:2
+10 school 4:19 7:8 9:5
+11 inform 4:743 2:89
+12 scienc 8:62 4:57 9:28 6:2
+13 engin 5:27 1:22 6:19 0:17 9:11 8:9
+14 yunnan 9:9
+15 univers 8:1093 7:320 6:17 3:14 1:6
+16 kunm 9:3
+17 china 8:98 9:41 4:15
+18 devonsu 9:1
+19 gmail 9:10
+20 hao 9:8
+21 softwar 1:96 9:85 5:19
+22 lihao 9:1
+23 ynu 9:2
+24 shenglin 9:1
+25 yang 7:17 4:14 9:8
+26 ysl 9:1
+27 joan 9:3
+28 comput 9:541 6:155 5:121 2:32 3:22 4:12 0:10
+29 huddersfield 9:1
+30 hud 6:1
+31 abstract 4:34 5:18 9:7
+32 busi 1:243
+33 environ 9:68 0:60 1:28
+34 complex 4:44 8:35 5:22 9:6 1:4 7:2
+35 physic 4:17 9:12
+36 distribut 5:159 6:67 9:54 0:27 2:21 3:1
+37 connect 9:46 5:16 8:5 1:3
+38 network 7:57 6:48 9:43 4:41 1:41 5:29
+39 exist 1:32 9:22 6:22 0:1
+40 platform 9:60 2:12
+41 avoid 9:9 0:9
+42 assur 6:9 9:5 1:4
+43 qualiti 4:38 9:23 1:20 8:17
+44 servic 9:588 8:5
+45 provid 9:165 0:36 1:25 6:24
+46 consum 9:25 3:17 8:3
+47 import 4:86 9:27
+48 issu 9:41 3:26 1:17 4:7
+49 sla 9:43
+50 propos 1:48 9:47 6:26 3:15 2:12
+51 solv 9:26 5:13 2:8
+52 problem 5:64 4:54 9:25 6:25
+53 custom 1:105 3:38 9:33
+54 supplier 1:21
+55 manag 1:331 9:71 7:8
+56 econom 1:26 4:14
+57 principl 9:16 8:4
+58 aim 4:17 9:12
+59 commerci 9:11 4:5 0:1
+60 paper 4:88 9:53 1:53 3:32 5:4
+61 present 4:58 3:48 5:36 0:22 6:19
+62 framework 9:37 1:21 0:17 8:9
+63 liquid 9:24
+64 predict 0:154 8:22
+65 keyword 4:51
+66 introduct 9:15 4:12 2:10 1:9 5:8
+67 heterogen 9:8
+68 dynam 6:117 9:25 0:10 7:5 3:4
+69 autonom 0:22
+70 hidden 7:11 4:2 2:2 9:1
+71 process 5:761 1:112 4:81 2:73 3:36 7:21
+72 damag 9:4
+73 caus 9:23
+74 directli 9:16 0:7
+75 affect 0:11 1:9 9:6
+76 part 9:62 5:28 1:26 0:25 3:2
+77 develop 4:108 1:43 5:31 9:27
+78 mention 9:18 5:5
+79 achiev 0:83 5:29 6:18 4:15
+80 promis 4:13 1:3 0:1
+81 research 8:164 4:110 1:96 6:26 5:17 9:15
+82 give 9:11 1:6 3:5
+83 strategi 0:53 1:48 3:21
+84 negoti 0:2
+85 parti 6:11
+86 record 3:23 9:20 0:8
+87 common 4:17 0:9
+88 understand 4:39 0:17
+89 prioriti 7:3 9:2 3:1
+90 respons 6:31 1:28 9:21 5:1
+91 guarante 9:9
+92 warranti 6:1
+93 avail 1:11 9:7
+94 perform 1:200 0:76 2:58 5:47 6:30
+95 oper 5:152 1:93 6:62 2:14 0:11
+96 attribut 4:60 1:28
+97 bill 1:7
+98 report 4:21 9:19
+99 monitor 9:32 4:23 0:21
+100 deal 1:17 6:4
+101 accid 9:1
+102 happen 9:12
+103 cbsla 9:22
+104 introduc 4:15 2:15 1:14 6:10
+105 templat 9:24 7:8
+106 broad 4:6
+107 didn 9:1
+108 solut 9:32 3:18 6:15 4:12
+109 detail 5:28 9:16 3:13 1:10 0:4
+110 function 1:83 2:59 5:55 7:2 4:2
+111 similar 6:85 0:54 8:8
+112 deposit 9:3
+113 loan 9:3
+114 offer 9:18 1:8
+115 iaa 9:13
+116 type 9:44 1:22 5:19 3:16 0:15 2:1
+117 cpu 0:99
+118 memori 0:118 5:65
+119 disk 9:27
+120 bandwidth 9:22
+121 shown 4:37 9:31 2:22 0:15 5:12
+122 figur 9:76 5:75 4:64 0:32
+123 entir 1:17 6:5
+124 divid 1:16 9:11 6:4
+125 role 1:19 9:13 4:9
+126 depositor 9:1
+127 loaner 0:1
+128 pai 9:15 7:3
+129 charg 9:4
+130 interest 4:40 6:29 8:9
+131 rate 8:40 6:40 2:27 9:11
+132 support 9:66 4:41 6:40 1:35 0:10
+133 nation 7:77 8:65 9:16
+134 natur 4:22 9:11 7:6
+135 foundat 9:14 4:12 8:3
+136 open 9:15 1:15 5:6 2:4
+137 kei 2:74 6:60 9:21 1:21
+138 laboratori 7:67 8:21 5:8
+139 provinc 9:7
+140 grant 9:10 3:5
+141 technolog 4:362 8:257
+142 depart 1:19 9:14 6:11 5:7
+143 educ 1:11 9:10 0:5
+144 project 1:49 7:18 5:7
+145 intern 1:69 5:55 6:35 9:28 8:15
+146 confer 4:41 5:28 6:25 9:18 8:16
+147 ieee 2:62 9:51 0:35 6:30 3:20
+148 doi 4:19
+149 csc 9:2
+150 initi 0:86 9:8
+151 price 9:8 1:6
+152 save 9:34
+153 sign 9:14 6:12 0:3
+154 contract 9:60
+155 accept 4:11 6:3
+156 rent 9:19
+157 applic 9:186 3:115 5:91 8:72 4:61
+158 expir 9:13
+159 return 1:18 6:10 9:3
+160 back 9:18 3:4 0:4
+161 liqud 9:1
+162 defin 4:42 9:39 2:22 6:17 1:5 0:1
+163 pool 9:18
+164 substitut 9:15 2:2
+165 inevit 9:2
+166 lower 1:30 0:15 9:7
+167 aris 4:12
+168 left 9:12 0:4
+169 lack 9:12 0:3
+170 impact 1:81 0:21
+171 credit 8:3 6:1
+172 reduc 9:29 4:28 5:16 3:7
+173 order 1:55 4:54 9:44 2:39 6:25
+174 assum 0:22 3:19 9:17 6:11
+175 situat 9:22 4:20 0:11
+176 time 9:159 4:102 6:101 3:56 5:30 0:18 8:14
+177 number 9:97 4:72 2:26 3:22 6:16
+178 remain 1:14 0:8 6:7
+179 worst 0:20
+180 case 3:83 2:52 9:35 1:27 6:12
+181 choos 9:31 2:10
+182 renew 9:26
+183 ifl 9:1
+184 term 4:33 9:25 2:16 6:6 3:6
+185 agre 9:6 7:1
+186 approach 4:70 8:51 9:48 6:37 5:34
+187 ensur 6:21 9:11 5:5
+188 static 6:25 0:8 3:3
+189 limit 5:27 0:13 9:10 1:7 6:6
+190 size 9:113 2:13 1:13 6:3
+191 improv 1:55 7:25 0:16 9:13 4:12
+192 probabl 2:50 0:34 9:22 6:17 3:16
+193 inequ 9:10
+194 satisfi 9:28 1:10
+195 call 9:28 5:14 1:11 2:9
+196 long 9:12 1:12 8:7 5:5
+197 choic 9:4 2:3
+198 finish 9:12
+199 task 0:65 5:58 6:16
+200 great 4:15 5:5
+201 loss 9:5 2:5 3:4
+202 benefit 1:77 9:7
+203 reput 9:2 1:1
+204 badli 7:1
+205 extend 6:26 9:20 3:11
+206 period 1:29 9:23 6:8
+207 check 6:30 3:11 1:10
+208 cycl 9:16 1:14 3:10 5:7
+209 measur 0:112 2:60 1:31
+210 design 0:64 5:52 1:49 2:35 6:34 3:30 8:13
+211 captur 5:15 0:10 3:8 9:2
+212 formal 1:7 8:2 6:2
+213 life 1:11 9:7
+214 identifi 4:66 3:23 6:13 0:11
+215 main 4:22 5:19 1:18 9:12
+216 specif 4:75 9:39 6:12
+217 aspect 4:39
+218 requir 9:62 3:62 5:42 1:25 2:2
+219 goal 5:55 6:10 1:7
+220 metric 2:41
+221 review 1:32 4:22 9:1
+222 current 9:18 5:16 6:13 1:10 3:8 0:8
+223 updat 6:56 9:8
+224 definit 4:16 9:15 2:15
+225 set 1:80 2:59 6:57 9:31 5:26 0:23
+226 paramet 9:43 0:29 2:19
+227 evalu 1:57 2:24 9:17 8:17 6:17 7:1
+228 show 0:43 5:34 6:20 1:18
+229 gener 1:67 5:50 6:47 3:37 4:33 8:29
+230 architectur 3:83 5:70 9:30
+231 put 4:10 9:8
+232 quantif 9:2
+233 grade 9:3
+234 slm 9:2
+235 note 2:19 6:14 0:7
+236 activ 4:57 1:31 7:22
+237 repres 4:79 0:13
+238 result 0:104 2:47 1:46 6:42 5:40
+239 attach 9:3 4:3
+240 similarli 4:22
+241 user 6:191 9:127 5:40
+242 mathemat 2:25
+243 exponenti 2:6 9:5
+244 smooth 8:11 9:6 2:3
+245 suitabl 9:20 5:15
+246 work 5:57 1:55 9:26 6:24 4:24 0:6
+247 logist 1:12 9:5 3:1
+248 regress 0:11 9:9
+249 basic 4:31 5:14 6:13
+250 formula 4:13 5:7 9:5
+251 logit 9:2
+252 iii 8:57 1:19 2:16 9:11 5:10
+253 lrpm 9:4
+254 protect 9:10 2:7 8:6 5:5
+255 kind 9:27 2:7 3:3
+256 constitut 2:9
+257 analyz 4:99
+258 found 0:20 1:19 2:8 5:3 6:1
+259 valu 2:49 9:33 0:14
+260 lprm 9:1
+261 actual 0:35 4:1
+262 constant 9:13 0:1
+263 rang 0:12 8:11 5:8
+264 system 1:624 5:243 6:133 0:97 3:25
+265 lent 9:1
+266 borrow 9:2
+267 featur 7:80 9:54
+268 condit 0:45 2:38 1:13 9:2
+269 reflect 4:24 7:3
+270 element 4:30 5:9
+271 combin 0:29 4:21 2:16 8:8
+272 decid 4:11
+273 decis 1:49 0:39 2:19
+274 dai 3:14
+275 sleep 9:2
+276 higher 1:26 0:23 9:8
+277 bodi 4:6 8:5
+278 height 4:1
+279 weight 6:55 0:46 2:9
+280 useless 1:1
+281 pick 6:4 0:3 3:2
+282 discuss 3:43 4:31 6:11
+283 separ 2:16 0:12 4:5 8:4
+284 behavior 0:31
+285 motiv 2:11
+286 sensit 6:41 9:7 0:7 7:4 1:1
+287 ownership 9:7
+288 histori 9:26 3:7 1:1
+289 paid 0:5
+290 chang 1:35 9:28 7:26 6:13 0:9
+291 don 6:2
+292 move 9:17 7:15 3:8
+293 monei 9:4
+294 meaning 4:2
+295 yardstick 9:1
+296 larger 9:18 4:5 0:1
+297 compani 4:67 1:58 7:9
+298 unstabl 9:4
+299 partli 9:2
+300 drawn 0:10
+301 stop 9:4
+302 find 0:25 1:20 4:8 3:8
+303 loyalti 0:2
+304 loyal 9:1
+305 reaction 4:10
+306 distinguish 2:21
+307 usag 9:27 0:25
+308 storag 9:102 6:83 3:35 5:5
+309 low 8:37 0:30 5:26
+310 stabl 9:2 0:1 7:1
+311 highest 0:12
+312 doesn 9:2
+313 focus 4:41
+314 add 9:16 3:5 1:3
+315 hierarch 7:34 5:8 9:6 8:1
+316 rik 9:1
+317 obviou 9:6 2:3
+318 start 9:21 1:9
+319 lot 9:11
+320 relat 4:88 1:40 3:8
+321 compris 3:17
+322 major 4:28 9:16
+323 info 9:3
+324 includ 4:44 1:39 3:25 0:16 9:7
+325 end 9:22 3:13 1:1
+326 xml 1:20 9:6
+327 schema 9:9
+328 syntax 5:5
+329 assign 4:25 0:15 9:6
+330 structur 4:78 5:28 8:27 6:2
+331 content 4:45 8:37
+332 instanc 9:24 2:7
+333 summari 0:14
+334 advantag 4:20 9:17 1:10
+335 consid 4:49 6:7
+336 sidedli 9:1
+337 focu 4:15 6:14
+338 acknowledg 9:12 4:5
+339 refer 4:61 2:20
+340 xueji 9:1
+341 zhang 8:40 6:1
+342 shaowen 4:1
+343 yao 7:3 9:1
+344 grid 9:11 5:7
+345 recours 9:1
+346 alloc 9:17 8:8 6:4
+347 schedul 1:52
+348 gpc 9:1
+349 workshop 9:21
+350 caman 9:1
+351 huixi 9:1
+352 orient 9:17 8:14 5:13 2:6 1:3
+353 mechan 5:16 9:14
+354 game 9:27 6:16
+355 theori 4:50 5:23
+356 miao 9:1
+357 xin 9:1 7:1
+358 multipl 7:26 5:24 6:17 9:15 0:15 3:14
+359 linear 0:45 8:16
+360 electron 8:20 4:14 2:13 6:3
+361 iwie 9:1
+362 fengchuan 9:1
+363 zhu 4:6 7:4 1:4
+364 autom 0:299
+365 kai 9:6
+366 song 9:5 7:4
+367 baki 9:1
+368 billaha 9:1
+369 maxwel 2:4
+370 kingb 9:1
+371 ralph 9:1
+372 snyderb 9:1
+373 ann 9:3
+374 koehlerc 9:1
+375 select 1:45 7:21 0:15 5:9 6:6
+376 forecast 4:14 0:8
+377 journal 1:50 4:29
+378 vol 7:955 0:70 1:59
+379 april 9:7 6:1
+380 june 9:8 6:5 5:4
+381 david 5:8
+382 hosmer 0:1
+383 stanlei 1:3
+384 lemeshow 9:1
+385 appli 4:82 5:18 2:18
+386 canada 8:94
+387 john 8:8 9:3
+388 wilei 4:9
+389 son 4:6
+390 data 6:401 4:243 3:210 5:143
+391 privaci 6:58 3:13
+392 hybrid 6:18 8:12
+393 chhanda 9:1
+394 rai 7:6
+395 uttam 9:2
+396 ganguli 6:2
+397 rcc 9:1
+398 institut 8:232 6:21 4:20
+399 west 0:1
+400 bengal 6:1
+401 kolkata 6:2
+402 india 7:18 3:3
+403 raysasm 3:1
+404 rediffmail 6:1
+405 uttamganguli 6:1
+406 wbut 9:1
+407 immerg 9:1
+408 locat 3:103 9:13
+409 maintain 6:14 3:14 9:11 0:10
+410 vendor 1:36
+411 individu 0:43 4:39 6:4
+412 control 1:72 0:40 9:29 7:18 5:12
+413 context 4:25 2:18 7:4
+414 legal 6:4
+415 complianc 6:4
+416 trust 0:19 6:12 2:4
+417 authent 6:68 8:9
+418 final 4:32 6:14 1:7 9:2
+419 algorithm 7:128 5:45 6:42 2:21 9:3
+420 implement 1:171 5:54 9:46 2:36 3:34
+421 small 1:23 6:16
+422 setup 6:6
+423 experiment 0:33 6:9
+424 secur 6:228
+425 emerg 4:21
+426 paradigm 6:11 5:9 0:8
+427 shift 7:10 1:1 2:1
+428 virtual 9:37 0:22 7:8
+429 central 5:13 7:9 3:8 1:4
+430 share 4:27 9:26 6:3
+431 calcul 1:41 6:24 0:24 2:10
+432 transpar 5:6 1:4
+433 massiv 4:5
+434 infrastructur 9:66
+435 deliveri 3:6 1:4 8:2
+436 recent 1:20 3:4 2:4
+437 extens 1:20 6:18
+438 attent 4:9
+439 academia 7:15
+440 industri 1:86 8:15 3:11
+441 concept 4:33 9:28 2:3
+442 attempt 4:14 3:3
+443 enterpris 1:253 3:30
+444 relationship 1:40 0:13
+445 cluster 9:28 7:22 4:9
+446 method 9:78 4:74 7:62 2:16 3:3
+447 reason 4:27 0:6 6:4
+448 studi 4:81 1:69 5:21 0:10 2:7 8:2
+449 step 3:34 5:27 2:15 6:13 4:12
+450 fundament 2:19
+451 question 4:8 0:1
+452 qualit 4:9
+453 comparison 4:17 0:15 6:8 5:8 8:6
+454 pervas 3:3
+455 classic 2:11 6:3
+456 seri 4:26
+457 futur 4:42 0:13
+458 explor 4:24
+459 internet 9:51 1:10 8:5
+460 commun 5:44 9:29 1:27 8:17 3:16 6:15 2:12 4:2
+461 media 5:6 1:5
+462 bring 9:20 1:1
+463 challeng 6:56 9:18
+464 access 9:71 5:46 4:10 3:7
+465 outsourc 6:8
+466 server 9:203 6:53 3:17
+467 domain 4:82 7:34
+468 owner 6:10
+469 elabor 1:2 4:1
+470 compon 1:62 9:42 5:12 0:11 2:10
+471 vulner 6:1 2:1
+472 countermeasur 2:6
+473 determin 4:31 0:23 6:14 2:14 9:12
+474 smi 9:1
+475 guid 4:12 0:5 8:3
+476 assess 0:30 1:11
+477 enhanc 7:35 4:25 1:20 8:5
+478 layer 9:16 8:15 5:9 3:7
+479 world 4:26
+480 paa 9:11 2:4
+481 protocol 6:43 5:13
+482 mainten 1:138
+483 leav 6:10 3:4
+484 client 9:170 6:90
+485 unawar 6:1
+486 run 9:26 6:18 5:8
+487 store 3:119 9:33 5:25 6:24
+488 convinc 6:4
+489 face 7:60 4:9 5:8
+490 target 8:14 6:6 5:4 9:1
+491 product 1:107 3:101 2:3
+492 address 9:36 5:23 3:11 6:5
+493 suggest 0:15 6:8 4:6 3:5
+494 preserv 8:8 6:4 2:3
+495 scalabl 8:41 9:37
+496 enforc 5:4
+497 polici 0:19 9:15 2:1
+498 deleg 6:6
+499 involv 4:38
+500 fine 8:7 5:6
+501 grain 5:5
+502 untrust 6:5
+503 disclos 6:2
+504 underli 5:13 0:5
+505 collabor 9:14 6:8 4:5
+506 firewal 6:3
+507 verifi 6:56
+508 reliabl 4:19 0:12 7:2
+509 effect 1:86 0:58 9:25 5:17
+510 coordin 2:12 9:3
+511 simul 9:38 0:11 2:10 4:1
+512 carri 4:16 2:11
+513 iccct 6:5
+514 simultan 6:15 2:1
+515 confidenti 6:7
+516 unresolv 6:1
+517 due 0:19 6:6 4:5 5:2
+518 divers 9:5
+519 trivial 4:4
+520 privat 6:42
+521 global 1:23 8:6 5:3
+522 organ 1:66 4:42 6:15
+523 section 4:48 6:42 1:21 9:16 3:8
+524 illustr 9:26 4:15 2:9
+525 conclus 4:32 1:17
+526 evolv 4:14
+527 util 0:123 9:24
+528 establish 4:14 9:10 0:6
+529 saa 9:12
+530 public 6:116
+531 complet 0:35 1:22 3:18
+532 resid 3:8
+533 knowledg 4:167 0:17
+534 potenti 4:40
+535 threat 3:1 0:1
+536 contrast 5:14 7:8 2:5 9:3
+537 larg 9:39 4:31 5:30
+538 amount 9:34 0:16
+539 insensit 6:2 7:1
+540 extern 1:18 6:13
+541 advanc 4:24 8:21 5:14
+542 gradat 2:3
+543 idea 4:16 9:12
+544 categori 1:21
+545 psd 6:7
+546 pnsd 6:3
+547 lesser 4:1
+548 full 4:21
+549 request 6:55 9:45 5:11 1:9
+550 pass 5:9 6:7 7:2
+551 procedur 5:32 1:17 6:7
+552 gate 2:5
+553 categor 4:7
+554 origin 6:26 1:14 5:7
+555 respect 2:12 0:10 6:2 5:2
+556 termin 2:9
+557 upload 9:18
+558 taxonomi 1:15
+559 list 9:28 1:9 6:7
+560 handl 9:23 3:13
+561 direct 2:75 4:40
+562 receiv 6:33 4:30 9:24
+563 simpli 4:7 3:4
+564 reject 8:4 6:4
+565 variat 7:17
+566 messag 6:49 2:14 5:2 9:1
+567 code 8:196 4:21 5:19 6:13 2:8
+568 mac 6:20
+569 descript 7:21 9:20 6:12
+570 sender 6:11
+571 side 9:41 2:24
+572 assumpt 6:14 2:5
+573 uniqu 3:19 6:4
+574 kcid 6:9
+575 encrypt 6:26
+576 pucid 1:2
+577 prcid 6:2
+578 send 9:14 6:8 3:5
+579 produc 4:24 2:21
+580 intend 0:6
+581 pair 6:11 2:9 0:9
+582 decrypt 6:14 9:1
+583 kcidi 6:1
+584 match 7:64 4:11
+585 block 9:218 6:84 7:37
+586 diagram 1:16 5:10
+587 remot 5:43 6:15
+588 machin 0:48 9:17 7:13 4:3
+589 identif 7:8 3:8 2:8
+590 transmiss 9:32 8:29
+591 rsa 6:18
+592 file 9:382 6:61
+593 byte 9:6 6:5 3:4
+594 replai 6:1
+595 attack 2:80
+596 remov 5:16 7:9 3:6
+597 timestamp 6:11
+598 field 4:43 7:19 0:1
+599 creat 4:63 0:10
+600 secret 6:10
+601 hash 6:18 8:3
+602 hmacsha 2:1
+603 feder 9:36 8:25
+604 standard 5:65 0:32 1:16 9:9
+605 fip 6:1
+606 oracl 6:7 3:2
+607 databas 5:40 4:25 3:25 1:5
+608 repositori 5:3 3:2 7:1
+609 tabl 3:49 4:44 2:42 1:42 0:10
+610 admin 6:8
+611 adminid 6:6
+612 password 9:6
+613 test 2:22 5:18 0:15 6:6 1:1
+614 input 2:37 5:14 6:13
+615 output 2:46 6:36 0:11 5:1
+616 hmac 6:7
+617 hex 6:2
+618 ueegvkjkjpk 9:1
+619 fjy 6:1
+620 ydr 6:1
+621 txo 6:1
+622 jxgew 6:1
+623 appwz 6:1
+624 xbd 3:1
+625 vcdwnenw 9:1
+626 experi 0:24 6:21 9:17
+627 previou 6:18 1:13 0:6 9:1
+628 admistn 6:1
+629 deni 6:1
+630 reli 6:5 0:5
+631 fact 0:12 6:9 1:4
+632 scope 1:3 9:2
+633 infer 6:12 0:7
+634 ident 6:11 5:11
+635 wesam 6:1
+636 dawoud 6:1
+637 ibrahim 4:1
+638 takouna 6:1
+639 christoph 9:2
+640 meinel 3:1
+641 proceed 6:31 5:27 0:16 1:13 8:11
+642 informat 3:14 7:10 1:7
+643 march 4:3 9:1 3:1 2:1
+644 harauz 6:1
+645 lori 5:1
+646 kaufman 7:1 6:1 0:1
+647 bruce 9:1 4:1
+648 potter 6:1
+649 juli 0:10 6:7
+650 august 2:14 3:8
+651 wassim 9:1
+652 itani 5:1
+653 ayman 6:1
+654 kayssi 6:1
+655 ali 9:2
+656 chehab 6:1
+657 awar 4:6
+658 depend 1:24 2:20 5:11 0:8 7:6
+659 balachandra 9:2
+660 reddi 9:2
+661 kandukuri 6:1
+662 ramakrishna 6:2
+663 paturi 9:2
+664 atanu 9:2
+665 rakshit 6:2
+666 lijun 6:1
+667 mei 4:1
+668 chan 8:24
+669 tse 6:1
+670 tale 1:1
+671 thought 4:6
+672 asia 6:2 3:1 7:1
+673 pacif 9:1
+674 siani 1:1
+675 pearson 2:2
+676 account 4:22 1:13
+677 ics 6:1
+678 manish 6:1
+679 pokharel 9:1
+680 younghyun 6:1
+681 yoon 4:6 0:1
+682 jong 9:1
+683 sou 3:1
+684 park 8:25 4:7
+685 symposium 9:13 2:13
+686 multimedia 7:23
+687 januari 6:2 5:1
+688 burdwan 6:1
+689 jian 9:3
+690 wang 6:30 8:29 3:7
+691 yan 8:6 4:5
+692 zhao 8:8 9:5
+693 shuo 4:1
+694 jiang 7:11
+695 jiajin 6:1
+696 zhimin 6:1
+697 lixiang 3:1
+698 qiao 9:1
+699 liu 7:34 3:7 1:4
+700 chi 6:4
+701 guangm 6:1
+702 wan 8:6 6:1
+703 cooper 4:10 7:3
+704 shucheng 6:1
+705 cong 6:4
+706 kui 6:3
+707 ren 6:8
+708 wenj 6:3
+709 lou 6:9
+710 infocom 6:2
+711 pub 6:1
+712 byeong 9:1
+713 yun 9:1
+714 byeongsik 9:1
+715 kim 7:41
+716 seunghyun 9:1
+717 dong 2:3
+718 won 9:2
+719 seo 9:2 7:2
+720 administr 1:9 9:2
+721 ajou 9:2
+722 suwon 9:1
+723 south 8:43
+724 korea 8:100
+725 etri 7:4 9:2
+726 daejeon 9:1
+727 kyung 2:2
+728 hee 1:1
+729 seoul 0:5 8:4
+730 bychang 9:1
+731 bskim 9:1
+732 shpyoon 4:1
+733 dwseo 9:2
+734 khu 9:2
+735 effort 5:10 9:4
+736 quantifi 2:12
+737 simpl 9:20 4:13 8:9
+738 determinist 9:9 5:2
+739 demand 9:70 1:24
+740 probabilist 9:10 4:8 7:6
+741 onlin 9:57 5:12
+742 migrat 0:58 9:52
+743 special 4:12 2:6 3:3
+744 proport 9:3 5:3
+745 capac 1:105
+746 center 7:98 9:34
+747 compar 0:29 6:14 5:14 4:13 9:10 7:3
+748 quantit 4:19 9:5
+749 financi 1:39
+750 word 4:26 2:9
+751 load 9:96 3:9
+752 told 0:3
+753 eric 9:1
+754 schmidt 9:1
+755 ceo 9:2
+756 googl 9:26
+757 bisciglia 9:1
+758 event 3:20 9:18
+759 famou 3:1
+760 magazin 9:2
+761 primari 4:26
+762 item 3:189 6:134
+763 frequent 4:11 9:8
+764 frame 5:31 7:24
+765 big 1:11
+766 popular 9:9
+767 adopt 1:74 6:9 5:5 2:1
+768 increas 1:53 0:22 6:16 5:16
+769 reserv 7:5
+770 peak 9:23
+771 idl 9:5
+772 author 4:83
+773 held 9:4
+774 dream 9:2
+775 transform 7:89 4:28 5:1
+776 make 1:32 0:30 6:12 4:4
+777 attract 9:5
+778 provis 9:14 5:7
+779 salesforc 9:4
+780 crm 1:8
+781 app 9:4
+782 power 2:58 5:18
+783 amazon 9:23
+784 xaa 9:1
+785 area 4:93
+786 mobil 9:41 8:6
+787 additionali 9:1
+788 influenc 1:18 2:5 3:1
+789 mail 1:19 6:6
+790 conclud 1:21 2:3 9:2
+791 remark 9:7
+792 era 9:2
+793 ict 1:16
+794 market 1:40 8:3
+795 player 9:8 3:2
+796 consist 4:29 0:21 9:20 1:7
+797 hardwar 5:29 2:24 9:8
+798 seller 9:6
+799 sell 3:4 9:3
+800 equip 1:23 7:5
+801 profit 1:12
+802 deliv 9:10 1:8
+803 configur 9:32 0:13
+804 manner 4:11
+805 datacent 9:35
+806 idc 9:2
+807 bui 9:8
+808 primarili 9:3
+809 person 1:39 0:13
+810 independ 1:19 0:16 2:14 5:3
+811 jeong 7:5
+812 dealt 1:1
+813 optim 7:46 2:41 3:25
+814 explain 6:10 1:9 0:1
+815 properti 4:16 2:13
+816 partit 2:20 7:12
+817 isol 1:5
+818 aggreg 6:20 2:4 0:4
+819 flexibl 1:26 9:6 0:3
+820 rout 1:11
+821 buyya 9:6
+822 packag 1:15
+823 cloudsim 9:2
+824 finer 9:2
+825 vari 1:12 0:5 8:2
+826 energi 9:8 8:4
+827 consumpt 2:13 9:4
+828 heat 4:1
+829 dissip 4:1
+830 analyt 5:15 4:10 3:4
+831 tier 3:24
+832 argu 1:4
+833 techniqu 4:58 8:40 5:17 6:8
+834 turn 9:7 5:1
+835 addit 4:27 9:16 3:11 0:3 1:1
+836 gera 9:2
+837 xia 9:2 8:2
+838 strateg 1:17
+839 stochast 7:11 1:7
+840 enabl 4:28 6:22 9:8 0:8
+841 obtain 4:34 5:14 3:9 6:7 2:5
+842 learn 0:216 3:1
+843 react 1:5
+844 critic 1:58 9:2
+845 gain 4:17
+846 insight 0:12
+847 ecosystem 9:3
+848 topolog 2:9 7:7
+849 geograph 5:5 9:2
+850 region 8:62 5:8 1:6
+851 zone 9:30
+852 hour 0:6 9:3 3:1
+853 local 7:34 5:32 9:13
+854 nlm 9:4
+855 total 1:40 0:23 3:10
+856 nonpeak 7:1
+857 eachdata 9:1
+858 straightforward 9:3
+859 cost 9:32 1:32 3:27 6:3
+860 instal 9:9 1:2
+861 prefer 6:20 9:4
+862 real 9:38 5:35 8:29 1:11
+863 random 2:46 6:12 0:11
+864 investig 0:26 1:13
+865 variabl 2:50 1:6
+866 notat 3:7
+867 prob 9:10 3:6
+868 normal 0:15 5:9 9:8 7:4
+869 varianc 2:13 5:8
+870 addition 2:4 5:1
+871 constantli 1:2 4:1
+872 close 2:18 0:13 4:9
+873 ggggggoxp 9:1
+874 greater 0:12 6:5
+875 equal 2:37 9:5 6:1
+876 equat 6:16 2:13 1:1
+877 trend 4:28 0:6
+878 posit 0:23 1:16 6:9
+879 kcc 9:1
+880 commiss 9:1 7:1
+881 multi 7:47 9:23 5:23 1:9
+882 optic 8:16 3:5
+883 program 5:100 4:13 0:7 3:2
+884 supervis 7:3 3:2
+885 kca 9:2
+886 agenc 3:3 2:2
+887 min 1:10 8:2
+888 nam 9:1
+889 analysi 4:359 7:63 2:54 0:40
+890 korean 9:2
+891 armbrust 9:2
+892 fox 7:3
+893 griffith 6:3
+894 joseph 9:2
+895 katz 8:1
+896 konwinski 9:1
+897 lee 7:43 0:4
+898 patterson 1:1
+899 rabkin 9:1
+900 stoica 7:2
+901 zaharia 9:1
+902 berkelei 8:18 0:1
+903 view 4:62 7:13 1:6
+904 technic 4:49 8:25
+905 ucb 9:1
+906 eec 9:1
+907 california 7:43 3:3
+908 berk 9:2
+909 usa 8:876
+910 feb 0:5 3:1
+911 sangjin 9:1
+912 cross 1:9 0:3
+913 stratum 9:1
+914 http 9:25 4:14
+915 www 4:23
+916 cccso 1:1
+917 net 4:10 9:5
+918 csoworkshopfin 9:1
+919 html 9:9
+920 ranjan 9:1
+921 calheiro 9:1
+922 toolkit 5:5
+923 opportun 4:12
+924 high 4:55 5:43 0:27 8:20
+925 hpc 0:2
+926 press 4:39
+927 york 7:31 0:13 3:7
+928 leipzig 8:3 7:2
+929 germani 7:98
+930 sun 7:14 5:7 1:4
+931 shi 7:8 1:3
+932 preprint 9:1
+933 curv 8:11
+934 integr 1:121 9:54 6:38 7:13
+935 hsu 7:9
+936 chia 4:1
+937 cahng 9:1
+938 chiao 8:8 6:1
+939 tung 8:7 9:2
+940 hsinchu 9:3 1:1
+941 taiwan 8:68 1:21
+942 chsuchia 9:1
+943 ming 4:7
+944 kao 9:2
+945 graduat 2:2
+946 digit 7:55 2:28 1:21 5:14 6:4 0:2
+947 taipei 1:4 8:2
+948 gloriakao 9:1
+949 chun 7:2
+950 cclo 9:1
+951 faculti 4:9 5:2 3:2
+952 nctu 9:1
+953 document 4:105 8:16
+954 doc 9:11
+955 mind 9:26
+956 map 4:55 7:33 9:26
+957 fast 7:55 9:7 3:7
+958 ccc 9:35
+959 ccf 9:24
+960 reus 9:8
+961 freemind 9:26
+962 demonstr 0:17 9:8 2:8 3:2
+963 member 6:11 3:8
+964 group 6:72 1:29 9:17 4:14
+965 read 3:48 5:25
+966 edit 9:24 8:5
+967 purpos 4:38
+968 minimum 2:16 4:9
+969 reformat 0:1
+970 convers 9:13 7:4 1:3
+971 mix 1:7 7:4
+972 automat 7:39 5:16 3:15 9:4
+973 adapt 8:110 0:30 9:12 1:4
+974 altern 1:17 7:3
+975 grow 8:7 9:6 6:5 1:3
+976 form 4:38 5:28 0:16
+977 expos 9:5 5:1
+978 varieti 9:11
+979 differ 6:26 0:24 1:12 2:10 8:3
+980 easi 9:5 5:1 3:1 8:1
+981 abil 4:34 0:12
+982 instant 9:3
+983 compat 4:7 2:1
+984 write 5:15 3:8 9:4
+985 microsoft 7:33 9:3
+986 excel 1:39
+987 format 5:40 9:35
+988 scientist 4:4
+989 meet 4:32
+990 intens 5:16
+991 emphas 4:8 6:3
+992 composit 4:14
+993 devic 5:27 9:21 2:9
+994 thin 7:3
+995 interfac 5:41 1:17 9:15 3:7
+996 web 9:135 3:2
+997 browser 9:10
+998 success 1:63 2:12
+999 capabl 5:19 1:19 9:17 6:2
+1000 scale 8:23 4:19 5:16 9:10 2:5
+1001 redevelop 9:2
+1002 convert 9:17 4:12
+1003 inconsist 9:1
+1004 temporari 9:6
+1005 revers 9:8
+1006 fix 9:39 0:22 8:1
+1007 batch 6:15 5:7 3:6
+1008 transfer 3:24 5:16
+1009 latest 9:3
+1010 perman 4:4 9:1
+1011 anticip 3:3
+1012 label 3:14 7:5 5:4 9:1
+1013 revert 9:7
+1014 conveni 9:5
+1015 subscript 6:1
+1016 quickoffic 9:1
+1017 encourag 0:4
+1018 expans 2:17 9:4
+1019 inflict 9:1
+1020 construct 6:52 5:30 7:5
+1021 stage 5:23 4:6
+1022 preset 9:2
+1023 rest 9:10
+1024 describ 4:31 9:10
+1025 daa 6:1
+1026 caa 9:1
+1027 haa 7:1
+1028 concern 3:13 9:5
+1029 leverag 9:2
+1030 stack 4:3 6:1
+1031 conform 4:4
+1032 intuit 4:6
+1033 incorpor 4:12
+1034 short 1:7 9:5 6:3
+1035 wai 1:13 9:4
+1036 ccaa 9:2
+1037 act 9:8 0:3
+1038 glue 9:1
+1039 widespread 4:2
+1040 visual 4:60 7:32
+1041 mindmeist 9:4
+1042 displai 0:39 5:27
+1043 insid 9:6 5:5
+1044 speed 5:18 9:13 4:11 0:9
+1045 site 1:10 5:4 4:2
+1046 page 4:20 2:18 7:1
+1047 exit 9:2
+1048 dropbox 9:1
+1049 conceptu 1:11
+1050 deploi 9:5 3:3
+1051 agent 9:2 5:2
+1052 fig 2:76 3:54 9:38 0:24
+1053 execut 5:22 9:20 1:12 6:3
+1054 forward 4:4 8:2 6:1
+1055 png 9:3
+1056 flash 9:4
+1057 connector 9:6
+1058 accomplish 3:11 9:2 5:2
+1059 built 9:5 4:5
+1060 object 8:102 5:59 4:40 1:16 3:13
+1061 plai 4:12 3:2
+1062 portabl 5:5
+1063 princip 5:6
+1064 incompat 9:2
+1065 namespac 9:2
+1066 occupi 9:1
+1067 space 2:82 7:19 6:9
+1068 copi 9:20 7:4
+1069 delet 6:21
+1070 port 5:8
+1071 singl 5:36 3:12 6:11 2:6
+1072 exampl 4:22
+1073 signific 4:33 0:11 1:10 5:4
+1074 drawback 9:4
+1075 version 6:11 4:7 9:6 5:1
+1076 webdav 9:12
+1077 facilit 4:21 0:1
+1078 interact 0:103 8:7 4:5 6:4
+1079 proxi 6:2
+1080 brows 7:4 9:2
+1081 export 9:2
+1082 mgr 9:3
+1083 thread 5:10
+1084 languag 4:20 5:18 3:6
+1085 detector 8:7 9:5
+1086 transport 7:6
+1087 inherit 9:10
+1088 download 9:9 5:6
+1089 log 2:59
+1090 temp 9:1
+1091 clean 4:6
+1092 prevent 9:10
+1093 collis 0:4
+1094 contact 9:3
+1095 modul 1:75 9:53 3:13
+1096 appoint 9:1
+1097 api 9:10 5:10
+1098 bridg 9:5 2:1
+1099 msn 4:1
+1100 detect 8:124 5:16 6:9 2:5
+1101 rapid 5:6
+1102 innov 4:35
+1103 grai 2:13 8:9 5:8
+1104 modif 6:22 3:4
+1105 belong 4:9
+1106 reusabl 5:9
+1107 synchron 9:4 7:4
+1108 mode 7:10 1:10 0:9 5:7
+1109 occur 0:14
+1110 restor 7:39
+1111 correspond 0:14 2:12 3:11 5:6
+1112 signal 2:68 5:11 7:2
+1113 tool 4:33 5:19
+1114 suit 0:16
+1115 unit 7:147 5:32 3:15
+1116 core 5:35 4:28
+1117 bit 2:67 8:2
+1118 jdk 9:1
+1119 netbean 9:1
+1120 apach 9:3
+1121 slide 9:2 0:1
+1122 resiz 9:1
+1123 minim 2:16 1:9
+1124 friction 4:1
+1125 invok 9:5
+1126 sourc 4:54 7:22
+1127 librari 5:12 9:5 6:2
+1128 seamless 6:6
+1129 quick 9:2 7:2
+1130 poor 1:15 0:8
+1131 growth 4:6
+1132 contribut 1:26 0:10 4:4
+1133 portion 4:8
+1134 greatli 9:9 4:4
+1135 simplifi 0:15 5:2
+1136 purposefulli 9:1
+1137 track 7:72 3:23
+1138 audio 7:7
+1139 video 8:283 5:13
+1140 insert 6:28 5:1
+1141 council 8:4 1:2
+1142 nsc 9:2
+1143 vaquero 9:1
+1144 rodero 9:1
+1145 merino 9:1
+1146 cacer 9:1
+1147 lindner 9:1
+1148 break 6:4 2:3 5:2 7:1
+1149 acm 6:24 4:12
+1150 sigcomm 9:1
+1151 comm 6:7
+1152 yeo 9:5
+1153 venugop 9:3
+1154 broberg 9:2
+1155 brandic 9:2
+1156 vision 7:16 5:7 9:5
+1157 hype 9:4 0:1
+1158 realiti 0:7 9:4 8:1
+1159 mladen 4:1
+1160 vouk 9:1
+1161 miller 9:4 8:4
+1162 readi 1:6
+1163 foster 9:3 2:2
+1164 raicu 3:1
+1165 degre 6:26 0:13
+1166 gce 9:2
+1167 austin 8:11 9:2
+1168 nov 0:5 9:4
+1169 papazogl 9:1
+1170 substrat 5:3
+1171 cais 9:1
+1172 lnc 2:11
+1173 mell 9:2
+1174 granc 9:2
+1175 nist 9:3
+1176 youseff 9:1
+1177 butrico 9:1
+1178 silva 8:9
+1179 unifi 1:8 8:6 0:3 5:2
+1180 ontolog 1:1
+1181 lourida 7:2
+1182 air 0:11 8:8
+1183 wikipedia 9:2
+1184 org 4:18
+1185 wiki 5:1
+1186 whitehead 3:1
+1187 wiggin 9:1
+1188 ietf 9:1
+1189 audit 6:75
+1190 qian 6:4 8:2
+1191 student 6:7 0:2
+1192 senior 6:4 3:2
+1193 jin 6:6 8:1
+1194 envis 2:5
+1195 fulli 9:12 6:10 0:2
+1196 trustworthi 6:2
+1197 understood 0:3
+1198 auditor 6:4
+1199 tpa 6:25
+1200 behalf 9:2
+1201 elimin 6:12 4:1
+1202 intact 6:2
+1203 economi 4:6 3:1
+1204 practic 6:23 1:17 2:2
+1205 archiv 5:29 6:5
+1206 backup 6:2
+1207 prior 6:9 7:7
+1208 difficulti 4:10
+1209 eleg 4:1
+1210 verif 6:59
+1211 scheme 6:87 8:41
+1212 salient 4:2 7:1
+1213 effici 6:54 8:50 9:45 2:22 5:12
+1214 proof 6:50
+1215 manipul 0:12 6:8
+1216 merkl 6:11
+1217 tree 8:26 2:26 6:17
+1218 tag 6:140 3:128
+1219 bilinear 6:9
+1220 signatur 6:75 8:2
+1221 multius 9:2
+1222 highli 4:14 7:4
+1223 provabl 6:11
+1224 index 7:22 6:12 0:9 1:7
+1225 ing 0:14 5:13 6:10
+1226 cheaper 3:3 1:2
+1227 processor 5:32 2:4
+1228 huge 4:8
+1229 subscrib 6:2
+1230 sole 6:3 0:1
+1231 profound 6:2
+1232 biggest 6:2
+1233 byzantin 6:1
+1234 failur 1:11 6:4
+1235 occasion 6:2
+1236 hide 8:5 5:5
+1237 error 8:38 2:29 0:27
+1238 neglect 6:1
+1239 deliber 6:2
+1240 rare 7:3 6:1
+1241 ordinari 4:3
+1242 constrain 7:10 9:4
+1243 cap 6:3
+1244 efficientwai 6:1
+1245 performperiod 4:1
+1246 stateless 6:7
+1247 unbound 6:1
+1248 queri 6:23 8:5 5:2
+1249 retriev 7:66 6:36
+1250 fall 6:3
+1251 correct 5:41 6:22 2:18
+1252 devot 6:1
+1253 unreli 4:4 6:1
+1254 afford 9:3
+1255 overhead 6:11
+1256 parallel 5:243 6:9
+1257 electr 6:21 8:12 7:11
+1258 illinoi 8:52 6:5
+1259 chicago 0:6 8:1
+1260 kren 6:1
+1261 iit 6:2
+1262 worcest 6:5
+1263 polytechn 8:47
+1264 road 7:3 1:3
+1265 wjlou 6:1
+1266 wpi 6:2
+1267 guangzhou 6:4
+1268 room 2:2
+1269 yudongxi 9:1
+1270 tianh 6:1
+1271 district 4:1
+1272 guangdong 6:1 4:1
+1273 jli 6:1
+1274 manuscript 2:4 8:2 6:2
+1275 mar 3:6 0:3
+1276 revis 6:5 2:1
+1277 aug 4:8 6:1 2:1
+1278 publish 4:34
+1279 oct 6:3 0:2
+1280 recommend 6:112
+1281 reprint 8:5
+1282 articl 4:14 7:1
+1283 tpd 6:3
+1284 ieeec 6:1
+1285 societi 9:13 7:5 2:2
+1286 ration 1:7 6:2
+1287 expect 4:17 0:16
+1288 state 7:67 9:32 2:25 5:10
+1289 art 7:9 6:6 9:1
+1290 possess 6:21
+1291 pdp 6:16
+1292 por 6:13
+1293 lead 1:38
+1294 loophol 9:1
+1295 believ 6:1
+1296 vital 6:2 2:2
+1297 integra 9:1
+1298 tion 0:27 6:12 3:11 5:8
+1299 summar 4:15
+1300 opera 9:1
+1301 miss 0:24
+1302 prove 6:9 2:5 3:1
+1303 justifi 3:3 2:2
+1304 concret 6:5
+1305 pursu 2:1
+1306 atenies 6:6
+1307 homomorph 6:6
+1308 suffer 6:3
+1309 subsequ 4:5 0:4 2:3
+1310 impos 9:4 1:2
+1311 priori 6:4
+1312 bound 6:4 2:3
+1313 scenario 0:9 3:6 2:6
+1314 partial 0:7 6:5 7:4
+1315 juel 6:7
+1316 kaliski 6:2
+1317 spot 8:10
+1318 sentinel 6:2
+1319 randomli 6:6 0:6
+1320 embed 8:21 5:15
+1321 precomput 6:4
+1322 realiz 1:16 5:7 6:4
+1323 shacham 6:4
+1324 water 0:4 6:2 8:1
+1325 publicli 6:1
+1326 erwai 6:2
+1327 rank 2:8 4:3
+1328 skip 6:5
+1329 essenti 4:15
+1330 emploi 4:21 6:11
+1331 unclear 6:1
+1332 seamlessli 0:2
+1333 previous 0:5 4:1 1:1
+1334 addmor 6:1
+1335 demerit 6:2
+1336 anddatadynam 6:1
+1337 wegener 6:1
+1338 thatwhil 6:1
+1339 dynamicdata 9:1
+1340 canbeperform 6:1
+1341 encod 8:15 6:10 5:10
+1342 explicitli 0:7 6:5
+1343 multicli 6:5
+1344 redo 6:1
+1345 thepropos 6:1
+1346 theorem 6:8
+1347 statement 2:4 1:1
+1348 entiti 6:13 9:12
+1349 indivi 6:1 0:1
+1350 dual 8:6 4:2
+1351 css 6:1
+1352 csp 6:2
+1353 expertis 4:9
+1354 reliev 5:3
+1355 burden 0:2 6:1
+1356 longer 9:14
+1357 correctli 6:5 0:4
+1358 donot 6:1
+1359 necessarili 5:3 8:2 6:1
+1360 feasibl 1:9
+1361 unbias 2:1
+1362 prestor 6:3
+1363 importantli 4:5 0:1
+1364 aremodif 6:1
+1365 thatw 6:1
+1366 topic 6:119
+1367 incloudcomput 6:1
+1368 orthogon 7:12
+1369 polynomi 4:3 7:2 6:2
+1370 cheat 6:12
+1371 neglig 6:7
+1372 extractor 6:3
+1373 recov 6:7 1:1
+1374 sound 6:8
+1375 valid 0:12 6:9
+1376 prover 6:22
+1377 adversari 6:26
+1378 successfulli 4:7
+1379 subtl 3:1 5:1
+1380 crucial 1:9
+1381 unaccept 6:1
+1382 recomput 6:1
+1383 nameki 6:7
+1384 vki 6:2
+1385 recal 3:38
+1386 blockless 6:5
+1387 job 1:27
+1388 consequ 0:3 6:1
+1389 opportu 4:1
+1390 niti 6:1
+1391 ormi 9:1
+1392 interchang 4:3
+1393 storeddata 6:1
+1394 ondemand 6:1
+1395 aforement 2:5
+1396 extent 4:10
+1397 preliminari 6:6
+1398 gap 9:8
+1399 diffi 6:3
+1400 hellman 6:3
+1401 gdh 6:1
+1402 cyclic 4:4
+1403 prime 6:4
+1404 pwith 6:1
+1405 nondegener 6:1
+1406 mht 6:15
+1407 undamag 3:1
+1408 unalt 6:1
+1409 binari 2:19 8:9
+1410 depict 4:7 3:4
+1411 auxiliari 6:3
+1412 aai 6:6
+1413 hckhd 6:1
+1414 hekhf 3:1
+1415 hakhb 6:1
+1416 commonli 2:6
+1417 treat 6:7
+1418 leaf 6:8
+1419 node 1:91 9:24 6:10
+1420 sequenc 8:37 2:24 6:2
+1421 root 6:20
+1422 keygen 6:3
+1423 sigsk 6:26
+1424 siggen 6:4
+1425 collect 4:45 0:14 5:3
+1426 fmig 6:2
+1427 metadata 9:14 6:8
+1428 genproof 6:3
+1429 chal 6:12
+1430 ftrue 6:1
+1431 falseg 6:1
+1432 erifyproof 6:2
+1433 algo 6:3
+1434 rithm 6:3
+1435 receipt 1:6
+1436 true 6:18 0:3
+1437 fals 6:17 0:3
+1438 pupdate 6:2
+1439 execupdate 6:3
+1440 update 6:3
+1441 pupdat 6:6
+1442 erifyupd 6:1
+1443 finit 2:12
+1444 reveal 4:11
+1445 fresh 2:1
+1446 straightforwardli 4:1
+1447 cover 4:20 7:6
+1448 exhaust 6:1
+1449 impract 3:2
+1450 signa 6:1
+1451 ture 3:6
+1452 sever 1:3 2:2
+1453 communica 9:2
+1454 notic 0:4
+1455 resort 6:1
+1456 homo 6:1
+1457 morphic 6:1
+1458 unforg 6:2
+1459 pkc 6:1
+1460 authenti 3:1
+1461 cator 6:1
+1462 reed 6:7
+1463 solomon 6:5
+1464 cryptograph 6:11
+1465 preprocess 6:6 7:1
+1466 spk 6:3
+1467 ssk 6:2
+1468 nameknkuk 6:1
+1469 ssigssk 6:1
+1470 nameknku 6:1
+1471 umi 4:2 6:1
+1472 denot 6:24 1:18 3:15 2:11 5:3
+1473 default 9:11
+1474 fail 2:6 0:4
+1475 emit 6:2
+1476 subset 0:8
+1477 scg 6:1
+1478 zzp 6:2
+1479 themessag 6:1
+1480 specifi 5:5 2:3 9:1
+1481 phase 0:122 6:3
+1482 chalf 6:1
+1483 xsc 4:1
+1484 imi 6:4
+1485 ysc 6:2
+1486 proverwil 6:1
+1487 verifierwith 1:1
+1488 sibl 6:2
+1489 path 2:16 4:1
+1490 rootr 6:1
+1491 respond 3:11
+1492 distinct 4:8 6:6
+1493 systemat 4:6
+1494 noww 6:1
+1495 descrip 5:1
+1496 properli 6:2
+1497 replac 4:12 6:3
+1498 suppos 6:16
+1499 modifi 3:7 6:5
+1500 ith 6:7
+1501 con 5:12 0:11
+1502 struct 4:3
+1503 wherem 6:1
+1504 place 3:19 2:5
+1505 logic 2:43 1:23
+1506 opposit 0:2
+1507 omit 4:5
+1508 concurr 5:6
+1509 verifica 6:1
+1510 session 0:20 9:11
+1511 givenk 3:1
+1512 onk 4:1
+1513 creation 4:14
+1514 arbitrari 6:6
+1515 signer 4:1
+1516 arek 6:1
+1517 filesfi 6:1
+1518 gxk 6:2
+1519 umk 6:3
+1520 challengephas 6:1
+1521 theverifi 6:1
+1522 imk 9:1
+1523 verifyproof 6:1
+1524 tagsh 6:1
+1525 succe 2:5
+1526 hold 3:13
+1527 instanti 6:8
+1528 desir 5:9 2:5
+1529 shorter 1:3 6:1
+1530 shortest 4:5
+1531 qrn 6:1
+1532 unknown 6:9
+1533 imposs 3:4 6:3
+1534 distinctm 2:1
+1535 andm 6:1
+1536 mod 6:7 0:6
+1537 factor 1:85 9:43 0:25
+1538 psci 6:2
+1539 linearli 9:6 8:2
+1540 fly 5:4
+1541 gmi 6:3
+1542 trade 9:3 8:3
+1543 correspondingli 6:1
+1544 remedi 6:3
+1545 combina 6:1
+1546 formul 0:3 6:1 8:1
+1547 capabil 3:1
+1548 iti 1:5
+1549 naiv 5:1
+1550 conduct 1:15 6:6 0:6
+1551 date 3:10 1:7
+1552 easili 4:12 3:5 0:1
+1553 defend 9:1
+1554 sens 5:14 4:4 6:3
+1555 redundantli 6:2
+1556 ple 2:6
+1557 exploit 2:7 3:5
+1558 redund 4:17 8:4
+1559 toler 6:11
+1560 fault 2:7 0:2
+1561 crash 6:1
+1562 erasur 6:2
+1563 dispers 4:3
+1564 pariti 6:2
+1565 vector 2:262
+1566 reconstruct 8:44 2:15
+1567 surviv 6:2
+1568 cdh 6:4
+1569 gxy 6:1
+1570 yield 0:7
+1571 admiss 6:2
+1572 convincingli 9:1
+1573 answer 4:7 2:2
+1574 fraction 6:10
+1575 maliz 6:1
+1576 notion 4:5
+1577 precis 6:28 3:1
+1578 existentiallyunforg 6:1
+1579 hard 9:16 4:4
+1580 appendix 6:4
+1581 behav 0:7 6:2
+1582 extract 8:30 7:22 4:10 6:9
+1583 deriv 4:27
+1584 suffic 6:3
+1585 decod 8:13 5:7
+1586 dpdp 6:4
+1587 sake 6:1
+1588 linux 0:18
+1589 intel 8:13 5:7
+1590 ghz 9:5
+1591 ram 6:2 9:1
+1592 rpmwestern 4:1
+1593 serial 2:3
+1594 ata 6:1
+1595 drive 1:7 6:1
+1596 estim 8:87 2:78 0:14 3:8
+1597 simplic 3:2 6:1
+1598 explicit 2:5
+1599 buffer 9:17 5:8
+1600 sha 9:2
+1601 impl 2:3 3:2 6:1
+1602 ment 0:22
+1603 cryptographi 6:5
+1604 pbc 6:1
+1605 crypto 2:5
+1606 openssl 6:1
+1607 modulu 6:2
+1608 averag 4:22 9:13
+1609 trial 0:18 6:1
+1610 percent 6:6
+1611 corrupt 2:16
+1612 recoveri 7:6 9:3
+1613 misbehavior 3:1
+1614 variant 6:11
+1615 extra 1:9
+1616 observ 2:25 0:11 3:5 1:2
+1617 smaller 9:25 5:5
+1618 faster 3:9 5:2
+1619 computa 6:1
+1620 largest 9:11 4:3
+1621 tupl 3:5 7:1
+1622 head 8:7 0:6
+1623 commu 6:1
+1624 nicat 9:1
+1625 chosen 6:16
+1626 point 2:47 1:21 8:9 3:7 5:3
+1627 approxim 2:22 0:11 1:7
+1628 interv 0:10
+1629 expens 4:8
+1630 sampl 8:13 6:9 1:5 2:3 5:1
+1631 versu 4:7
+1632 domin 7:2 6:2
+1633 perspect 1:17 2:9
+1634 commit 1:7
+1635 tinuou 6:2
+1636 accommod 1:4 0:2
+1637 ourmain 6:1
+1638 amultius 6:1
+1639 tensiv 6:1 3:1
+1640 existenti 6:1
+1641 forg 6:5
+1642 submit 6:2 4:2
+1643 ymx 6:1
+1644 gmx 6:1
+1645 sketch 6:2
+1646 abort 6:4
+1647 forger 6:1
+1648 sameasgam 6:1
+1649 ingam 0:1
+1650 protocolwith 6:1
+1651 pect 3:2 6:1
+1652 honest 6:2
+1653 ness 6:2
+1654 authentica 6:1
+1655 wise 2:8
+1656 contradict 1:7
+1657 gahb 6:2
+1658 grih 6:1
+1659 pwill 6:1
+1660 equa 6:1 4:1
+1661 plete 6:1 9:1
+1662 editor 2:13
+1663 anonym 6:4
+1664 valuabl 4:10
+1665 significantli 1:12 3:5 8:1
+1666 workwa 6:1
+1667 european 1:13 6:3 7:2
+1668 esor 6:3
+1669 proc 6:26 0:10 3:7
+1670 symp 6:6 0:1
+1671 burn 6:1
+1672 curtmola 6:1
+1673 kissner 6:1
+1674 peterson 6:1 0:1
+1675 conf 6:11 3:7 0:2
+1676 compact 2:8 8:1
+1677 int 0:13 6:7 4:6
+1678 cryptolog 6:6
+1679 asiacrypt 6:1
+1680 bower 8:2 6:2
+1681 oprea 6:3
+1682 eprint 6:2
+1683 naor 9:1
+1684 rothblum 6:1
+1685 foc 9:1
+1686 dishonest 6:1
+1687 shah 8:2 6:1
+1688 swaminathan 6:1
+1689 baker 3:1
+1690 reiter 9:1
+1691 ndss 6:1
+1692 schwarz 6:2
+1693 forget 6:1
+1694 algebra 2:19
+1695 administ 6:1
+1696 icdc 6:1
+1697 sensor 8:11 0:7 6:3
+1698 apr 0:8
+1699 pietro 6:1
+1700 mancini 6:1
+1701 tsudik 6:1
+1702 fourth 4:6
+1703 securecomm 3:1
+1704 iwqo 6:1
+1705 kupcu 6:1
+1706 papamanth 2:1
+1707 tamassia 5:1
+1708 hail 4:1
+1709 boneh 6:2
+1710 lynn 6:2
+1711 weil 2:2
+1712 seventh 6:2
+1713 crypt 6:1
+1714 cryptosystem 6:3
+1715 lin 1:16 7:14
+1716 costello 3:1
+1717 prentic 5:11 3:2 0:1
+1718 hall 5:11 2:5
+1719 bellar 6:1
+1720 rogawai 6:1
+1721 gentri 6:1
+1722 eurocrypt 4:1
+1723 wuhan 4:5 7:1
+1724 shanghai 8:5 2:3
+1725 microsystem 8:4 6:2
+1726 chines 4:11 8:7 7:4
+1727 academi 8:10 6:4
+1728 phd 6:6
+1729 wireless 8:17 6:4 3:1
+1730 beng 6:1
+1731 meng 6:4
+1732 zhejiang 4:3 6:1
+1733 poli 6:2
+1734 assist 7:6 6:6 0:3
+1735 professor 6:5 0:3
+1736 gineer 6:1 3:1
+1737 past 4:15
+1738 nese 6:1
+1739 infocomm 6:1
+1740 singapor 8:43
+1741 defens 3:4
+1742 sponsor 7:3
+1743 recipi 3:2 6:1 4:1
+1744 nsf 3:2
+1745 earli 4:16
+1746 career 6:4
+1747 award 0:3 6:2
+1748 jiaotong 8:3 2:1
+1749 masc 6:1
+1750 nanyang 8:19
+1751 florida 7:7 2:1
+1752 decem 6:1
+1753 ber 9:1
+1754 join 6:5
+1755 associ 4:28 2:12
+1756 hoc 6:3
+1757 mesh 7:21
+1758 samuel 6:1
+1759 satin 8:1
+1760 fellow 6:1
+1761 southwest 6:1 7:1
+1762 yat 4:1
+1763 sen 6:3
+1764 profe 6:1
+1765 sor 6:1 5:1
+1766 visit 3:7
+1767 dlib 6:1
+1768 hyung 0:1
+1769 choi 8:8 0:6
+1770 andrew 5:4
+1771 sohn 0:3
+1772 jersei 5:7 0:1
+1773 newark 9:1
+1774 hyungwon 0:1
+1775 njit 2:1
+1776 hukeun 0:1
+1777 kwak 0:3
+1778 kyusik 0:1
+1779 chung 8:21 0:2
+1780 soongsil 0:1
+1781 gobarian 0:1
+1782 kchung 0:1
+1783 ssu 0:1
+1784 capit 9:4
+1785 build 1:26 5:12 8:6 0:3
+1786 pattern 0:89 7:11
+1787 imbal 0:1
+1788 trigger 3:7
+1789 rememb 0:1
+1790 proactiv 0:18
+1791 methodolog 0:36
+1792 accumul 5:3
+1793 search 4:20 7:18 5:18
+1794 predefin 9:2
+1795 possibl 3:4 0:1
+1796 benchmark 0:12
+1797 regul 2:4
+1798 autonon 0:1
+1799 increasingli 1:6
+1800 contemporari 4:1
+1801 worsen 0:1
+1802 prepar 4:8
+1803 costli 1:3 9:1
+1804 tab 4:3
+1805 reminisc 9:1
+1806 xsp 0:2
+1807 emphasi 4:6
+1808 reduct 1:19 8:16 3:5 9:2
+1809 balanc 9:52
+1810 entail 0:2
+1811 stand 4:7 0:2 9:1
+1812 decad 1:9
+1813 irregular 0:6 8:2
+1814 ten 5:4 0:3
+1815 thousand 9:4
+1816 million 4:6
+1817 overwhelm 0:2
+1818 fluctuat 0:10
+1819 unmanag 4:1
+1820 unpredict 3:2
+1821 typic 4:21 0:4
+1822 workload 0:67
+1823 absenc 5:3
+1824 clear 1:6 0:5
+1825 pictur 8:11 9:4
+1826 human 0:210 8:15 1:9
+1827 intervent 0:22
+1828 indispens 5:5
+1829 manual 0:8 3:1
+1830 sustain 1:2 0:1
+1831 hing 0:1
+1832 overload 0:16
+1833 lightli 0:1
+1834 lessen 5:1
+1835 numer 1:10 0:7 3:1 2:1
+1836 threshold 0:42 6:13 8:11
+1837 dictat 5:4
+1838 samsung 8:7
+1839 pumpkin 0:1
+1840 hpcc 0:1
+1841 underutil 9:5
+1842 deem 4:2
+1843 fit 0:16 8:4 4:3
+1844 unnecessari 9:3 0:1
+1845 consult 1:10
+1846 front 5:6 0:4
+1847 uniform 9:35 8:4 3:2
+1848 shortli 0:3
+1849 follow 0:4
+1850 realist 0:6
+1851 examin 0:20 2:13 1:10
+1852 iter 0:33 7:8
+1853 train 0:100
+1854 encount 0:6
+1855 overview 4:20
+1856 bare 5:1
+1857 metal 0:1
+1858 sbuml 0:10
+1859 interf 0:3
+1860 hmon 0:5
+1861 mig 0:2
+1862 master 5:9 1:9 0:4
+1863 uml 0:18 1:6
+1864 gmon 0:9
+1865 host 3:18 0:12
+1866 guest 0:9
+1867 statist 7:28 2:23 4:14 0:10
+1868 predetermin 0:2
+1869 kernel 0:12 2:8
+1870 top 6:21 1:11 4:3
+1871 raw 5:9 3:5 0:3
+1872 stat 9:1
+1873 meminfo 0:1
+1874 deviat 0:31
+1875 rel 0:18 4:3
+1876 unusu 0:1
+1877 quickli 0:6 4:5
+1878 indic 2:10 0:9 1:6
+1879 matrix 4:36 5:27 0:16
+1880 wcpu 0:6
+1881 wmem 0:6
+1882 entri 0:15
+1883 traffic 0:25
+1884 scrapbook 0:2
+1885 checkpoint 0:3
+1886 worker 1:4
+1887 ratio 5:15 0:9
+1888 lowest 9:2 0:2
+1889 sum 2:13 1:8
+1890 twenti 9:2
+1891 newli 4:5
+1892 tent 0:4
+1893 blue 0:1
+1894 box 2:26
+1895 stdev 0:2
+1896 memcpu 0:1
+1897 mem 0:4
+1898 stddev 0:4
+1899 mbp 9:3
+1900 switch 2:12 3:2
+1901 pentium 9:2
+1902 patch 0:3
+1903 freez 0:1
+1904 runtim 9:11
+1905 mibench 0:4
+1906 splash 0:3
+1907 wide 4:24
+1908 automot 0:2
+1909 class 5:64 4:22 2:1
+1910 basicmath 0:1
+1911 bitcount 0:1
+1912 qsort 0:1
+1913 susan 2:1 5:1
+1914 jpeg 5:69 8:20
+1915 lame 0:1
+1916 mad 4:1
+1917 tiff 9:2
+1918 dijkstra 0:1
+1919 patricia 9:1
+1920 offic 0:3
+1921 ispel 0:1
+1922 rsynth 0:1
+1923 stringsearch 1:1
+1924 blowfish 6:1
+1925 pgp 9:1
+1926 rijndael 3:1
+1927 telecomm 2:1
+1928 adpcm 0:1
+1929 crc 2:4
+1930 fft 8:2 0:2
+1931 gsm 1:1
+1932 stanford 8:29
+1933 ocean 0:1
+1934 contigu 0:4 5:2
+1935 choleski 1:1
+1936 radix 0:1
+1937 nsquar 0:1
+1938 spatial 8:32 5:2
+1939 gaussian 2:31
+1940 differenti 2:18 1:6
+1941 explic 0:1
+1942 axi 0:19 6:4
+1943 hand 9:10 0:8 5:6 3:2
+1944 late 1:5 6:1
+1945 classifi 4:16 8:7
+1946 tim 0:5
+1947 favor 1:3
+1948 evidenc 0:2
+1949 line 5:32 3:18 7:13
+1950 plung 0:1
+1951 substanti 0:12
+1952 continu 4:40 2:4
+1953 decreas 1:29
+1954 reaffirm 0:1
+1955 premis 3:5
+1956 adjust 4:14
+1957 difficult 4:12 0:6 6:2
+1958 warrant 6:1
+1959 inclus 9:2 7:2
+1960 doubl 0:16 2:8
+1961 minut 0:8
+1962 half 2:6 4:1
+1963 render 7:14 0:3
+1964 oscil 0:1
+1965 disappear 0:2 9:1
+1966 progress 8:13 0:11 4:3
+1967 regular 8:17 2:3 3:2
+1968 overtim 0:1
+1969 horizont 0:15
+1970 vertic 2:11
+1971 durat 9:15 3:4
+1972 earlier 0:5
+1973 til 9:1
+1974 gradual 9:7
+1975 exhibit 0:11
+1976 plot 5:4 2:1
+1977 ili 0:1
+1978 tio 2:1
+1979 unlik 0:5 5:1
+1980 statu 1:5 4:4
+1981 slightli 0:2
+1982 descri 0:1
+1983 row 0:13 7:6 3:4
+1984 middl 0:8 2:1
+1985 evid 1:19 2:3
+1986 surprisingli 2:1
+1987 reinforc 1:3
+1988 dispar 8:8 0:3
+1989 evenli 3:1
+1990 strike 0:1
+1991 rais 9:3 3:3
+1992 daili 4:5
+1993 benefici 1:5
+1994 moder 0:2
+1995 barham 0:1
+1996 dragov 0:1
+1997 fraser 8:3 0:3
+1998 harri 5:3 8:2
+1999 neugebau 0:1
+2000 pratt 2:3
+2001 warfield 0:2
+2002 xen 9:2
+2003 octob 2:9 0:2
+2004 burri 0:1
+2005 primer 2:2
+2006 proven 0:2
+2007 upper 9:7 1:4
+2008 saddl 5:3
+2009 river 5:3 0:1
+2010 supercomput 9:5
+2011 island 0:3
+2012 greec 7:99
+2013 clark 8:3 0:1
+2014 hansen 0:1
+2015 jul 0:4
+2016 limpach 4:1
+2017 live 9:4
+2018 nsdi 0:2
+2019 dike 0:1
+2020 home 3:33
+2021 sourceforg 0:2
+2022 guthau 0:1
+2023 ringenberg 0:1
+2024 ernst 0:3
+2025 mudg 0:1
+2026 brown 7:5 5:1
+2027 free 3:7 7:6
+2028 annual 4:9 0:2
+2029 character 2:25 0:1
+2030 decemb 0:3
+2031 hargrov 1:1
+2032 duell 0:1
+2033 lab 7:35 9:6
+2034 restart 0:1
+2035 blcr 0:1
+2036 scidac 0:1
+2037 septemb 0:3
+2038 nagarajan 4:2
+2039 mueller 0:1
+2040 engelmann 0:1
+2041 scott 2:3
+2042 seattl 0:1
+2043 padala 1:1
+2044 shin 4:3 7:2
+2045 uysal 6:1
+2046 singhal 4:5
+2047 merchant 0:1
+2048 salem 0:1
+2049 eurosi 6:1
+2050 rimal 0:1
+2051 lumb 9:1
+2052 survei 1:8 3:5 8:2 5:2
+2053 springer 2:13
+2054 verlag 2:4
+2055 london 0:6
+2056 sapuntzaki 0:1
+2057 chandra 0:1
+2058 pfaff 0:1
+2059 chow 0:1
+2060 lam 8:3 0:1
+2061 rosenblum 0:1
+2062 boston 8:20
+2063 smith 8:7 0:3
+2064 nair 0:1
+2065 versatil 4:2
+2066 morgan 4:4
+2067 kaufmann 1:2
+2068 san 4:6 8:4 3:1
+2069 francisco 4:4
+2070 vishwanath 0:1
+2071 nagappan 0:1
+2072 indianapoli 0:1
+2073 indiana 8:5 0:1
+2074 vmware 0:3
+2075 esx 0:2
+2076 vsphere 0:1
+2077 esxi 9:1
+2078 woo 4:3
+2079 ohara 4:1
+2080 torri 2:1
+2081 singh 0:5 8:1
+2082 gupta 8:2 1:2
+2083 santa 7:24
+2084 margherita 0:1
+2085 ligur 0:1
+2086 itali 8:81
+2087 wood 0:5 8:4
+2088 shenoi 0:1
+2089 venkataramani 1:1
+2090 yousif 0:1
+2091 black 5:3 0:1
+2092 usenix 5:1
+2093 cambridg 8:13 4:10
+2094 inter 9:33 0:7
+2095 michael 9:4 8:1
+2096 kretzschmar 4:2
+2097 mario 9:2
+2098 goll 4:2
+2099 sebastian 6:3
+2100 hanigk 4:2
+2101 universit 8:29
+2102 der 7:15
+2103 bundeswehr 9:1
+2104 nchen 6:1
+2105 technisch 7:5
+2106 informatik 4:2
+2107 werner 7:2
+2108 heisenberg 9:1
+2109 weg 4:1
+2110 neubiberg 6:1
+2111 unibw 9:1
+2112 dedic 2:7
+2113 mech 8:3
+2114 anism 9:1
+2115 tradit 9:23
+2116 reconfigur 2:6
+2117 sector 1:6
+2118 dmtf 6:1
+2119 forc 4:10 8:5
+2120 gictf 6:3
+2121 forum 9:3
+2122 enisa 9:1
+2123 fulfil 4:6
+2124 serv 4:19
+2125 interwork 9:1
+2126 acceler 2:5 5:2
+2127 eros 1:1
+2128 boundari 1:21 7:14
+2129 particip 0:114
+2130 viron 4:2
+2131 complic 1:8 4:3
+2132 interop 6:1
+2133 erabl 9:1
+2134 orchestr 4:1
+2135 unexpect 1:3
+2136 disast 9:2
+2137 spare 1:4
+2138 cope 3:4 2:1
+2139 reassign 4:2
+2140 alter 4:3
+2141 exchang 4:9 5:6
+2142 permit 7:5
+2143 authoris 2:1
+2144 discov 4:16 9:7
+2145 moment 7:4
+2146 coexist 1:2
+2147 mandatori 1:2
+2148 itilv 6:1
+2149 iso 9:5
+2150 iec 9:5
+2151 organiz 1:25
+2152 ation 3:4 0:2
+2153 expand 1:8 5:3
+2154 fcap 6:1
+2155 guidelin 9:2
+2156 esm 9:1
+2157 comprehens 4:13
+2158 nato 9:3
+2159 func 4:2
+2160 privileg 9:3
+2161 meta 5:5
+2162 fol 3:3
+2163 briefli 1:7 5:5
+2164 confirm 4:6
+2165 credenti 9:5
+2166 certif 9:1
+2167 badg 5:1
+2168 permiss 7:6
+2169 action 5:26 9:25 4:6 3:5
+2170 semi 7:8 4:8
+2171 encompass 0:1 5:1
+2172 relev 4:30 8:8
+2173 gather 4:12
+2174 nativ 5:2
+2175 artifact 8:11
+2176 german 7:2 6:1
+2177 bsi 9:1
+2178 bernstein 9:1
+2179 ludvigson 9:1
+2180 sankar 9:1
+2181 diamond 4:1 7:1
+2182 morrow 7:2
+2183 blueprint 9:2
+2184 intercloud 6:1
+2185 interoper 9:3
+2186 celesti 2:1
+2187 tusa 9:1
+2188 villari 0:1
+2189 puliafito 9:1
+2190 seiten 0:1
+2191 white 7:5 0:4 1:3
+2192 farroha 9:2
+2193 cyber 2:12
+2194 vasiv 3:1
+2195 eda 9:2
+2196 ahwg 9:1
+2197 allianc 1:3
+2198 guidanc 6:2
+2199 rhoton 9:1
+2200 book 4:30
+2201 recurs 2:9 7:6
+2202 fan 7:11 9:3
+2203 libin 9:2
+2204 xidian 9:6
+2205 kfan 6:1
+2206 xxshuguang 1:1
+2207 xuemin 4:1
+2208 sherman 9:1
+2209 shen 8:5 9:4
+2210 waterloo 7:14
+2211 xshen 9:1
+2212 bbcr 4:1
+2213 uwaterloo 5:1
+2214 hui 9:4 8:1
+2215 lihui 5:1
+2216 yintang 4:1
+2217 minist 9:1
+2218 band 8:5 5:2 9:1 1:1
+2219 semiconductor 1:4 2:2
+2220 materi 1:35
+2221 ytyang 6:1
+2222 resolv 9:3
+2223 urgent 9:2
+2224 shortag 9:2
+2225 hot 9:22
+2226 smart 9:14
+2227 judg 0:93
+2228 fragment 9:26
+2229 revolut 1:1
+2230 mainfram 9:1
+2231 microcomput 5:6
+2232 taneja 9:1
+2233 classif 4:45 7:41
+2234 cdnetwork 1:1
+2235 nirvanix 9:1
+2236 emc 6:1
+2237 ibm 8:30 5:19
+2238 mass 4:9 9:2
+2239 unsuit 9:1
+2240 good 1:31 2:19 5:13
+2241 hdf 9:2
+2242 imperfect 9:1
+2243 weak 4:5
+2244 undoubtedli 9:1
+2245 enorm 4:5
+2246 wast 9:5
+2247 disadvantag 9:2
+2248 gsf 7:4
+2249 delai 9:5 2:5
+2250 sbfsm 9:31
+2251 aic 9:1
+2252 defect 9:3 7:1
+2253 remaind 4:5
+2254 slower 9:2
+2255 incom 1:8
+2256 smallest 9:8
+2257 ishot 9:1
+2258 hotter 9:2
+2259 copyn 1:2
+2260 nsize 9:2
+2261 isdivid 9:2
+2262 isblock 1:1
+2263 submodul 3:1
+2264 judgment 0:315
+2265 arrai 5:9 8:8
+2266 align 1:2 7:1
+2267 characterist 4:37
+2268 lager 9:2
+2269 worth 9:1
+2270 judgement 9:1 0:1
+2271 symbol 4:11 2:8
+2272 coeffici 8:10 0:10
+2273 transmit 2:11 9:5
+2274 cach 9:6 2:3 5:1
+2275 socket 5:12
+2276 tcp 5:12
+2277 choke 9:1
+2278 slow 4:3 3:2
+2279 empti 3:9
+2280 begin 4:12
+2281 unblock 9:4
+2282 fuc 9:2
+2283 sfc 9:1
+2284 maximum 2:15 9:9 8:7
+2285 accur 4:13 7:8
+2286 neg 4:13
+2287 exact 7:4 4:2 9:1
+2288 wait 5:6
+2289 segment 8:160
+2290 fill 5:9 9:7
+2291 piec 9:4 3:2
+2292 ileft 9:2
+2293 ipiec 9:3
+2294 integ 7:6 8:2 4:2 2:2
+2295 isiz 9:1
+2296 slash 9:3
+2297 mark 9:8
+2298 chose 9:1
+2299 sixteen 0:2
+2300 obvers 9:1
+2301 equival 4:3 8:1
+2302 theoret 2:51
+2303 matter 4:6 8:1
+2304 heavier 9:1
+2305 conduc 9:1
+2306 count 4:9
+2307 macro 9:5
+2308 mbit 7:1
+2309 ran 4:2
+2310 written 3:5 5:3
+2311 reach 1:8 5:7 6:5
+2312 odefrag 9:1
+2313 fund 4:6
+2314 doctor 9:2 8:1
+2315 ministri 7:6 1:1
+2316 scholarship 1:1
+2317 intellig 4:26 5:10
+2318 jiyi 1:1
+2319 lingdi 9:1
+2320 ping 1:2
+2321 cognit 0:39
+2322 peng 9:5 7:4
+2323 post 8:11 1:9
+2324 telecom 8:8 2:4
+2325 giusepp 9:1
+2326 decandia 9:1
+2327 gunavardhan 9:1
+2328 kakulapati 9:1
+2329 dynamo 9:1
+2330 anlazon 9:1
+2331 sigop 9:1
+2332 tanenbaum 3:2
+2333 maarten 1:1
+2334 van 8:19
+2335 steen 9:1
+2336 tsinghua 7:11 4:5
+2337 chen 7:51 4:21
+2338 patent 4:138
+2339 dayang 9:1
+2340 nethod 9:1
+2341 zhitu 9:1
+2342 chunhui 1:1
+2343 feng 7:10
+2344 tate 5:4
+2345 inco 3:1
+2346 liang 8:7
+2347 cai 4:6
+2348 huang 8:29 4:6
+2349 smdp 9:1
+2350 tran 2:16 0:6 3:3
+2351 vehicular 9:1
+2352 xiao 9:2
+2353 chu 8:3 1:3
+2354 dirichlet 6:14
+2355 multinomi 6:16
+2356 icc 9:1
+2357 shanrong 9:1
+2358 yuelong 9:1
+2359 replica 9:9
+2360 jishou 1:1
+2361 fei 5:2
+2362 hongsheng 9:1
+2363 vod 9:1
+2364 hai 9:1
+2365 deqe 9:1
+2366 zou 9:3
+2367 placement 3:8
+2368 stream 8:15 4:6 1:3
+2369 ying 5:2
+2370 zhan 1:2
+2371 yong 4:2
+2372 jiong 1:1
+2373 xie 7:2
+2374 shu 4:2
+2375 yin 4:2
+2376 xiaojun 9:1
+2377 ruan 4:2
+2378 mapreduc 9:2
+2379 hadoop 9:3
+2380 sergei 2:3
+2381 gorlatch 9:3
+2382 dominik 9:1
+2383 meilaend 3:1
+2384 alexand 5:3
+2385 ploss 9:2
+2386 frank 5:2
+2387 glinka 9:2
+2388 muenster 9:3
+2389 email 6:4
+2390 meil 9:1
+2391 plotzer 9:1
+2392 glinkaf 9:1
+2393 uni 5:6
+2394 roia 9:35
+2395 leng 9:1
+2396 teract 2:3
+2397 charact 4:9 5:6
+2398 disconnect 9:1
+2399 rtf 9:49
+2400 middlewar 3:5
+2401 tar 9:1
+2402 gete 9:1
+2403 leas 9:11
+2404 scientif 4:28
+2405 astronomi 5:2
+2406 flow 1:48 8:17 5:4
+2407 tem 5:13 6:1
+2408 penalti 9:1
+2409 ser 5:2 9:1
+2410 vice 0:3
+2411 watch 9:1
+2412 elast 8:8
+2413 uti 9:1
+2414 lizat 4:1
+2415 suffici 4:5
+2416 behaviour 9:4 8:2
+2417 devel 2:3 9:1
+2418 opment 9:2
+2419 avatar 9:3
+2420 plicat 9:3
+2421 loop 5:6 9:4
+2422 tick 9:16
+2423 criterion 0:37
+2424 jor 9:1
+2425 replic 9:21
+2426 disjoint 4:1
+2427 rializ 9:1
+2428 marshal 4:1
+2429 unmarshal 9:1
+2430 opti 9:1
+2431 mize 9:1
+2432 hoster 9:1
+2433 hmi 9:5
+2434 command 5:17
+2435 mand 4:3
+2436 cation 3:6 0:2 9:1
+2437 cloudcontrol 9:5
+2438 compens 8:23 9:5
+2439 startup 9:4
+2440 distributioncontrol 9:7
+2441 pur 9:1
+2442 pose 7:9
+2443 roiaservercontrol 9:3
+2444 enact 9:10
+2445 profil 9:11 8:5
+2446 exce 4:7
+2447 drop 4:5
+2448 dispens 9:3
+2449 applica 3:5
+2450 timertask 9:2
+2451 regist 2:17
+2452 listen 5:4
+2453 frequenc 4:23 7:18
+2454 migrationpolici 9:2
+2455 activaterepl 9:2
+2456 impli 2:8
+2457 shut 9:3
+2458 basi 2:21 3:7 6:2 0:2
+2459 imm 3:1
+2460 diat 4:1
+2461 pro 5:24 3:2
+2462 rtfdemo 9:4
+2463 shooter 9:1
+2464 eucalyptu 9:3
+2465 duo 3:1
+2466 cento 3:1
+2467 imbalanc 9:1 1:1
+2468 scratch 4:3
+2469 unus 0:2
+2470 freeman 0:2
+2471 keahei 9:1
+2472 workspac 2:1
+2473 pilot 0:7
+2474 deelman 9:1
+2475 livni 9:1
+2476 montag 9:1
+2477 formanc 0:3
+2478 nae 2:1
+2479 iosup 9:1
+2480 prodan 0:1
+2481 fahring 9:1
+2482 multiplay 3:2
+2483 netgam 9:1
+2484 ieeexplor 3:2 5:1
+2485 stamp 3:10
+2486 jsp 1:9
+2487 arnumb 2:1
+2488 valent 9:1
+2489 conci 4:1 7:1
+2490 feijo 9:1
+2491 sbgame 9:1
+2492 brazilian 9:1
+2493 entertertain 9:1
+2494 ller 9:1
+2495 iden 3:2 9:1
+2496 multiserv 9:1
+2497 nurmi 9:1
+2498 wolski 0:1
+2499 grzegorczyk 9:1
+2500 chunlan 4:1
+2501 lcl 4:1
+2502 zhonghua 9:1
+2503 deng 7:4
+2504 colleg 7:33
+2505 guangxi 9:1
+2506 guilin 1:1
+2507 sim 6:7
+2508 dzh 6:1
+2509 mine 4:85
+2510 disciplin 4:8
+2511 coin 4:2
+2512 peopl 4:17 1:1
+2513 freer 4:1
+2514 wider 1:2
+2515 enrich 9:2
+2516 overcom 9:6
+2517 year 1:72
+2518 shape 7:59
+2519 purchas 3:14 1:14
+2520 outlai 9:1
+2521 wildli 9:1
+2522 revenu 1:5 8:4
+2523 nci 7:1
+2524 sharabl 9:1
+2525 concentr 1:7
+2526 simpler 6:2
+2527 oneself 4:1
+2528 promot 4:6
+2529 invest 1:40
+2530 printer 1:2
+2531 vender 9:1
+2532 surplu 9:1 1:1
+2533 technician 9:1
+2534 pollut 9:1
+2535 heighten 9:1
+2536 smoothli 1:2
+2537 safe 0:5 9:2
+2538 competitor 4:4
+2539 yesterdai 3:1
+2540 partner 1:9
+2541 todai 1:6
+2542 icw 9:2
+2543 beij 4:17
+2544 gae 9:2
+2545 apex 1:1 0:1
+2546 csf 1:19
+2547 sheet 1:5
+2548 python 9:1
+2549 compil 4:6
+2550 freeli 1:6
+2551 worri 4:2
+2552 super 9:3 7:2
+2553 sale 1:13 3:11
+2554 fee 7:3
+2555 inexpens 9:2
+2556 maxim 1:26 2:16
+2557 cut 4:6 7:2
+2558 span 5:5
+2559 priorit 1:1 9:1
+2560 seek 0:2 1:1
+2561 unlock 9:1
+2562 driven 1:7 8:5
+2563 pressur 4:3
+2564 thing 9:8
+2565 allevi 9:1 3:1
+2566 instantli 4:1
+2567 desktop 4:2
+2568 commod 9:1
+2569 light 7:10 1:4
+2570 greatest 6:3
+2571 phone 1:5
+2572 pda 5:4
+2573 forese 1:1
+2574 medium 1:11 7:1
+2575 spend 1:6
+2576 hous 4:6
+2577 eas 4:4
+2578 fewer 3:2 9:1
+2579 upgrad 1:16
+2580 synthes 2:4
+2581 impel 9:1
+2582 intersect 2:3 1:3
+2583 complement 3:3
+2584 voic 4:3
+2585 scene 8:19 4:3
+2586 cultur 7:5 1:4
+2587 social 6:31 0:15
+2588 perfect 0:5 7:2 4:2
+2589 ahead 9:3
+2590 safer 9:1
+2591 law 2:8
+2592 bind 9:4
+2593 govern 4:9
+2594 claim 1:2
+2595 citi 7:21
+2596 suppli 1:66 3:44
+2597 unabl 9:2
+2598 websit 9:2
+2599 constraint 5:16 8:11
+2600 troubl 4:18
+2601 disput 9:1
+2602 competit 1:23 4:20
+2603 manufactur 3:65 1:34
+2604 bought 9:2
+2605 threaten 9:1
+2606 declin 1:3
+2607 norm 4:4 7:3
+2608 unsubscrib 9:1
+2609 born 9:2
+2610 illeg 5:1
+2611 rajkumar 4:1
+2612 chee 9:1
+2613 srikumar 7:1
+2614 venugopa 9:1
+2615 birchler 2:1
+2616 monika 9:1
+2617 butler 1:1
+2618 taylor 7:3
+2619 franci 4:4
+2620 robert 7:6
+2621 grossman 4:1
+2622 lizh 9:1
+2623 jie 9:3
+2624 tao 7:5
+2625 marcel 9:1
+2626 kunz 9:1
+2627 francesco 8:1
+2628 maria 1:2
+2629 aymerich 1:1
+2630 gianni 9:1
+2631 fenu 1:1
+2632 simon 7:4 4:1
+2633 surci 4:1
+2634 geng 9:2
+2635 jinzi 9:1
+2636 glenn 9:1
+2637 dasmalchi 6:1
+2638 carl 9:1
+2639 hewitt 3:1
+2640 robust 8:62 2:3
+2641 friendli 9:4
+2642 neal 9:1
+2643 leavitt 9:1
+2644 brian 9:1
+2645 hay 6:2
+2646 erp 1:606
+2647 muhammad 4:1
+2648 rofi 4:1
+2649 imtihan 1:1
+2650 mohd 1:1
+2651 salihin 1:2
+2652 ngadiman 9:1
+2653 habibollah 1:1
+2654 haron 1:1
+2655 teknolog 1:3
+2656 malaysia 1:8
+2657 skudai 1:1
+2658 johor 1:1
+2659 muhammadrofi 1:1
+2660 yahoo 4:4
+2661 utm 1:3
+2662 habib 1:1
+2663 plan 1:154 5:70
+2664 vastli 1:1
+2665 repair 6:1
+2666 breakdown 2:1
+2667 deterior 1:3
+2668 unplan 1:2
+2669 labor 4:4
+2670 visibl 4:5
+2671 easier 4:5
+2672 employe 1:13
+2673 recogn 4:5
+2674 asset 1:7
+2675 evolutionari 1:3
+2676 ninth 4:3
+2677 aci 2:1
+2678 artifici 4:15
+2679 snpd 1:1
+2680 department 9:1
+2681 enter 3:6 0:4
+2682 chain 1:64 3:39
+2683 factori 0:3
+2684 ledger 1:2
+2685 interlink 3:1
+2686 inventori 1:18 3:7
+2687 mrp 1:16
+2688 financ 1:7 2:1
+2689 shop 4:15
+2690 releas 1:9
+2691 card 5:10
+2692 assembl 3:17
+2693 shopfloor 1:1
+2694 treasuri 4:1
+2695 plant 1:4 7:1
+2696 personnel 3:7
+2697 skill 0:11
+2698 workflow 1:20 4:1
+2699 evolut 4:5 7:4
+2700 translat 3:5 8:4
+2701 procur 1:3
+2702 floor 3:5
+2703 birth 5:2
+2704 scm 1:73
+2705 nowadai 5:4
+2706 strength 1:12
+2707 compier 1:1
+2708 bravo 1:1
+2709 tinyerp 9:1
+2710 histor 4:4
+2711 duffuaa 1:2
+2712 sap 3:3
+2713 bug 9:1
+2714 helpdesk 1:1
+2715 celest 1:5
+2716 carefulli 4:2
+2717 satisfact 1:9 0:1
+2718 percept 8:9 0:7 4:5
+2719 nikolopoulo 1:3
+2720 immedi 1:7
+2721 diagnost 5:18
+2722 repetit 4:2
+2723 compet 1:16
+2724 worldwid 1:3
+2725 accuraci 0:27 1:5 3:2
+2726 tech 4:13 7:1
+2727 option 5:5 1:4
+2728 reengin 1:5
+2729 redesign 1:4 7:1
+2730 sme 1:3
+2731 mosti 1:1
+2732 vot 1:1
+2733 blanchard 1:1
+2734 verma 9:1 8:1
+2735 rollin 3:1
+2736 tlairson 4:1
+2737 ecom 1:1
+2738 pdf 2:14
+2739 februari 2:6
+2740 dti 1:1
+2741 siriginidi 1:1
+2742 yuan 7:8
+2743 wen 5:5
+2744 hsien 4:1
+2745 exploratori 1:3
+2746 hawaii 4:2
+2747 gui 5:7
+2748 taizan 1:1
+2749 ismrg 1:1
+2750 australia 8:54 4:1
+2751 ben 7:3 1:1
+2752 daya 9:1
+2753 sultan 1:1
+2754 andijani 3:1
+2755 metaxioti 9:1
+2756 lekati 1:1
+2757 assimakopoulo 1:1
+2758 mabert 1:3
+2759 soni 7:5
+2760 venkataramanan 1:2
+2761 myth 1:1
+2762 horizon 1:1
+2763 defer 1:1
+2764 icait 9:1
+2765 gabl 1:1
+2766 priel 4:1
+2767 macdonald 1:1
+2768 evan 7:7
+2769 partnership 0:1
+2770 tediou 1:2
+2771 criteria 1:31 0:6
+2772 dematel 1:28
+2773 matur 1:8
+2774 nich 1:1
+2775 umbl 1:7
+2776 team 1:8
+2777 mashari 1:4
+2778 tight 1:1
+2779 link 4:21
+2780 budget 4:2
+2781 stress 4:1
+2782 upfront 0:1
+2783 pan 8:6 1:3
+2784 jang 7:3 4:2
+2785 perceiv 0:6
+2786 barrier 1:4
+2787 mcdm 1:3
+2788 graph 3:15 4:13 7:7
+2789 maker 1:4
+2790 japan 8:249
+2791 sei 1:5
+2792 hosseini 1:5
+2793 hori 1:2
+2794 shimizu 4:3
+2795 tzeng 1:5
+2796 intertwin 1:3
+2797 fuzzi 8:21 1:11
+2798 interrel 2:3
+2799 soundli 1:1
+2800 feedback 0:33 8:7
+2801 empir 1:29 2:6
+2802 apostolopoulo 8:3 1:2
+2803 pramatari 1:2
+2804 shuai 1:2
+2805 minghsin 2:1
+2806 jjshuai 4:1
+2807 extrem 4:7 5:2 3:1
+2808 oem 1:8
+2809 odm 1:8
+2810 brand 1:6
+2811 obm 1:4
+2812 firm 1:51
+2813 opricov 1:2
+2814 causal 1:8
+2815 viewpoint 2:2
+2816 workabl 4:1
+2817 grown 4:3
+2818 tremend 1:3
+2819 antagonist 1:1
+2820 phenomena 2:6
+2821 digraph 1:4
+2822 directionless 1:1
+2823 portrai 0:2
+2824 contextu 4:3
+2825 expert 4:21
+2826 ija 1:1
+2827 max 2:11
+2828 iji 1:1
+2829 acquir 5:8 1:6 0:1 8:1
+2830 column 5:18 6:3
+2831 promin 4:6
+2832 subtract 1:1
+2833 dataset 6:22
+2834 ieem 1:12
+2835 microelectron 1:2
+2836 probe 2:3
+2837 wafer 4:2
+2838 auto 4:5 3:2
+2839 prober 4:1
+2840 led 1:4
+2841 gtsm 1:1
+2842 miniatur 1:1
+2843 telecommun 8:14 5:4 0:1
+2844 bang 1:1
+2845 committe 1:6
+2846 compos 4:15
+2847 scree 1:1
+2848 interdepend 1:2
+2849 shelf 3:43
+2850 tend 1:4 5:2 0:2
+2851 radic 1:3
+2852 thrive 4:1
+2853 tackl 4:2
+2854 rational 1:2
+2855 ahn 7:4
+2856 ahp 0:2
+2857 badri 7:1
+2858 haft 1:1
+2859 mudimigh 1:2
+2860 zairi 1:2
+2861 nah 1:4
+2862 delgado 0:1
+2863 bueno 7:3 1:1
+2864 salmeron 1:1
+2865 safaei 4:2
+2866 asgharpour 1:2
+2867 repriorit 1:2
+2868 safeti 1:2
+2869 supervisori 1:1
+2870 chiang 7:3
+2871 ayag 1:1
+2872 ozdemir 1:1
+2873 anp 4:1
+2874 chiplunkar 1:2
+2875 deshmukh 1:2
+2876 chattopadhyai 1:2
+2877 compromis 0:22
+2878 vikor 1:1
+2879 topsi 4:1
+2880 gabu 1:2
+2881 fontela 1:2
+2882 invit 1:2
+2883 battel 1:1 0:1
+2884 geneva 1:7
+2885 centr 7:19 4:4
+2886 switzerland 7:32 8:10
+2887 problematiqu 1:1
+2888 bear 0:2
+2889 rfid 3:200
+2890 suresh 3:2
+2891 chalasani 3:14
+2892 rajendra 3:2
+2893 boppana 3:13
+2894 radio 3:5 8:4
+2895 distributor 3:32
+2896 retail 3:76
+2897 replenish 3:31
+2898 practition 4:4
+2899 epc 3:48
+2900 wirelesstechnolog 3:1
+2901 wild 3:1
+2902 anim 7:6
+2903 distanc 2:30 8:6 0:6
+2904 sight 3:1 5:1
+2905 scan 3:11 8:10
+2906 barcod 3:3
+2907 batteri 3:2
+2908 passiv 3:4 7:1
+2909 ical 3:3
+2910 reader 3:93
+2911 novemb 4:7
+2912 eia 4:1
+2913 cri 3:1
+2914 tii 3:2
+2915 wisconsin 8:13 3:3
+2916 parksid 3:1
+2917 kenosha 3:2
+2918 chalasan 3:1
+2919 uwp 3:1
+2920 texa 8:25 3:2
+2921 antonio 3:4
+2922 utsa 3:1
+2923 color 7:96 2:40 5:15
+2924 pallet 3:65
+2925 ware 3:2
+2926 lost 3:4
+2927 misplac 3:17
+2928 inven 3:1
+2929 tori 3:2
+2930 wal 3:2
+2931 mart 3:2
+2932 proctor 4:1
+2933 gambl 3:1
+2934 mandat 3:1
+2935 checkout 3:1
+2936 counter 6:5
+2937 man 0:27 3:4
+2938 ufactur 3:4
+2939 billion 5:2 3:2
+2940 dollar 3:3
+2941 literatur 1:33 4:7 2:1
+2942 healthcar 7:2 3:2
+2943 mentat 6:2
+2944 mit 3:8
+2945 markup 3:4
+2946 pml 3:2
+2947 scribe 4:4
+2948 sounderpandian 3:3
+2949 tail 3:2 2:2
+2950 mandviwalla 3:2
+2951 asif 3:2
+2952 transit 2:11 3:2
+2953 tutori 1:2
+2954 lem 5:4
+2955 traub 3:5
+2956 informa 4:2
+2957 consolid 3:1
+2958 prune 6:6
+2959 cha 3:1
+2960 lasani 3:1
+2961 alert 0:9 3:3
+2962 ohkubo 3:2
+2963 garfinkel 3:2
+2964 rieback 3:2
+2965 propa 3:1
+2966 virus 3:2
+2967 eckfeldt 3:2
+2968 rule 4:62
+2969 volum 7:16 2:11 3:7
+2970 sarma 3:4
+2971 sume 3:3
+2972 corr 5:4 3:3
+2973 spond 3:2
+2974 manu 3:3
+2975 factur 3:3
+2976 facil 5:9 3:6
+2977 truck 3:6
+2978 ciliti 3:2
+2979 warehous 3:19
+2980 movement 3:4 7:3
+2981 futurist 3:1
+2982 refriger 3:4
+2983 gen 3:3
+2984 erat 3:4
+2985 quest 3:2
+2986 url 3:2 6:1
+2987 infor 2:4 3:3
+2988 mation 3:4 2:3
+2989 tain 3:1
+2990 staff 5:3 1:3
+2991 plenish 3:3
+2992 fallen 3:1
+2993 reorder 3:2
+2994 eod 3:11
+2995 arriv 4:2 3:2
+2996 puter 5:4
+2997 channel 2:56 8:20
+2998 distri 3:1
+2999 bution 3:1
+3000 ograph 0:1
+3001 aisl 3:3
+3002 unload 3:2
+3003 pack 1:2 5:1
+3004 unpack 3:1
+3005 transac 3:3
+3006 readili 3:4
+3007 discount 6:1
+3008 adjac 3:2
+3009 isl 3:1
+3010 resolut 8:24 2:19 5:3
+3011 strongest 1:2
+3012 erag 3:1
+3013 offici 4:7
+3014 stock 1:11
+3015 sam 3:1
+3016 club 3:1
+3017 friger 3:1
+3018 scrambl 6:1
+3019 unscrambl 3:1
+3020 ble 3:4
+3021 pertain 2:2
+3022 ship 3:2
+3023 lookup 6:1
+3024 terpris 3:1
+3025 tailer 3:2
+3026 sold 3:21
+3027 rewritten 3:1
+3028 rewrit 3:1
+3029 tomer 3:3
+3030 mitig 3:1
+3031 kill 3:6
+3032 pseudonym 3:8
+3033 blocker 3:2
+3034 spam 3:1
+3035 unauthor 1:2
+3036 boolean 2:12
+3037 solu 3:1
+3038 null 5:5 3:1
+3039 tribut 1:1
+3040 nece 3:1
+3041 sitat 3:1
+3042 shelv 3:5
+3043 terabyt 3:2
+3044 arc 2:10 3:6
+3045 consecut 3:2
+3046 graphic 4:32
+3047 represent 4:21 8:14 7:14
+3048 restat 3:1
+3049 stai 3:4 2:2
+3050 eventu 4:2 1:1
+3051 underw 3:1
+3052 typ 3:1
+3053 prefix 3:1
+3054 brought 3:4
+3055 cor 5:5 3:3
+3056 multinod 3:3
+3057 loca 3:4
+3058 travers 3:8
+3059 sabotag 3:1
+3060 suspect 3:1
+3061 contin 3:1
+3062 uou 4:1
+3063 foul 3:1
+3064 cess 5:13 2:1 9:1
+3065 implic 4:7
+3066 incid 3:1
+3067 creas 4:3
+3068 repr 4:4
+3069 duce 3:1
+3070 vii 3:6 4:5
+3071 incor 3:1
+3072 porat 8:2 3:2
+3073 archi 3:6
+3074 tectur 3:6
+3075 tegrat 3:1
+3076 decentr 3:2
+3077 prise 3:3
+3078 spent 3:3
+3079 infrastruc 3:1
+3080 architec 6:1
+3081 nomin 3:2
+3082 gigabyt 3:1
+3083 tween 2:3 0:2
+3084 manufac 3:1
+3085 turer 3:1
+3086 vide 5:6 0:3
+3087 login 4:6
+3088 pict 3:1
+3089 prototyp 3:16 5:9
+3090 teska 3:3
+3091 racin 3:1
+3092 fictiti 3:1
+3093 veal 3:1
+3094 disabl 3:1
+3095 clude 3:3
+3096 drill 6:1
+3097 java 1:32 5:17
+3098 presen 3:1
+3099 tation 3:1 0:1
+3100 mysql 4:5
+3101 infrequ 4:1
+3102 pre 4:30
+3103 plement 4:3
+3104 coupl 5:9
+3105 lesson 3:3
+3106 corpor 8:62 1:18 3:8
+3107 organi 3:2
+3108 zation 3:2
+3109 soft 8:4 1:4
+3110 baan 3:1
+3111 peoplesoft 3:1
+3112 spreadsheet 6:1
+3113 comprehen 3:1
+3114 sive 6:1
+3115 orga 3:1
+3116 nizat 3:1
+3117 endors 7:2 3:1
+3118 unsur 3:1
+3119 yond 3:1
+3120 tional 0:5 3:1
+3121 viii 3:2
+3122 cumbersom 3:1
+3123 mal 3:2
+3124 bad 2:5
+3125 improp 3:4
+3126 malfunct 2:2
+3127 quir 3:2
+3128 mate 3:1
+3129 rial 3:1
+3130 government 3:1
+3131 food 3:1 2:1
+3132 drug 3:1
+3133 fda 3:1
+3134 discu 3:1
+3135 sion 4:4
+3136 compo 3:1
+3137 nent 3:1
+3138 dash 0:2
+3139 ilarli 3:1
+3140 notifi 3:1 5:1
+3141 invari 7:26 3:1
+3142 pri 3:1
+3143 vaci 3:1
+3144 circumst 5:4
+3145 clerk 3:4
+3146 speak 9:2 3:2
+3147 travel 7:2
+3148 prone 3:1
+3149 partic 0:4
+3150 ular 3:1
+3151 week 3:1
+3152 weekli 3:1
+3153 poisson 3:5
+3154 accu 0:3
+3155 trunk 3:1
+3156 ring 4:7
+3157 tributor 3:2
+3158 replen 3:4
+3159 ishment 3:4
+3160 indi 0:4
+3161 cate 0:4
+3162 tific 3:1
+3163 closer 0:5
+3164 prod 3:2
+3165 uct 3:1 5:1
+3166 nearbi 1:1
+3167 closest 0:2
+3168 optimiza 3:1
+3169 filter 2:104 8:52
+3170 duplic 6:2
+3171 ignor 3:3 0:2
+3172 discard 4:2
+3173 bene 6:1
+3174 highlight 4:4 8:3 0:3
+3175 cuss 3:1
+3176 intermitt 3:1
+3177 epcglob 3:4
+3178 hundr 5:2 3:1
+3179 impor 3:1
+3180 tanc 3:2
+3181 ist 7:6
+3182 corrobor 3:1
+3183 roi 5:26
+3184 shed 3:2
+3185 strong 4:10 8:1
+3186 brock 3:1
+3187 autoid 9:1
+3188 borriello 3:1
+3189 edi 3:2
+3190 torial 3:1
+3191 sep 3:3 0:3
+3192 america 8:10 3:3
+3193 amci 3:2
+3194 omaha 3:1
+3195 assoc 3:1
+3196 inf 3:2
+3197 syst 0:16
+3198 suzuki 3:1
+3199 kinoshita 5:1
+3200 crispo 3:1
+3201 cat 3:1
+3202 infect 2:1
+3203 viru 3:1
+3204 annu 0:6
+3205 percom 3:1
+3206 pisa 3:1
+3207 cmg 3:1
+3208 dec 5:4 0:3 3:1
+3209 trivedi 3:1
+3210 queu 4:1
+3211 nath 3:2
+3212 reynold 3:1
+3213 jan 0:8 3:2
+3214 merc 3:1
+3215 appl 3:3
+3216 sel 3:1 5:1
+3217 pappu 3:1
+3218 jun 4:10
+3219 stan 3:1
+3220 dard 3:1
+3221 tempor 7:18 6:8
+3222 vldb 3:1
+3223 trondheim 6:1
+3224 norwai 8:5
+3225 queue 3:3
+3226 alinc 3:1
+3227 arch 3:2
+3228 engi 3:1
+3229 neer 3:1
+3230 southern 8:7 3:3 6:1
+3231 angel 8:4 6:2 3:2
+3232 commerc 4:39
+3233 bioinformat 3:2
+3234 instruct 5:7 2:3 3:2
+3235 elec 3:1
+3236 tronic 4:1
+3237 mysor 3:2
+3238 indian 8:7
+3239 delhi 7:2
+3240 dod 3:1
+3241 aia 3:1
+3242 michailid 1:1
+3243 fotini 1:1
+3244 sergi 1:1
+3245 anthi 1:1
+3246 louki 1:3
+3247 euripidi 3:1
+3248 aegean 1:4
+3249 karlovassi 1:1
+3250 samo 1:1
+3251 fmichailid 1:1
+3252 elouki 1:1
+3253 icsdm 1:1
+3254 icsd 1:1
+3255 mid 1:4
+3256 debat 1:1
+3257 paradox 1:3
+3258 inconclus 1:1
+3259 deeper 0:1
+3260 epr 1:5
+3261 holland 1:3 0:2
+3262 panhellen 1:1
+3263 pci 5:3 1:2
+3264 shehab 1:3
+3265 outcom 0:11 4:8
+3266 misfit 1:2
+3267 inher 2:3 6:1
+3268 marnewick 1:2
+3269 labuschagn 1:2
+3270 mindset 4:1
+3271 outlin 1:3
+3272 poston 1:2
+3273 grabski 1:2
+3274 cog 1:1
+3275 residu 0:7
+3276 unaffect 1:1
+3277 hitt 1:3
+3278 multiyear 2:1
+3279 slowdown 1:1
+3280 reward 4:2
+3281 valuat 4:3
+3282 tobin 1:1
+3283 exceed 1:1
+3284 broadest 4:1
+3285 diseconomi 1:1
+3286 hunton 1:4
+3287 longitudin 1:2
+3288 peer 5:5 1:2
+3289 roa 1:4
+3290 turnov 2:1
+3291 ato 1:1
+3292 steadi 1:2
+3293 health 7:14
+3294 akkerman 1:2
+3295 delphi 5:3 1:3
+3296 dutch 1:1
+3297 assort 1:1
+3298 locu 3:1
+3299 driver 5:4
+3300 seat 0:2
+3301 bigger 4:4
+3302 regard 4:10
+3303 panel 1:1
+3304 modest 1:1
+3305 marketplac 1:1
+3306 nicola 1:5
+3307 bhattacharya 1:2 7:1
+3308 abandon 1:2
+3309 hypothes 2:8 0:3
+3310 contrari 1:2
+3311 hendrick 1:3
+3312 stronger 4:4
+3313 wieder 1:2
+3314 operationalis 0:1
+3315 scor 1:1
+3316 wier 1:2
+3317 joint 0:37 8:17 2:12
+3318 nfpi 1:7
+3319 complementari 1:1 8:1
+3320 cfss 1:7
+3321 experienc 0:4
+3322 cours 4:2
+3323 paragraph 1:2
+3324 cantu 0:2
+3325 estev 7:2 1:1
+3326 pastor 1:2
+3327 adequ 1:11
+3328 champion 1:3
+3329 tactic 0:3
+3330 outward 1:2
+3331 shoot 1:2
+3332 empow 5:2
+3333 legaci 1:3
+3334 lifecycl 4:2 1:1
+3335 eleven 1:1
+3336 teamwork 1:2
+3337 stori 7:3
+3338 introductori 7:1
+3339 explan 1:3
+3340 stakehold 1:1
+3341 converg 2:7
+3342 bogerd 1:1
+3343 yucesan 1:1
+3344 wassenhov 4:1
+3345 arvan 1:1
+3346 computer 1:4 7:3
+3347 workplac 1:1
+3348 labour 2:1
+3349 swiss 8:9 0:1
+3350 beheshti 2:1
+3351 botta 3:1 5:1
+3352 genoulaz 1:2
+3353 millet 1:2
+3354 grabot 1:2
+3355 brynjolfsson 1:2
+3356 thesi 4:2
+3357 mari 7:5
+3358 devaraj 1:2
+3359 kohli 1:1
+3360 payoff 1:2
+3361 care 4:6
+3362 unif 9:1
+3363 stratman 1:2
+3364 zhou 7:14
+3365 gibson 1:2
+3366 copenhagen 1:5
+3367 denmark 8:4 1:2
+3368 kawalek 1:1
+3369 lippincott 1:1
+3370 reck 1:2
+3371 sapouna 1:2
+3372 aivali 1:1
+3373 milioni 1:1
+3374 econometr 3:1
+3375 telemat 7:8
+3376 forthcom 1:1
+3377 melvil 1:1
+3378 gurbaxani 1:1
+3379 kraemer 1:2
+3380 regim 1:1
+3381 moon 5:4 7:2
+3382 lau 1:3
+3383 kuang 1:1
+3384 abi 1:1
+3385 organis 1:1
+3386 oecd 1:1
+3387 pari 8:18
+3388 roach 1:1
+3389 dilemma 1:1
+3390 sharp 8:13
+3391 supramaniam 4:2
+3392 sped 4:2
+3393 stolarick 1:1
+3394 censu 1:1
+3395 bureau 1:1
+3396 soto 2:1
+3397 acosta 1:1
+3398 merono 1:1
+3399 cerdan 1:1
+3400 strassman 1:2
+3401 canaan 1:2
+3402 connecticut 1:2
+3403 squander 1:1
+3404 yazdani 1:1
+3405 overend 3:1
+3406 booth 4:1
+3407 matolcsi 1:1
+3408 ossimitz 1:1
+3409 hassabelnabi 1:1
+3410 incent 1:1
+3411 complementar 1:1
+3412 countri 1:7
+3413 tungnan 2:1
+3414 xian 4:1
+3415 bobchen 1:1
+3416 tnu 9:1
+3417 yklin 2:1
+3418 ntust 1:1
+3419 preced 1:2
+3420 perfor 1:5 6:1
+3421 manc 1:6
+3422 impair 1:13
+3423 analys 0:12
+3424 searcher 9:1
+3425 tangibl 1:2
+3426 intang 1:2
+3427 hochstrass 1:1
+3428 dowlatshahi 1:2
+3429 skf 1:1
+3430 imper 0:1
+3431 questionnair 1:3
+3432 envelop 1:1
+3433 tobit 1:1
+3434 score 4:3
+3435 heurist 0:4 4:1
+3436 chand 1:2
+3437 scorecard 1:2
+3438 parasuraman 0:7
+3439 taguchi 1:1
+3440 shewhart 1:1
+3441 chart 4:4
+3442 rec 6:3
+3443 ogniz 0:1
+3444 convent 5:10
+3445 hurt 1:3
+3446 inspect 4:3 1:3
+3447 sink 1:1
+3448 compli 1:3 0:1
+3449 subject 4:14 0:5
+3450 unlimit 1:1
+3451 conserv 5:2
+3452 exam 1:2
+3453 destin 2:2
+3454 mpz 1:1
+3455 mpj 1:8
+3456 clariti 1:1
+3457 capciti 1:1
+3458 cmixi 1:1
+3459 rxii 1:1
+3460 inact 4:3
+3461 combinatori 8:1
+3462 lemma 1:5
+3463 firstli 4:7
+3464 unchang 1:2
+3465 subsect 2:4
+3466 margin 8:2 1:2
+3467 absolut 5:5 2:4
+3468 degrad 7:5 0:1
+3469 downgrad 4:1
+3470 arbitrarili 2:6 8:1
+3471 phenomenon 4:9
+3472 provement 9:1
+3473 phe 1:1
+3474 nomenon 1:1
+3475 harm 1:4
+3476 sensitiv 4:1
+3477 ampl 9:2 3:1
+3478 jone 7:7 6:1
+3479 young 5:5 1:2
+3480 vestig 1:1
+3481 sebastianelli 6:1
+3482 rishel 6:1
+3483 tsai 7:5
+3484 leu 1:2
+3485 chou 7:5
+3486 gao 7:10
+3487 tian 7:5
+3488 evalua 1:1
+3489 cybernet 0:12 7:1
+3490 ternat 4:2
+3491 lai 1:3
+3492 shiau 1:1
+3493 cheng 7:13
+3494 dea 1:1
+3495 hachei 1:1
+3496 owhoso 8:1
+3497 vasudevan 2:1
+3498 yeh 7:2
+3499 implementa 2:3
+3500 taiwanes 1:3
+3501 hwang 7:15
+3502 hung 4:2
+3503 yen 6:1
+3504 neural 7:32
+3505 pert 6:2
+3506 eswa 1:1
+3507 nologi 4:1
+3508 bangkok 5:6
+3509 thailand 5:9
+3510 linguist 1:1
+3511 ford 4:1
+3512 fulkerson 1:1
+3513 princeton 8:14 2:1
+3514 dongp 5:1
+3515 tang 7:6
+3516 qin 1:1
+3517 dptang 1:1
+3518 scut 4:1
+3519 wuqin 1:1
+3520 instrument 5:14
+3521 bud 1:1
+3522 bar 5:9 3:1
+3523 dss 4:1
+3524 intermedi 2:7 5:5
+3525 mistaken 1:1
+3526 instantan 4:1
+3527 spur 7:1
+3528 sophist 4:7
+3529 ice 1:1
+3530 confront 1:1
+3531 touch 5:5
+3532 tough 5:2
+3533 theme 4:1
+3534 coincid 0:2 2:1
+3535 foreign 4:4
+3536 absorb 4:2
+3537 mutual 2:29
+3538 obstacl 1:2
+3539 bpr 6:1
+3540 alik 0:1
+3541 broadli 1:1
+3542 socio 1:3
+3543 chanc 0:2 1:1
+3544 deduc 1:1
+3545 subservi 4:1
+3546 unfruit 1:1
+3547 uncertainti 0:16 2:14
+3548 genet 7:16
+3549 backbon 3:1
+3550 merit 5:2
+3551 worthwhil 1:1 2:1
+3552 hope 3:1
+3553 lipe 1:1
+3554 stefan 4:2
+3555 sherri 1:1
+3556 finnei 1:1
+3557 martin 7:4 5:4 8:2
+3558 corbett 1:1
+3559 koh 4:2
+3560 gunasekarani 1:1
+3561 angappa 6:1
+3562 gunasekaran 4:1
+3563 lenni 4:1
+3564 interlock 1:1
+3565 riezebo 4:1
+3566 wars 1:1
+3567 klingenberg 2:1
+3568 christian 7:3
+3569 hick 5:1
+3570 lean 1:1
+3571 chuck 1:1
+3572 charli 1:1
+3573 kee 3:1
+3574 kwahk 1:1
+3575 hyunchul 4:1
+3576 tor 2:5 1:1
+3577 larsen 4:1
+3578 multilevel 8:4
+3579 guang 1:1
+3580 kuei 1:1
+3581 gang 1:3 6:1
+3582 hongjiao 1:1
+3583 linyan 4:1
+3584 amrik 4:1
+3585 sohal 1:1
+3586 llu 4:1
+3587 santamar 4:1
+3588 nchez 7:2
+3589 manuel 1:1
+3590 nickel 1:1
+3591 susana 2:1
+3592 gago 1:1
+3593 rodr 1:1
+3594 guez 4:1
+3595 elaps 0:1
+3596 yasin 9:1
+3597 ozcelik 1:1
+3598 sammon 1:1
+3599 freder 1:1
+3600 adam 8:3
+3601 prepared 1:1
+3602 tarantili 4:1
+3603 kiranoudi 1:1
+3604 theodorakopoulo 0:1
+3605 shih 4:2
+3606 wei 7:6 1:1 0:1
+3607 intent 4:1
+3608 montenegro 4:4 8:3
+3609 belgrad 3:1
+3610 dumbrava 1:2
+3611 valova 1:2
+3612 agil 1:1
+3613 modular 8:3
+3614 subsystem 5:3 1:1
+3615 dispatch 1:4
+3616 bean 3:17
+3617 ejb 3:15
+3618 dimens 2:15
+3619 manageri 1:6 2:1
+3620 iasi 3:1
+3621 romania 8:4 3:1
+3622 fax 5:1
+3623 sdun 1:1
+3624 ibr 1:2
+3625 livac 3:1
+3626 tuiasi 3:1
+3627 rouss 1:1
+3628 bulgaria 1:1 0:1
+3629 jrenalec 3:1
+3630 ruacad 3:1
+3631 rapidli 3:7
+3632 disaggreg 4:1
+3633 plane 2:5 7:1
+3634 yellow 1:1
+3635 eurocon 3:1
+3636 correl 0:20 2:14 8:7
+3637 quantiti 1:27 3:3
+3638 gross 3:4
+3639 matric 2:7
+3640 explos 3:2
+3641 linkag 1:2
+3642 bom 1:11
+3643 parent 3:2
+3644 multipli 5:9
+3645 child 0:2
+3646 explod 3:2
+3647 hierarchi 3:3 7:2
+3648 subassembl 3:6
+3649 plain 1:1
+3650 text 4:38 7:8
+3651 pars 1:4
+3652 dom 1:5
+3653 deploy 3:5
+3654 applet 5:33
+3655 servlet 3:5
+3656 mvc 3:2
+3657 decoupl 3:1
+3658 encapsul 3:5
+3659 usabl 1:5
+3660 transient 2:2
+3661 exclus 2:2
+3662 asynchron 9:3
+3663 jdbc 0:1
+3664 round 2:11
+3665 trip 3:1
+3666 actor 3:2
+3667 stereotyp 1:1
+3668 invoic 1:2
+3669 persist 4:2
+3670 descriptor 7:17
+3671 discret 2:14 7:13
+3672 acquisit 8:7 4:6
+3673 entitl 3:1
+3674 portal 3:1
+3675 counsel 4:1
+3676 modem 5:1
+3677 multiti 7:1
+3678 blaha 1:1
+3679 premerlani 4:1
+3680 cheesman 3:1
+3681 daniel 1:1
+3682 addison 3:6
+3683 weslei 1:6
+3684 quatrani 3:1
+3685 rose 8:6 1:3
+3686 monson 0:1
+3687 haefel 9:1
+3688 sebastopol 3:1
+3689 reilli 8:3
+3690 proud 0:1
+3691 rehg 4:2
+3692 kraeber 9:1
+3693 senn 9:1
+3694 mcgraw 3:4
+3695 hill 8:5 3:3
+3696 steam 4:1
+3697 johnson 0:3
+3698 eetm 2:1
+3699 sipper 3:1
+3700 bulfin 1:1
+3701 vollman 7:1
+3702 berri 4:2 7:1
+3703 whybark 1:1
+3704 print 1:119 8:8
+3705 wenji 1:2
+3706 haoxu 1:2
+3707 ywj 1:2
+3708 bigc 1:2
+3709 modern 1:4
+3710 pursuit 8:13
+3711 calm 1:1
+3712 quotat 1:16
+3713 diversifi 1:3
+3714 schemat 1:3
+3715 quot 1:6
+3716 proper 9:2
+3717 scare 1:1
+3718 accord 1:5
+3719 distant 4:2 7:1
+3720 inquiri 1:5
+3721 sdk 1:2
+3722 tomcat 4:2
+3723 eclips 1:4
+3724 mainstream 4:2
+3725 window 5:38
+3726 unix 5:7
+3727 plug 5:29
+3728 supplementari 3:1
+3729 sort 2:7 6:4
+3730 menu 1:7 5:2
+3731 duti 4:2
+3732 temporarili 1:2
+3733 parser 5:3
+3734 domest 4:6 1:5
+3735 ufida 3:1
+3736 leaflet 1:1
+3737 decomposit 5:61 8:7
+3738 stocktak 4:1
+3739 monthli 4:2
+3740 requisit 4:2
+3741 subcontract 1:5
+3742 attend 0:3
+3743 salari 1:1
+3744 salesman 7:1
+3745 talk 4:4
+3746 arrang 1:2
+3747 shackl 1:1
+3748 kuand 9:1
+3749 anxieti 8:2
+3750 chengfang 9:1
+3751 rui 9:1 8:1
+3752 kang 8:9
+3753 pressroom 4:1
+3754 zhengwu 4:1
+3755 railroad 7:1
+3756 zhiyu 1:1
+3757 lei 7:9 5:4
+3758 yuje 1:2
+3759 jiao 4:2
+3760 mitch 1:1
+3761 amino 1:1
+3762 xumei 1:1
+3763 acclaim 1:1
+3764 academ 4:9
+3765 rough 1:13 8:1
+3766 rst 1:5
+3767 streamlin 1:2
+3768 boost 1:2
+3769 sweep 5:1
+3770 groundwork 1:1
+3771 tacit 4:3
+3772 undertak 1:1
+3773 bowersox 1:2
+3774 deep 4:3
+3775 outstand 4:1
+3776 scholar 4:5
+3777 chemic 1:1
+3778 pharmaceut 3:1
+3779 bioengin 0:1
+3780 automobil 6:1
+3781 pawlak 1:2
+3782 express 2:15
+3783 vagu 1:1
+3784 dimension 7:26 2:25 6:2
+3785 fen 1:1
+3786 chyan 0:1
+3787 hsin 1:3
+3788 imprecis 1:1
+3789 elementari 1:2
+3790 quadrupl 1:1
+3791 indiscern 1:1
+3792 pind 1:1
+3793 iff 1:1
+3794 ppy 1:2
+3795 ind 1:2
+3796 doubt 4:1
+3797 pbn 4:1
+3798 cardin 1:3
+3799 percentag 1:1
+3800 lose 0:3 1:1
+3801 classificatori 6:1
+3802 length 2:22
+3803 manpow 1:2
+3804 empower 1:2
+3805 moral 1:1
+3806 centuri 1:3
+3807 michigan 7:20
+3808 popul 2:5
+3809 likert 1:1
+3810 background 7:6 2:4
+3811 cronbach 1:1
+3812 alpha 1:2 7:1
+3813 neutral 1:5
+3814 complaint 1:1
+3815 coverag 1:4
+3816 approx 1:2
+3817 helpful 1:1
+3818 ellram 7:1
+3819 srinivasan 0:1
+3820 kekr 1:1
+3821 mukhopadhyai 0:1
+3822 jit 1:1
+3823 shipment 7:1
+3824 porter 4:4
+3825 stern 1:1
+3826 sloan 1:1
+3827 closs 1:2
+3828 stank 1:1
+3829 oak 4:2
+3830 brook 8:3
+3831 harvard 1:4 7:3
+3832 chesborough 1:1
+3833 teec 4:1
+3834 virtuou 1:1
+3835 davenport 1:1
+3836 mollenkopf 3:1
+3837 morash 1:1
+3838 lynch 1:1 8:1
+3839 predki 3:1
+3840 wilk 1:1
+3841 lectur 6:1 2:1
+3842 skowron 1:1
+3843 berlin 8:4 1:1
+3844 jdf 1:61
+3845 prepress 1:1
+3846 plate 8:3
+3847 ctp 5:1
+3848 strengthen 4:2
+3849 unpreced 1:1
+3850 abroad 4:3
+3851 confin 1:1
+3852 leader 1:3
+3853 hiflex 1:3
+3854 heidelberg 4:2
+3855 launch 4:1
+3856 prinect 1:1
+3857 prinanc 1:1
+3858 iciii 1:1
+3859 craft 1:6
+3860 chromat 2:19 5:2
+3861 thick 7:3
+3862 substanc 3:1
+3863 surfac 8:23
+3864 pyramid 8:6 2:3 4:1
+3865 hiberarchi 1:1
+3866 cip 1:3
+3867 remind 1:2
+3868 repli 1:1
+3869 routin 5:5
+3870 ink 1:1
+3871 profession 5:3
+3872 imag 5:997 8:637
+3873 javascript 1:1
+3874 sql 1:1
+3875 strictli 4:2
+3876 lan 5:7
+3877 notabl 6:1
+3878 enlarg 5:4
+3879 zhen 6:3
+3880 jinxin 1:1
+3881 huan 1:1
+3882 ierp 5:1
+3883 xianghui 8:1
+3884 zhigang 4:1
+3885 yajun 4:1
+3886 yaohong 1:1
+3887 hou 1:1
+3888 songtao 4:1
+3889 javaxml 1:1
+3890 machineri 4:1
+3891 lianga 9:1
+3892 atianjin 9:1
+3893 tianjin 9:5
+3894 rephenixli 9:1
+3895 yingyuan 9:1
+3896 xiaoa 9:1
+3897 jing 4:1
+3898 bkei 9:1
+3899 yingyuanxiao 2:1
+3900 registri 9:19
+3901 invoc 9:8
+3902 redistribut 9:1
+3903 loos 9:4
+3904 bottl 5:2
+3905 neck 5:2
+3906 uddi 9:3
+3907 advent 5:2
+3908 harsh 5:1
+3909 restrict 5:5
+3910 ineffici 5:1
+3911 ful 9:1
+3912 registr 8:16 5:6
+3913 discoveri 4:12 9:8
+3914 illumin 7:3
+3915 soa 5:3
+3916 requestor 9:3
+3917 caller 4:1
+3918 feel 9:1 8:1
+3919 soap 9:3
+3920 wsdl 9:5
+3921 shield 9:1
+3922 corba 4:1
+3923 jepg 5:1
+3924 bmp 5:3
+3925 gif 5:1
+3926 jpg 5:4
+3927 entranc 9:2
+3928 wifi 7:1
+3929 bluetooth 5:2
+3930 anti 9:5
+3931 gentl 5:3
+3932 malici 1:1
+3933 destruct 5:1
+3934 compress 8:111 5:54
+3935 wsda 9:6
+3936 resultset 9:1
+3937 viabil 6:1
+3938 laptop 5:3
+3939 mhz 5:3
+3940 win 2:3
+3941 pocket 5:1
+3942 wsipm 9:3
+3943 ccipm 9:3
+3944 sharpen 5:6
+3945 emboss 9:3
+3946 excess 9:1
+3947 superior 7:15
+3948 jcybjc 3:1
+3949 zxcxgx 4:1
+3950 yue 5:1
+3951 gesan 5:1
+3952 soli 3:1
+3953 jeng 9:1
+3954 lianjun 9:1
+3955 soca 5:1
+3956 newport 6:1
+3957 beach 5:1
+3958 hua 7:11
+3959 niu 5:1
+3960 chunlei 5:1
+3961 mechanm 1:1
+3962 jaeger 9:1 7:1
+3963 gregor 9:1
+3964 gero 9:1
+3965 monteri 6:1
+3966 christensen 5:1
+3967 curbera 4:2
+3968 meredith 9:1
+3969 webservic 1:1
+3970 jianq 4:1
+3971 huaimin 0:1
+3972 qwsdl 9:1
+3973 shengwen 9:1
+3974 meilin 5:1
+3975 duftler 5:1
+3976 khalaf 9:1
+3977 iciip 5:12
+3978 harshad 5:2
+3979 prajapati 5:2
+3980 dharmsinh 5:1
+3981 desai 5:2
+3982 nadiad 5:1
+3983 gujarat 5:2
+3984 sanjai 5:1
+3985 vij 5:1
+3986 director 5:1
+3987 sardar 5:2
+3988 vallabhbhai 4:2
+3989 patel 5:2
+3990 vasad 5:1
+3991 vijsanjai 9:1
+3992 scatter 4:5
+3993 beginn 5:4
+3994 concis 5:6
+3995 ongo 5:3
+3996 caption 6:1
+3997 vast 5:3
+3998 uneth 2:1
+3999 car 5:3 7:1
+4000 red 5:1
+4001 surveil 7:7
+4002 medic 5:62 8:17
+4003 textil 5:1
+4004 bio 5:3
+4005 agricultur 7:4
+4006 geolog 5:1
+4007 brain 2:12 8:4
+4008 neuron 2:8
+4009 interpret 4:7 5:3
+4010 standalon 5:3
+4011 manifold 2:2
+4012 pixel 5:71
+4013 nois 2:43 0:20
+4014 edg 8:35 5:22
+4015 contour 7:30 0:4
+4016 histogram 2:18 8:8
+4017 neighborhood 5:104
+4018 monad 5:2
+4019 dyadic 4:3
+4020 triadic 5:2
+4021 arithmet 5:8 2:3 8:2
+4022 surround 8:3 0:2
+4023 blur 2:15
+4024 crispen 7:1
+4025 fourier 7:11
+4026 dft 5:4
+4027 perceptu 8:14
+4028 recognit 7:68 5:11
+4029 simplest 4:3
+4030 pipelin 5:11
+4031 conceiv 5:2
+4032 proportion 4:1
+4033 stripe 5:3
+4034 helicoid 5:1
+4035 divis 0:3
+4036 tightli 5:2
+4037 throughput 8:3
+4038 gbp 5:1
+4039 flynn 5:4
+4040 sisd 5:1
+4041 simd 5:1
+4042 mimd 5:2
+4043 slave 5:7
+4044 philosophi 5:1
+4045 split 7:4
+4046 latenc 5:4
+4047 mpi 5:5
+4048 openmp 5:7
+4049 facto 5:2
+4050 fortran 5:1
+4051 cuda 5:8
+4052 nvidia 5:3
+4053 gpu 5:4
+4054 har 5:1
+4055 fluid 5:2
+4056 biologi 5:2
+4057 seismic 5:1
+4058 cilk 5:6
+4059 ansi 5:1
+4060 multithread 5:3
+4061 programm 5:8
+4062 tbb 5:5
+4063 matlab 5:9
+4064 toolbox 5:2
+4065 pct 5:3
+4066 mdc 5:2
+4067 usecas 5:1
+4068 layout 7:3 5:1
+4069 skew 8:3
+4070 tilt 2:2
+4071 crop 5:3
+4072 navig 5:14
+4073 predic 0:3
+4074 deceas 5:1
+4075 residenti 5:1
+4076 lake 5:4 2:2
+4077 annot 6:5 8:2
+4078 paralleliz 5:1
+4079 sequenti 5:7 2:1
+4080 skeleton 7:8 4:4
+4081 plugin 5:1
+4082 wrapper 5:2
+4083 worthi 5:2
+4084 subtask 5:4
+4085 coars 5:2
+4086 infanc 5:1
+4087 drag 5:2
+4088 contractor 5:3
+4089 grab 5:1
+4090 depth 7:8 4:8 5:2
+4091 unl 5:1
+4092 australian 7:2 5:2 2:1
+4093 ajiip 5:1
+4094 gonzalez 7:6
+4095 haykin 5:1
+4096 ptr 5:1
+4097 coulouri 4:1
+4098 dollimor 5:1
+4099 kindberg 9:1
+4100 longman 5:1
+4101 soviani 3:1
+4102 dissert 0:4
+4103 univ 0:8
+4104 delft 7:6
+4105 burkhardt 5:1
+4106 phoenix 0:1
+4107 sept 5:1
+4108 duncan 4:2
+4109 gropp 5:1
+4110 lusk 0:2
+4111 skjellum 5:1
+4112 slabaugh 9:1
+4113 boy 5:1
+4114 multicor 5:1
+4115 corner 5:2 7:1
+4116 nickol 5:1
+4117 buck 5:1
+4118 garland 5:1
+4119 skadron 6:1
+4120 siggraph 5:2
+4121 blumof 2:1
+4122 joerg 5:1
+4123 kuszmaul 3:1
+4124 leiserson 4:1
+4125 randal 5:1
+4126 threadingbuildingblock 6:1
+4127 icisa 5:1
+4128 sharma 7:4
+4129 hintz 5:1
+4130 spiral 5:1
+4131 crook 7:2 5:1
+4132 matsuo 5:1
+4133 nakada 5:1
+4134 iwata 5:1
+4135 vio 5:1
+4136 fourteenth 5:1
+4137 ckenhau 5:2
+4138 eckstein 7:1
+4139 spie 5:4
+4140 baumstark 2:1
+4141 seinstra 4:1
+4142 koelma 1:1
+4143 geusebroek 5:2
+4144 verster 5:1
+4145 smeulder 4:1 8:1
+4146 ipdp 5:1
+4147 rom 2:20
+4148 manolako 5:1
+4149 galatopoullo 0:1
+4150 funk 5:1
+4151 javaport 5:1
+4152 acoust 2:3 5:2
+4153 speech 2:12
+4154 icassp 5:1
+4155 czarnul 5:1
+4156 ciereszko 5:1
+4157 fraczak 4:1
+4158 gimp 4:1
+4159 hemalatha 5:1
+4160 athisha 9:1
+4161 jeyanthi 3:1
+4162 adcom 5:1
+4163 hast 5:1
+4164 kurc 5:1
+4165 langella 5:1
+4166 catalyurek 1:1
+4167 saltz 5:1
+4168 ccgrid 5:1
+4169 lim 7:4 5:2
+4170 niederl 5:1
+4171 goller 5:1
+4172 sixth 5:1
+4173 euromicro 2:2
+4174 synthesi 5:11 7:10 2:3
+4175 steve 5:3
+4176 chien 5:2
+4177 jet 5:2
+4178 propuls 5:3
+4179 grove 5:1
+4180 pasadena 5:2
+4181 chienqaig 4:1
+4182 gov 2:2
+4183 timiss 4:1
+4184 vicar 5:45
+4185 planner 5:15
+4186 mvp 5:37
+4187 multimiss 5:4
+4188 mipl 5:7
+4189 unspecifi 5:1
+4190 speci 4:1
+4191 nasa 0:6
+4192 alarm 0:5
+4193 pace 5:2
+4194 stituent 5:1
+4195 jpl 5:4
+4196 etari 5:1
+4197 flight 0:10
+4198 voyag 5:7
+4199 vike 2:1
+4200 magel 5:1
+4201 galileo 5:13
+4202 cassini 5:1
+4203 mission 5:1
+4204 ibi 5:1
+4205 land 7:3 5:2
+4206 sat 5:2
+4207 aeronaut 4:2
+4208 christin 5:1
+4209 shouyi 5:1
+4210 hsiao 2:3
+4211 alex 5:1
+4212 joe 5:2
+4213 nieten 5:1
+4214 jean 5:1 2:1
+4215 lorr 5:1
+4216 mislead 5:1
+4217 magellan 5:1
+4218 synthet 8:8
+4219 apertur 8:7
+4220 radar 7:11
+4221 earth 5:1
+4222 biomedicin 0:1
+4223 forens 5:1
+4224 labora 5:1
+4225 versiti 5:3 0:1
+4226 militari 5:4
+4227 aerospac 7:6 0:5
+4228 hiip 4:1
+4229 individ 0:2
+4230 ual 0:2
+4231 script 5:6
+4232 analyst 5:20
+4233 mosaic 7:13
+4234 movi 6:6
+4235 photometr 5:2
+4236 radiometr 5:9
+4237 camera 8:24 5:6
+4238 fillin 5:7
+4239 interpol 7:18 8:5
+4240 tjnfortun 5:1
+4241 treme 5:1
+4242 proce 5:5
+4243 dure 5:1
+4244 month 6:7
+4245 ana 5:2
+4246 lyst 5:1
+4247 jpi 2:1
+4248 novic 5:2
+4249 decompositio 9:1
+4250 executableb 5:1
+4251 segmeng 5:1
+4252 ilnfortun 5:1
+4253 siti 3:1
+4254 profici 3:1
+4255 modfrat 8:1
+4256 intelli 0:1
+4257 genc 5:1
+4258 cur 5:2
+4259 turnaround 5:1
+4260 freed 4:1
+4261 skelet 5:14
+4262 decompos 5:10 0:4
+4263 subproblem 5:7
+4264 deter 5:3
+4265 sult 5:1
+4266 ning 5:2
+4267 vention 5:1
+4268 tractabl 7:1
+4269 rea 5:1
+4270 pure 5:1
+4271 mosaick 5:11
+4272 tripl 0:6
+4273 correc 5:2
+4274 anno 3:1
+4275 trace 2:24
+4276 cast 0:2
+4277 molecular 2:37
+4278 registrat 5:1
+4279 ion 0:1
+4280 decom 5:2
+4281 increment 2:3 5:1 0:1
+4282 hlvp 5:2
+4283 refin 7:4 5:3
+4284 ini 5:1
+4285 tial 4:2
+4286 presenc 7:5 5:3
+4287 calibr 0:6
+4288 spacecraft 5:1
+4289 geometr 8:10 5:7 7:1
+4290 distort 7:28
+4291 geo 5:2
+4292 postpon 5:1
+4293 setlact 5:1
+4294 sevact 3:1
+4295 decomposi 3:1
+4296 tha 5:8
+4297 modal 5:29
+4298 straint 2:1
+4299 decompo 2:1
+4300 sition 0:2
+4301 galso 5:11
+4302 precondit 5:6
+4303 netric 5:1
+4304 codesign 5:1
+4305 limb 4:1
+4306 planet 9:1
+4307 voi 5:1
+4308 ager 5:2
+4309 erarch 4:1
+4310 yst 4:1
+4311 gct 5:1
+4312 articul 2:1
+4313 subarea 5:1
+4314 nsed 5:1
+4315 analvst 5:1
+4316 ner 5:2
+4317 owuld 5:1
+4318 subgoal 5:1
+4319 ptp 5:3
+4320 cide 4:1
+4321 subpart 5:1
+4322 undo 5:3
+4323 undon 2:1
+4324 offend 5:1
+4325 treatment 5:7
+4326 sider 5:4
+4327 fiknr 5:1
+4328 spike 5:8
+4329 lection 1:1
+4330 sribproblein 9:1
+4331 oyag 2:1
+4332 scriptth 4:1
+4333 hanil 5:1
+4334 terni 5:1
+4335 rue 2:2
+4336 vgrfillin 5:4
+4337 gllfillin 5:5
+4338 adespik 5:9
+4339 ficor 5:5
+4340 vgr 5:4
+4341 gll 5:3
+4342 edr 5:2
+4343 blemish 3:1
+4344 overflow 5:1
+4345 satur 5:4
+4346 header 5:4
+4347 interfer 5:4
+4348 adespiic 3:1
+4349 yoyag 9:1
+4350 scnsitiv 3:1
+4351 coniplex 4:1
+4352 stretch 5:4
+4353 typograph 5:1
+4354 substan 5:1
+4355 tialli 9:1
+4356 triplet 5:4
+4357 automa 0:8
+4358 chapman 0:3
+4359 conjunct 0:2
+4360 artzfica 5:1
+4361 intellza 5:1
+4362 tomat 0:8
+4363 thry 5:1
+4364 rect 5:1
+4365 iral 0:1
+4366 liminari 4:1
+4367 interna 0:2
+4368 iwasaki 4:1
+4369 friedland 5:1
+4370 sparcstat 5:1
+4371 motif 0:1
+4372 vax 5:1
+4373 diometr 7:1
+4374 lanski 5:1
+4375 fia 5:1
+4376 lavoi 2:1
+4377 avi 5:1
+4378 mortensen 5:1
+4379 wainio 5:1
+4380 ver 0:3
+4381 oratori 5:1
+4382 pembert 5:1
+4383 weld 5:1
+4384 ucpop 5:1
+4385 adl 5:1
+4386 knowl 4:3
+4387 stefik 5:1
+4388 molgen 5:1
+4389 guan 8:4 6:3 7:2
+4390 rahija 6:1
+4391 men 5:2
+4392 sydnei 7:12
+4393 nsw 5:1
+4394 utilis 9:1
+4395 transput 5:3
+4396 fore 0:4
+4397 ideal 2:2
+4398 acc 6:1
+4399 effi 9:1
+4400 cient 0:1
+4401 visionlab 5:4
+4402 ethernet 5:2
+4403 computation 6:6
+4404 gorithm 3:1
+4405 pat 0:2
+4406 tern 0:3
+4407 vanc 5:1
+4408 summaris 5:1
+4409 tocol 5:1
+4410 mote 6:1
+4411 congest 9:1
+4412 phasi 5:1
+4413 seg 5:1
+4414 devis 2:5 5:2
+4415 straction 5:1
+4416 aid 0:14
+4417 compati 5:1
+4418 mbyte 5:5
+4419 dram 5:1
+4420 peripher 9:1 7:1
+4421 svga 4:1
+4422 ether 4:1
+4423 focuss 5:1
+4424 hur 5:1
+4425 dle 5:1
+4426 microprocessor 1:2
+4427 dlesign 2:1
+4428 older 5:1
+4429 newer 5:2
+4430 isfi 2:1
+4431 xwin 5:1
+4432 dow 5:2
+4433 fortun 5:2
+4434 plenti 5:1
+4435 multitask 9:1
+4436 preemptiv 5:2
+4437 compliant 4:2
+4438 recompil 5:2
+4439 plexiti 7:1
+4440 stract 5:2
+4441 modularis 1:1
+4442 exposur 5:1
+4443 push 1:1
+4444 infin 2:1
+4445 visualis 4:9
+4446 maximis 3:1
+4447 owl 5:2
+4448 borland 5:6
+4449 pendent 5:1
+4450 insul 1:1
+4451 pare 2:2
+4452 empha 5:1
+4453 handler 3:1
+4454 schedtnler 5:1
+4455 mdi 8:1
+4456 mediat 5:6
+4457 particnlar 5:1
+4458 packet 8:11
+4459 subdivid 5:1
+4460 slice 5:1
+4461 robin 5:1
+4462 preempt 9:1
+4463 operat 9:1
+4464 fect 9:1
+4465 sic 8:6
+4466 rep 5:1
+4467 resent 9:1
+4468 bitmap 5:9
+4469 dib 5:2
+4470 colour 7:13
+4471 nal 5:1
+4472 circular 7:5 4:4
+4473 filenam 5:3
+4474 sequent 5:1
+4475 distributi 9:1
+4476 ecut 4:1
+4477 tcpi 5:1
+4478 exec 5:1
+4479 sponsibl 5:1
+4480 pute 5:3
+4481 essenc 4:4
+4482 envi 0:4
+4483 ronment 0:4
+4484 chine 5:1
+4485 rcp 5:1
+4486 talli 9:1
+4487 commuiiic 4:1
+4488 liter 4:3
+4489 globe 1:1
+4490 munic 5:1
+4491 rou 5:1
+4492 tine 5:1
+4493 heavili 4:3 8:1
+4494 influel 3:1
+4495 analog 2:8
+4496 liteial 5:1
+4497 mammogram 7:5
+4498 microcalcif 7:3
+4499 tirn 1:1
+4500 crai 5:1
+4501 lossless 8:33
+4502 compr 9:1
+4503 schowengerdt 5:1
+4504 mehldau 5:1
+4505 macintosh 3:1
+4506 inmo 5:1
+4507 farm 5:1
+4508 datubook 9:1
+4509 comer 1:1
+4510 internetwork 5:1
+4511 englewood 5:6
+4512 cliff 5:6
+4513 jer 5:1
+4514 steven 8:3
+4515 sachusett 5:1
+4516 kauler 1:1
+4517 programmzng 1:1
+4518 odel 5:1
+4519 stroustrup 5:1
+4520 ghezzi 8:1
+4521 jazayeri 5:1
+4522 mandrioli 5:1
+4523 fundamen 5:1
+4524 tal 8:3
+4525 engl 5:1
+4526 jai 5:21
+4527 weifeng 5:4
+4528 hangzhou 6:2
+4529 mawf 4:1
+4530 lrei 3:1
+4531 mao 4:3 7:1
+4532 keji 9:1
+4533 maokj 5:1
+4534 zjut 5:1
+4535 impetu 5:1
+4536 hotspot 4:3
+4537 fat 5:2
+4538 activex 4:3
+4539 kit 5:1
+4540 transplant 1:1
+4541 environment 0:20
+4542 esiat 5:1
+4543 renderedimag 5:4
+4544 renderedop 5:2
+4545 dot 1:1
+4546 parameterblock 5:3
+4547 snippet 5:1
+4548 workbench 6:1
+4549 jdialog 5:1
+4550 jtoolbar 5:3
+4551 jtree 5:3
+4552 jcompon 5:2
+4553 jlabel 5:1
+4554 jmenubar 5:3
+4555 mdip 5:2
+4556 javax 5:3
+4557 swing 5:3
+4558 japplet 0:1
+4559 gether 5:1
+4560 datatool 5:3
+4561 imagetool 5:3
+4562 workspacetre 5:4
+4563 imageeyesdisplai 5:3
+4564 imagedisplai 5:3
+4565 roam 4:1
+4566 zoom 5:6
+4567 narrow 7:1
+4568 calss 5:1
+4569 eagl 5:2
+4570 string 4:6
+4571 src 5:1
+4572 fileload 5:1
+4573 addsourc 5:1
+4574 andconst 5:2
+4575 rotat 5:14 7:4
+4576 shear 6:1
+4577 andmul 5:1
+4578 div 9:1
+4579 laplacian 8:2 6:1
+4580 puruiv 4:1
+4581 sobel 5:2
+4582 invers 8:10
+4583 sandbox 1:1
+4584 defaultli 5:1
+4585 propertypermiss 5:1
+4586 dir 9:1
+4587 runtimepermiss 7:1
+4588 modifythread 1:1
+4589 modifythreadgroup 1:1
+4590 exitvm 5:1
+4591 socketpermiss 4:1
+4592 filepermiss 5:1
+4593 jni 5:4
+4594 landsat 1:1
+4595 lanset 0:1
+4596 dll 5:2
+4597 jniexport 8:1
+4598 jobjectarrai 4:2
+4599 jnical 4:1
+4600 jmethod 5:2
+4601 cooccurr 5:2
+4602 jnienv 5:1
+4603 jobject 5:1
+4604 obj 9:1
+4605 loadlibrari 5:1
+4606 kesselman 5:1
+4607 shyu 5:1
+4608 haruechaiyasak 7:1
+4609 directori 0:1
+4610 weihong 5:1
+4611 jiamei 5:1
+4612 cen 5:1
+4613 zhanfeng 4:1
+4614 zhiyi 5:1
+4615 ect 5:1
+4616 geocomput 5:1
+4617 iccs 5:1
+4618 teleradiolog 5:21
+4619 piyama 5:4
+4620 suapang 5:3
+4621 king 5:4
+4622 mongkut 5:4
+4623 ladkrabang 5:2
+4624 rsu 5:1
+4625 kobchai 5:3
+4626 dejhan 5:2
+4627 kmitl 4:1
+4628 surapun 5:2
+4629 yimmun 5:2
+4630 north 7:9 0:2
+4631 sym 5:2
+4632 dicom 5:61
+4633 php 5:2
+4634 viewer 5:12
+4635 multifram 5:15
+4636 mishap 5:1
+4637 interfil 5:4
+4638 dcm 5:2
+4639 diseas 5:30
+4640 canni 5:6
+4641 glomerular 5:3
+4642 filtrat 5:3
+4643 gfr 5:3
+4644 renal 4:5
+4645 plasma 5:3
+4646 erpf 5:3
+4647 renogram 5:3
+4648 radiolog 5:8
+4649 mri 8:9 2:3
+4650 inconveni 5:1
+4651 width 1:1 2:1
+4652 pac 5:5
+4653 lossi 8:10 5:8
+4654 tone 5:2
+4655 draft 5:3
+4656 wavelet 8:141
+4657 ezdicom 5:4
+4658 availa 5:1
+4659 tencon 5:2
+4660 visualbas 5:1
+4661 uncompress 5:2
+4662 grayscal 8:2
+4663 genesi 5:1
+4664 magnetom 4:1
+4665 somatom 5:1
+4666 nema 5:4
+4667 physician 5:3
+4668 newest 5:1
+4669 diagnosi 5:14
+4670 clinic 5:9 0:4
+4671 patient 5:17
+4672 consol 5:1
+4673 chip 5:36
+4674 avicap 5:1
+4675 acr 5:2
+4676 american 8:2 4:1
+4677 irrespect 5:2
+4678 dissimilar 6:1 0:1
+4679 dlcom 5:4
+4680 yyyi 5:2
+4681 iod 5:5
+4682 dims 5:1
+4683 clarifi 5:1
+4684 implicit 4:4
+4685 cure 5:2
+4686 thirdli 5:1
+4687 stimul 3:1
+4688 dictionari 7:4
+4689 chest 5:2
+4690 deciph 5:1
+4691 baselin 5:4
+4692 cosin 8:7
+4693 dct 8:32 5:8
+4694 imageri 8:23
+4695 quantiz 8:37
+4696 huffman 5:2
+4697 entropi 2:129
+4698 embodi 5:2
+4699 emin 5:1
+4700 watermark 8:82
+4701 motion 8:118
+4702 biock 5:1
+4703 tile 5:6
+4704 subimag 5:2
+4705 dwt 8:3 5:2
+4706 mpeg 8:50
+4707 mask 2:48
+4708 polygon 7:10
+4709 hospit 7:30
+4710 dim 5:2
+4711 bright 2:2 5:1
+4712 darkest 4:1
+4713 brightest 5:1
+4714 shade 5:2 6:1
+4715 rectangl 5:3
+4716 ellips 4:3
+4717 rdbm 6:2
+4718 opt 5:1
+4719 tune 0:1
+4720 whilst 5:1
+4721 accessor 5:1
+4722 sec 2:8
+4723 jeg 5:2
+4724 rmse 5:5
+4725 squar 2:5
+4726 yxgyxf 4:1
+4727 icon 3:1
+4728 dock 3:1
+4729 nuclear 5:3 7:1
+4730 medicin 5:7 7:3
+4731 xpert 5:1
+4732 notebook 2:1
+4733 cine 7:1
+4734 webboard 6:1
+4735 instructor 5:1
+4736 friend 4:1
+4737 icro 2:1
+4738 sice 5:1
+4739 fukuoka 3:1
+4740 congress 4:1
+4741 sph 4:1
+4742 comd 6:1
+4743 rorden 5:3
+4744 chandrashekar 5:1
+4745 gautam 5:1
+4746 sriniva 5:1
+4747 vijayananda 8:1
+4748 cbm 5:1
+4749 brigham 5:1 8:1
+4750 salt 5:1
+4751 utah 7:3 9:1
+4752 nnd 4:1
+4753 revet 5:1
+4754 cook 5:1
+4755 nederland 5:1
+4756 philip 8:42
+4757 chai 7:4
+4758 bouzerdoum 5:2
+4759 zealand 8:3
+4760 pennebak 1:1
+4761 mitchel 7:3
+4762 nostrand 5:1
+4763 reinhold 5:1
+4764 itu 5:1
+4765 foo 5:1
+4766 muka 5:1
+4767 edward 8:1 4:1
+4768 slone 5:1
+4769 richard 5:1
+4770 erickson 5:1
+4771 bradlei 5:1
+4772 clunic 5:1
+4773 hildebrand 5:1
+4774 lloyd 5:1 8:1
+4775 kohm 5:1
+4776 kevin 5:1
+4777 blain 3:1
+4778 sicgel 5:1
+4779 skodra 5:2
+4780 christopoulo 7:4
+4781 ebrahimi 8:3
+4782 upcom 5:1
+4783 portugues 5:1
+4784 recpa 5:1
+4785 porto 5:1
+4786 portug 8:27
+4787 bolick 5:1
+4788 internationl 5:1
+4789 jtci 3:1
+4790 wgi 5:1
+4791 randi 5:1
+4792 crane 5:1
+4793 processs 7:1
+4794 oosterwijk 6:1
+4795 herman 9:1
+4796 paul 4:2
+4797 gihr 4:1
+4798 otech 4:1
+4799 aubrei 4:1
+4800 hae 6:1
+4801 komip 1:1
+4802 telemedicin 5:4
+4803 wolfgang 9:1
+4804 krug 5:1
+4805 chri 5:2
+4806 psycholog 0:7
+4807 nottingham 7:3
+4808 eugenia 5:2
+4809 polit 7:9
+4810 slaymak 5:2
+4811 simpson 4:2
+4812 oxford 0:2 5:1
+4813 comlab 5:1
+4814 makedonia 8:1
+4815 palac 8:1
+4816 hotel 8:1
+4817 thessaloniki 8:35
+4818 copyright 8:14
+4819 photocopi 8:2
+4820 patron 8:2
+4821 cani 7:1
+4822 bottom 8:4
+4823 clearanc 8:2
+4824 rosewood 8:2
+4825 danver 5:2
+4826 republ 7:3
+4827 hoe 7:2
+4828 lane 7:2
+4829 piscatawai 8:2
+4830 titl 7:2
+4831 opinion 4:5
+4832 dissemin 7:3
+4833 aspres 8:1
+4834 socieq 8:1
+4835 catalog 8:2
+4836 isbn 8:6
+4837 microfich 8:2
+4838 issn 8:2
+4839 editori 7:2
+4840 billen 8:2
+4841 mercer 7:2
+4842 sara 7:2
+4843 wingfield 8:4
+4844 jame 8:2
+4845 maoo 7:1
+4846 plenari 8:6
+4847 metakid 8:1
+4848 union 7:1
+4849 spars 7:6
+4850 bruckstein 5:1
+4851 technion 7:9
+4852 israel 8:31
+4853 elad 8:1
+4854 jigami 8:1
+4855 curvelet 7:2
+4856 denois 8:22
+4857 cand 8:1
+4858 hstitut 7:2
+4859 multiscal 8:16
+4860 cohen 7:5
+4861 matei 3:1
+4862 pierr 5:1
+4863 curi 7:2
+4864 franc 8:208
+4865 bandelet 7:1
+4866 pennec 8:2
+4867 mallat 7:2
+4868 cmap 5:1
+4869 ecol 8:9 0:2
+4870 polytechniqu 8:5
+4871 orchard 8:7
+4872 rice 8:17
+4873 piecewis 7:4
+4874 dragotti 7:3
+4875 shukla 7:1
+4876 epfl 8:23
+4877 vetterli 7:7 8:1
+4878 iuetriev 3:1
+4879 semant 8:10 4:9
+4880 mojsilov 7:2
+4881 rogowitz 7:2
+4882 watson 7:16
+4883 pennsylvania 7:7
+4884 grecu 8:2
+4885 lap 7:5
+4886 politehnica 8:2
+4887 bucarest 2:1
+4888 lambert 7:3
+4889 savoi 8:3
+4890 multispectr 7:7 8:1
+4891 uchiyama 7:1
+4892 yamaguchi 8:3
+4893 ohyama 8:1
+4894 mukawa 0:1
+4895 kaneko 7:10
+4896 toho 7:1
+4897 svm 5:2
+4898 urbana 8:41
+4899 champaign 8:40
+4900 lzquierdo 8:1
+4901 queen 8:8
+4902 kingdom 8:126
+4903 xii 8:1
+4904 jayant 7:1
+4905 georgia 8:30 0:4
+4906 tulan 7:1
+4907 lip 8:5
+4908 tracker 8:1
+4909 initialis 8:1
+4910 sadeghi 8:1
+4911 kittler 8:2
+4912 messer 7:2
+4913 surrei 7:5
+4914 hari 8:2
+4915 efstratiadi 7:2
+4916 maglavera 7:2
+4917 aristotl 7:33
+4918 unsupervis 8:14
+4919 textur 8:65
+4920 roula 8:1
+4921 bouridan 8:3
+4922 amira 7:1
+4923 sage 8:2
+4924 milligan 7:1
+4925 belfast 8:5
+4926 nonrigid 8:2
+4927 mixtur 8:7 6:6 2:5 7:2
+4928 everingham 7:1
+4929 thoma 7:6
+4930 bristol 8:22
+4931 ear 8:3
+4932 kapralo 7:1
+4933 jenkin 8:1
+4934 milio 0:1
+4935 dalhousi 7:2
+4936 tsotso 7:2
+4937 spectral 7:8 8:3
+4938 universi 8:1
+4939 ohio 7:3
+4940 srivastava 8:3
+4941 hyperspectr 7:8
+4942 kwon 8:7
+4943 nasrabadi 8:5
+4944 armi 8:4
+4945 virginia 7:8 0:3
+4946 havlicek 7:2
+4947 oklahoma 8:4
+4948 acton 7:7
+4949 pattichi 7:5
+4950 mexico 7:7
+4951 kusuma 2:1
+4952 doherti 7:1 0:1
+4953 ramchandran 8:4
+4954 fractal 8:18
+4955 kopilov 8:1
+4956 saup 7:3 4:1
+4957 hamzaoui 8:3
+4958 guionnet 7:1
+4959 guillemot 8:3
+4960 pateux 8:3
+4961 irisa 8:8
+4962 inria 7:17
+4963 xiii 8:2
+4964 unequ 7:5
+4965 stankov 7:3
+4966 stockhamm 7:4
+4967 weiss 8:1
+4968 munich 7:4
+4969 noisi 2:10 7:6
+4970 punctur 7:1
+4971 convolut 5:15 2:6
+4972 trelli 8:3 7:1
+4973 channappayya 7:1
+4974 arizona 8:13
+4975 abousleman 8:1
+4976 motorola 7:6
+4977 iisg 8:1
+4978 karam 7:2
+4979 seigneurbieux 8:1
+4980 xiong 7:3
+4981 markman 2:1
+4982 malah 7:2
+4983 optimum 7:6
+4984 skin 8:4
+4985 albiol 8:5
+4986 universidad 8:40
+4987 cnica 8:5 7:3
+4988 valencia 7:6
+4989 spain 8:69 7:1
+4990 torr 7:7
+4991 universitat 7:22
+4992 polittcnica 7:1
+4993 catalunya 8:5 7:2
+4994 delp 8:6
+4995 purdu 7:18
+4996 weijer 4:1
+4997 gever 8:3
+4998 ofamsterdam 7:1
+4999 netherland 7:37
+5000 angular 7:1
+5001 snake 8:4
+5002 dumitra 7:2
+5003 venetsanopoulo 2:8
+5004 toronto 7:7
+5005 lucches 7:8
+5006 mitra 8:11
+5007 barbara 8:20
+5008 hypercomplex 7:3
+5009 sangwin 7:3
+5010 essex 8:9
+5011 ell 8:3
+5012 alia 7:1
+5013 cancel 8:2
+5014 glotzbach 7:1
+5015 schafer 5:2
+5016 illgner 7:1
+5017 siemen 8:8
+5018 markov 7:18
+5019 xuan 8:1
+5020 tongji 2:2
+5021 coroug 7:1
+5022 barillot 8:1
+5023 cnr 7:32 2:1
+5024 grenand 8:2
+5025 chua 8:1
+5026 xiv 7:2
+5027 ica 7:2
+5028 beckman 7:11
+5029 moghaddam 7:3
+5030 mitsubishi 8:7 7:4
+5031 champa 7:1
+5032 ign 7:1
+5033 subband 8:8
+5034 canagarajah 7:10
+5035 bull 7:11 0:4
+5036 bayesian 8:14
+5037 knot 4:2
+5038 spline 8:3
+5039 mamic 7:1
+5040 bennamoun 7:3
+5041 queensland 7:8
+5042 parametr 7:10 2:8
+5043 menegaz 8:2
+5044 lcav 8:2
+5045 dsc 7:1
+5046 spatiotempor 7:1
+5047 partsinevelo 8:1
+5048 stefanidi 8:3
+5049 agouri 7:3
+5050 propag 7:9
+5051 nevada 7:3
+5052 reno 7:1
+5053 renssela 8:12
+5054 robertson 4:2 2:1
+5055 stevenson 8:1
+5056 notr 8:3
+5057 dame 8:3
+5058 hedayat 8:1
+5059 nosratinia 8:2
+5060 dalla 7:1 8:1
+5061 morpholog 7:18 2:10
+5062 zheng 8:6
+5063 maryland 8:14
+5064 kanungo 4:1
+5065 almaden 8:2
+5066 centel 7:4
+5067 ellipt 7:2
+5068 eom 7:4
+5069 georg 8:4
+5070 washington 8:20 4:1
+5071 deconvolut 8:6
+5072 jalobeanu 7:2
+5073 unsa 7:9
+5074 kingsburi 8:7
+5075 zerubia 8:4
+5076 inritvunsa 7:1
+5077 froba 7:2
+5078 kastner 8:1
+5079 zink 7:1
+5080 kiiblbeck 8:2
+5081 farunhof 0:1
+5082 circuit 2:16
+5083 biolog 7:4
+5084 guerin 7:1
+5085 dugu 8:1
+5086 biernacki 7:1
+5087 franch 7:1
+5088 comt 8:1
+5089 herault 8:1
+5090 inpg 8:1
+5091 magnitud 2:29
+5092 irregularli 8:3
+5093 bone 7:1 8:1
+5094 blakelei 8:1
+5095 canterburi 7:1
+5096 millan 7:1
+5097 kalman 8:6
+5098 zumpolo 7:1
+5099 seara 8:1
+5100 tobia 7:1
+5101 lins 7:1
+5102 catrina 7:1
+5103 brazil 7:29
+5104 fish 7:2
+5105 angl 2:21
+5106 len 0:24 7:2
+5107 brauer 7:1
+5108 burchardt 8:1
+5109 voss 7:2
+5110 friedrich 8:2
+5111 schiller 7:2
+5112 jena 2:1 5:1
+5113 cumul 0:2
+5114 vural 7:2
+5115 madison 8:7
+5116 tull 7:3
+5117 dvip 8:1
+5118 outlier 8:1
+5119 nonsmooth 2:1
+5120 fidel 7:1
+5121 nikolova 7:2
+5122 enst 7:9
+5123 curl 4:1
+5124 pilu 7:1
+5125 hewlett 7:14
+5126 packard 7:14
+5127 blind 8:14
+5128 aiazzi 7:2
+5129 baronti 8:3
+5130 iro 7:2
+5131 alparon 7:3
+5132 florenc 7:10
+5133 tennesse 7:6
+5134 paik 7:4
+5135 ang 8:4
+5136 smkf 7:1
+5137 rao 8:3 2:2
+5138 swami 7:2
+5139 plotkin 9:1
+5140 concordia 8:4
+5141 clgassif 7:1
+5142 reinder 8:2
+5143 biemond 8:1
+5144 convex 7:2
+5145 inexact 7:1
+5146 combett 8:1
+5147 universitk 8:1
+5148 idierr 8:1
+5149 gezici 6:1
+5150 yilmaz 7:1
+5151 bilkent 8:1
+5152 turkei 7:13
+5153 gerek 7:1
+5154 anadolu 7:1
+5155 cetin 7:2
+5156 sabanc 7:1
+5157 tegolo 7:1
+5158 universita 7:17
+5159 palermo 8:1
+5160 isgrh 7:1
+5161 heriot 8:2
+5162 watt 7:2
+5163 triantafyllidi 8:1
+5164 tzovara 7:3
+5165 strintzi 7:11
+5166 oktem 7:1
+5167 tamper 7:12
+5168 finland 8:14 7:1
+5169 katkovnik 8:1
+5170 kwangju 8:5
+5171 egiazarian 8:2
+5172 astola 7:3
+5173 quadrat 7:1 2:1
+5174 hong 8:46 7:19
+5175 kong 7:60
+5176 karkani 7:2
+5177 athen 7:18
+5178 magoula 7:1
+5179 brunel 7:1
+5180 lakovidi 7:2
+5181 karra 7:2
+5182 hellen 7:3
+5183 marouli 7:2
+5184 veloc 8:5 2:3
+5185 cassidi 8:1
+5186 mccloskei 8:1
+5187 ulster 8:1
+5188 visualtrack 8:1
+5189 jellyfish 5:1
+5190 situ 7:1
+5191 rqe 7:1
+5192 rock 7:1 8:1
+5193 vip 8:1
+5194 davi 7:3
+5195 heleno 7:1
+5196 correia 8:3
+5197 dini 8:1
+5198 ineti 7:1
+5199 dop 7:1
+5200 basin 7:1
+5201 baldini 8:2
+5202 cesi 8:2
+5203 campadelli 6:2
+5204 lanzarotti 8:2
+5205 piccoli 7:1
+5206 degli 8:6
+5207 milano 8:6
+5208 radiat 7:2
+5209 ioniz 0:1
+5210 particl 7:2
+5211 katagiri 7:1
+5212 hikoji 2:1
+5213 kitaichi 7:1
+5214 sawamura 7:1
+5215 aoki 8:2
+5216 hokkaido 7:3
+5217 dens 7:5
+5218 breast 7:2
+5219 nune 8:2
+5220 ifsc 7:1
+5221 usp 7:2
+5222 schiabel 8:1
+5223 benatti 7:1
+5224 stamato 7:1
+5225 escarpinati 4:1
+5226 gde 8:1
+5227 eesc 8:1
+5228 tomograph 8:7
+5229 kamalabadi 7:1
+5230 cad 2:4
+5231 lung 8:7
+5232 cancer 8:49
+5233 helic 8:3
+5234 kubota 8:6
+5235 kubo 8:4
+5236 kawata 8:8
+5237 niki 8:9 7:3
+5238 tokushinia 8:1
+5239 eguchi 8:9
+5240 shikoku 8:10
+5241 omatsu 8:2
+5242 kakinunia 7:2
+5243 east 8:19
+5244 moriyuma 0:1
+5245 jappn 8:1
+5246 cuartero 7:1
+5247 mea 0:6
+5248 yedid 8:2
+5249 gali 7:1
+5250 nehrbass 8:1
+5251 olivo 8:2
+5252 marin 7:2
+5253 institur 7:2
+5254 pasteur 8:2
+5255 incompress 8:1
+5256 tissu 8:6
+5257 displac 7:2
+5258 yumashita 7:1
+5259 nihon 8:1
+5260 tokai 7:1
+5261 ultrason 7:1
+5262 atherosclerot 8:3
+5263 carotid 7:3
+5264 plaqu 8:3
+5265 christodoul 7:2
+5266 cypru 8:9
+5267 pantziari 7:1
+5268 nicolaid 8:1
+5269 neurolog 8:2
+5270 microorgan 7:2
+5271 alvarez 7:2
+5272 perez 8:3
+5273 sunto 5:1
+5274 tadeo 7:2
+5275 valladolid 7:2
+5276 arriba 7:1
+5277 empresa 2:1
+5278 depuradora 7:1
+5279 agua 8:1
+5280 residual 2:1
+5281 vega 7:1
+5282 salamanca 7:1
+5283 xvii 8:2
+5284 hase 7:1
+5285 yoneda 7:1
+5286 kasamatsu 8:1
+5287 toyama 8:1
+5288 kato 7:1
+5289 nagoya 8:2
+5290 kaluwahandi 7:1
+5291 tadokoro 7:1
+5292 toyohashi 6:1
+5293 transillumin 7:1
+5294 laser 5:1
+5295 yuasa 7:1
+5296 tanosaki 7:1
+5297 yamagata 7:2
+5298 taniguchi 8:2
+5299 iwat 2:1
+5300 akatsuka 2:1
+5301 rayleigh 8:1
+5302 sanch 8:1
+5303 marqu 8:6
+5304 instituto 8:14
+5305 cnico 7:3
+5306 stabil 7:4 0:2
+5307 marcenaro 8:2
+5308 vernazza 7:1
+5309 regazzoni 7:4
+5310 genoa 7:6
+5311 stationari 5:2
+5312 stepan 8:1
+5313 jirina 8:1
+5314 czech 7:2
+5315 chellappa 8:13
+5316 rosenfeld 7:2
+5317 matcih 7:1
+5318 underwat 5:2
+5319 garcia 8:11
+5320 cufi 8:1
+5321 batll 8:1
+5322 girona 7:4
+5323 haworth 8:1
+5324 peacock 7:2
+5325 renshaw 8:2
+5326 edinburgh 7:5
+5327 confid 0:10
+5328 rhee 4:1
+5329 kaist 7:6
+5330 mrf 7:4
+5331 uncov 4:2
+5332 silveira 7:1
+5333 piedad 8:1
+5334 inesc 8:1
+5335 zhongshan 6:1
+5336 ljnivers 7:3
+5337 sar 8:14
+5338 ahmad 8:3
+5339 liou 7:3 2:1
+5340 latzel 7:1
+5341 perceputu 7:1
+5342 parslow 7:1
+5343 tan 7:17
+5344 xviii 7:2
+5345 spor 8:2
+5346 rabenstein 7:1
+5347 strobel 4:1
+5348 erlangen 8:15
+5349 nuremberg 8:14
+5350 vibrat 5:2
+5351 vocal 2:1
+5352 fold 5:1
+5353 marend 8:1
+5354 galatsano 7:3 5:1
+5355 bless 8:1
+5356 polat 2:1
+5357 yeasin 8:1
+5358 cam 5:1
+5359 panoram 8:4
+5360 foot 7:2
+5361 kimbel 8:1
+5362 palo 8:3
+5363 alto 7:3
+5364 manjunath 7:3
+5365 occult 6:1
+5366 juri 8:1
+5367 dhome 8:1
+5368 lasmea 7:1
+5369 umr 7:7
+5370 maio 8:1
+5371 transcod 7:19
+5372 sugano 6:1
+5373 nakajima 7:4
+5374 yanagihara 7:1
+5375 yoneyama 8:2
+5376 kddl 7:1
+5377 fung 7:1
+5378 siu 7:5
+5379 shanableh 7:2
+5380 ghanbari 8:6
+5381 wee 8:2
+5382 zhong 8:4
+5383 cascad 2:5
+5384 zon 7:1
+5385 minimax 7:1
+5386 disappoint 8:1
+5387 broadcast 7:3
+5388 radk 7:3
+5389 ramadg 8:4
+5390 kulkarni 7:1
+5391 echigo 8:6
+5392 tokyo 8:43
+5393 richardson 8:1
+5394 gordon 7:2
+5395 xix 7:2
+5396 valentim 7:1
+5397 pereira 8:4
+5398 tkcnico 3:1
+5399 masri 2:2
+5400 hemami 8:5
+5401 cornel 7:4
+5402 kaisit 8:1
+5403 sprite 8:2
+5404 harbin 8:8
+5405 lie 8:2
+5406 karunaratn 7:1
+5407 segal 7:4
+5408 katsaggelo 8:11
+5409 northwestern 7:11
+5410 facial 8:14
+5411 sengupta 7:1
+5412 hannah 8:2
+5413 pjetwork 7:1
+5414 havnet 0:1
+5415 sujan 7:1
+5416 mulqueen 8:1
+5417 imassachusett 0:1
+5418 dimou 2:1
+5419 deutsch 7:1
+5420 zentrumfiir 5:1
+5421 luft 7:1
+5422 und 7:1
+5423 raumfah 7:1
+5424 rango 8:1
+5425 satellit 7:11
+5426 michaelid 7:1
+5427 meteorolog 7:3
+5428 kyriak 7:1
+5429 heteroassoci 8:1
+5430 raducanu 8:2
+5431 grana 8:1
+5432 vasco 8:3
+5433 gentili 7:1
+5434 udin 8:3
+5435 tapca 8:1
+5436 safabakhsh 2:1
+5437 amirkabir 7:3
+5438 iran 8:8
+5439 onnia 8:2
+5440 eco 7:1
+5441 saarinen 7:2
+5442 salmeri 4:1
+5443 mencattini 8:1
+5444 ricci 4:1
+5445 salsano 8:1
+5446 rome 8:1
+5447 vergata 8:1
+5448 lattic 7:4
+5449 marago 7:5
+5450 tzouvara 7:1
+5451 stamou 8:1
+5452 discrimin 7:9 0:4
+5453 clutter 8:10
+5454 mapa 7:1
+5455 bona 7:2
+5456 salvetti 8:2
+5457 iei 4:1
+5458 rlg 7:1
+5459 viaa 7:1
+5460 nakamura 8:1
+5461 murayama 5:1
+5462 sawada 7:1
+5463 aichi 7:1
+5464 okuizumi 4:1
+5465 forestri 7:1
+5466 symmetri 7:6
+5467 deinterlac 8:3
+5468 radial 8:2 7:1
+5469 giani 7:2
+5470 isvr 8:1
+5471 southampton 7:8
+5472 colli 7:4
+5473 foundri 0:1
+5474 weston 8:3
+5475 snell 8:3
+5476 wilcox 8:2 7:1
+5477 railwai 7:1
+5478 sacchi 7:1
+5479 cera 8:1
+5480 foresti 7:2
+5481 cellular 8:3
+5482 median 2:17
+5483 kowalski 7:1
+5484 kacprzak 7:1
+5485 poland 8:8
+5486 anneal 8:2
+5487 feiden 4:1
+5488 tetzlafl 7:1
+5489 frankfurt 7:3
+5490 watanab 8:4
+5491 kojima 7:1
+5492 kuwahara 7:1
+5493 kurosawa 7:1
+5494 mpoo 7:1
+5495 maitr 8:5
+5496 schmitt 7:1
+5497 lahani 7:1
+5498 rme 8:1
+5499 mpo 7:3
+5500 heritag 8:4
+5501 rosa 8:2
+5502 bonacchi 8:1
+5503 cappellini 7:3
+5504 barni 7:3
+5505 siena 8:6
+5506 tsoli 8:2
+5507 papatheodor 8:1
+5508 patra 7:21
+5509 sculptur 7:1
+5510 uncalibr 8:1 4:1
+5511 cipolla 7:1
+5512 wong 8:2 7:2 4:1
+5513 xxi 8:1
+5514 andreetto 2:1
+5515 bernardini 7:1
+5516 cortelazzo 7:1
+5517 padova 8:5
+5518 tridimension 8:1
+5519 donatello 4:1
+5520 maddalena 7:1
+5521 guidi 7:1
+5522 pieraccini 2:1
+5523 cioji 7:1
+5524 damato 7:1
+5525 beraldin 7:1
+5526 nrc 7:1
+5527 atzeni 7:1
+5528 baggiani 3:1
+5529 colombo 8:1
+5530 firenz 8:6
+5531 del 7:6
+5532 bimbo 8:3
+5533 paint 8:1
+5534 nikolaidi 8:7
+5535 pita 7:11
+5536 galleri 7:1
+5537 cavazza 7:1
+5538 mead 8:1
+5539 teessid 7:1
+5540 multiresolut 7:16
+5541 extrapol 7:5
+5542 biorthogon 8:2
+5543 duboi 8:2
+5544 ottawa 7:2
+5545 nowak 7:5
+5546 lift 7:10
+5547 tai 7:2
+5548 lutrob 8:1
+5549 universili 0:1
+5550 quincunx 8:4
+5551 feilner 7:1
+5552 jacob 5:1
+5553 unser 7:6
+5554 castleman 7:1
+5555 llc 8:3
+5556 grammar 7:1
+5557 romberg 8:2
+5558 llaraniuk 8:1
+5559 femand 7:1 8:1
+5560 spaendonck 7:2
+5561 devt 5:1
+5562 burru 8:2
+5563 expansiolv 7:1
+5564 moulin 8:12
+5565 microsoji 8:2
+5566 dockstad 7:1
+5567 tekalp 7:8
+5568 rochest 8:20 6:4 7:2
+5569 xxii 7:2
+5570 alias 8:1
+5571 dinstein 7:1
+5572 gurion 8:1
+5573 dahyot 2:1
+5574 charbonniec 8:1
+5575 laboratoir 7:11
+5576 pont 8:1
+5577 chausse 8:1
+5578 heitz 8:3
+5579 uht 8:1
+5580 chowdhuri 8:1
+5581 merg 8:7
+5582 vigu 7:1
+5583 focal 8:2
+5584 omnidirect 8:1
+5585 nagahara 8:1
+5586 yagi 8:1
+5587 yachida 8:1
+5588 osaka 8:3
+5589 kompatsiari 8:2
+5590 triantafil 7:1
+5591 berretti 7:1
+5592 pala 7:1
+5593 jisi 7:1
+5594 mess 7:2
+5595 beek 2:1
+5596 errico 8:1
+5597 imagenideo 8:3
+5598 kasutani 7:1
+5599 yamada 8:2
+5600 nec 7:10
+5601 fredriksson 0:1
+5602 ukkonen 8:1
+5603 helsinki 7:2
+5604 qiu 8:4
+5605 sudirman 7:1
+5606 fournier 8:1
+5607 cord 2:2
+5608 philipp 6:1
+5609 foliguet 8:1
+5610 cergi 7:2
+5611 pontois 8:2
+5612 ensea 8:3
+5613 xxiii 8:2
+5614 tomographi 8:6
+5615 brankov 8:2
+5616 wernick 7:2
+5617 echograph 7:1
+5618 arteri 8:3
+5619 turbul 0:3
+5620 doppler 8:3
+5621 velocimetri 8:1
+5622 calculu 8:2
+5623 barbaresco 8:2
+5624 thale 7:4
+5625 defenc 7:6
+5626 ssta 7:1
+5627 compton 7:1
+5628 ohta 8:3
+5629 ogawa 8:3
+5630 hosei 7:3
+5631 emiss 2:1
+5632 kisilev 8:2
+5633 zibulevski 8:2
+5634 zeevi 7:3
+5635 multidimension 7:2
+5636 nonuniform 7:1
+5637 fessler 7:2
+5638 sutton 7:1
+5639 seed 7:3
+5640 nung 7:1
+5641 gung 7:1
+5642 meg 4:1
+5643 eeg 8:1
+5644 mattout 8:1
+5645 inserm 8:3
+5646 garnero 9:1
+5647 lena 2:9
+5648 upr 7:2
+5649 pelegrini 5:1
+5650 lssac 5:1
+5651 benali 4:1
+5652 soussen 7:1
+5653 mohamma 8:1
+5654 djafari 8:1
+5655 luboratoir 8:2
+5656 signaux 8:1
+5657 systdm 2:1
+5658 phum 7:1
+5659 chalmer 7:1
+5660 sweden 8:8
+5661 timisoara 7:1
+5662 curvatur 8:6
+5663 reflectanceand 8:1
+5664 centro 7:3
+5665 educacao 8:1
+5666 technologica 4:1
+5667 parana 8:2
+5668 bellon 7:1
+5669 gotardo 8:1
+5670 watersh 8:4
+5671 makrogianni 7:3
+5672 vanhamel 8:1
+5673 sahli 8:1
+5674 vrije 7:7
+5675 universiteit 8:12
+5676 brussel 8:9
+5677 belgium 8:34
+5678 fotopoulo 7:4
+5679 xxiv 8:2
+5680 wilson 8:5
+5681 triniti 7:1
+5682 ireland 8:9
+5683 anisotrop 8:6
+5684 diffus 7:13
+5685 compound 8:5
+5686 likelihood 2:10
+5687 keslassi 7:1
+5688 girod 8:15
+5689 sappa 7:2
+5690 bevilacqua 7:1
+5691 robot 7:2
+5692 devi 8:1
+5693 laa 7:4
+5694 kamgar 7:3
+5695 parsi 7:4
+5696 naval 8:5
+5697 arobustbayesianmultisensorfusionalgorithmforjointlan 2:1
+5698 pavement 7:1
+5699 intervideo 7:2
+5700 lakshmanan 8:2
+5701 dearbom 8:2
+5702 hero 8:6
+5703 valverd 7:3
+5704 guil 8:4
+5705 muiioz 7:2
+5706 malaga 8:3
+5707 nishikawa 8:1
+5708 kyungwon 7:1
+5709 crawford 8:1
+5710 wave 5:4
+5711 ishii 8:1
+5712 kyurna 7:1
+5713 corp 7:3
+5714 hough 8:6 7:2
+5715 dimov 4:1
+5716 bulgarian 2:1
+5717 changsha 8:1
+5718 missil 8:1
+5719 hake 7:1
+5720 sapiro 8:6
+5721 minnesota 8:16
+5722 tannenbaum 8:2
+5723 washburn 7:1
+5724 lubdkirtland 8:1
+5725 constel 8:2
+5726 sako 7:1
+5727 fujio 7:1
+5728 furukawa 8:1
+5729 hitachi 8:2
+5730 draw 6:11
+5731 chakraborti 7:2
+5732 ijsa 8:1
+5733 xxv 7:1
+5734 board 2:5 8:1 5:1
+5735 stojanov 7:2
+5736 papadopoulo 8:1
+5737 mitropoulo 7:1
+5738 georgoudaki 8:1
+5739 alcock 7:1
+5740 cardif 8:1
+5741 djurov 8:2
+5742 yugoslavia 7:3
+5743 screen 7:3
+5744 reconnaiss 8:3
+5745 raytheon 7:1
+5746 redek 8:1
+5747 bremen 7:2
+5748 indoor 8:2 6:1
+5749 weng 8:1
+5750 azinii 8:1
+5751 ward 8:8
+5752 nasiopoulo 8:3
+5753 british 8:21
+5754 columbia 8:35
+5755 resist 7:3
+5756 collus 8:1
+5757 kundur 8:2
+5758 hatzinako 8:1
+5759 georeferenc 8:1
+5760 conrour 8:1
+5761 eugenio 8:1
+5762 palma 8:3
+5763 politpcnica 7:1
+5764 marcello 8:1
+5765 spaceborn 7:1
+5766 telescop 7:1
+5767 besnerai 2:1
+5768 mugnier 7:1
+5769 onera 8:1
+5770 rain 8:1
+5771 monniet 7:1
+5772 solarspir 8:1
+5773 solar 7:1
+5774 castelli 7:1
+5775 bergman 8:1
+5776 thompson 7:1
+5777 optini 2:1
+5778 ortho 8:1
+5779 mayer 8:2
+5780 topograph 7:2
+5781 benblidia 8:1
+5782 blida 7:1
+5783 algeria 8:2
+5784 luhoch 8:1
+5785 herlin 8:2
+5786 fusion 7:6
+5787 multir 8:3
+5788 ghassemian 5:1
+5789 tarbiat 8:2
+5790 modarr 7:2
+5791 isosurfac 7:1
+5792 gradient 7:7
+5793 venaz 2:1
+5794 xxvi 8:2
+5795 koschan 1:1
+5796 abidi 7:2
+5797 wanderlei 7:1
+5798 brasilia 8:1
+5799 fisher 7:2 0:1
+5800 anglia 7:2
+5801 carvalho 8:5
+5802 santo 7:3
+5803 dourado 8:1
+5804 ribeiro 8:2
+5805 coimbra 7:2
+5806 peke 7:3
+5807 kwong 8:1
+5808 normalis 7:1
+5809 vanrel 7:1
+5810 lumbrera 7:1
+5811 pujol 8:3
+5812 baldrich 7:1
+5813 lladd 7:1
+5814 villanueva 8:3
+5815 authnoma 7:1
+5816 barcelona 7:3
+5817 lum 7:1
+5818 smoother 8:1
+5819 lukac 6:1
+5820 marchevski 7:1
+5821 kosic 8:1
+5822 slovakia 7:4
+5823 porikli 7:2
+5824 neelamani 8:2
+5825 baraniuk 8:5
+5826 queiroz 8:3
+5827 xerox 8:9
+5828 quaternion 8:2
+5829 pei 7:5
+5830 ding 8:6
+5831 malanda 7:1
+5832 triguero 0:1
+5833 calleja 8:1
+5834 gard 7:1
+5835 blica 7:1
+5836 navarra 7:1
+5837 figueira 8:1
+5838 vidal 7:1
+5839 carlo 8:4
+5840 madrid 8:13
+5841 scheunder 7:2
+5842 backer 7:1
+5843 antwerp 7:2
+5844 localis 1:2
+5845 quantis 8:2
+5846 kasabov 7:1
+5847 otago 7:1
+5848 jovov 8:1
+5849 xxvii 7:2
+5850 takamura 8:2
+5851 kobayashi 8:5
+5852 ntt 8:7
+5853 nonparametr 7:1
+5854 densiti 2:16
+5855 fotino 7:1
+5856 zukhor 8:1
+5857 stegangraphi 9:1
+5858 robi 8:1
+5859 mersereau 7:9
+5860 interleav 7:1
+5861 missouri 8:7
+5862 sarnoff 8:7
+5863 intra 7:3
+5864 riefresh 8:1
+5865 lucent 8:8
+5866 bell 7:10
+5867 kookmin 8:2
+5868 faryar 7:2
+5869 lsi 8:1 4:1
+5870 gallant 7:2
+5871 pixstream 7:1
+5872 shirani 8:2
+5873 mcmaster 8:3
+5874 kossentini 8:7
+5875 coder 8:13
+5876 cabrera 7:2
+5877 ortega 8:7
+5878 ronda 7:2
+5879 politkcnica 7:4
+5880 ron 8:1
+5881 eisenberg 2:1
+5882 pappa 7:3
+5883 playout 8:1
+5884 steinbach 7:1 8:1
+5885 faerber 7:2
+5886 universio 8:1
+5887 unbalanc 0:2
+5888 videoconferenc 8:2
+5889 karlekar 8:1
+5890 hugh 8:2
+5891 prescient 8:1
+5892 regunathan 8:3
+5893 microso 8:3
+5894 xxviii 7:2
+5895 reibman 8:3
+5896 jafarkhani 5:1
+5897 broadcom 8:1
+5898 nathan 8:1
+5899 zamil 7:1
+5900 tel 7:3
+5901 aviv 7:3
+5902 foveat 7:4
+5903 basu 7:1
+5904 alberta 7:2
+5905 conceal 8:10 2:2
+5906 altunbasak 8:3
+5907 cdma 8:5
+5908 multipath 8:1
+5909 fade 7:2
+5910 kondi 7:2
+5911 batalama 7:1
+5912 pado 7:1
+5913 bufalo 5:1
+5914 fisherfac 7:1
+5915 inha 7:1
+5916 bakri 7:1
+5917 mansoura 8:1
+5918 egypt 7:4
+5919 warp 8:4
+5920 sahbi 8:1
+5921 boujemaa 7:3
+5922 feret 7:1
+5923 mugshot 4:1
+5924 wallhofl 7:2
+5925 rigol 8:4
+5926 gerhard 7:4
+5927 mercat 7:4
+5928 haddadnia 7:2
+5929 faez 8:2
+5930 moallern 8:1
+5931 hausdorff 7:2
+5932 srisuk 7:1
+5933 kurutach 7:1
+5934 mahanakorn 8:1
+5935 frontal 7:2
+5936 bassiou 8:1
+5937 kotropoulo 8:3
+5938 kosmidi 7:1
+5939 eigendecomposit 8:2
+5940 vallei 7:6
+5941 autdnoma 7:2
+5942 alba 8:2
+5943 ego 7:3
+5944 mapand 8:1
+5945 mason 7:2
+5946 wale 8:6
+5947 swansea 7:2
+5948 pawlewski 7:1
+5949 btexact 8:1
+5950 raytchev 8:1
+5951 muras 7:3
+5952 abdel 8:4
+5953 mottaleb 7:3
+5954 jain 2:4 7:3
+5955 motwani 8:1
+5956 suppoicr 8:1
+5957 buciu 7:1
+5958 pardh 8:1
+5959 losada 8:1
+5960 worn 7:1
+5961 gelgon 8:1
+5962 epunarin 8:1
+5963 documeni 7:1
+5964 ciolor 7:1
+5965 strouthopoulo 7:1
+5966 papamarko 8:2
+5967 atsalaki 7:1
+5968 chamza 7:1
+5969 democritu 7:3
+5970 thrace 7:2 2:1
+5971 prefilt 7:1
+5972 binar 7:2
+5973 badawi 8:1
+5974 sakka 7:1
+5975 western 8:3
+5976 ontario 8:4
+5977 hassanein 8:1
+5978 kamel 7:3
+5979 bartolini 8:3
+5980 piva 8:3
+5981 salucco 8:1
+5982 blob 7:1
+5983 sossa 0:1
+5984 azuela 5:1
+5985 guzmsin 4:1
+5986 lugo 7:1
+5987 sotelo 4:1
+5988 rangel 8:1
+5989 investigacidn 4:1
+5990 computacidn 2:1
+5991 ipn 7:1
+5992 rorat 9:1
+5993 geometri 8:9 0:2
+5994 loerger 1:1
+5995 baptist 7:1
+5996 optimis 7:2
+5997 sirlantzi 5:1
+5998 fairhurst 8:1
+5999 kent 7:2
+6000 liolio 7:1
+6001 fakotaki 8:1 7:1
+6002 kokkinaki 8:2
+6003 handwritten 7:6
+6004 kavallierat 7:1
+6005 balcan 7:1
+6006 popa 8:1
+6007 bucharest 8:1
+6008 jen 8:1
+6009 juang 7:1
+6010 applianc 0:1
+6011 atop 8:1
+6012 anchor 8:2
+6013 hypertext 4:3
+6014 nougaret 8:1
+6015 ohmori 7:1
+6016 kihara 5:1
+6017 sung 0:1
+6018 ccitt 7:1
+6019 bilevel 8:1
+6020 tseng 8:2
+6021 kosiba 7:1
+6022 packetvideo 7:6
+6023 offlin 7:1
+6024 numeralrecognit 7:1
+6025 taoo 4:1
+6026 processingandth 7:1
+6027 ridder 7:1
+6028 janssen 7:2
+6029 ocd 8:1
+6030 webster 7:1
+6031 familiar 8:1
+6032 pelz 7:1
+6033 canosa 8:1
+6034 babcock 8:1
+6035 barber 8:1
+6036 xxxi 7:2
+6037 egomot 3:1
+6038 papathoma 7:1
+6039 rutger 8:3
+6040 kuo 7:5
+6041 johnston 8:1
+6042 molina 7:2
+6043 granada 8:5
+6044 universiq 7:2
+6045 mateo 8:2
+6046 mlodel 7:1
+6047 murino 7:1
+6048 castellani 7:1
+6049 fusiello 7:1
+6050 verona 3:1
+6051 referenc 7:1
+6052 bresler 8:2
+6053 wiener 8:4 0:2
+6054 portilla 8:2
+6055 strela 7:1
+6056 wainwright 7:2
+6057 massachusett 8:11 0:1
+6058 simoncelli 8:3
+6059 gunturk 8:1
+6060 singular 7:4
+6061 devcic 7:1
+6062 loncar 8:1
+6063 zagreb 4:1
+6064 croatia 8:1
+6065 pseudo 8:7
+6066 hmm 8:4
+6067 breit 7:1
+6068 spatio 8:7
+6069 lrive 7:1
+6070 jehan 7:2
+6071 besson 8:2
+6072 barlaud 7:8
+6073 aubert 8:3
+6074 dieudonn 8:3
+6075 occlus 7:5
+6076 louta 8:1
+6077 diamantara 8:2
+6078 ground 8:3
+6079 truth 7:2
+6080 eroglu 7:1
+6081 erdem 8:1
+6082 bogazici 8:3
+6083 sankur 7:2
+6084 tensor 7:1
+6085 kiihn 7:1
+6086 weickert 8:1
+6087 schuster 4:1
+6088 richter 8:1
+6089 mannheim 8:2
+6090 valett 7:2
+6091 magnin 8:2
+6092 prost 8:2
+6093 creati 8:7
+6094 tong 5:1
+6095 bovik 8:6
+6096 superquadr 7:1
+6097 chevali 1:1
+6098 jaillet 8:2
+6099 baskurt 8:3
+6100 llglm 7:1
+6101 claud 2:7
+6102 bernard 8:4
+6103 lyon 8:3
+6104 triangular 7:3
+6105 tsunoda 2:1
+6106 terasaki 7:1
+6107 fukuda 8:2
+6108 kawanaka 8:2
+6109 sophia 8:6
+6110 hypothesi 2:7
+6111 ramanathan 2:1
+6112 flierl 7:3
+6113 shum 8:5
+6114 escot 7:1
+6115 abm 7:1
+6116 universiw 7:1
+6117 nonlinear 7:17 0:8
+6118 leow 8:2
+6119 xxxiii 7:2
+6120 trouv 8:1
+6121 laga 7:1
+6122 lzti 7:1
+6123 retrievalin 7:1
+6124 voulgari 7:1
+6125 glamorgan 8:2
+6126 autoregress 8:2
+6127 isotrop 7:2
+6128 baseld 7:1
+6129 vrml 5:1
+6130 kolonia 7:1
+6131 malassioti 7:3
+6132 sasi 8:1
+6133 carkacioglu 7:1
+6134 rotation 7:2
+6135 rigid 8:5
+6136 stereo 7:15
+6137 ishikawa 8:1
+6138 kyushu 8:12
+6139 stereoscop 8:7
+6140 moallem 8:1
+6141 conjug 2:1
+6142 luo 7:10
+6143 clewer 8:2
+6144 ahm 7:3
+6145 farag 8:6
+6146 louisvil 8:7
+6147 inteirpol 7:1
+6148 morph 7:1
+6149 bor 8:4 2:1
+6150 kechagia 5:1
+6151 terrain 8:4
+6152 whitak 7:3
+6153 cmo 2:6
+6154 mdsi 7:1
+6155 mengel 7:1
+6156 doemen 4:1
+6157 listl 7:1
+6158 cubic 0:1
+6159 homolog 7:2
+6160 allili 7:1
+6161 mischaikow 8:1
+6162 moir 7:1
+6163 inagaki 7:1
+6164 tagawa 7:1
+6165 minagawa 5:1
+6166 moriya 4:1
+6167 metropolitan 8:4
+6168 xxxiv 8:2
+6169 colosimo 7:1
+6170 sarti 7:4
+6171 tubaro 8:5
+6172 politecnico 8:7
+6173 grammalidi 7:2
+6174 goussi 8:1
+6175 troufako 7:1
+6176 mle 8:1
+6177 chojnacki 7:1
+6178 den 7:1
+6179 hengel 7:1
+6180 gawlei 8:1
+6181 adelaid 7:1
+6182 ooi 7:1
+6183 hamamoto 8:3
+6184 naemura 7:3
+6185 aizawa 8:7
+6186 generationand 7:1
+6187 ofmicroscop 8:1
+6188 insect 7:1
+6189 tsubaki 8:1
+6190 epipolar 7:3
+6191 aerial 7:2
+6192 miyajima 3:1
+6193 salvi 7:1
+6194 armanguk 7:1
+6195 brandt 7:1
+6196 heikkonen 7:1
+6197 ultrasound 8:9
+6198 achim 7:1
+6199 bezeriano 8:1
+6200 tsakalid 7:1
+6201 characteris 8:1
+6202 mono 7:1
+6203 shortish 8:1
+6204 fadili 7:2
+6205 greyc 8:7
+6206 ismra 7:7
+6207 bullmor 8:1
+6208 brett 7:1
+6209 triangul 8:2
+6210 jansen 8:1
+6211 lavu 8:1
+6212 despeckl 7:1
+6213 shrinkag 8:3
+6214 pizurica 8:3
+6215 lemahieu 8:6
+6216 ghent 7:8
+6217 acheroi 8:2
+6218 royal 2:5
+6219 footprint 8:2
+6220 edgeprint 7:1
+6221 onth 8:1
+6222 ofa 7:2
+6223 ofmultipli 7:1
+6224 nonsepar 8:1
+6225 fir 8:1
+6226 filterbank 7:1
+6227 pun 7:4
+6228 sinica 8:14 6:1
+6229 tap 8:1
+6230 guangjun 8:2
+6231 lizhi 8:2
+6232 huowang 7:2
+6233 gouz 7:2
+6234 antonini 7:3 8:2
+6235 macq 8:3
+6236 ucufsnelecflel 8:1
+6237 carrk 8:1
+6238 andr 0:2
+6239 fernandez 7:2
+6240 maloign 7:2
+6241 ircom 8:5
+6242 plantier 1:1
+6243 imassa 7:2
+6244 lelandai 7:1
+6245 cemif 7:1
+6246 lscljnivers 1:1
+6247 evri 8:1
+6248 boutt 8:1
+6249 gdmez 2:1
+6250 moreno 7:2
+6251 maldonado 2:1 7:1
+6252 bascdn 8:1
+6253 ldpez 8:1
+6254 ferrera 7:2
+6255 acevedo 8:2
+6256 rodriguez 8:7
+6257 alcalb 7:1
+6258 pain 7:1
+6259 symmetr 2:17
+6260 kharitonenko 7:1
+6261 rivaz 7:2
+6262 cao 8:5
+6263 fowler 8:2
+6264 younan 8:1
+6265 mississippi 7:2
+6266 liew 8:2
+6267 biomed 7:5
+6268 genom 7:1
+6269 bhandurkur 7:1
+6270 ofmicrocalcif 8:1
+6271 rad 8:1 0:1
+6272 quadrad 1:1
+6273 sacristan 8:1
+6274 escola 7:2
+6275 universithria 7:1
+6276 matarb 8:1
+6277 von 7:2
+6278 hippel 7:1
+6279 lindau 4:1
+6280 lesion 7:3
+6281 summer 0:5
+6282 agcaoili 7:1
+6283 mcaulif 8:1
+6284 dalal 7:1
+6285 yim 7:1
+6286 choyk 7:1
+6287 walther 7:1
+6288 linehan 8:1
+6289 confoc 8:1
+6290 thorax 8:1
+6291 mullick 7:1
+6292 finkelstein 8:1
+6293 schrump 8:1
+6294 leukocyt 7:1
+6295 vivo 2:1
+6296 microscopi 8:1
+6297 trabecular 7:1
+6298 accardo 8:1
+6299 candido 7:1
+6300 toffanin 7:1
+6301 vittur 8:1
+6302 triest 8:3
+6303 yellu 7:1
+6304 slovak 7:1
+6305 endoscopi 7:1
+6306 helferti 8:3
+6307 sherbondi 7:1
+6308 kirali 8:1
+6309 turlington 7:1
+6310 hoffman 8:1
+6311 mclennan 7:2
+6312 iowa 8:6
+6313 higgin 8:4
+6314 colposcop 7:1
+6315 pouletaut 5:1
+6316 huault 7:1
+6317 compikgn 7:1
+6318 boulang 8:1
+6319 gyne 7:1
+6320 cologi 8:1
+6321 obst 8:1
+6322 triqu 7:1
+6323 amien 7:1
+6324 thermal 8:1
+6325 pavlidi 8:1
+6326 honeywel 8:1
+6327 levin 7:1
+6328 baukol 8:1
+6329 mayo 8:1
+6330 radioact 6:1
+6331 prostat 7:2
+6332 thornton 7:1
+6333 varian 7:1
+6334 jaw 7:1
+6335 carv 7:2
+6336 eid 5:1
+6337 angiograph 7:1
+6338 qca 7:1
+6339 christiaen 8:1
+6340 wall 7:2
+6341 liver 7:1
+6342 biopsi 7:1
+6343 agrafioti 5:1
+6344 nikolov 8:1
+6345 halliwel 7:1
+6346 pet 7:2
+6347 hadar 7:1
+6348 usingtopographicand 7:1
+6349 gourassa 8:1
+6350 xrrvii 7:1
+6351 landmark 2:1
+6352 pielot 8:1
+6353 neurobiolog 8:2
+6354 scholz 7:1
+6355 obermayec 8:1
+6356 gundeljing 7:1
+6357 hess 0:2
+6358 microscop 7:2
+6359 matuszewski 7:2
+6360 shark 7:2
+6361 lancashir 7:2
+6362 gabor 5:14 8:4
+6363 nakano 7:2
+6364 yoshida 8:3
+6365 kyoto 8:4
+6366 robzjst 8:1
+6367 vehicl 8:3
+6368 cube 2:6
+6369 elen 7:1
+6370 ric 0:1 2:1
+6371 robl 8:2
+6372 kelli 8:2
+6373 univeristi 8:3
+6374 hancock 8:5 0:1
+6375 circl 2:3
+6376 alhichri 7:1
+6377 lappa 7:1
+6378 carter 7:3
+6379 damper 7:1
+6380 pelagotti 8:1
+6381 haan 8:2
+6382 eindhoven 8:3
+6383 avanzi 6:1
+6384 bre 8:2
+6385 mond 8:1
+6386 thonnat 7:1
+6387 antipoli 8:3
+6388 orion 7:1
+6389 extractiopj 8:1
+6390 kyungpook 8:2
+6391 chosun 7:2
+6392 tsan 0:1
+6393 tsing 8:9
+6394 trackingand 8:1
+6395 dimensionalobject 7:1
+6396 cadman 2:1
+6397 tjahjadi 7:1
+6398 warwick 7:3
+6399 florencio 8:1
+6400 mahboubi 7:1
+6401 benoi 8:1
+6402 pineau 7:1
+6403 barba 2:1
+6404 irccyn 7:1
+6405 nxviii 7:1
+6406 boroczki 7:1
+6407 seafloor 7:1
+6408 rzhanov 7:2
+6409 cutter 8:1
+6410 hufj 8:1
+6411 hampshir 8:2
+6412 oberti 8:3
+6413 ferrari 0:1
+6414 talq 8:1
+6415 pononzarenko 7:1
+6416 kharkov 2:9
+6417 aviat 0:14
+6418 ukrain 2:6
+6419 lukin 7:1
+6420 vandergheynst 5:1
+6421 frossard 7:1
+6422 engan 7:1
+6423 husoi 1:1
+6424 aas 7:1
+6425 stavang 8:2
+6426 cheung 8:11
+6427 franco 8:1
+6428 eoga 7:1
+6429 fluminens 8:3
+6430 rio 8:6
+6431 janeiro 8:5
+6432 finamor 8:2
+6433 cetuc 7:1
+6434 puc 7:1
+6435 yamamoto 8:3
+6436 codeword 8:2
+6437 calvagno 7:2
+6438 mian 7:1
+6439 rinaldo 7:2
+6440 gothandaraman 8:1
+6441 greg 7:1
+6442 cell 2:2 8:1
+6443 yoo 8:2
+6444 hanyang 7:5
+6445 fingerprint 7:15
+6446 beleznai 7:1
+6447 ramos 8:1
+6448 austria 7:10
+6449 wachmann 7:1
+6450 birchbauer 0:1
+6451 osterreich 8:1
+6452 bischofi 4:1
+6453 kropatsch 8:1
+6454 vienna 7:3
+6455 xxxix 7:2
+6456 meyer 8:3
+6457 colorado 7:2
+6458 boulder 7:2
+6459 sull 8:2
+6460 mateu 2:1
+6461 prade 8:1
+6462 upi 7:1
+6463 waterma 7:1
+6464 rking 8:1
+6465 flip 8:1
+6466 resili 8:13
+6467 liao 8:5
+6468 cinema 7:1
+6469 haitsma 8:3
+6470 kalker 8:4
+6471 blockwis 7:2
+6472 fragil 8:4
+6473 barreto 7:2
+6474 sgo 8:3
+6475 paulo 7:3 8:1
+6476 rumen 7:1
+6477 katholiek 7:2
+6478 huven 9:1
+6479 hel 8:4
+6480 yitzhaki 9:1
+6481 haifa 7:3
+6482 interdisciplinari 8:1
+6483 cewter 9:1
+6484 celik 7:1
+6485 saber 8:2
+6486 wateirmark 8:1
+6487 miyazaki 7:4
+6488 okamotcl 8:1
+6489 ise 7:2
+6490 transforhi 7:1
+6491 krommyda 8:1
+6492 watelrmark 7:1
+6493 butman 8:1
+6494 llan 7:1
+6495 ufiivers 8:1
+6496 cipher 2:3
+6497 chem 8:1
+6498 catholiqu 7:3
+6499 louvain 8:3
+6500 belgiuni 7:2
+6501 jungr 7:1
+6502 yeungnam 7:1
+6503 huh 7:1
+6504 keri 8:1
+6505 fresnel 7:2
+6506 seto 8:3
+6507 chungbuk 0:1
+6508 dirti 8:1
+6509 steganograph 7:1
+6510 alturki 7:3
+6511 kuwait 8:2
+6512 ejinia 8:1
+6513 ivanov 7:2
+6514 tpoo 7:1
+6515 museum 8:2
+6516 mintzer 8:1
+6517 tpo 7:1
+6518 pde 8:3 7:1
+6519 pollak 7:1
+6520 garcin 8:1
+6521 descomb 7:2
+6522 ograplziqu 7:1
+6523 jointsingular 7:1
+6524 anewtoolfor 8:1
+6525 pesquet 7:3 8:1
+6526 popescu 8:3
+6527 tsi 7:4
+6528 marn 8:1
+6529 valle 8:1
+6530 petropulu 7:1
+6531 drexel 8:2
+6532 michel 7:3
+6533 nice 8:3
+6534 hamza 8:1
+6535 carolina 7:7
+6536 krim 7:2
+6537 xli 8:1
+6538 riepresent 7:1
+6539 kiniia 8:1
+6540 leymari 5:1
+6541 representationand 2:1
+6542 ofvolumetr 7:1
+6543 imagesusingth 8:1
+6544 volumetr 8:2
+6545 beichel 7:1
+6546 icg 7:2
+6547 graz 7:3
+6548 sorantin 7:1
+6549 leberl 8:1
+6550 goshtasbi 7:1
+6551 wright 7:1
+6552 sonka 7:1
+6553 emot 5:2
+6554 lavagetto 7:1
+6555 genova 7:1
+6556 hiscor 7:1
+6557 forster 8:1
+6558 rummel 7:1
+6559 radig 4:1
+6560 miinchen 7:1
+6561 eastman 8:10
+6562 kodak 8:10
+6563 xture 7:1
+6564 bispectrum 8:1
+6565 prcuection 2:1
+6566 horikawa 2:1
+6567 fac 7:1
+6568 kagawa 8:1
+6569 zeng 8:5
+6570 affin 8:9
+6571 tiextur 8:1
+6572 seliect 8:1
+6573 acharyya 7:1
+6574 kundu 7:2
+6575 rail 8:1
+6576 corrug 7:1
+6577 mandriota 7:1
+6578 stella 7:1
+6579 nitti 2:1
+6580 ancona 7:1
+6581 xlii 8:2
+6582 antibiogram 7:1
+6583 inhibit 5:1
+6584 halo 7:1
+6585 salgado 7:3
+6586 mene 8:1
+6587 ndez 8:1
+6588 rend 7:1
+6589 ruiz 8:3
+6590 ekin 8:2
+6591 mehrotra 7:3
+6592 eustman 7:1
+6593 koduk 8:1
+6594 tube 8:1
+6595 vop 7:1
+6596 ntaliani 8:2
+6597 doulami 7:8
+6598 kollia 8:3
+6599 tsutsumi 4:1
+6600 criepi 7:1
+6601 zakhor 8:5
+6602 dither 7:1
+6603 vote 7:2
+6604 kurozumi 7:1
+6605 kashino 8:1
+6606 ject 7:4
+6607 epson 2:1
+6608 deform 8:17
+6609 erol 7:2
+6610 roth 7:1
+6611 ahuja 7:6
+6612 hagihara 0:1
+6613 kobatak 7:2
+6614 laio 7:1
+6615 xliii 8:2
+6616 wallhoff 7:1
+6617 eickel 7:1
+6618 facialfeatur 7:1
+6619 pcabas 7:1
+6620 xue 8:5
+6621 microsofr 7:1
+6622 teoh 7:4
+6623 pca 0:9 8:2
+6624 lenz 8:1
+6625 linkop 7:1
+6626 ridg 8:2
+6627 mulhem 2:1
+6628 ipal 2:1
+6629 sakauchi 8:3
+6630 harvei 7:1
+6631 bangham 0:1
+6632 sea 8:1
+6633 rch 7:1
+6634 gharavi 8:1
+6635 alkhansari 2:1
+6636 grifith 7:2
+6637 dillon 7:2
+6638 pissaloux 8:3
+6639 rouen 7:3
+6640 hang 5:1
+6641 retrjev 2:1
+6642 satoh 7:1 5:1
+6643 idehara 8:1
+6644 hamada 5:1
+6645 universifi 7:1
+6646 quadtre 8:5
+6647 tzourarnani 7:1
+6648 ilassilakopoulo 8:1
+6649 manolopoulo 5:1
+6650 huet 7:1
+6651 kern 8:1
+6652 guarascio 7:1
+6653 merialdo 7:1
+6654 eurecom 7:2
+6655 xliv 7:2
+6656 outdoor 8:4
+6657 photograph 8:4
+6658 savaki 8:4
+6659 sotm 7:1
+6660 cbir 8:1
+6661 wtnq 7:1
+6662 muneesawang 8:2
+6663 ryerson 7:1
+6664 vocabulari 6:7
+6665 vogel 7:1
+6666 schiel 8:1
+6667 eth 7:1
+6668 zurich 7:1
+6669 gagaudaki 7:1
+6670 rosin 8:1
+6671 cardiff 8:1
+6672 overlap 7:4
+6673 muller 8:4
+6674 parker 8:1
+6675 magarei 8:1
+6676 canon 8:5
+6677 hopkin 7:6
+6678 shimosato 8:1
+6679 precioso 7:1
+6680 mohanna 7:1
+6681 mokhtarian 4:1
+6682 caplier 7:1
+6683 bonnaud 8:1
+6684 cliasseri 8:1
+6685 spatiospectr 7:1
+6686 elong 7:1
+6687 doucett 7:1
+6688 han 8:4
+6689 farr 8:1
+6690 kellner 7:1
+6691 lauren 9:1
+6692 forwiss 8:1
+6693 passau 7:1
+6694 radeva 8:1
+6695 vitria 7:1
+6696 visio 7:1
+6697 cornputadok 2:1
+6698 gyjaki 7:1
+6699 xlv 8:1
+6700 suess 8:1
+6701 jenn 8:1
+6702 zuletelj 7:1
+6703 tasic 1:1
+6704 ljubljana 7:1
+6705 slovenia 7:1
+6706 darboux 7:1
+6707 ragheb 8:1
+6708 anewfilt 6:1
+6709 forultrasound 8:1
+6710 stippel 8:2
+6711 duskunov 8:2
+6712 zecic 7:1
+6713 govaert 8:1
+6714 sofia 7:1
+6715 children 7:2 0:1
+6716 ofembedii 4:1
+6717 font 7:1
+6718 kernelspac 7:1
+6719 videotext 7:1
+6720 aradhy 8:1
+6721 dorai 7:3
+6722 centec 7:2
+6723 shim 8:1
+6724 andong 8:1
+6725 manai 2:1
+6726 yezzi 8:2
+6727 lnstitut 8:5
+6728 endoscop 7:3
+6729 retin 7:2
+6730 chutatap 8:1
+6731 anyang 7:1
+6732 cif 5:1
+6733 pulmonari 8:7
+6734 blood 7:2
+6735 vessel 7:5
+6736 multidetector 8:2
+6737 mukaibo 7:1
+6738 ohmatsu 8:7
+6739 tokushima 8:11
+6740 moriyama 8:7
+6741 chromosom 8:3
+6742 mousavi 8:2
+6743 fel 7:2
+6744 lunsdorp 8:1
+6745 assif 8:1
+6746 urin 7:1
+6747 bladder 8:2
+6748 tumor 8:3 5:1
+6749 spyridono 8:1
+6750 ravazoula 8:1
+6751 cavoura 7:1
+6752 nikiforidi 8:1
+6753 xlvi 8:2
+6754 opaqu 8:1
+6755 marker 7:2
+6756 epid 8:1
+6757 therapi 5:1
+6758 pouliot 8:2
+6759 luval 5:1
+6760 quebec 7:2
+6761 zuccarin 8:2
+6762 luurendeau 0:1
+6763 laval 8:2
+6764 ventil 7:1
+6765 alt 8:1
+6766 schwartzkopf 4:1
+6767 cardiacmot 7:1
+6768 usingadeform 8:1
+6769 meshmodel 2:1
+6770 desser 8:1
+6771 legrand 7:1
+6772 walker 2:3
+6773 laland 7:1
+6774 brunott 7:1
+6775 lppce 2:1
+6776 mammograph 7:2
+6777 sakellaropoulo 8:1
+6778 costarid 8:1
+6779 panayiotaki 8:1
+6780 abnorm 7:2
+6781 mammographi 7:1
+6782 christoyianni 7:1
+6783 dermata 7:1
+6784 diamet 8:1
+6785 middlesex 8:1
+6786 bharath 7:1
+6787 stanton 7:1 0:1
+6788 thom 0:1
+6789 imperi 8:2
+6790 anatomicalloc 7:1
+6791 statisticalnon 8:1
+6792 solana 8:1
+6793 duai 7:1
+6794 cuisenair 7:2
+6795 thiran 8:5
+6796 pulmonai 7:1
+6797 nodul 8:5
+6798 kusumoto 8:7
+6799 kakinurna 7:1
+6800 mori 7:8
+6801 tochigi 8:7
+6802 nishiyama 8:5
+6803 minarni 7:1
+6804 kakinuma 8:5
+6805 subpixel 7:1
+6806 pitter 7:1
+6807 somekh 7:1
+6808 xlvii 7:2
+6809 unsolv 8:1
+6810 kizmgar 8:1
+6811 mota 8:1
+6812 stuke 7:1
+6813 barth 2:1
+6814 luebeck 7:3
+6815 calwai 7:2
+6816 cimat 4:1
+6817 gamal 3:1
+6818 equilibr 7:1
+6819 mester 7:2
+6820 muehlich 7:1
+6821 montoliu 8:1
+6822 pla 7:1
+6823 jaum 8:1
+6824 aguiar 7:2
+6825 moura 8:3
+6826 carnegi 8:5
+6827 mellon 7:10
+6828 europ 8:1
+6829 dyer 8:1
+6830 tzirita 8:1
+6831 crete 7:4
+6832 caldelli 7:3
+6833 romagnoli 8:1
+6834 vleeschouw 2:1
+6835 imec 4:2
+6836 desk 7:1
+6837 mic 2:24
+6838 nilsson 7:1
+6839 ericsson 8:4
+6840 motioiv 8:1
+6841 wallin 7:1
+6842 furesjo 8:1
+6843 medialab 8:1
+6844 xlviii 8:2
+6845 modestino 8:3
+6846 schaar 8:4
+6847 flore 8:2
+6848 mosri 1:1
+6849 drift 8:2
+6850 bottou 4:1
+6851 basso 7:2
+6852 tlub 8:1
+6853 granular 7:7 4:2
+6854 buchner 7:1
+6855 marp 7:2
+6856 blaettemnn 7:1
+6857 heis 8:2
+6858 heinrich 7:10
+6859 hertz 8:6 7:5
+6860 codec 7:6
+6861 podilchuk 8:3
+6862 jacquin 9:1
+6863 kuhmiinch 7:1
+6864 schrernmer 7:1
+6865 bottreau 8:1
+6866 bknetier 8:1
+6867 felt 8:2
+6868 electroniqu 7:2
+6869 redmil 7:1
+6870 macroblock 7:2
+6871 pfg 7:1
+6872 snr 8:3
+6873 scalablil 7:1
+6874 microsojl 8:2
+6875 xlix 7:1
+6876 secker 7:1
+6877 taubman 8:3
+6878 jnivers 7:3
+6879 domanski 8:3
+6880 mackowiak 7:2
+6881 poznan 7:3
+6882 radha 8:3
+6883 tpll 7:1
+6884 caiptur 2:1
+6885 captun 7:1
+6886 herlei 8:2
+6887 microsofi 8:1
+6888 oorat 8:1
+6889 mirror 7:2
+6890 nakao 7:1
+6891 kashitani 8:1
+6892 holograph 8:1
+6893 psalti 7:1
+6894 sinha 7:1
+6895 barbastathi 8:1
+6896 solid 7:1
+6897 komatsu 8:3 6:1
+6898 saito 8:6
+6899 kaizagawa 8:1
+6900 spheric 7:2
+6901 romain 8:1
+6902 lisi 7:1
+6903 iset 7:1
+6904 gastaud 7:1
+6905 garda 7:1
+6906 lisif 8:1
+6907 halfton 8:12
+6908 thiennviboon 8:1
+6909 chugg 7:1
+6910 descreen 8:1
+6911 tewjik 5:1
+6912 nishida 7:1
+6913 ricoh 8:5 0:1
+6914 sofiwar 7:1
+6915 damera 8:1
+6916 venkata 8:2
+6917 hervlett 8:1
+6918 desatur 7:1
+6919 rendit 8:1
+6920 nivers 7:2
+6921 mukherje 8:2
+6922 darnera 7:1
+6923 conferenc 7:1
+6924 apipl 0:1
+6925 graf 8:1
+6926 gibbon 7:1
+6927 cosatto 0:1
+6928 kusayama 8:1
+6929 hangai 8:2
+6930 siio 7:1
+6931 vleuten 7:2
+6932 kleihorst 8:4
+6933 hentschel 7:4
+6934 studio 7:1
+6935 mitsumin 8:1
+6936 yamanouchi 6:1
+6937 inou 7:2
+6938 nhk 8:7
+6939 tooyama 2:1
+6940 miyama 7:1
+6941 yoshimoto 8:1
+6942 kanazawa 8:2
+6943 akita 7:1
+6944 hakod 7:1
+6945 waoo 7:1
+6946 nayar 7:1
+6947 wao 7:3
+6948 vasconcelo 7:1
+6949 compaq 8:4
+6950 kunt 7:2
+6951 neemuchwala 7:1
+6952 carson 7:1
+6953 gauss 5:1
+6954 aiyel 7:1
+6955 amsterdam 8:2 0:2
+6956 kimia 8:1
+6957 cue 0:48
+6958 sport 8:2
+6959 christma 8:1
+6960 levienais 8:1
+6961 obadia 2:1
+6962 koubarouli 7:1
+6963 rodenack 8:1
+6964 ibb 7:2
+6965 gai 0:2
+6966 juet 7:1
+6967 hens 8:1
+6968 natom 7:1
+6969 blaffert 7:2
+6970 hamburg 8:4
+6971 usic 7:1
+6972 ancient 6:1
+6973 vieira 8:2
+6974 pinto 8:1
+6975 idmewi 2:1
+6976 hanmandlu 8:1
+6977 mohan 7:1
+6978 weather 0:4 8:1
+6979 goel 7:1
+6980 punjab 2:1
+6981 naphad 8:3
+6982 ofalphanumer 8:1
+6983 licens 8:1
+6984 emiri 7:1
+6985 koulourioti 7:1
+6986 terr 7:1
+6987 paget 8:2
+6988 homer 0:1
+6989 cssfe 7:1
+6990 crisp 8:1
+6991 dsto 7:2
+6992 ebrahimpour 7:1
+6993 komleh 7:1
+6994 chandran 8:3
+6995 sridharan 7:3
+6996 gmentat 4:1
+6997 dififus 0:1
+6998 kanatsugu 8:4
+6999 pauwel 8:2
+7000 cwi 7:1
+7001 frederix 8:2
+7002 caenen 8:2
+7003 leuven 8:4
+7004 geraud 8:1
+7005 strub 8:1
+7006 darbon 7:1
+7007 epita 7:1
+7008 growingbas 8:1
+7009 gradientvector 7:1
+7010 chuang 7:1
+7011 ndili 8:1
+7012 figueiredo 0:1
+7013 aoyama 8:1
+7014 lii 8:2
+7015 matsuzawa 8:2
+7016 kurnazawa 8:1
+7017 jaist 7:1
+7018 harvil 2:1
+7019 woodfil 8:1
+7020 tyw 7:1
+7021 jointli 7:1 9:1
+7022 buffalo 7:4
+7023 melnikov 6:2
+7024 magnor 7:3
+7025 videoconfer 7:1
+7026 fantozzi 7:1
+7027 lier 8:1
+7028 horbelt 8:2
+7029 balmelli 7:1
+7030 jist 7:1
+7031 sadwt 7:1
+7032 eckert 7:2
+7033 harnza 8:1
+7034 krirn 8:1
+7035 usinganisotrop 7:1
+7036 postech 7:2
+7037 gilboa 7:1
+7038 sochen 7:1
+7039 theeffici 8:1
+7040 ofrandom 8:1
+7041 walkapproach 7:1
+7042 srnolka 8:1
+7043 szczepanski 8:1
+7044 silesian 7:1
+7045 platanioti 7:2
+7046 liii 8:1
+7047 spencer 6:1
+7048 iordach 1:1
+7049 beghdadi 8:3
+7050 viari 7:1
+7051 ksegno 7:1
+7052 blockingartifact 8:1
+7053 bitrat 7:3
+7054 kieu 8:1
+7055 nguyen 8:14
+7056 tasmania 7:1
+7057 kesidi 7:1
+7058 azimifar 7:1
+7059 fieguth 8:4
+7060 jernigan 8:2
+7061 ofstructur 7:1
+7062 componentin 7:1
+7063 imagetextur 7:1
+7064 pittsburgh 8:1
+7065 sijber 5:1
+7066 sugar 8:1
+7067 crystal 7:1
+7068 matia 7:1
+7069 laja 8:1
+7070 sall 8:1
+7071 espirito 0:1
+7072 estadu 8:1
+7073 campina 8:1
+7074 murakami 8:1 4:1
+7075 updati 5:1
+7076 piella 7:1
+7077 heijman 8:2
+7078 ciwl 7:1
+7079 fpga 5:10 2:7
+7080 coprocessor 7:2
+7081 nibouch 8:3
+7082 reichel 7:2
+7083 visiowav 7:2
+7084 liv 7:2
+7085 harmon 7:2
+7086 biorthogonaltransform 7:1
+7087 tanaka 8:5
+7088 yamashita 8:2
+7089 zerotre 8:3
+7090 salama 8:1
+7091 shroff 7:1
+7092 erec 7:1
+7093 biometr 1:1 0:1
+7094 gestur 7:4
+7095 vtbli 8:1
+7096 kyriakopoulo 7:1
+7097 kohonen 7:1
+7098 bricot 5:1
+7099 identijk 7:1
+7100 palmprint 3:1
+7101 rong 8:1
+7102 ramo 8:5
+7103 tampereen 7:1
+7104 teknillinen 8:1
+7105 korkeakoulu 8:1
+7106 kwangwoon 7:2
+7107 sungkyunkwan 8:2
+7108 lipread 7:1
+7109 potamiano 7:1
+7110 neti 8:2
+7111 minutia 7:4
+7112 zorita 1:1
+7113 cruz 7:4
+7114 llana 7:1
+7115 politecnica 8:6
+7116 mouth 4:1
+7117 lucei 7:1
+7118 toh 5:1
+7119 yau 7:1
+7120 clone 8:1
+7121 vall 8:1
+7122 dugelai 8:1
+7123 ozer 7:1
+7124 wog 7:1
+7125 hci 8:1
+7126 imrc 8:1
+7127 kist 7:1
+7128 ross 8:1
+7129 prabhakar 8:1
+7130 persona 7:1
+7131 uppisr 9:1
+7132 nejian 8:1 7:1
+7133 grzeszczuk 8:1
+7134 eruhimov 7:1
+7135 recognis 7:1
+7136 hayfron 8:1
+7137 acquah 3:1
+7138 nixon 8:2
+7139 imap 8:1
+7140 gop 8:2
+7141 vliw 2:1
+7142 elemisnt 2:1
+7143 kyo 7:1
+7144 koga 7:1
+7145 okazaki 6:1
+7146 teach 7:1
+7147 dsfg 7:1
+7148 archltectur 8:1
+7149 kiryukhin 8:1
+7150 celenk 7:1
+7151 gion 7:1
+7152 earch 7:1
+7153 abbo 8:1
+7154 solal 7:1
+7155 euler 7:1
+7156 bishnu 7:1
+7157 murthi 7:1
+7158 acharya 8:3
+7159 biorthogonaldiscret 2:1
+7160 mccanni 7:2
+7161 masud 7:1
+7162 amphion 7:1
+7163 semiconductoc 8:1
+7164 cosrp 7:1
+7165 raman 8:2
+7166 lowpow 7:1
+7167 kavvadia 7:1
+7168 chatzigeorgi 8:1
+7169 zerva 7:3
+7170 versusan 7:1
+7171 andreopoulo 0:1
+7172 lafruit 7:1
+7173 schelken 8:3
+7174 stouraiti 8:1
+7175 gouti 7:2
+7176 corn 7:2
+7177 cernuschi 7:1
+7178 fria 7:1
+7179 conicet 7:1
+7180 argentina 8:2
+7181 hamkalo 5:1
+7182 pfefferman 7:1
+7183 olmo 7:3
+7184 magli 8:3
+7185 torino 8:4
+7186 braspen 7:1
+7187 gabrani 7:1
+7188 xilinx 8:1
+7189 ofan 8:1
+7190 mccurri 7:1
+7191 kilmartin 8:1
+7192 galwai 8:1
+7193 float 7:1
+7194 euclidean 7:1
+7195 vlassi 7:1
+7196 fiko 6:1
+7197 sisko 7:1
+7198 televis 8:3
+7199 mcwilliam 8:1
+7200 mclaughlin 8:1
+7201 laurenson 8:1
+7202 mmse 7:1
+7203 demosaick 7:1
+7204 trussel 8:2
+7205 gong 7:1
+7206 jasinschi 7:1
+7207 dimitrova 8:1
+7208 mcgee 7:1
+7209 agnihotri 8:1
+7210 zimmernian 7:1
+7211 plzilip 7:1
+7212 dissolv 8:5
+7213 aner 7:1
+7214 kender 8:1
+7215 dialogu 8:1
+7216 alatan 8:2
+7217 metu 7:1
+7218 lvii 7:2
+7219 shake 8:1
+7220 dobashi 7:1
+7221 kodat 7:1
+7222 tominaga 8:4
+7223 waseda 7:5
+7224 fiber 7:1
+7225 orriol 7:1
+7226 barcelo 7:1
+7227 binefa 7:1
+7228 digest 7:1
+7229 masumitsu 7:2
+7230 methoid 8:1
+7231 yazdi 7:1
+7232 lava 4:1
+7233 zaccarin 7:2
+7234 wearabl 7:1
+7235 ishijima 8:1
+7236 shiina 7:1
+7237 benzougar 2:1
+7238 bouthemi 8:4
+7239 irisninria 8:1
+7240 fablet 7:2
+7241 inrincnr 7:1
+7242 lienhart 8:1
+7243 vildeo 2:1
+7244 skim 8:1
+7245 peker 8:2
+7246 divakaran 8:2
+7247 fischlar 7:1
+7248 connor 7:1 0:1
+7249 czirjek 7:1
+7250 deasi 7:1
+7251 marlow 7:1
+7252 murphi 8:1
+7253 smeaton 0:1
+7254 dublin 8:5
+7255 shot 7:3
+7256 butz 7:1
+7257 documenr 8:1
+7258 bouman 8:5
+7259 mrc 8:3
+7260 memon 7:3
+7261 uboratori 7:1
+7262 enum 5:1
+7263 lviii 8:2
+7264 pinho 8:3
+7265 avei 7:1
+7266 rakowski 8:1
+7267 ageenko 5:1
+7268 kopylov 7:1
+7269 franti 8:1
+7270 joensuu 7:1
+7271 mieten 8:1
+7272 sezaki 7:1
+7273 codingdecod 7:1
+7274 parisot 8:2
+7275 tramini 7:2
+7276 latri 8:2
+7277 nebout 7:1
+7278 cne 7:2
+7279 predictor 0:3 7:2
+7280 subtrction 8:1
+7281 kuroki 8:2
+7282 kurum 2:1
+7283 ueshig 8:2
+7284 kagoshima 7:2
+7285 sojo 7:1
+7286 bayer 7:1
+7287 varlei 7:1
+7288 coher 7:4
+7289 prakash 8:1
+7290 payment 8:2
+7291 stepneski 7:1
+7292 boncelet 7:1
+7293 delawar 8:8
+7294 lix 7:1
+7295 zolnal 8:1
+7296 tourapi 8:2
+7297 cheong 7:3
+7298 arat 2:1
+7299 controlmethodwithpr 8:1
+7300 timempeg 2:1
+7301 yokoyama 7:2
+7302 nogaki 8:1
+7303 lumin 2:4
+7304 rodrigu 7:4
+7305 tecnologia 7:1
+7306 gestgo 7:1
+7307 faria 8:1
+7308 shishikui 7:2
+7309 itoh 8:4
+7310 multihypothesi 8:1
+7311 wiegand 8:8
+7312 acycl 7:1
+7313 ill 2:4
+7314 pacicard 7:1
+7315 frameskip 7:1
+7316 vetro 8:1
+7317 kerofski 7:1
+7318 ofamerica 8:1
+7319 lagrang 8:1
+7320 turaga 8:1
+7321 kimata 7:1
+7322 yashima 8:1
+7323 blattermann 7:1
+7324 schrnid 7:1
+7325 saugeon 4:1
+7326 wpoo 7:1
+7327 greek 7:1
+7328 harlfing 7:1
+7329 kotzabassi 4:1
+7330 wpo 8:4
+7331 networksand 7:1
+7332 frontier 8:1
+7333 imt 8:1
+7334 etoh 7:2
+7335 sullivan 7:1
+7336 brailean 1:1
+7337 fryel 4:1
+7338 sikora 2:1
+7339 vismap 7:1
+7340 ngo 8:1
+7341 lxi 8:2
+7342 newsam 8:1
+7343 sumengen 7:1
+7344 abdelja 8:1
+7345 figuera 7:1
+7346 ventura 7:1
+7347 divorra 7:1
+7348 escoda 7:1
+7349 multistat 7:1
+7350 wigner 8:3
+7351 vill 7:2
+7352 munson 7:2
+7353 larsson 7:2
+7354 uppsala 7:1
+7355 radioastronomyiimag 0:1
+7356 ofphas 8:1
+7357 gene 7:1
+7358 tic 4:2
+7359 fridman 8:1
+7360 astron 8:1
+7361 suppress 7:1 6:1
+7362 rfi 7:1
+7363 astronom 4:1
+7364 leshem 7:1
+7365 metalink 8:1
+7366 broadband 8:2
+7367 veen 0:1
+7368 delfi 7:1
+7369 unwrap 3:1
+7370 insar 8:1
+7371 pascazio 7:1
+7372 napoli 8:1
+7373 parthenop 7:1
+7374 schirinzi 8:1
+7375 cassino 8:1
+7376 undersampl 2:2
+7377 isel 7:1
+7378 deec 7:1
+7379 dia 7:3
+7380 csar 7:1
+7381 tank 7:1
+7382 spotlight 8:2
+7383 ripmap 7:1
+7384 interferometr 7:1
+7385 bryant 7:1
+7386 gostin 3:1
+7387 soumekh 7:1
+7388 polarimetr 8:4
+7389 goudail 7:1
+7390 refregiec 7:1
+7391 eva 8:1
+7392 luation 7:1
+7393 ofalgorithm 8:1
+7394 mansouri 7:2
+7395 chomcuud 5:1
+7396 inr 8:4
+7397 konrad 7:4
+7398 illuminkt 7:1
+7399 aach 7:1
+7400 duembgen 7:1
+7401 toth 2:1
+7402 lxii 7:2
+7403 techmer 8:1
+7404 injineon 8:1
+7405 walk 7:1
+7406 foroosh 7:1
+7407 cho 8:4
+7408 barron 7:1
+7409 mercel 7:1
+7410 atmospher 7:1
+7411 spectra 7:1 2:1
+7412 meijster 5:1
+7413 wilkinson 7:1
+7414 groningen 2:1
+7415 shock 7:1
+7416 torsello 8:1
+7417 morphologicalscal 7:1
+7418 spaceanalysisand 7:1
+7419 vachier 8:1
+7420 mendonqa 8:1
+7421 copp 7:1
+7422 ufrj 8:1
+7423 granulometr 8:1
+7424 morphologicalfilt 8:1
+7425 sedaaghi 7:1
+7426 daj 8:1
+7427 khosravi 8:1
+7428 sahand 7:1
+7429 multistag 2:11
+7430 marus 1:1
+7431 trobe 8:2
+7432 shefield 8:2
+7433 hallam 8:3
+7434 zheijang 7:1
+7435 lxiii 7:2
+7436 dehak 8:1
+7437 bloch 7:2
+7438 pouliquen 7:2
+7439 enseirb 8:5
+7440 germain 7:2
+7441 enita 7:2
+7442 bordeaux 7:3
+7443 baylou 7:3
+7444 ceccarelli 7:1
+7445 sannio 7:1
+7446 petrosino 7:1
+7447 kawanishi 8:1
+7448 takagi 7:3
+7449 pollytop 1:1
+7450 sheynin 8:1
+7451 tuzikov 7:1
+7452 belam 8:1
+7453 autocorrel 7:2
+7454 popovici 8:1
+7455 performanceand 8:1
+7456 mapip 8:1
+7457 kroupi 0:1
+7458 dasigeni 7:1
+7459 argyri 8:1
+7460 tata 7:1
+7461 soudri 8:1
+7462 thanailaki 8:1
+7463 pedrini 8:1
+7464 schwartz 7:4
+7465 paran 7:1
+7466 franklin 8:1
+7467 localfrequenc 7:1
+7468 ijnivers 8:1
+7469 costa 7:1
+7470 straighten 7:1
+7471 lavial 8:1
+7472 molin 7:1
+7473 angella 8:1
+7474 myung 7:1
+7475 odd 7:1
+7476 cloudi 7:1
+7477 grazzini 7:1
+7478 ziat 8:1
+7479 lxiv 8:2
+7480 desctruct 8:1
+7481 sezgin 7:1
+7482 tiibitak 7:1
+7483 mam 7:1
+7484 intrabnt 7:1
+7485 xiwav 5:1
+7486 plc 8:1
+7487 monro 7:1 8:1
+7488 bath 8:3
+7489 artefact 7:1
+7490 picker 7:2
+7491 frater 8:1
+7492 boman 7:1
+7493 arnold 8:1
+7494 unsw 8:1
+7495 prandolini 8:1
+7496 oliv 7:1
+7497 malumbr 0:1
+7498 runlength 8:1
+7499 nanchang 7:2
+7500 olivi 7:4
+7501 chatelli 7:2
+7502 poitier 7:3
+7503 przelaskowski 7:1
+7504 warsaw 7:1
+7505 hernami 7:1
+7506 spiht 7:2
+7507 bayazit 7:1
+7508 lsik 5:1
+7509 pearlman 7:4
+7510 hanaro 8:1
+7511 rauschenbach 7:1
+7512 rosenbaum 8:1
+7513 schumann 7:1
+7514 rostock 8:3
+7515 psnr 7:1
+7516 signoroni 7:2
+7517 leonardi 7:2
+7518 brescia 7:2
+7519 rajpoot 7:1
+7520 coifman 8:1
+7521 yale 8:1
+7522 bandsplit 8:1
+7523 rearrang 8:1
+7524 otak 8:1
+7525 elev 7:1 4:1
+7526 creuser 8:1
+7527 krishnamurthi 7:1
+7528 sethuraman 7:1
+7529 henri 7:1
+7530 ravikumar 1:1
+7531 rhode 8:1
+7532 iimag 7:1
+7533 scotnei 7:1
+7534 coleman 7:1
+7535 herron 7:1
+7536 ulstel 8:1
+7537 muresan 8:2
+7538 petrou 7:2
+7539 kadyrov 8:1
+7540 nanyarig 8:1
+7541 universiv 8:1
+7542 atkin 8:2
+7543 allebach 7:2
+7544 smolic 7:3
+7545 einrich 2:1
+7546 jection 7:2
+7547 glenti 7:1
+7548 turbo 8:3
+7549 llongguk 8:1
+7550 reductiion 7:1
+7551 sinc 8:1
+7552 florido 8:1
+7553 alzola 7:1
+7554 gran 6:1
+7555 canaria 7:1
+7556 westin 8:1
+7557 lxvi 8:2
+7558 generalis 7:1
+7559 polec 8:1
+7560 pavlovicova 7:1
+7561 stu 7:1
+7562 mth 7:1
+7563 zonal 7:1
+7564 anali 7:1 0:1
+7565 wingbenniihl 8:1
+7566 hannov 8:4
+7567 niem 8:1
+7568 gmbh 8:1
+7569 dimensionalscannerbas 7:1
+7570 stereovisiontechniqu 6:1
+7571 miguel 8:1
+7572 glasgow 7:2
+7573 pagliari 7:1
+7574 militar 7:1
+7575 engenharia 7:2
+7576 denni 6:2
+7577 teleconfer 5:1
+7578 hendrik 3:1
+7579 ipl 0:14
+7580 vincent 8:4
+7581 mcge 4:1
+7582 candid 2:3
+7583 medial 8:1
+7584 bonnassi 7:1
+7585 peyrin 8:2
+7586 esr 7:2
+7587 attali 8:1
+7588 universitair 8:2
+7589 camegi 8:5
+7590 kawasaki 8:1
+7591 aritaki 7:1
+7592 ikeuchi 5:1
+7593 talkingfac 7:1
+7594 arya 7:1
+7595 hamidzadeh 7:1
+7596 lxvii 8:2
+7597 hypermask 7:1
+7598 morishima 8:1
+7599 yotsukura 7:1
+7600 seikei 7:1
+7601 beam 2:1
+7602 lerasl 7:1
+7603 dane 7:1
+7604 tsalakanid 7:1
+7605 mavridi 7:1
+7606 giagourta 7:1
+7607 gramnzalidi 8:1
+7608 telemar 7:1
+7609 trinocxjlar 7:1
+7610 tele 8:1
+7611 immers 8:1
+7612 mulligan 6:1
+7613 daniilidi 8:1
+7614 shoulder 7:1
+7615 weerasingh 8:1
+7616 ogunbona 7:1
+7617 shadow 8:2
+7618 barski 8:1
+7619 sari 2:1
+7620 radhakrishnan 8:1
+7621 insfitut 7:1
+7622 sehgal 7:1
+7623 jagmohani 7:1
+7624 niqu 0:2
+7625 inseirt 5:1
+7626 vassaux 8:1
+7627 chasseri 7:1
+7628 tewfik 7:4
+7629 tsekerid 7:3
+7630 tefa 7:4
+7631 solachidi 7:3
+7632 greometr 8:1
+7633 baudri 8:2
+7634 lhale 8:1
+7635 multibit 8:1
+7636 voloshynovskii 7:2
+7637 deguillaum 8:1
+7638 balado 5:1
+7639 rez 7:2
+7640 gonzdlez 7:1
+7641 scalis 8:1
+7642 dlr 3:1
+7643 lxviii 8:2
+7644 coltrnan 7:1
+7645 radon 8:1
+7646 svalb 7:1
+7647 monash 8:4
+7648 lsb 7:1
+7649 steganographi 8:2
+7650 chandramouli 7:1
+7651 mernon 8:1
+7652 meerwald 7:1
+7653 uhl 7:1
+7654 salzburg 7:1
+7655 cocktail 8:2
+7656 decompressor 0:1
+7657 bertran 8:1
+7658 delaigl 8:1
+7659 wpll 8:1
+7660 gmrf 7:1
+7661 torriti 8:1
+7662 mcgill 8:1
+7663 jouan 7:1
+7664 lockhe 7:3
+7665 magnet 2:7
+7666 reson 7:4
+7667 capel 8:2
+7668 alata 7:2
+7669 ferri 7:2
+7670 moretti 8:2
+7671 bloyet 7:2
+7672 enhancementand 7:1
+7673 macular 7:1
+7674 degener 6:2
+7675 amd 7:1
+7676 retina 7:1
+7677 rapantziko 7:1
+7678 zet 8:1
+7679 vaki 7:1
+7680 kidnei 5:2
+7681 tsagaan 7:1
+7682 shirnizu 8:1
+7683 ofagricultur 8:1
+7684 miyakawa 8:1
+7685 yosinori 4:1
+7686 taleb 7:1
+7687 tlnalys 7:1
+7688 littora 2:1
+7689 leclerc 8:1
+7690 saint 7:1
+7691 neuroradiologi 8:1
+7692 spectralmethod 8:1
+7693 gmentati 7:1
+7694 sclarofi 7:1
+7695 reconstructionund 7:1
+7696 doklad 8:1
+7697 urtasun 8:1
+7698 ura 8:1
+7699 gamero 7:1
+7700 tandem 6:2 8:1
+7701 anatom 8:1
+7702 atla 7:1
+7703 bach 7:1
+7704 cuadra 8:1
+7705 meuli 8:1
+7706 chui 8:1
+7707 soilsect 8:1
+7708 sofou 7:1
+7709 tzafesta 8:1
+7710 ncsr 8:1
+7711 demokrito 7:1
+7712 fissur 8:2
+7713 uakinuma 7:1
+7714 moriyarna 8:1
+7715 insur 7:2
+7716 lktedic 8:1
+7717 medicalimag 4:1
+7718 ventricl 7:1
+7719 imr 8:1
+7720 uobashi 0:1
+7721 taka 7:1
+7722 hinzeji 7:1
+7723 kitamura 8:2
+7724 crl 7:2
+7725 hata 7:1
+7726 himeji 8:1
+7727 yanagida 0:1
+7728 uarmakar 8:1
+7729 doolei 8:1
+7730 segmeni 8:1
+7731 rumpf 7:1
+7732 strzodka 7:1
+7733 duisburg 8:1
+7734 sequeira 8:1
+7735 goncalv 7:1
+7736 vaz 0:1
+7737 aveiro 8:4
+7738 iiiof 7:1
+7739 vancouv 7:2
+7740 exposit 5:1
+7741 casebound 8:1
+7742 entertain 8:1
+7743 harman 8:1
+7744 pty 7:1
+7745 mismatch 1:1
+7746 stelmach 8:1
+7747 tam 7:2
+7748 meegan 8:1
+7749 corriveau 8:1
+7750 microstereopsi 8:1
+7751 prospect 4:2 2:2
+7752 zoneless 8:1
+7753 autostereoscop 7:1
+7754 siegel 7:1
+7755 szeliski 8:2
+7756 kumar 8:2
+7757 sawhnei 8:1
+7758 guo 6:3 2:1
+7759 samarasekera 0:1
+7760 samoff 8:3
+7761 hurlei 2:1
+7762 kriegman 7:1
+7763 eigenfac 7:1
+7764 kawaguchi 8:1 2:1
+7765 hidaka 6:1
+7766 rizon 4:1
+7767 oita 8:1
+7768 redfield 8:1
+7769 ferman 7:1
+7770 krishnamachari 8:1
+7771 seetharaman 8:2
+7772 louisiana 7:3
+7773 occlud 0:1
+7774 hsieh 8:2
+7775 grimson 7:1
+7776 lyengar 7:1
+7777 lippman 8:1
+7778 califomia 8:27
+7779 revisit 2:3
+7780 willi 7:1
+7781 jeff 8:1
+7782 tikhonov 8:1
+7783 oraintara 8:2
+7784 karl 8:7
+7785 castanon 7:3
+7786 rovira 7:2
+7787 virgili 7:2
+7788 vintimilla 8:2
+7789 catalonia 8:3
+7790 vozel 9:1
+7791 chehdi 8:2
+7792 carton 8:1
+7793 vandecandelaer 7:1
+7794 renn 8:2
+7795 paraboloid 7:1
+7796 surrog 8:1
+7797 ascent 8:1
+7798 sotthivirat 8:1
+7799 krige 8:1
+7800 pham 8:2
+7801 wagner 8:1
+7802 canberra 8:1
+7803 yagl 7:2
+7804 sudharsanan 7:2
+7805 sriram 8:2
+7806 compressor 7:1
+7807 slyz 8:1
+7808 neuhofi 8:1
+7809 greyscal 8:1
+7810 devlin 8:1
+7811 matsuda 8:1
+7812 jbig 8:1
+7813 ultim 2:9
+7814 ono 8:2
+7815 rucklidg 8:1
+7816 arp 7:1
+7817 constantinescu 2:1
+7818 contex 8:1
+7819 relax 2:2
+7820 aiazi 7:1
+7821 istituto 8:1
+7822 ricerca 8:1
+7823 ond 8:1
+7824 elettromagnetich 7:1
+7825 centromer 8:1
+7826 lunsdotp 8:1
+7827 terli 8:1
+7828 odobez 7:1
+7829 abraham 8:1
+7830 hospitali 7:1
+7831 vascular 2:1
+7832 heart 5:16
+7833 kaujhold 3:1
+7834 shang 2:2
+7835 dali 7:2
+7836 mcgrath 8:1
+7837 barker 2:1
+7838 speckl 7:1 2:1
+7839 abd 8:1
+7840 elmoniem 8:1
+7841 kadah 7:2
+7842 youssej 8:1
+7843 cairo 7:3
+7844 corneal 7:1
+7845 trauma 8:1
+7846 cullen 2:1
+7847 pounder 8:1
+7848 whitear 7:1
+7849 ukai 7:1
+7850 toshiba 7:1
+7851 bhangal 6:1
+7852 sharrna 2:1
+7853 bombai 8:1
+7854 canter 8:2
+7855 egichi 7:1
+7856 adenocarcinoma 9:1
+7857 sammouda 7:1
+7858 motil 8:1
+7859 surgeri 8:1
+7860 eldeib 8:1
+7861 yamani 8:2
+7862 dominion 7:2
+7863 xvi 8:1
+7864 ambigu 4:1
+7865 inerti 8:1
+7866 dekeys 8:1
+7867 fritsch 7:1
+7868 lomker 7:1
+7869 wieneck 2:1
+7870 sager 8:2
+7871 bielefeld 7:2
+7872 tarel 7:1
+7873 livic 0:1
+7874 guichard 7:1
+7875 poseidonnis 7:1
+7876 takeuchi 8:1
+7877 shibuichi 6:1
+7878 terashima 8:1
+7879 seab 2:1
+7880 linnett 0:1
+7881 forb 2:1
+7882 zagorodnov 7:1
+7883 lisaku 7:2
+7884 monocular 2:1
+7885 videostream 8:1
+7886 maganto 8:1
+7887 menendez 7:1
+7888 rendon 8:1
+7889 kassler 8:1
+7890 neubeck 7:1
+7891 ulm 7:1
+7892 regauoni 8:1
+7893 namazi 8:1
+7894 cathol 7:1
+7895 wold 8:1
+7896 campisi 7:2
+7897 neri 7:2
+7898 roma 8:4
+7899 tre 8:2
+7900 scarano 8:1
+7901 sapienza 8:1
+7902 wemick 8:2
+7903 willski 7:2
+7904 cliqu 8:1
+7905 sivakumar 8:1
+7906 goutsia 1:1
+7907 nikou 8:1
+7908 muss 8:2
+7909 armspach 8:2
+7910 strasbourg 8:1
+7911 noun 7:2
+7912 shirazi 7:2
+7913 noda 8:2
+7914 takao 8:1
+7915 orwel 8:2
+7916 greenhil 7:2
+7917 rymel 8:2
+7918 kingston 8:2
+7919 ellipsoid 7:1
+7920 rear 4:1
+7921 grammalid 5:1
+7922 sarri 8:2
+7923 varzoka 8:1
+7924 volterra 7:1
+7925 stathaki 8:2
+7926 penev 7:1
+7927 rockefel 8:1
+7928 gegiu 8:1
+7929 kaplan 7:3 8:1
+7930 mount 7:1
+7931 sinai 8:1
+7932 nitsuwat 6:1
+7933 hudson 8:1
+7934 macquari 8:2
+7935 tecnico 8:4
+7936 telecomunicacd 8:1
+7937 polyt 5:1
+7938 marcotegui 8:1
+7939 zanoguera 2:1
+7940 cmm 8:1
+7941 wollbom 7:1
+7942 movel 7:1
+7943 ianniuotto 7:1
+7944 messina 8:1
+7945 vita 5:1
+7946 catania 5:1
+7947 izquierdo 8:2
+7948 westjield 8:1
+7949 papadimitri 8:1
+7950 macedonia 7:2
+7951 roumelioti 8:1
+7952 martel 2:1
+7953 abegg 7:1
+7954 wom 8:1
+7955 karlsruh 8:1
+7956 gokcetekin 7:1
+7957 harmanc 2:1
+7958 celasun 8:1
+7959 istanbul 8:1
+7960 rajagopalan 8:2
+7961 bystrom 6:1
+7962 kozintsev 2:1
+7963 mohr 8:1
+7964 ladner 2:1
+7965 riskin 8:1
+7966 atm 7:1
+7967 kurceren 3:1
+7968 banist 7:1
+7969 belzer 8:1
+7970 fischer 8:1 0:1
+7971 khalil 8:2
+7972 uep 6:1
+7973 akansu 8:3
+7974 vass 8:1
+7975 eyebal 8:1
+7976 zhuang 8:2
+7977 ezw 8:2
+7978 stuhlmuel 8:2
+7979 farber 7:1
+7980 venkatesan 8:2
+7981 jakubowski 8:2
+7982 termont 1:1
+7983 strycker 7:1
+7984 vandeweg 8:1
+7985 gent 8:4
+7986 beeck 8:1
+7987 mae 8:1
+7988 depover 2:2
+7989 chaotic 0:1
+7990 sidiropoulo 8:1
+7991 spread 7:5
+7992 spectrum 7:5
+7993 mora 8:1
+7994 jimenez 7:1
+7995 navia 8:1
+7996 vazquez 7:2
+7997 faith 8:1
+7998 bassali 8:1
+7999 chhugani 7:1
+8000 agarw 8:1
+8001 aggarw 8:2
+8002 dubei 7:1
+8003 arena 8:1
+8004 caramma 7:2
+8005 lancini 8:2
+8006 cefriel 8:2
+8007 readabl 7:1
+8008 mapelli 2:1
+8009 fridrich 8:1
+8010 goljan 8:1
+8011 binghamton 8:2 0:1
+8012 baldoza 8:1
+8013 mobasseri 2:1
+8014 villanova 7:1
+8015 sieffert 8:1
+8016 suni 8:1
+8017 simard 8:1
+8018 shinza 8:1
+8019 kenmochi 8:3
+8020 kotani 8:3
+8021 truncat 8:2
+8022 dgt 7:1
+8023 bloom 8:2
+8024 shoeprint 8:1
+8025 leung 8:3
+8026 gorman 2:1
+8027 erim 5:1
+8028 supeneur 8:1
+8029 etz 8:2
+8030 tompa 7:1
+8031 morton 8:1
+8032 polar 8:3
+8033 wolberg 7:1
+8034 zokai 8:1
+8035 sheffield 2:1
+8036 mpol 7:1
+8037 vrhel 8:2
+8038 savvi 8:2
+8039 panchanathan 7:1
+8040 golshani 8:1
+8041 stokman 8:1
+8042 simplif 0:19 8:2
+8043 multichannel 2:30
+8044 bani 5:1
+8045 mirri 8:1
+8046 ikonomaki 5:1
+8047 william 8:2
+8048 pedersini 8:2
+8049 fior 8:1
+8050 lafayett 8:1 3:1
+8051 gaspera 8:1
+8052 digi 5:2
+8053 dyne 7:1
+8054 palaniappan 4:1
+8055 hioki 8:1
+8056 voxel 6:1
+8057 eisert 8:3
+8058 betz 7:1
+8059 vasiliu 7:1
+8060 devo 7:1
+8061 sud 8:1
+8062 bitstream 8:1
+8063 noguchi 8:1
+8064 asahi 7:1
+8065 chemcal 7:1
+8066 metroplitan 8:1
+8067 kiya 7:2
+8068 mansour 7:1
+8069 dualiti 8:1
+8070 pradhan 8:1
+8071 ghaoui 8:1
+8072 silvestr 7:1
+8073 dowl 2:1
+8074 psychovisu 7:1
+8075 areepongsa 8:1
+8076 kaewkamnerd 8:1
+8077 arlington 5:1
+8078 tangram 2:1
+8079 conwai 7:1
+8080 abdulaziz 8:1
+8081 pang 8:1
+8082 fmri 2:1
+8083 femandez 8:1
+8084 lefevr 7:1
+8085 irm 8:2
+8086 scanner 8:2
+8087 neoh 7:1
+8088 bandpass 0:1
+8089 osman 2:1
+8090 princ 8:1
+8091 claryss 7:1
+8092 croisil 7:1
+8093 lumen 8:1
+8094 backward 8:3
+8095 amon 8:1
+8096 duhamel 8:2
+8097 mihcak 8:2
+8098 docimo 8:1
+8099 ebwic 5:1
+8100 interscal 7:1
+8101 intrascal 8:1
+8102 ultrawideband 8:1
+8103 showman 4:1
+8104 mcclellan 8:3
+8105 glr 7:1
+8106 lisboa 7:1
+8107 telecomunicapj 7:1
+8108 blostein 8:1
+8109 omega 8:1
+8110 runwai 8:1
+8111 cadal 7:1
+8112 superresolut 8:4
+8113 samad 7:1
+8114 underground 2:2
+8115 sidelob 7:1
+8116 apod 8:1
+8117 kaiser 2:1
+8118 manitoba 2:1
+8119 paso 8:1
+8120 sok 7:1
+8121 uwb 7:1
+8122 lertniphonphun 8:1
+8123 atlanta 0:4 8:3
+8124 cobb 7:1
+8125 tupin 7:1
+8126 sigel 8:1
+8127 national 8:2 2:1
+8128 superieur 8:2
+8129 reev 7:1
+8130 auburn 8:1
+8131 hilbert 6:1
+8132 hyper 8:1
+8133 rectangular 5:1
+8134 parallelepip 7:1
+8135 bandoh 7:1
+8136 kamata 2:1
+8137 colorimetr 2:1
+8138 derbi 9:1
+8139 beller 8:1
+8140 siebert 8:1
+8141 trelewicz 9:1
+8142 interferomet 7:1
+8143 ryoo 8:1
+8144 thz 8:1
+8145 puls 2:2
+8146 dornei 3:1
+8147 mittleman 8:1
+8148 transduc 7:1
+8149 shenhar 4:1
+8150 mostafa 0:1
+8151 perkin 2:1
+8152 linar 7:1
+8153 zapata 8:1
+8154 ortigosa 8:1
+8155 almeria 8:1
+8156 ikeda 8:1
+8157 takushoku 8:1
+8158 pdm 7:1
+8159 multifract 2:1
+8160 monteiro 8:1
+8161 brasil 8:1
+8162 venkatachalam 8:1
+8163 fuse 8:2
+8164 circumscrib 7:1
+8165 muaoz 7:1
+8166 cuj 6:1
+8167 freixenet 7:2
+8168 marti 8:2
+8169 fontain 7:1
+8170 macair 8:3
+8171 postair 7:3
+8172 universitt 7:1
+8173 lill 8:4
+8174 fiorio 8:1
+8175 lnformatiqu 7:1
+8176 robotiqu 8:3
+8177 microelectroniqu 2:1
+8178 nock 8:1
+8179 antil 8:1
+8180 guyan 8:1
+8181 facet 8:2
+8182 goldschneid 8:1
+8183 mathsojl 8:1
+8184 reyna 8:1
+8185 hernandez 7:2
+8186 cattoen 8:1
+8187 enseeiht 7:1
+8188 lengwehasatit 7:2
+8189 southem 8:3
+8190 imamura 2:1
+8191 bias 7:2 0:1
+8192 nisar 8:1
+8193 mrme 8:1
+8194 teh 8:1
+8195 spann 2:1
+8196 birmingham 0:1
+8197 haynor 8:1
+8198 nest 0:4
+8199 moschetti 8:1
+8200 calvano 7:1
+8201 roh 8:1
+8202 hebrew 8:1
+8203 jerusalem 8:1
+8204 ohm 8:1 7:1
+8205 decroo 4:1
+8206 stien 8:1
+8207 intrasoft 8:1
+8208 intem 8:1
+8209 mplo 8:1
+8210 sze 5:1
+8211 pardo 8:1
+8212 universidud 8:2
+8213 republica 7:1
+8214 montevideo 8:1
+8215 uruguai 8:1
+8216 pared 8:2
+8217 unal 7:1
+8218 moor 2:3
+8219 poon 7:1
+8220 sousa 8:1 7:1
+8221 assi 7:1
+8222 paraiba 8:2
+8223 pessoa 7:1
+8224 permut 2:5
+8225 ramanan 7:1
+8226 bamer 8:3
+8227 impuls 2:24
+8228 xxix 8:1
+8229 colio 7:1
+8230 trahania 2:4
+8231 hella 8:1
+8232 aguirr 8:1
+8233 mpll 8:1
+8234 andra 6:1
+8235 chakrabarti 8:1
+8236 axial 8:1
+8237 neuhofj 5:1
+8238 shend 7:1
+8239 agganv 6:1
+8240 narayan 8:1
+8241 sipitca 2:1
+8242 gillman 7:1
+8243 peakston 8:1
+8244 dequeiroz 7:1
+8245 kadono 8:1
+8246 matsushita 8:3
+8247 nara 8:2
+8248 docomo 8:2
+8249 yokoya 7:1
+8250 requant 7:1
+8251 sorial 6:1
+8252 nagayoshi 8:1
+8253 kasai 7:2
+8254 hanamura 7:1
+8255 mediayglu 7:1
+8256 kamayama 6:1
+8257 kaveh 8:2
+8258 xxx 5:3
+8259 quadrisect 8:1
+8260 stite 9:1
+8261 kieffer 7:1
+8262 jeon 8:2
+8263 vbr 5:1
+8264 codebook 2:3 8:1
+8265 biloslavo 8:1
+8266 ramponi 8:2
+8267 olivieri 7:1
+8268 albani 8:1
+8269 monza 2:1
+8270 mendndez 7:1
+8271 renddn 8:1
+8272 lurrosa 7:1
+8273 politdcnica 8:1
+8274 schwan 2:1
+8275 fur 8:2
+8276 nachrichtentechnik 8:2
+8277 askommun 8:1
+8278 forchhamm 8:1
+8279 riba 8:1
+8280 corbera 8:1
+8281 vbv 8:1
+8282 egawa 7:1
+8283 taol 2:1
+8284 whit 8:1
+8285 tradeoff 8:1
+8286 anandan 7:1
+8287 cham 7:1
+8288 gormish 8:3
+8289 silicon 8:6
+8290 marcellin 8:1
+8291 ordentlich 8:1
+8292 kompress 8:1
+8293 weinberg 8:1
+8294 seroussi 8:1
+8295 ueno 2:1
+8296 duli 8:1
+8297 upcomimg 8:1
+8298 askeloj 8:1
+8299 boliek 8:2
+8300 houchin 7:1
+8301 xxxii 8:1
+8302 lausann 8:9
+8303 jasper 8:1
+8304 montion 7:1
+8305 fukuhura 7:1
+8306 katoh 8:1
+8307 kimura 7:1
+8308 hosaka 7:1
+8309 oblivi 8:3
+8310 ramkumar 7:1
+8311 kacker 8:1
+8312 shutterjli 8:1
+8313 alghoniemi 8:1
+8314 delannai 7:1
+8315 mucq 8:1
+8316 dugad 8:1
+8317 katsura 8:1
+8318 mdl 7:1
+8319 penn 8:3
+8320 schlueter 7:1
+8321 wuchsmuth 8:1
+8322 posch 8:1
+8323 wittenberg 4:1
+8324 tangsukson 8:1
+8325 isoperimetr 8:1
+8326 froment 7:1
+8327 chanyagom 8:1
+8328 segreg 8:1
+8329 arq 7:1
+8330 bucklei 1:1
+8331 wicker 8:1
+8332 sherwood 7:1
+8333 zeger 8:1
+8334 diego 8:2
+8335 egpr 8:1
+8336 chawla 7:1
+8337 krishnan 8:1
+8338 ducla 2:1
+8339 soar 8:1
+8340 telecomunicagg 8:2
+8341 adachi 2:1
+8342 hiller 8:1
+8343 kaohsiung 7:1
+8344 lordach 7:2
+8345 tabu 8:1
+8346 winger 7:1
+8347 khatai 7:1
+8348 soleymani 8:1
+8349 giang 7:1
+8350 decompress 2:1
+8351 ryan 7:2
+8352 asymptot 7:2
+8353 gue 8:1
+8354 rin 4:1
+8355 tosan 8:1
+8356 xxxv 7:1
+8357 chatterje 8:1
+8358 banerje 8:2
+8359 biswa 8:1
+8360 hauz 7:1
+8361 kha 7:1
+8362 subspac 8:3
+8363 challapali 7:1
+8364 unconstrain 8:3
+8365 fouad 8:1
+8366 darwish 8:1
+8367 shaheen 2:1
+8368 bayoumi 7:2
+8369 eyeglass 8:1
+8370 holst 8:1
+8371 politechn 8:2
+8372 fraunhof 7:1
+8373 parda 8:1
+8374 sayrol 8:1
+8375 tsapatsouli 5:1
+8376 avrithi 8:1
+8377 toklu 7:1
+8378 eigenspac 6:1
+8379 xxxvi 8:1
+8380 hoeynck 8:1
+8381 dufaux 2:1
+8382 interarct 8:1
+8383 mazitr 8:1
+8384 chassa 8:1
+8385 tempo 8:1
+8386 dramat 8:1
+8387 curtin 8:4
+8388 venkatesh 8:2
+8389 ita 2:1
+8390 kdd 6:3 8:2
+8391 hizum 8:1
+8392 wipe 8:3
+8393 femando 8:2
+8394 succes 7:1
+8395 thevenaz 8:1
+8396 poc 7:1
+8397 stasinski 7:1
+8398 hogskolen 0:1
+8399 narvik 8:1
+8400 xxxvii 8:1
+8401 nearest 4:4
+8402 neighbor 5:14 4:4 8:1
+8403 zahir 8:1
+8404 agha 7:1
+8405 thivenaz 7:1
+8406 blu 7:1
+8407 dst 8:1
+8408 martucci 3:1
+8409 ferreira 7:2
+8410 bhattacharje 8:1
+8411 sundareshan 8:1
+8412 milanfar 8:1
+8413 magnif 7:1
+8414 decim 8:1
+8415 nicoli 8:1
+8416 iut 7:2
+8417 creuson 8:1
+8418 truchetet 8:1
+8419 creusot 7:1
+8420 hartlei 8:1
+8421 grigoryan 7:1
+8422 agaian 2:1
+8423 diffract 7:1
+8424 catch 7:1
+8425 federal 8:2
+8426 orthonorm 8:1
+8427 ridgelet 7:1
+8428 direction 8:1
+8429 coat 7:2
+8430 xxxviii 8:1
+8431 cardoso 7:1
+8432 diou 7:1
+8433 lirmm 2:1
+8434 takano 7:1
+8435 niijima 8:1
+8436 paraunitari 6:1
+8437 kuroko 8:1
+8438 urushibara 7:1
+8439 ikehara 8:2
+8440 keio 8:3
+8441 chiu 8:1
+8442 vaisei 2:1
+8443 echocardiac 8:1
+8444 fahoum 5:1
+8445 reza 8:2
+8446 milwauke 8:3
+8447 flir 8:3
+8448 russo 7:2
+8449 sander 8:2
+8450 oceanograph 8:1
+8451 gait 7:1
+8452 postur 8:1
+8453 diagnos 5:18
+8454 disord 8:1
+8455 bume 2:1
+8456 biotissu 7:1
+8457 italian 8:1
+8458 fook 4:1
+8459 graaa 8:1
+8460 echav 5:1
+8461 cabello 8:1
+8462 complutens 7:1
+8463 kybic 8:1
+8464 ophthalm 2:1
+8465 heneghan 8:2
+8466 cahil 8:2
+8467 ophthamolog 7:1
+8468 infrar 8:1
+8469 namuduri 8:1
+8470 bouyoucef 8:1
+8471 gender 0:4
+8472 rizvi 7:1
+8473 saadawi 8:1
+8474 morikawa 7:1
+8475 radi 8:1
+8476 gaborski 8:1
+8477 planar 8:2
+8478 fahmi 8:1
+8479 tawfik 7:1
+8480 cortic 7:2
+8481 sulci 5:1
+8482 renault 7:1
+8483 desvign 7:2
+8484 terrier 2:1
+8485 devlaminck 8:1
+8486 rerkrai 8:1
+8487 areekul 8:1
+8488 kasetsart 8:1
+8489 huvanandana 8:1
+8490 tissot 7:1
+8491 durbin 8:1
+8492 ceadrif 7:1
+8493 dcre 8:1
+8494 seim 8:1
+8495 tpol 8:1
+8496 dvd 8:9
+8497 seidel 7:1
+8498 warner 8:1
+8499 collart 8:1
+8500 interactu 7:1
+8501 paramount 8:1
+8502 redefin 7:1
+8503 daikin 7:1
+8504 saffari 7:1
+8505 naja 8:1
+8506 benedetto 2:1
+8507 pioneer 8:1
+8508 loupia 7:1
+8509 sebe 8:1
+8510 jolion 8:1
+8511 hatipoglu 8:1
+8512 schouten 8:1
+8513 zeeuw 8:1
+8514 pinheiro 7:1
+8515 biermann 5:1
+8516 margar 7:1
+8517 mujica 8:1
+8518 murenzi 8:1
+8519 crack 8:2
+8520 marquant 8:1
+8521 labit 8:1
+8522 lope 8:1
+8523 incomplet 5:14
+8524 omni 7:1
+8525 neumann 7:1
+8526 blocksiz 2:1
+8527 tandjung 8:1
+8528 gunawan 8:1
+8529 chong 5:1
+8530 emu 8:1
+8531 austvol 8:1
+8532 randnantsoa 7:1
+8533 berthoumieu 8:1
+8534 bern 2:1
+8535 goldberg 0:4
+8536 parc 8:1
+8537 newspap 7:1
+8538 mahata 1:1
+8539 ramakrishnan 8:2
+8540 southeast 8:1
+8541 duplex 7:1
+8542 frese 7:1
+8543 rouz 8:1
+8544 hutchin 8:1
+8545 sauer 8:1
+8546 strahlen 8:2
+8547 lund 6:2
+8548 arterioven 7:1
+8549 malform 7:1
+8550 castaiion 8:1
+8551 northeastem 8:2
+8552 homogen 2:2
+8553 nyui 6:1
+8554 kunieda 8:1
+8555 logn 8:1
+8556 reproject 2:1
+8557 boag 8:1
+8558 michielssen 8:1
+8559 buri 8:1
+8560 northwestem 9:1
+8561 posteriori 2:1
+8562 patti 8:1
+8563 liber 8:1
+8564 flicker 8:3
+8565 film 7:4
+8566 blotch 4:1
+8567 naranjo 8:2
+8568 tenz 8:1
+8569 carrato 7:1
+8570 deblock 6:1
+8571 atzori 8:1
+8572 cagliari 2:1
+8573 natal 7:1
+8574 trento 7:1
+8575 granelli 7:2
+8576 ohuchi 8:2
+8577 kanagawa 8:3
+8578 interlac 7:1
+8579 realtim 8:2
+8580 cursiv 8:2
+8581 handwrit 8:1
+8582 broken 8:1
+8583 veloso 8:1
+8584 combust 7:1
+8585 premix 8:1
+8586 flame 7:1
+8587 enel 7:1
+8588 geophys 8:1
+8589 gout 7:1
+8590 pau 7:1
+8591 topcad 8:1
+8592 crater 8:1
+8593 possibilist 7:1
+8594 shell 6:1
+8595 bami 7:1
+8596 mecocci 7:1
+8597 perugini 8:1
+8598 tewfk 5:1
+8599 urban 8:1
+8600 keaton 8:1
+8601 hrl 6:1
+8602 storm 8:2
+8603 debrunn 7:1
+8604 rabin 7:1
+8605 cartograph 7:1
+8606 rellier 2:1
+8607 khalqa 8:1
+8608 moussa 4:1
+8609 wilfrid 8:1
+8610 laurier 1:1
+8611 polyhedra 8:1
+8612 moyung 6:1
+8613 vanish 0:1
+8614 triangl 2:25
+8615 gurdjo 8:1
+8616 payrissat 8:1
+8617 irlt 8:1
+8618 hemai 8:1
+8619 multiview 3:1
+8620 panorama 8:1
+8621 ichikawa 2:1
+8622 casel 7:1
+8623 pompeu 8:1
+8624 fabra 5:1
+8625 khintchin 8:1
+8626 oaklei 7:1
+8627 manchest 7:1
+8628 wesolkowski 7:1
+8629 guelph 8:2
+8630 jemigan 8:1
+8631 doni 8:1
+8632 soccer 8:1
+8633 vandenbrouck 7:1
+8634 automatiqu 8:1
+8635 sierra 7:1
+8636 credibl 4:3
+8637 vertan 8:1
+8638 buzuloiu 8:1
+8639 dempster 2:3
+8640 shafer 4:1
+8641 chapron 8:2
+8642 eti 8:2
+8643 huaqiao 8:1
+8644 ruptur 7:1
+8645 gamut 8:1
+8646 clip 7:1
+8647 kwok 8:1
+8648 coban 7:1
+8649 luczak 8:1
+8650 luttrel 2:1
+8651 villasenor 8:2
+8652 hoseo 8:1
+8653 laurent 8:3
+8654 kase 8:1
+8655 humamoto 7:1
+8656 beuker 7:1
+8657 horng 8:1
+8658 kamuta 2:1
+8659 hayashi 8:1
+8660 ghamri 7:1
+8661 doudan 4:1
+8662 melkemi 2:1
+8663 dpcm 7:1
+8664 exp 7:1 2:1
+8665 yeung 2:2
+8666 subdivis 0:1
+8667 moran 8:1
+8668 foreground 8:1
+8669 edith 8:2
+8670 cowan 7:2
+8671 ngan 8:1
+8672 westem 4:1
+8673 hit 8:1
+8674 graiia 8:1
+8675 keshet 8:1
+8676 mathsofl 5:1
+8677 pitton 8:1
+8678 aiyer 8:1
+8679 dufour 8:1
+8680 cox 8:1
+8681 universitd 7:1
+8682 egger 6:1
+8683 asymmetr 1:1
+8684 furon 8:1
+8685 thomson 7:3
+8686 loo 8:1
+8687 millennium 8:1
+8688 clarkson 7:1
+8689 pentland 8:1
+8690 belief 0:4
+8691 paek 8:1
+8692 joyc 8:2 0:2
+8693 kung 8:1
+8694 ostermann 7:1
+8695 kampmann 8:1
+8696 comaniciu 7:1
+8697 ramesh 7:1
+8698 shekarforoush 8:1
+8699 nascimento 8:1
+8700 bruno 5:1
+8701 suo 8:1
+8702 kumazawa 7:1
+8703 viram 8:1
+8704 yelick 8:1
+8705 transpos 7:1
+8706 avoird 1:1
+8707 scalar 2:6
+8708 mccann 4:1
+8709 kessal 7:1
+8710 demigni 8:1
+8711 boudouani 8:1
+8712 bourgiba 8:1
+8713 calijiomia 8:1
+8714 vhdl 8:1
+8715 muramatsu 2:1
+8716 niigata 8:2
+8717 majc 8:1
+8718 frederickson 8:1
+8719 gulati 8:1
+8720 vlsi 8:2
+8721 omaki 8:1
+8722 oney 8:1
+8723 shirakawa 8:1
+8724 joo 8:1
+8725 kikuchi 7:1
+8726 excit 8:1
+8727 pel 7:1
+8728 wien 8:1
+8729 rheinisch 8:1
+8730 wesgalisch 7:1
+8731 hochschul 7:1
+8732 dfd 7:1
+8733 asbun 7:1
+8734 sulama 2:1
+8735 tanaku 8:1
+8736 intraband 2:1
+8737 bascon 7:1
+8738 lopez 8:1
+8739 gomez 2:1
+8740 alcala 8:1
+8741 henar 7:1
+8742 eau 7:1
+8743 clair 7:1
+8744 aufranc 8:1
+8745 grenobl 8:1
+8746 poh 7:1
+8747 auwera 8:1
+8748 munteanu 7:1
+8749 deever 8:1
+8750 takahara 8:1
+8751 okuda 8:2
+8752 takahashi 7:1
+8753 grangetto 7:1
+8754 brandstein 8:1
+8755 ziii 8:1
+8756 vsdl 5:1
+8757 yaginuma 8:1
+8758 pariss 8:1
+8759 katholliek 8:2 4:1
+8760 speechread 7:1
+8761 nankaku 8:1
+8762 tokuda 7:1
+8763 photo 6:30
+8764 shan 7:1
+8765 tomita 7:1
+8766 kurokawa 8:1
+8767 miyamori 8:1
+8768 iisaku 8:1
+8769 pronina 7:1
+8770 kulkarrti 8:1
+8771 cherkasski 8:1
+8772 twin 8:1
+8773 hawwar 8:1
+8774 overcomplet 8:2
+8775 maxent 7:1
+8776 ishwar 7:1
+8777 stefano 2:1
+8778 kouri 7:2
+8779 houston 8:2
+8780 hofsman 8:1
+8781 stepien 7:1
+8782 zielinski 2:1
+8783 rumian 5:1
+8784 stanislaw 2:1
+8785 staszic 8:1
+8786 metallurgi 8:1
+8787 rosil 8:1
+8788 gorodnitski 7:1
+8789 hershei 7:1
+8790 guerrero 5:1
+8791 curies 8:1
+8792 cid 8:1
+8793 sueiro 8:1
+8794 subsampl 8:1
+8795 fann 8:1
+8796 hip 4:1
+8797 spenc 7:1
+8798 parra 2:1
+8799 sajda 8:1
+8800 levitt 8:1
+8801 aghdasi 8:1
+8802 witwatersrand 7:1
+8803 africa 7:1
+8804 chitroub 7:1
+8805 houacin 7:1
+8806 sansal 8:1
+8807 houari 8:1
+8808 boumedienn 8:1
+8809 dipanda 7:1
+8810 bourgogn 7:1
+8811 vanzella 4:1
+8812 pellet 8:1
+8813 fukui 8:2
+8814 konaka 8:1
+8815 sysmex 8:1
+8816 niemann 7:1
+8817 gillet 7:1
+8818 bott 8:1
+8819 lecocq 8:1
+8820 kossenrini 5:1
+8821 mualla 5:1
+8822 jung 8:2 4:2
+8823 choe 7:1
+8824 yonsei 8:1
+8825 ismaeil 8:1
+8826 bidirect 8:1
+8827 interfram 7:1
+8828 dermatoscop 7:1
+8829 fleme 8:1
+8830 braendl 8:1
+8831 bischoj 7:1
+8832 lapp 8:1
+8833 novarti 8:1
+8834 mcgarri 7:1
+8835 derich 8:1
+8836 echocardiograph 8:1
+8837 haralick 8:1
+8838 sheehan 8:1
+8839 ling 8:1
+8840 tubular 2:1
+8841 burlina 8:1
+8842 imagecorp 8:1
+8843 flasqu 8:1
+8844 constan 6:1
+8845 caen 6:1
+8846 revol 8:1
+8847 odet 2:1
+8848 carillon 7:1
+8849 laplac 7:1
+8850 dippel 8:1
+8851 stahl 8:1
+8852 wiemker 7:1
+8853 sato 4:1
+8854 lakar 8:1
+8855 stoni 6:1
+8856 benini 8:1
+8857 boniotti 8:1
+8858 agar 8:1
+8859 stork 8:1
+8860 bathymetr 8:1
+8861 collet 7:1
+8862 provost 8:1
+8863 rosta 8:1
+8864 french 2:2
+8865 plrez 8:1
+8866 irisaanria 7:3
+8867 kermad 8:1
+8868 palett 7:1
+8869 harper 7:1
+8870 ccd 8:2
+8871 sezan 8:1
+8872 paulu 7:1
+8873 niimberg 8:1
+8874 horecki 3:1
+8875 wojciechowski 8:1
+8876 schlesisch 8:1
+8877 llad 8:1
+8878 cufl 8:1
+8879 xyi 8:1
+8880 schneiderman 8:1
+8881 kanad 7:1
+8882 gatica 8:1
+8883 bay 4:2
+8884 seelen 2:1
+8885 curio 8:1
+8886 gayko 8:1
+8887 handmann 8:1
+8888 kalink 8:1
+8889 ruhr 8:1
+8890 bochum 7:1
+8891 recurr 5:1
+8892 jaim 8:1
+8893 benitez 8:1
+8894 loui 8:1
+8895 multicast 8:3
+8896 leannec 2:1
+8897 vieron 8:1
+8898 henocq 8:1
+8899 fair 4:4
+8900 servetto 8:1
+8901 shao 8:1
+8902 burchard 8:1
+8903 poderbom 7:1
+8904 altenbemd 2:1
+8905 chonnam 7:1
+8906 mokpo 8:1
+8907 kalitzin 8:1
+8908 staal 8:1
+8909 ter 2:2
+8910 haar 8:1
+8911 romeni 7:1
+8912 viergev 2:1
+8913 longstafl 7:1
+8914 mumford 8:1
+8915 yeui 5:1
+8916 kuhn 7:1
+8917 neighbourhood 8:1
+8918 mathsoft 7:1
+8919 solo 2:1
+8920 cone 7:1
+8921 dso 2:1
+8922 mahmoud 8:1
+8923 ess 7:2
+8924 kale 8:1
+8925 panusopon 8:1
+8926 galpin 8:1
+8927 morin 7:1
+8928 boulgouri 7:1
+8929 biject 8:1
+8930 grew 4:1
+8931 koon 3:1
+8932 ejima 2:1
+8933 davoin 5:1
+8934 technologi 7:1
+8935 compiegn 8:1
+8936 donescu 2:1
+8937 lick 8:1
+8938 jordan 8:1 6:1
+8939 hsi 8:1
+8940 coltuc 8:1
+8941 bolon 8:1
+8942 sheu 8:1
+8943 ordin 8:1
+8944 cramariuc 8:1
+8945 shmulevich 7:1
+8946 gabbouj 8:1
+8947 makela 8:1
+8948 finnish 8:1
+8949 photographi 2:1
+8950 naqa 8:1
+8951 kullback 5:1
+8952 leibler 8:1
+8953 raghunathan 8:1
+8954 hyundai 8:1
+8955 wiederhold 7:1
+8956 eng 8:1 4:1
+8957 ramamoorthi 2:1
+8958 biomorph 2:1
+8959 ghosal 8:1
+8960 labhdian 8:1
+8961 hare 7:1
+8962 haseyama 7:1
+8963 takezawa 8:1
+8964 kitajima 8:1
+8965 weisenseel 5:1
+8966 castaaon 7:1
+8967 deblur 2:6
+8968 roug 2:1
+8969 mascarenha 8:1
+8970 dongseo 8:1
+8971 besov 8:1
+8972 berkner 0:1
+8973 spring 6:4
+8974 techiqu 8:1
+8975 rivera 7:1
+8976 marroquin 7:1
+8977 investigacion 7:1
+8978 matematica 7:1
+8979 blanc 7:1
+8980 raud 8:1
+8981 psf 8:1
+8982 yap 6:1
+8983 lun 7:1
+8984 jana 8:1
+8985 lookahead 8:1
+8986 demaret 8:1
+8987 buisson 5:1
+8988 pontificia 8:1
+8989 catolica 8:1
+8990 lima 8:1
+8991 poussard 8:1
+8992 wheeler 7:1
+8993 guleryuz 8:1
+8994 lxv 8:1
+8995 kittitornkun 5:1
+8996 wplo 8:1
+8997 herm 2:1
+8998 buhmann 8:1
+8999 universitaet 5:1
+9000 bonn 7:1
+9001 puzicha 8:1
+9002 pozzoli 8:1
+9003 minimis 6:1
+9004 defocus 7:1
+9005 abbadeni 8:1
+9006 ziou 8:1
+9007 sherbrook 8:1
+9008 ferraro 7:1
+9009 universith 8:1
+9010 infm 8:2
+9011 boccignon 8:1
+9012 universitci 8:1
+9013 salemo 8:1
+9014 caelli 6:1
+9015 pire 8:1
+9016 smet 8:1
+9017 bruyland 7:1
+9018 hirano 8:1
+9019 straight 0:3
+9020 fesharaki 7:1
+9021 yma 2:1
+9022 sheijani 8:1
+9023 qazvin 8:1
+9024 azad 8:1
+9025 drew 7:1
+9026 sogang 7:1
+9027 bescd 7:1
+9028 menhdez 7:1
+9029 cisnero 8:1
+9030 martinez 8:1
+9031 angulo 2:1
+9032 truong 8:1
+9033 postprocess 8:1
+9034 vaguelett 8:1
+9035 blocki 7:1
+9036 grigat 8:1
+9037 harburg 8:1
+9038 lut 8:1
+9039 mese 5:1
+9040 vaidyanathan 8:1
+9041 califonia 8:1
+9042 guangda 1:1
+9043 jiongxin 4:1
+9044 boya 5:1
+9045 bottleneck 5:1
+9046 struc 2:2
+9047 nipc 5:14
+9048 neigh 5:5
+9049 borhood 5:5
+9050 abl 5:1
+9051 hinder 5:1
+9052 convo 7:1
+9053 lution 4:1
+9054 mmx 5:2
+9055 canadian 5:1
+9056 matrox 5:4
+9057 odyssei 5:3
+9058 xcl 5:3
+9059 ument 5:1
+9060 hood 5:11
+9061 sal 2:1
+9062 par 0:5
+9063 allel 5:1
+9064 insuffici 5:2
+9065 titi 5:1
+9066 clock 5:6
+9067 icip 5:1
+9068 aliz 5:1
+9069 trix 5:1
+9070 aij 5:2
+9071 bkl 5:2
+9072 wire 5:3
+9073 cxy 2:1
+9074 conflict 0:75
+9075 enclos 5:1
+9076 dif 0:2
+9077 ferent 5:1
+9078 mula 5:1
+9079 col 6:2
+9080 umn 5:1
+9081 pcb 5:1
+9082 sert 5:1
+9083 slot 6:4
+9084 tize 5:1
+9085 fifo 6:1
+9086 dspdata 5:1
+9087 dsp 4:2
+9088 emb 5:1
+9089 plier 4:1
+9090 pll 5:1
+9091 zlwfk 4:1
+9092 udq 5:1
+9093 vihu 9:1
+9094 xiihu 5:2
+9095 eik 0:1
+9096 kmax 5:2
+9097 imaginari 5:1
+9098 nake 5:2
+9099 sepa 0:2
+9100 rupdol 5:1
+9101 pdjh 3:1
+9102 hwdfk 0:1
+9103 rqyroxwlrq 5:1
+9104 liihuhqw 5:1 2:1
+9105 ulhqwdwlrq 5:1
+9106 fdoh 5:1
+9107 accumu 5:1
+9108 lation 4:1 0:1
+9109 mip 0:1
+9110 soc 0:9
+9111 apprais 5:1
+9112 ori 5:1
+9113 trillion 2:1
+9114 xiang 4:1
+9115 enc 0:4 6:1
+9116 cvprw 2:1
+9117 sip 1:1
+9118 aria 5:2
+9119 estrada 5:2
+9120 huitzil 5:2
+9121 immun 2:2
+9122 detec 5:1
+9123 issc 3:1
+9124 cir 5:1
+9125 cuit 5:1
+9126 convolu 2:1
+9127 posium 5:1
+9128 isspa 3:1
+9129 datasheet 5:1
+9130 zuo 4:1
+9131 acta 5:2 0:1
+9132 electronica 5:2
+9133 katayama 2:1
+9134 hirai 2:1
+9135 lagendijk 2:1
+9136 comp 2:2
+9137 yemez 5:1
+9138 bogazigi 2:1
+9139 eigenvalu 2:1
+9140 toeplitz 2:1
+9141 musicu 2:1
+9142 acousf 2:3
+9143 weinstein 2:1
+9144 superimpos 5:1
+9145 dembo 2:1
+9146 laird 2:2
+9147 rubin 2:3
+9148 anderson 4:1
+9149 shumwai 2:1
+9150 stoffer 2:1
+9151 anal 2:3
+9152 absmcf 2:1
+9153 vdf 2:24
+9154 approv 2:2
+9155 prof 2:1
+9156 bvdf 2:27
+9157 vmf 2:19
+9158 erron 2:1
+9159 atyp 2:3
+9160 confus 0:3
+9161 collinear 2:2
+9162 gvdf 2:57
+9163 bulk 2:1
+9164 trim 2:12
+9165 directionalfilt 2:1
+9166 illu 4:1
+9167 trate 2:1
+9168 ilf 2:1
+9169 lsin 2:1
+9170 sin 2:3
+9171 radian 0:1 9:1
+9172 sgd 2:1
+9173 superset 5:1
+9174 oppos 2:5
+9175 nmse 2:4
+9176 xlo 2:2
+9177 maxhedian 2:4
+9178 gaussiadimpuls 2:2
+9179 madmedian 7:1
+9180 mcre 2:5
+9181 hue 2:2
+9182 fsd 2:1
+9183 fbd 2:1
+9184 chromaf 5:1
+9185 signifi 5:1
+9186 canc 2:1
+9187 stem 4:6
+9188 rich 2:2
+9189 puriti 2:1
+9190 rgb 2:1
+9191 cyz 2:1
+9192 iif 2:1
+9193 wheren 2:1
+9194 andc 7:1
+9195 twp 3:1
+9196 contamin 2:1
+9197 contam 2:1
+9198 inat 2:1
+9199 chromin 5:1
+9200 employ 2:1
+9201 efficaci 2:1
+9202 monochrom 2:1
+9203 retain 4:3 6:1
+9204 machuca 5:1
+9205 phillip 2:1
+9206 mach 2:2
+9207 pami 4:1
+9208 hardi 7:1
+9209 multivari 2:5
+9210 chin 2:1
+9211 haavisto 2:1
+9212 neuvo 2:1
+9213 inproc 2:1
+9214 barnett 2:1
+9215 sanwalka 2:1
+9216 fil 2:2
+9217 tere 2:1
+9218 gretsi 2:1
+9219 rincipl 2:1
+9220 cont 2:1
+9221 jose 2:1
+9222 norwel 2:1
+9223 kluwer 7:1 2:1
+9224 puhl 2:1
+9225 gershon 2:1
+9226 charl 5:1
+9227 publ 3:1
+9228 niblack 2:1
+9229 assp 2:1
+9230 dit 2:2
+9231 ramet 9:1 6:1
+9232 distor 2:1
+9233 putat 2:1
+9234 catt 2:1
+9235 brooklyn 2:1
+9236 ellen 0:2
+9237 bass 0:17
+9238 ami 0:3
+9239 pritchett 0:21
+9240 hajl 0:55
+9241 interac 0:2
+9242 mak 0:1
+9243 warfar 0:1
+9244 charlottesvil 0:2
+9245 gatech 0:1
+9246 tsmca 4:1
+9247 hazard 0:3
+9248 tect 0:2
+9249 incap 0:1
+9250 wors 0:3
+9251 inaccur 0:1
+9252 unaid 0:3
+9253 fectli 0:1
+9254 relianc 0:6
+9255 problemat 0:2
+9256 bia 0:5
+9257 vigil 0:2
+9258 overreli 0:2
+9259 underreli 0:2
+9260 nonconform 0:1
+9261 cite 4:6
+9262 tailor 0:3
+9263 strate 0:2
+9264 simplist 0:1
+9265 nuisanc 0:1
+9266 ologi 0:1
+9267 generaliz 3:1
+9268 prohibit 0:1
+9269 addi 0:1
+9270 apparatu 0:3
+9271 certainti 4:1
+9272 interperson 0:9
+9273 bisantz 0:5
+9274 demon 2:1
+9275 seong 0:2
+9276 effec 0:1
+9277 tive 0:4
+9278 investigat 0:1
+9279 idiograph 0:7
+9280 nomothet 0:5
+9281 sci 2:2
+9282 ciotechn 0:1
+9283 sonar 0:1
+9284 simu 0:1
+9285 submarin 0:1
+9286 brunswik 0:3
+9287 ism 0:1
+9288 ecolog 0:8
+9289 plex 0:1
+9290 unobserv 0:1
+9291 daw 0:2
+9292 nonoptim 0:2
+9293 einhorn 0:3
+9294 lme 0:7
+9295 seemingli 0:1
+9296 cogni 0:1
+9297 rie 0:1
+9298 estab 0:1
+9299 lish 7:1
+9300 rij 0:1
+9301 mimic 0:2
+9302 grer 0:1
+9303 inabl 0:1
+9304 fashion 0:1
+9305 unmodel 0:5
+9306 nonlin 0:1
+9307 perfectli 0:1
+9308 inaccuraci 0:1
+9309 crite 0:1
+9310 rion 0:1
+9311 likewis 0:2
+9312 cept 0:1
+9313 mental 0:2
+9314 flict 0:2
+9315 learner 4:1
+9316 induct 0:1
+9317 disagr 0:2
+9318 engag 0:1
+9319 distal 0:1
+9320 fallibl 0:1
+9321 disambigu 0:2
+9322 condi 0:3
+9323 compro 0:2
+9324 mise 0:2
+9325 intention 0:1
+9326 ison 0:1
+9327 aircraft 0:12
+9328 correspon 0:1
+9329 denc 0:1
+9330 dict 3:1
+9331 raf 0:3
+9332 ysi 0:4
+9333 ysj 0:3 4:1
+9334 raj 0:1
+9335 ysa 0:3
+9336 raa 0:1
+9337 rap 0:1
+9338 traine 0:1
+9339 cockpit 0:8
+9340 cdti 0:7
+9341 cruis 0:2
+9342 ownship 0:8
+9343 flown 0:1
+9344 autopilot 0:2
+9345 airspe 0:6
+9346 nmi 0:9
+9347 uncer 0:1
+9348 tainti 0:1
+9349 appar 0:3
+9350 debrief 0:2
+9351 preview 0:1
+9352 uniformli 0:4
+9353 proach 0:1
+9354 froze 0:1
+9355 inci 0:2
+9356 dental 0:1
+9357 naturalist 0:2
+9358 undergradu 0:1
+9359 volunt 0:2
+9360 male 0:2
+9361 femal 0:2
+9362 paratu 0:1
+9363 pfd 0:2
+9364 kia 0:1
+9365 altitud 0:3
+9366 trajectori 4:2
+9367 egocentr 0:1
+9368 posi 0:1
+9369 airplan 0:1
+9370 compass 4:1
+9371 green 0:1
+9372 manifest 0:2
+9373 mous 4:1
+9374 inv 0:1
+9375 tigat 7:1
+9376 halv 0:1
+9377 proxim 0:2
+9378 distribu 2:1
+9379 feed 0:4
+9380 periment 0:1
+9381 reciproc 0:1
+9382 invert 0:1
+9383 negat 0:1
+9384 cooksei 0:4
+9385 poorli 0:1
+9386 outperform 2:4
+9387 iron 0:1
+9388 strat 0:1
+9389 egi 0:1
+9390 legend 0:4
+9391 settl 0:1
+9392 ticip 0:4
+9393 lianc 4:1
+9394 proba 0:2
+9395 biliti 0:2
+9396 incorrect 2:5
+9397 fell 6:3
+9398 vidual 0:2
+9399 surpris 0:1 2:1
+9400 predictabil 0:1
+9401 phistic 0:1
+9402 ferenc 2:1
+9403 anova 0:5
+9404 tukei 0:2
+9405 pairwis 0:2
+9406 disregard 0:1
+9407 slight 0:1
+9408 interven 0:2
+9409 repeat 4:4 0:3
+9410 surement 0:1
+9411 wald 0:7
+9412 covari 0:2
+9413 simplifica 1:1
+9414 dictabl 0:1
+9415 ipant 0:3
+9416 dition 0:1
+9417 adap 0:1
+9418 raci 0:2
+9419 spearman 0:2
+9420 sur 0:1
+9421 prisingli 0:1
+9422 methodol 0:1
+9423 ogi 0:3
+9424 exercis 0:1
+9425 iograph 0:1
+9426 sophi 7:1
+9427 ticat 0:1
+9428 contributor 0:1
+9429 spe 0:1
+9430 cific 0:1
+9431 discern 0:1
+9432 poorer 0:2
+9433 partici 0:1
+9434 pant 0:2
+9435 ineffect 0:1
+9436 elicit 0:1
+9437 bolton 0:2
+9438 substant 0:1
+9439 sheridan 4:1
+9440 wicken 0:2
+9441 cybern 0:8
+9442 kuchar 0:2
+9443 dyn 0:2
+9444 newman 4:2
+9445 underst 0:1
+9446 casta 0:2
+9447 fortin 0:2
+9448 mercial 0:1
+9449 airlin 0:2
+9450 psychol 0:19
+9451 hogan 0:1
+9452 hum 0:12
+9453 aerosp 0:1
+9454 saf 0:1
+9455 seagul 0:1
+9456 sanderson 0:1
+9457 anesthesia 0:1
+9458 dingu 0:1
+9459 mcgehe 0:1
+9460 manakk 0:1
+9461 jahn 0:1
+9462 carnei 0:1
+9463 hankei 0:1
+9464 headwai 0:1
+9465 warn 0:2
+9466 investiga 0:1
+9467 ergonom 0:9
+9468 bainbridg 7:1
+9469 ironi 0:1
+9470 rasmussen 0:2
+9471 leplat 0:1
+9472 namic 0:1
+9473 rilei 0:1
+9474 disus 0:1
+9475 abus 0:2
+9476 adelman 0:1
+9477 gualtieri 0:1
+9478 mosier 0:1
+9479 skitka 0:1
+9480 heer 4:1
+9481 burdick 3:1
+9482 handbook 2:3
+9483 boff 0:1
+9484 curri 2:1
+9485 deck 0:1
+9486 corcoran 0:1
+9487 dennett 0:1
+9488 carpent 0:1
+9489 amer 0:4
+9490 molloi 0:2
+9491 induc 0:3
+9492 complac 0:3
+9493 muir 0:2
+9494 morai 0:3
+9495 stud 0:1
+9496 orasanu 0:1
+9497 zsambok 9:1
+9498 klein 0:1
+9499 hillsdal 0:2
+9500 lawrenc 0:3
+9501 erlbaum 0:2
+9502 hickl 4:1
+9503 noy 0:1
+9504 starr 5:1
+9505 civil 0:1
+9506 ndor 0:1
+9507 gempler 0:1
+9508 morphew 0:1
+9509 transp 9:1
+9510 kirlik 0:7
+9511 cutler 0:1
+9512 naviga 0:1
+9513 degani 0:2
+9514 shafto 0:1
+9515 flach 0:1
+9516 caird 0:1
+9517 vicent 0:2
+9518 weir 1:1
+9519 alti 0:1
+9520 strauss 0:1
+9521 inst 7:1
+9522 technol 0:3
+9523 unpublish 0:1
+9524 havior 0:1
+9525 hammond 0:9
+9526 wilkin 0:1
+9527 todd 0:3
+9528 earl 4:1
+9529 rappoport 0:3
+9530 holt 0:3
+9531 rinehart 0:3
+9532 winston 0:3
+9533 mccoi 0:1
+9534 layton 4:1
+9535 brittl 0:1
+9536 stewart 0:4
+9537 glass 0:1
+9538 moffett 0:1
+9539 scp 0:1
+9540 masaloni 0:1
+9541 ergon 0:1
+9542 baltimor 0:1
+9543 brehmer 0:7
+9544 dalgleish 4:1
+9545 sjt 0:2
+9546 wigton 0:1
+9547 heideman 0:1
+9548 monig 0:1
+9549 reagan 3:1
+9550 cirincion 0:1
+9551 deci 0:2
+9552 freebodi 0:2
+9553 davidson 0:1
+9554 teacher 0:1
+9555 steinmann 0:1
+9556 encyclopedia 9:1
+9557 noncompensatori 0:2
+9558 campbel 0:2
+9559 buff 0:1
+9560 rothrock 2:1
+9561 beauti 0:1
+9562 kleinmuntz 0:2
+9563 rev 0:5
+9564 hursch 0:6
+9565 tucker 0:1
+9566 balzer 0:1
+9567 phipp 0:1
+9568 fisk 2:1
+9569 kvam 0:1
+9570 mumpow 0:1
+9571 entangl 2:1
+9572 impedi 0:1
+9573 heleniu 4:1
+9574 childrear 0:1
+9575 smedslund 0:1
+9576 oslo 0:2
+9577 wightman 0:1
+9578 lintern 0:1
+9579 rtca 0:3
+9580 ippolito 0:1
+9581 recon 0:1
+9582 aiaa 0:3
+9583 elli 4:1
+9584 maneuv 0:1
+9585 hunter 0:2
+9586 kahneman 0:1
+9587 slovic 0:1
+9588 tverski 0:1
+9589 jennrich 0:1
+9590 schluchter 0:1
+9591 econ 0:1
+9592 philadelphia 0:1
+9593 astronaut 0:1
+9594 lewi 0:1
+9595 sperri 0:1
+9596 lucheng 4:2
+9597 yanhua 1:1
+9598 zhihua 4:1
+9599 yuanhao 4:1
+9600 deepli 4:3
+9601 fierc 4:1
+9602 unsort 0:1
+9603 unstructur 4:2
+9604 excav 4:3
+9605 frawlei 4:2
+9606 derwent 4:2
+9607 miner 1:1
+9608 citat 4:40
+9609 economist 4:1
+9610 schmooki 9:1
+9611 sixti 2:1
+9612 mainlin 4:1
+9613 dietmar 4:2
+9614 harhoff 4:1 0:1
+9615 narin 4:2
+9616 byungun 4:3
+9617 yongta 4:2
+9618 avenu 3:1
+9619 pia 4:1
+9620 intellectu 4:6
+9621 sipo 4:1
+9622 secondari 4:1
+9623 donghua 4:1
+9624 forefront 4:2
+9625 nanotechnolog 4:2
+9626 dig 4:1
+9627 proprietari 4:1
+9628 inspir 4:1
+9629 collat 4:1
+9630 irrelev 4:2
+9631 clementin 4:1
+9632 spss 4:1
+9633 nlp 4:1
+9634 textual 7:1
+9635 ipc 4:13
+9636 ipci 4:2
+9637 wij 4:4
+9638 thereinto 4:1
+9639 usual 4:2
+9640 tfidf 4:1
+9641 unclassifi 4:1
+9642 olap 4:2
+9643 knn 4:2
+9644 wolf 6:1
+9645 passag 4:1
+9646 withdraw 0:1
+9647 tendenc 4:1
+9648 grasp 4:3
+9649 transat 4:4
+9650 influenti 4:3
+9651 apriori 4:2
+9652 agraw 4:3
+9653 itemset 4:3
+9654 patente 4:1
+9655 jurisdict 4:1
+9656 municip 4:1
+9657 piatetski 4:1
+9658 shapiro 4:1
+9659 aaai 4:2
+9660 sehmookl 4:1
+9661 invent 4:2
+9662 scherer 3:1
+9663 katrin 1:1
+9664 vopel 0:1
+9665 suh 7:1
+9666 wipo 4:2
+9667 salton 4:1
+9668 huazhong 2:1
+9669 shuang 4:1
+9670 mannila 4:1
+9671 srikant 4:1
+9672 imielinski 3:1
+9673 sigmod 1:1
+9674 duen 4:1
+9675 meco 5:3
+9676 electrocardiograph 5:9
+9677 uspenskii 5:5
+9678 mandryka 8:1
+9679 moscow 2:3
+9680 russia 9:1 5:1
+9681 medddik 5:1
+9682 yandex 4:1
+9683 ecg 5:7
+9684 alphabet 2:7
+9685 amplitud 5:8
+9686 hydrodynam 4:2
+9687 cardio 5:13
+9688 sinusoid 3:1
+9689 nerv 2:2
+9690 denerv 4:1
+9691 orthotransplant 4:1
+9692 noninfecti 4:1
+9693 electro 5:8
+9694 ventricular 5:3
+9695 codogram 5:4
+9696 comparis 5:1
+9697 codogramm 5:2
+9698 healthi 5:5
+9699 occurr 4:4
+9700 electrocardiogram 2:1
+9701 cardiograph 2:1
+9702 broader 0:1
+9703 einthoven 5:1
+9704 women 5:1
+9705 prevail 5:1
+9706 examine 5:3
+9707 mediterranean 5:2
+9708 trn 5:4
+9709 cholelithiasi 5:1
+9710 diabet 5:1
+9711 ischemia 5:2
+9712 approb 4:1
+9713 reproduc 2:4
+9714 preclin 0:1
+9715 asymptomat 4:1
+9716 latent 6:19
+9717 sooner 5:1
+9718 diseasesi 2:1
+9719 patholog 5:4
+9720 peptic 5:1
+9721 ulcer 5:1 4:1
+9722 stomach 2:1
+9723 duodenum 5:1
+9724 mucosa 5:1
+9725 cholecyst 0:1
+9726 concrement 6:1
+9727 gall 4:1
+9728 stone 1:1
+9729 urinari 4:1
+9730 electrocardiosign 5:6
+9731 symptom 5:4
+9732 benign 2:1
+9733 malign 5:1
+9734 chronic 5:1
+9735 relaps 5:1
+9736 psycho 1:1
+9737 deepen 4:1
+9738 prognosi 2:1
+9739 iphon 2:1
+9740 ipad 4:1
+9741 amplifi 4:1
+9742 wirel 5:1
+9743 wbn 6:1
+9744 zigbe 5:1
+9745 viacheslav 2:1
+9746 biophys 6:1
+9747 electrocardioblock 4:1
+9748 imeko 1:1
+9749 sang 6:1
+9750 sangsl 6:1
+9751 usc 6:2
+9752 tagyoung 6:1
+9753 mcleod 6:2
+9754 phrase 6:1
+9755 succinct 6:1
+9756 implicitli 6:1
+9757 lda 6:31
+9758 blog 9:1
+9759 music 6:1
+9760 recom 6:5
+9761 mendat 6:5
+9762 footbal 6:2
+9763 basketbal 6:3
+9764 eighth 4:1
+9765 itng 4:1
+9766 ging 6:1
+9767 click 6:1
+9768 gemmi 6:2
+9769 folksonomi 6:2
+9770 seman 4:1
+9771 siersdorf 6:2
+9772 ommend 6:2
+9773 idf 6:7
+9774 corpu 4:5
+9775 favorit 6:13
+9776 fortu 6:1
+9777 nate 2:2
+9778 bag 6:1
+9779 tot 6:2
+9780 wdi 6:4
+9781 zdi 6:13
+9782 tdi 6:4
+9783 beta 6:5 2:3
+9784 udi 6:4
+9785 posterior 6:2
+9786 parameter 2:1
+9787 hyperparamet 6:6
+9788 gibb 6:3
+9789 ntr 6:1
+9790 nuk 6:2
+9791 nwk 6:1
+9792 nkr 6:1
+9793 nvk 6:1
+9794 hyperpa 6:1
+9795 xtarget 6:3
+9796 simi 6:1
+9797 lariti 6:2
+9798 flickr 6:2
+9799 infinit 0:2
+9800 cision 6:1
+9801 season 6:1
+9802 hanani 6:1
+9803 shapira 6:1
+9804 shoval 6:1
+9805 nichol 6:1
+9806 oki 6:1
+9807 terri 4:1
+9808 weav 4:1
+9809 tapestri 4:1
+9810 blei 6:1
+9811 tagicofi 6:1
+9812 recsi 6:2
+9813 vig 6:1
+9814 riedl 6:1
+9815 tagommend 6:1
+9816 lop 3:1
+9817 semeraro 6:1
+9818 basil 9:1
+9819 sizov 6:1
+9820 hypermedia 6:2
+9821 joshi 6:2
+9822 mccallum 6:1
+9823 sigkdd 6:2
+9824 steyver 6:2
+9825 suppl 6:1
+9826 pna 6:1
+9827 smyth 6:1
+9828 rosen 6:1
+9829 zvi 6:1
+9830 tenth 6:1
+9831 croft 5:1
+9832 sigir 6:2
+9833 houssem 2:2
+9834 maghrebi 2:3
+9835 sylvain 2:1
+9836 guillei 2:2
+9837 luc 2:1
+9838 danger 2:2
+9839 florent 2:1
+9840 flament 2:2
+9841 partement 2:1
+9842 comelec 4:1
+9843 paristech 2:2
+9844 ltci 2:1
+9845 barrault 2:1
+9846 cedex 2:1
+9847 leakag 2:10
+9848 mia 2:35
+9849 unprotect 2:9
+9850 cryptoprocessor 2:3
+9851 sbox 2:4
+9852 dpa 2:6
+9853 epa 2:21
+9854 meantim 4:2
+9855 vpa 2:8
+9856 sca 2:3
+9857 cryptanalyt 2:1
+9858 kocher 2:2
+9859 brier 2:2
+9860 cpa 2:1
+9861 chanci 2:1
+9862 distinguis 2:1
+9863 shannon 2:29
+9864 faser 2:1
+9865 swinnei 2:2
+9866 differen 4:1
+9867 dxdy 2:1
+9868 epanechnikov 2:1
+9869 triweight 2:1
+9870 bin 2:4
+9871 freedman 2:1
+9872 diaconi 2:1
+9873 fledg 2:1
+9874 altera 2:1
+9875 stratix 2:1
+9876 sasebo 2:3
+9877 rci 2:3
+9878 ham 2:1
+9879 wrong 2:7
+9880 plaintext 2:4
+9881 setl 2:4
+9882 miak 2:3
+9883 guess 2:9
+9884 argmax 2:2
+9885 subkei 2:5
+9886 mtd 2:2
+9887 sequel 2:1
+9888 ucl 2:1
+9889 mli 2:2
+9890 cal 2:2
+9891 culat 2:1
+9892 rili 2:2
+9893 ciphertext 2:1
+9894 demask 2:1
+9895 mmia 2:3
+9896 offset 2:4
+9897 pmf 2:4
+9898 kcorrect 2:3
+9899 kincorrect 2:1
+9900 leak 2:1
+9901 itio 4:1
+9902 conditionn 0:1
+9903 ghost 1:1
+9904 compel 2:1
+9905 harder 2:1
+9906 cou 2:1
+9907 univari 2:2
+9908 suc 2:1
+9909 eqn 2:1
+9910 recherch 2:1
+9911 secresoc 2:1
+9912 anr 2:1
+9913 segi 2:1
+9914 akkar 2:1
+9915 giraud 2:1
+9916 che 2:7
+9917 clavier 5:1
+9918 chari 2:2
+9919 jutla 2:1
+9920 rohatgi 2:3
+9921 counteract 2:1
+9922 strang 6:1
+9923 attractor 2:1
+9924 phy 2:2
+9925 gierlich 2:3
+9926 batina 2:2
+9927 preneel 2:2
+9928 verbauwhed 2:2
+9929 tuyl 2:1
+9930 oswald 2:1
+9931 goubin 2:1
+9932 patarin 2:1
+9933 hoogvorst 2:1
+9934 pacalet 2:1
+9935 wcc 2:1
+9936 cardi 1:1
+9937 toulous 2:1
+9938 jaff 2:1
+9939 kolmogorov 2:2
+9940 thwart 2:1
+9941 jerba 2:1
+9942 tunisia 2:1
+9943 hal 2:2
+9944 ouvert 2:1
+9945 mangard 6:1
+9946 schramm 2:1
+9947 pinpoint 5:1
+9948 proaki 6:1
+9949 math 2:3
+9950 prouff 2:1
+9951 rivain 2:1
+9952 acn 2:1
+9953 japanes 4:2
+9954 aist 2:2
+9955 csli 0:1
+9956 silverman 6:1
+9957 standaert 2:3
+9958 icisc 9:1
+9959 rouvroi 2:1
+9960 quisquat 2:1
+9961 fpl 2:1
+9962 veyrat 0:1
+9963 charvillon 2:1
+9964 wand 2:1
+9965 lyshevski 2:5
+9966 rit 2:1
+9967 centric 4:2
+9968 datapath 2:1
+9969 fabric 2:1
+9970 primit 2:5
+9971 hypercel 2:4
+9972 qualifi 0:1
+9973 sought 2:1
+9974 neuroarchitectron 2:1
+9975 surpass 2:1
+9976 drastic 2:1
+9977 architectron 2:3
+9978 attain 2:2
+9979 quantum 2:1
+9980 carbon 1:1
+9981 nervou 2:2
+9982 xpxpxh 2:2
+9983 dxxpxpxh 2:1
+9984 fxic 2:1
+9985 fxivc 2:1
+9986 interconnect 5:1
+9987 asymmetri 2:1
+9988 memoryless 2:2
+9989 crossov 2:1
+9990 ijji 2:1
+9991 xfpfxpxfh 2:1
+9992 plog 2:6
+9993 qlog 2:3
+9994 apa 2:3
+9995 xfpxpxfpxfh 2:2
+9996 ijiij 2:2
+9997 xfhfhfxi 2:1
+9998 ppapapap 2:1
+9999 fxdi 0:1
+10000 loglog 4:1
+10001 paafxic 5:1
+10002 ijiji 2:1
+10003 xfpxfpxp 2:1
+10004 probabilitychannel 2:1
+10005 lty 0:1
+10006 davio 2:3
+10007 xxxx 3:1
+10008 fhpfhpxfh 2:1
+10009 xxxxx 2:2
+10010 ffhpfhpxfh 2:2
+10011 minh 4:1
+10012 mcp 2:8
+10013 spinal 2:1
+10014 organel 2:1
+10015 synaps 3:1
+10016 operand 2:1
+10017 fetch 1:1
+10018 tdtutxctutbxtaxtx 1:1
+10019 dix 1:1
+10020 diiu 9:1
+10021 iju 2:1
+10022 dij 2:1
+10023 kpn 2:2
+10024 automorph 4:1
+10025 metriz 2:1
+10026 abelian 2:1
+10027 syntehs 2:1
+10028 ellenbogen 4:1
+10029 love 2:1
+10030 adder 2:1
+10031 diod 9:1
+10032 nanosci 1:1
+10033 nanoelectron 2:1
+10034 boca 2:2
+10035 raton 2:2
+10036 knight 3:1
+10037 nanocomput 5:1
+10038 yanushkevich 5:1
+10039 shmerko 2:1
+10040 nanoic 2:1
+10041 yuzvinskii 9:1
+10042 endomorph 2:1
+10043 ussr 2:1
+10044 polyana 2:3
+10045 svalyava 2:3
+10046 zakarpattya 2:3
+10047 vladimir 2:2
+10048 hahanov 2:6
+10049 svetlana 2:2
+10050 chumachenko 2:2
+10051 karina 2:2
+10052 mostovaya 2:2
+10053 vec 2:2 4:1
+10054 multiprocessor 2:3
+10055 axiom 2:10
+10056 carrier 2:4
+10057 asso 4:1
+10058 ciativ 2:1
+10059 mul 2:1
+10060 tiprocessor 2:1
+10061 dedi 2:1
+10062 metic 4:1
+10063 nonarithmet 4:1
+10064 closur 2:2
+10065 lar 2:1
+10066 terval 2:1
+10067 redun 3:1
+10068 dant 2:1
+10069 clical 0:1
+10070 dent 2:1
+10071 cern 2:2
+10072 radioelectron 5:1
+10073 kture 2:1
+10074 cadsm 2:2
+10075 isomorph 2:2
+10076 xor 2:5
+10077 alg 2:1
+10078 bra 2:1
+10079 alfabet 4:1
+10080 xxxxc 5:1
+10081 xxb 2:1
+10082 contradicto 6:1
+10083 riness 2:1
+10084 multivalu 2:3
+10085 hass 7:1
+10086 tex 3:1
+10087 volut 2:1
+10088 iaac 2:2
+10089 coordi 0:1
+10090 modulo 2:1
+10091 mmmccm 6:1
+10092 nari 2:1
+10093 diagnoz 3:1
+10094 ting 2:1
+10095 met 2:2
+10096 ddd 2:1
+10097 textbook 2:2
+10098 cba 2:1
+10099 prop 2:1
+10100 erti 3:1
+10101 strict 6:1
+10102 fectiv 2:1
+10103 matic 2:1
+10104 logi 2:1
+10105 bondarenko 2:1
+10106 dudar 2:1
+10107 ephimova 2:1
+10108 leshchin 2:1
+10109 sky 2:1
+10110 shabanov 2:1
+10111 kushnarenko 2:1
+10112 radielectron 2:2
+10113 khnure 2:1
+10114 dsd 2:1
+10115 kuznetsov 2:1
+10116 vasilyev 4:1
+10117 zherlov 2:1
+10118 phedosov 2:1
+10119 phedunov 2:1
+10120 physico 2:1
+10121 lipaev 2:1
+10122 ingen 2:1
+10123 funda 2:1
+10124 tei 4:1
+10125 kakurin 2:1
+10126 hanov 4:1
+10127 loboda 2:1
+10128 kakurina 4:1
+10129 hyduk 2:1
+10130 obrizan 2:1
+10131 kamenuka 2:1
+10132 pru 2:1
+10133 lit 5:1
+10134 vinova 2:1
+10135 guz 2:2
+10136 novoy 2:2
+10137 slovo 2:2
+10138 verilog 2:2
+10139 hahanova 3:1
+10140 litvinova 2:1
+10141 acrita 2:1
+10142 mir 2:1
+10143 attetkov 2:1
+10144 bauman 2:1
+10145 abramovici 0:1
+10146 breuer 2:1
+10147 friedman 2:1
+10148 testabl 5:1
+10149 densmor 5:1
+10150 passeron 2:1
+10151 sangiovanni 7:1
+10152 vincentelli 2:1
+10153 esl 3:1
+10154 malishenko 2:1
+10155 chipuli 2:1
+10156 trachtengertz 6:1
+10157 sinteg 2:1
+10158 betim 4:4
+10159 objectivi 2:1
+10160 capaci 4:1
+10161 cio 4:3
+10162 communion 4:2
+10163 intercommunion 2:1
+10164 priam 4:1
+10165 btaeth 2:1
+10166 attenu 2:1
+10167 atketc 8:1
+10168 weigh 4:2
+10169 jcai 1:1
+10170 bet 2:2
+10171 preferenti 4:1
+10172 english 2:2
+10173 letter 4:5
+10174 apap 4:1
+10175 exh 4:1
+10176 logarithm 2:3
+10177 nat 2:1
+10178 die 4:6
+10179 append 4:1
+10180 xiyj 4:1
+10181 dice 4:1
+10182 logb 2:2
+10183 ababababab 4:1
+10184 versa 4:1
+10185 knowabl 2:1
+10186 recess 0:1
+10187 fij 4:1
+10188 niceti 2:4
+10189 tablel 6:1
+10190 hypotaxi 4:1
+10191 hypotaxis 4:3
+10192 hire 2:1
+10193 schneier 9:1
+10194 schneider 2:1
+10195 postscript 4:1
+10196 jayn 4:1
+10197 sch 0:1
+10198 rmann 4:1
+10199 atom 4:45
+10200 arif 9:2
+10201 bramantoro 4:1
+10202 toru 4:1
+10203 kamada 4:2
+10204 masahiro 6:1
+10205 yohei 9:2
+10206 koji 0:1
+10207 zettsu 4:2
+10208 nict 4:2
+10209 mtnk 5:1
+10210 satisfactori 4:1
+10211 enthalpi 4:19
+10212 intensif 4:3
+10213 shallow 9:3
+10214 composi 9:1
+10215 flood 4:1
+10216 twofold 0:1
+10217 wrap 4:3
+10218 wisdom 4:5
+10219 torishiki 4:7
+10220 ikkyu 4:6
+10221 hyponymi 4:1
+10222 defici 3:1
+10223 heavi 4:1
+10224 hyponym 7:1
+10225 lemmat 9:1
+10226 concord 4:1
+10227 mon 8:1
+10228 analysisleveln 8:1
+10229 basicanalysi 4:8
+10230 analysislevel 4:4
+10231 troublerevers 4:1
+10232 methodrevers 4:1
+10233 troublerank 3:1
+10234 troubleclass 1:1
+10235 granu 4:1
+10236 kawada 9:1
+10237 torisawa 9:1
+10238 plosion 8:1
+10239 varga 4:1
+10240 podpean 9:1
+10241 orang 4:1
+10242 tatemura 4:1
+10243 hsiung 6:1
+10244 tze 4:1
+10245 haw 4:1
+10246 thhuang 4:1
+10247 maolin 4:1
+10248 authorship 4:3
+10249 kvd 4:2
+10250 fairli 7:1
+10251 nineti 4:1
+10252 ubiquit 6:1
+10253 dblp 4:9
+10254 scsi 4:1
+10255 enamor 4:1
+10256 intrins 4:3
+10257 spawn 6:1
+10258 branch 4:1
+10259 cgiv 4:6
+10260 lsa 4:6
+10261 schelor 4:1
+10262 rfcd 4:19
+10263 trier 4:1
+10264 bibliograph 4:2
+10265 cites 4:2
+10266 violat 4:1
+10267 undertaken 4:1
+10268 disciplinari 2:1
+10269 verb 4:1
+10270 adject 4:1
+10271 suffix 4:2
+10272 preliminarili 6:1
+10273 svd 4:4
+10274 usv 4:1
+10275 diagon 6:1
+10276 knrfcd 4:1
+10277 knd 4:1
+10278 rfcss 4:1
+10279 isi 7:1
+10280 jcr 4:2
+10281 venu 4:2 5:1
+10282 obscur 4:1
+10283 roughli 4:1
+10284 unimport 4:1
+10285 netscap 2:1
+10286 richer 4:1
+10287 equilibrium 4:1
+10288 orbit 1:1
+10289 strip 4:1
+10290 htm 4:1
+10291 opthof 4:1
+10292 nonsens 4:1
+10293 cardiovasc 6:1
+10294 borner 8:1
+10295 viswanath 4:1
+10296 infovi 4:3
+10297 carr 4:1
+10298 landauer 4:1
+10299 foltz 1:1
+10300 laham 4:1
+10301 discours 3:1
+10302 wasserman 4:1
+10303 faust 6:1
+10304 yoshikan 4:1
+10305 fuyuki 4:1
+10306 nozawa 4:1
+10307 takayuki 4:1
+10308 tsuji 4:1
+10309 keita 3:1
+10310 issi 4:1
+10311 cotta 4:1
+10312 merelo 4:1
+10313 berkowitz 8:1
+10314 elkhadiri 4:1
+10315 style 4:1
+10316 midwest 4:1
+10317 goldenberg 4:1
+10318 coauthorship 4:1
+10319 aleman 4:1
+10320 meza 6:1
+10321 sheth 4:1
+10322 arpinar 0:1
+10323 kolari 4:1
+10324 anupam 4:1
+10325 finin 6:1
+10326 scotland 4:1
+10327 chirita 4:1
+10328 damian 3:1
+10329 nejdl 4:1
+10330 siberski 5:1
+10331 cikm 6:1
+10332 czerwinski 1:1
+10333 bederson 4:1
+10334 paperlen 2:1
+10335 hicss 4:2
+10336 citatnetwork 4:1
