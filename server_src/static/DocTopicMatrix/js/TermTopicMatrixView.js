@@ -343,6 +343,8 @@ TermTopicMatrixView.prototype.initLeftLabelView = function(){
 };
 TermTopicMatrixView.prototype.updateLeftLabelView = function(){
 	var termIndex = this.parentModel.get("docIndex");
+	var docName = this.parentModel.get("docName");
+	console.log(docName);
 	
 	this.leftLabelLayer.selectAll( "text" ).data( termIndex ).exit().remove();
 	this.leftLabelLayer.selectAll( "text" ).data( termIndex ).enter().append( "svg:text" )
@@ -352,9 +354,9 @@ TermTopicMatrixView.prototype.updateLeftLabelView = function(){
 		.attr( "class", function(d) { return ["leftLabel", this.normalColor, getTermClassTag(d)].join(" ") }.bind(this))
 		.on( "mouseover", function(d) { this.trigger( "mouseover:term", d ) }.bind(this))
 		.attr( "transform", function(d,i) { return "translate(" + (this.xs(0)-MATRIX_CONTAINER_PADDING.left_separation) + "," + this.ys(i+0.5) + ")" }.bind(this) )
-		.text( function(d, i) { return "doc"+i; } )
+		.text( function(d, i) { return d.substring(0,5); } )
 		.append( "svg:title")
-		.text(function(d) { return d; }.bind(this))
+		.text(function(d) { return d.substring(5).replace(/-/g, ' '); }.bind(this))
 };
 
 
