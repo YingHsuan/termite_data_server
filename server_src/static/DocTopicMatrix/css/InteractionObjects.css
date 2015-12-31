@@ -45,7 +45,8 @@ text {
 	-webkit-user-select: none;
 	-moz-user-select: none;
 	font-family: Verdana;
-	font-size: 10px;
+	font-size: 12px;
+	/* letter-spacing: 2px; */
 }
 text.topLabel {
 	text-anchor: start;
