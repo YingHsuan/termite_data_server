@@ -1,6 +1,6 @@
 var StateModel = Backbone.Model.extend({
 	defaults : {
-		"numAffinityTerms" : 50,
+		"numAffinityTerms" : 500,
 		"numSalientTerms" : 0,
 		"visibleTerms" : [],
 		"totalTerms" : 50,
