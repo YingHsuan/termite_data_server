@@ -1,0 +1,10 @@
+0	5	word fixat read model process movement saccad durat effect reader rayner frequenc lexic control parafov target length predict program 
+1	5	relat function measur control rhythm band gamma studi eeg frequenc alpha strongli activ earli children power slightli movement execut 
+2	5	infant studi face trial condit erp present stimuli month object attent data process amplitud effect stimulu gaze analysi develop 
+3	5	student learn imag problem case experi featur match transfer point instruct contrast concept peopl knowledg scale analyz assess number 
+4	5	action activ brain observ cortex motor neuron goal studi cognit human system social neurosci involv region area neural mirror 
+5	5	attent process task visual subject experi target select object control letter respons effect psycholog displai posit perform featur inform 
+6	5	time inform tion differ level process memori occur present condit msec type size research term long subject ing analysi 
+7	5	sourc compon activ eeg data erp local record brain electrod analysi potenti scalp model distribut time ica measur method 
+8	5	belief task fals perspect particip experi children mind theori object trial desir true abil cognit inhibit year condit develop 
+9	5	target saccad search fixat visual model featur movement locat scene imag map vision select salienc task spatial activ observ 

@@ -1,0 +1,10 @@
+0	5	sourc activ eeg compon brain local data relat record scalp frequenc signal cortic potenti electrod ica model method distribut 
+1	5	attent subject task process visual experi object select target letter respons psycholog condit posit effect control perform displai stimulu 
+2	5	saccad visual target attent model movement activ neuron control process fixat system effect field select spatial gener brain map 
+3	5	student learn test case experi problem studi transfer instruct concept group contrast peopl analyz knowledg assess set prepar gener 
+4	5	time process inform level tion memori case term model press pattern system gener scienc repres import ing perform activ 
+5	5	belief task fals perspect children particip experi mind control theori abil trial true cognit object execut desir condit function 
+6	5	search target featur fixat imag visual scene locat task movement object model vision map observ distribut orient set color 
+7	5	action object observ activ social gaze studi brain motor die cognit goal infant human der mirror person direct cue 
+8	5	infant erp studi face condit trial present stimuli data stimulu month amplitud differ analysi attent effect event test respons 
+9	5	word fixat read movement model process durat saccad effect reader rayner frequenc lexic parafov control target time length program 

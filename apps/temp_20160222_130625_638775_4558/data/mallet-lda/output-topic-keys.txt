@@ -1,0 +1,10 @@
+0	5	search target featur fixat imag scene visual model locat task vision object movement map orient observ item distribut scale 
+1	5	belief action task fals perspect children particip mind cognit observ social studi function theori object mental control execut abil 
+2	5	sourc activ eeg compon brain record electrod data local potenti relat erp scalp analysi model ica frequenc time signal 
+3	5	saccad visual model activ target movement attent control neuron system gener process brain level spatial fixat select field effect 
+4	5	infant face object erp gaze attent familiar stimulu present die process electrod event der month stimuli wave memori develop 
+5	5	time posit condit differ locat present experi subject effect result target data process size tion error inform displai occur 
+6	5	attent process task visual object subject select memori psycholog inform control respons experi theori perform word evid target system 
+7	5	word fixat read model process movement durat saccad reader rayner effect frequenc lexic parafov control time length program predict 
+8	5	infant studi trial condit analysi data stimuli erp present number group experiment particip month amplitud includ reid research effect 
+9	5	learn student case problem test knowledg instruct experi work contrast concept transfer peopl studi gener group assess analyz import 

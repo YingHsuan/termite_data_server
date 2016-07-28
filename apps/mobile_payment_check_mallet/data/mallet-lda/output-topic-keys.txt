@@ -1,0 +1,10 @@
+0	5	inform work system comput search user context individu activ person interact access environ commun time web guid home design 
+1	5	mobil payment servic phone secur bank technolog system card transact devic commerc provid custom base applic user www merchant 
+2	5	adopt research factor technolog inform develop studi group manag model innov result system organ impact internet journal rel product 
+3	5	measur variabl effect construct test item valid model analysi scale term correl structur factor method theori mediat equat statist 
+4	5	perceiv system user technolog eas accept model research studi tam comput influenc behavior intent usag davi inform effect subject 
+5	5	payment consum electron accept wkh scheme wap pousttchi issu econom proceed enabl procedur habit coin cost dqg kauffman step 
+6	5	network user data context servic system wireless devic manag base mobil signal time locat inform applic function commun connect 
+7	5	behavior intent attitud model control social belief predict norm theori person ajzen individu goal measur choic studi subject perceiv 
+8	5	servic consum market risk journal conveni time perceiv research custom busi uncertainti product relat respons univers percept affect import 
+9	5	trust onlin risk web consum perceiv inform internet site commerc transact shop model privaci vendor studi purchas base behavior 

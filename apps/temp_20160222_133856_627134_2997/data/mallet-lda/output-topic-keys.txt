@@ -1,0 +1,10 @@
+0	5	attent process subject task visual experi select target letter control object respons posit psycholog displai perform cue inform word 
+1	5	action activ observ studi social motor brain goal human cognit mirror cortex system mental neurosci region involv function task 
+2	5	sourc eeg activ compon data brain erp local record electrod scalp relat frequenc potenti ica model analysi signal method 
+3	5	word fixat read process model movement durat reader rayner saccad frequenc effect lexic control parafov length target text program 
+4	5	student learn problem test case experi transfer contrast point instruct match concept group peopl assess knowledg analyz studi show 
+5	5	search target fixat featur imag visual scene locat model task movement object vision observ map orient distribut saccad item 
+6	5	saccad visual model target attent movement activ control process neuron system spatial gener brain fixat field select effect map 
+7	5	time inform condit differ memori level tion effect case studi present research press result subject term similar order type 
+8	5	belief task fals perspect children particip experi mind control trial theori abil object cognit execut desir true child develop 
+9	5	infant face studi trial erp condit present stimuli month object data attent stimulu process amplitud gaze effect respons analysi 

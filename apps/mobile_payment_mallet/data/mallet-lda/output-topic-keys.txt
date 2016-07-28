@@ -1,0 +1,10 @@
+0	5	measur item construct variabl model effect test valid scale analysi factor correl structur sampl reliabl equat varianc statist fit 
+1	5	behavior intent attitud model social belief tam norm control predict subject theori moder measur influenc ajzen studi person effect 
+2	5	research inform develop factor group import studi issu process gener high level tion case paper person relat find respons 
+3	5	inform context mobil system user work search access locat map guid time exhibit web wkh individu awar commun comput 
+4	5	mobil payment servic phone secur system card bank technolog transact commerc consum custom provid merchant applic devic electron standard 
+5	5	network user data devic wireless commun manag context servic system base signal applic mobil distribut function time nfc connect 
+6	5	trust onlin web commerc site transact consum shop inform internet privaci vendor perceiv base risk model studi custom intent 
+7	5	servic consum risk market journal perceiv time conveni research custom product model busi univers percept base affect technolog effort 
+8	5	adopt technolog perceiv innov research model studi inform accept factor internet user comput eas system individu result develop impact 
+9	5	system user technolog eas perceiv studi research accept inform comput individu term subject influenc jstor davi usag experi effect 

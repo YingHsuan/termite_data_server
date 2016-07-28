@@ -1,0 +1,10 @@
+0	5	infant studi face erp condit trial present stimuli month object process stimulu data attent effect amplitud gaze analysi event 
+1	5	fixat imag scene featur movement locat visual object observ saccad task vision inform distribut view select salienc human strategi 
+2	5	saccad visual activ model attent target neuron movement process system control brain gener level effect field spatial select neural 
+3	5	target search featur visual model item author size color experi trial conjunct set displai attent activ simul process tam 
+4	5	word fixat read process movement model saccad durat effect reader rayner frequenc lexic time parafov control target length program 
+5	5	learn student experi case knowledg problem instruct peopl contrast particip transfer concept studi work assess condit predict test develop 
+6	5	attent process task subject visual object inform select memori experi psycholog respons letter control perform effect posit condit time 
+7	5	belief action task fals children perspect mind particip cognit social studi observ mental function control execut abil theori experi 
+8	5	activ sourc eeg compon brain record relat potenti electrod data scalp erp frequenc cortic local ica signal analysi band 
+9	5	tion result data point comput time test number ing differ scale function term analysi match error distribut con set 
